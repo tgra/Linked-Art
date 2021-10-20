@@ -1,5 +1,7 @@
 # Linked-Art
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD)
+
 This repository includes an online interactive exemplar for the transformation of collections data to Linked Art JSON-LD. 
 
 The aim of the exemplar is to demonstrate how easy it is to transform catalogue data to Linked Art JSON-LD.
