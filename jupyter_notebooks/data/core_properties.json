@@ -1,1 +1,1 @@
-{"@context": "https://linked.art/ns/v1/linked-art.json", "id": "id", "type": "type", "_label": "label"}
+{"@context": "https://linked.art/ns/v1/linked-art.json", "id": "http://abc", "type": "humanMadeObject", "_label": "hakone"}
