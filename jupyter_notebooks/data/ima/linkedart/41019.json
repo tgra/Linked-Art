@@ -1,0 +1,49 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/object/41019",
+  "type": "HumanMadeObject",
+  "_label": "Killiecrankie",
+  "made_of": [
+    {
+      "id": "https://data.discovernewfields.org/thesauri/material/paper",
+      "type": "Material",
+      "_label": "Material of Which the Object is Composed",
+      "content": "paper"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "https://data.discovernewfields.org/object/41019/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Killiecrankie",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org//>object/41019/object-number",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Object Number for the Object",
+      "content": "80.1596.2",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "accession numbers"
+        }
+      ]
+    }
+  ],
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300041273",
+      "type": "Type",
+      "_label": "prints (visual works)"
+    }
+  ]
+}

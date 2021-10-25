@@ -1,0 +1,55 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/object/1065",
+  "type": "HumanMadeObject",
+  "_label": "The Bachelor Boudoir (Corner of the Studio)",
+  "made_of": [
+    {
+      "id": "https://data.discovernewfields.org/thesauri/material/oil paint",
+      "type": "Material",
+      "_label": "Material of Which the Object is Composed",
+      "content": "oil paint"
+    },
+    {
+      "id": "https://data.discovernewfields.org/thesauri/material/canvas",
+      "type": "Material",
+      "_label": "Material of Which the Object is Composed",
+      "content": "canvas"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "https://data.discovernewfields.org/object/1065/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Bachelor Boudoir (Corner of the Studio)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org//>object/1065/object-number",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Object Number for the Object",
+      "content": "14.55",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "accession numbers"
+        }
+      ]
+    }
+  ],
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "paintings (visual works)"
+    }
+  ]
+}
