@@ -5,15 +5,15 @@
   "_label": "Towing Boat at Yotsugi D\u014dri [40] (Yotsugi d\u014dri no hikifune)",
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/51330/title",
-      "type": "Name",
-      "_label": "Primary Title for the Object",
-      "content": "Towing Boat at Yotsugi D\u014dri [40] (Yotsugi d\u014dri no hikifune)",
+      "id": "https://data.discovernewfields.org/object/51330/irn",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Collections Database Number for the Object",
+      "content": "51330",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300404670",
+          "id": "http://vocab.getty.edu/aat/300404621",
           "type": "Type",
-          "_label": "preferred terms"
+          "_label": "repository numbers"
         }
       ]
     },
@@ -29,13 +29,6 @@
           "_label": "accession numbers"
         }
       ]
-    }
-  ],
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300041273",
-      "type": "Type",
-      "_label": "prints (visual works)"
     }
   ]
 }

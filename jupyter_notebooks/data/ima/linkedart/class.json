@@ -1,0 +1,13 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/object/51330",
+  "type": "HumanMadeObject",
+  "_label": "Towing Boat at Yotsugi D\u014dri [40] (Yotsugi d\u014dri no hikifune)",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300041273",
+      "type": "Type",
+      "_label": "prints (visual works)"
+    }
+  ]
+}

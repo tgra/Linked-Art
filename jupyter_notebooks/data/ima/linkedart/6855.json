@@ -1,14 +1,14 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/51330",
+  "id": "https://data.discovernewfields.org/object/6855",
   "type": "HumanMadeObject",
-  "_label": "Towing Boat at Yotsugi D\u014dri [40] (Yotsugi d\u014dri no hikifune)",
+  "_label": "hunchback figure",
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/51330/title",
+      "id": "https://data.discovernewfields.org/object/6855/title",
       "type": "Name",
       "_label": "Primary Title for the Object",
-      "content": "Towing Boat at Yotsugi D\u014dri [40] (Yotsugi d\u014dri no hikifune)",
+      "content": "hunchback figure",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404670",
@@ -18,10 +18,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org//>object/51330/object-number",
+      "id": "https://data.discovernewfields.org//>object/6855/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "30.388",
+      "content": "1996.114",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
@@ -33,9 +33,9 @@
   ],
   "classified_as": [
     {
-      "id": "http://vocab.getty.edu/aat/300041273",
+      "id": "http://vocab.getty.edu/aat/300047090",
       "type": "Type",
-      "_label": "prints (visual works)"
+      "_label": "sculpture (visual works)"
     }
   ]
 }

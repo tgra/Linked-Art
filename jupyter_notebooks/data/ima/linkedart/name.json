@@ -16,26 +16,6 @@
           "_label": "preferred terms"
         }
       ]
-    },
-    {
-      "id": "https://data.discovernewfields.org//>object/51330/object-number",
-      "type": "Identifier",
-      "_label": "IMA at Newfields Object Number for the Object",
-      "content": "30.388",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300312355",
-          "type": "Type",
-          "_label": "accession numbers"
-        }
-      ]
-    }
-  ],
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300041273",
-      "type": "Type",
-      "_label": "prints (visual works)"
     }
   ]
 }

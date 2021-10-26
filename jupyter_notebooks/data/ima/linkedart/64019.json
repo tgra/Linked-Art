@@ -1,0 +1,48 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/object/64019",
+  "type": "HumanMadeObject",
+  "_label": "earplug (for man or woman)",
+  "made_of": [
+    {
+      "id": "https://data.discovernewfields.org/thesauri/material/pigment",
+      "type": "Material",
+      "_label": "Material of Which the Object is Composed",
+      "content": "pigment"
+    },
+    {
+      "id": "https://data.discovernewfields.org/thesauri/material/wood",
+      "type": "Material",
+      "_label": "Material of Which the Object is Composed",
+      "content": "wood"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "https://data.discovernewfields.org/object/64019/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "earplug (for man or woman)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org//>object/64019/object-number",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Object Number for the Object",
+      "content": "2007.4B",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "accession numbers"
+        }
+      ]
+    }
+  ]
+}
