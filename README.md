@@ -42,5 +42,5 @@ Github offers a static view of a Jupyter Notebook. Viewing the file in GitHub is
 
 ## Notebooks 
 
-- [Indianapolis Museum of Art - From Catalogue Data to Linked Art](./jupyter_notebooks/IMA - From Catalogue Data to Linked Art.ipynb)
+- [Indianapolis Museum of Art - From Catalogue Data to Linked Art](./jupyter_notebooks/IMA%20-%20From%20Catalogue%20Data%20to%20Linked%20Art.ipynb)
 - [Linked Art - Core Properties](./jupyter_notebooks/Core-Properties.ipynb)
