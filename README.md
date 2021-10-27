@@ -22,7 +22,25 @@ Binder is an online services that allows interactive Jupyter Notebooks to be vie
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD)
 
+
+## nbviewer
+https://nbviewer.org/
+nbviewer is an online service that will render a static view of a Jupyter notebook using a URL.
+
+The following example will display the IMA transformation notebook:
+
+https://nbviewer.org/github/tgra/Linked-Art/blob/04226e1b9dd8fd46aa39db46cac213dbc5b09c89/jupyter_notebooks/IMA%20-%20From%20Catalogue%20Data%20to%20Linked%20Art.ipynb
+
+In GitHub there is an icon that will show the selected notebook in nbviewwer.
+
+See the following, for an example - the icon is on the right-hand side of the document:
+https://github.com/tgra/Linked-Art/blob/main/jupyter_notebooks/IMA%20-%20From%20Catalogue%20Data%20to%20Linked%20Art.ipynb
+
 ### GitHub 
 Github offers a static view of a Jupyter Notebook. Viewing the file in GitHub is simply a matter of selecting the relevant *.iynb file in the `jupyter_notebooks` folder
 
 
+## Notebooks 
+
+- [./jupyter_notebooks/IMA - From Catalogue Data to Linked Art.ipynb](Indianapolis Museum of Art - From Catalogue Data to Linked Art)
+- [./jupyter_notebooks/Core-Properties.ipynb](Linked Art - Core Properties)
