@@ -1,0 +1,79 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/object/21288",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of William Merritt Chase",
+  "identified_by": [
+    {
+      "id": "https://data.discovernewfields.org/object/21288/irn",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Collections Database Number for the Object",
+      "content": "21288",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "repository numbers"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org//>object/21288/object-number",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Object Number for the Object",
+      "content": "10.8",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "accession numbers"
+        }
+      ]
+    },
+    [
+      {
+        "id": "https://data.discovernewfields.org/object/21288/title",
+        "type": "Name",
+        "_label": "Primary Title for the Object",
+        "content": "Portrait of William Merritt Chase",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300404670",
+            "type": "Type",
+            "_label": "preferred terms"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "https://data.discovernewfields.org/object/21288/title",
+        "type": "Name",
+        "_label": "Primary Title for the Object",
+        "content": "Portrait of William Merritt Chase",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300404670",
+            "type": "Type",
+            "_label": "preferred terms"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "https://data.discovernewfields.org/object/21288/title",
+        "type": "Name",
+        "_label": "Primary Title for the Object",
+        "content": "Portrait of William Merritt Chase",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300404670",
+            "type": "Type",
+            "_label": "preferred terms"
+          }
+        ]
+      }
+    ]
+  ]
+}

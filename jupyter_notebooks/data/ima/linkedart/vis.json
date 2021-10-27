@@ -1,14 +1,47 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/51330",
+  "id": "https://data.discovernewfields.org/object/1065",
   "type": "HumanMadeObject",
-  "_label": "Towing Boat at Yotsugi D\u014dri [40] (Yotsugi d\u014dri no hikifune)",
+  "_label": "The Bachelor Boudoir (Corner of the Studio)",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "paintings (visual works)"
+    }
+  ],
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/51330/title",
+      "id": "https://data.discovernewfields.org/object/1065/irn",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Collections Database Number for the Object",
+      "content": "1065",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "repository numbers"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org//>object/1065/object-number",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Object Number for the Object",
+      "content": "14.55",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "accession numbers"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/1065/title",
       "type": "Name",
       "_label": "Primary Title for the Object",
-      "content": "Towing Boat at Yotsugi D\u014dri [40] (Yotsugi d\u014dri no hikifune)",
+      "content": "The Bachelor Boudoir (Corner of the Studio)",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404670",
@@ -18,24 +51,17 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org//>object/51330/object-number",
-      "type": "Identifier",
-      "_label": "IMA at Newfields Object Number for the Object",
-      "content": "30.388",
+      "id": "https://data.discovernewfields.org/object/1065/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Bachelor Boudoir (Corner of the Studio)",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300312355",
+          "id": "http://vocab.getty.edu/aat/300404670",
           "type": "Type",
-          "_label": "accession numbers"
+          "_label": "preferred terms"
         }
       ]
-    }
-  ],
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300041273",
-      "type": "Type",
-      "_label": "prints (visual works)"
     }
   ]
 }

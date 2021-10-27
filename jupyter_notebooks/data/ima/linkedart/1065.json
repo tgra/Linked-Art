@@ -3,31 +3,24 @@
   "id": "https://data.discovernewfields.org/object/1065",
   "type": "HumanMadeObject",
   "_label": "The Bachelor Boudoir (Corner of the Studio)",
-  "made_of": [
+  "classified_as": [
     {
-      "id": "https://data.discovernewfields.org/thesauri/material/oil paint",
-      "type": "Material",
-      "_label": "Material of Which the Object is Composed",
-      "content": "oil paint"
-    },
-    {
-      "id": "https://data.discovernewfields.org/thesauri/material/canvas",
-      "type": "Material",
-      "_label": "Material of Which the Object is Composed",
-      "content": "canvas"
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "paintings (visual works)"
     }
   ],
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/1065/title",
-      "type": "Name",
-      "_label": "Primary Title for the Object",
-      "content": "The Bachelor Boudoir (Corner of the Studio)",
+      "id": "https://data.discovernewfields.org/object/1065/irn",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Collections Database Number for the Object",
+      "content": "1065",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300404670",
+          "id": "http://vocab.getty.edu/aat/300404621",
           "type": "Type",
-          "_label": "preferred terms"
+          "_label": "repository numbers"
         }
       ]
     },
@@ -43,13 +36,32 @@
           "_label": "accession numbers"
         }
       ]
-    }
-  ],
-  "classified_as": [
+    },
     {
-      "id": "http://vocab.getty.edu/aat/300033618",
-      "type": "Type",
-      "_label": "paintings (visual works)"
+      "id": "https://data.discovernewfields.org/object/1065/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Bachelor Boudoir (Corner of the Studio)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/1065/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Bachelor Boudoir (Corner of the Studio)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,295 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/object/3521",
+  "type": "HumanMadeObject",
+  "_label": "Still Life with Flowerpot",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "paintings (visual works)"
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "https://data.discovernewfields.org/object/3521/irn",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Collections Database Number for the Object",
+      "content": "3521",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "repository numbers"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org//>object/3521/object-number",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Object Number for the Object",
+      "content": "42.07",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "accession numbers"
+        }
+      ]
+    },
+    [
+      {
+        "id": "https://data.discovernewfields.org/object/3521/title",
+        "type": "Name",
+        "_label": "Primary Title for the Object",
+        "content": "Still Life with Flowerpot",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300404670",
+            "type": "Type",
+            "_label": "preferred terms"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "https://data.discovernewfields.org/object/3521/title",
+        "type": "Name",
+        "_label": "Primary Title for the Object",
+        "content": "Still Life with Flowerpot",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300404670",
+            "type": "Type",
+            "_label": "preferred terms"
+          }
+        ]
+      }
+    ],
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    "{'abc':123}",
+    "{'abc':123}",
+    "{'abc':123}",
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/3521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Still Life with Flowerpot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ]
+}
