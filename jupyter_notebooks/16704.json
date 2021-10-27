@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/20419",
+  "id": "https://data.discovernewfields.org/object/16704",
   "type": "HumanMadeObject",
-  "_label": "Love",
+  "_label": "Apulian Lekanis: Head of a Woman and Winged Genie",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300047090",
@@ -12,10 +12,10 @@
   ],
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/20419/irn",
+      "id": "https://data.discovernewfields.org/object/16704/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "20419",
+      "content": "16704",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404621",
@@ -25,10 +25,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org//>object/20419/object-number",
+      "id": "https://data.discovernewfields.org//>object/16704/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "75.174",
+      "content": "57.131A-B",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org/object/20419/title",
+      "id": "https://data.discovernewfields.org/object/16704/title",
       "type": "Name",
       "_label": "Primary Title for the Object",
-      "content": "Love",
+      "content": "Apulian Lekanis: Head of a Woman and Winged Genie",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404670",
@@ -49,6 +49,26 @@
           "_label": "preferred terms"
         }
       ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "http://collection.imamuseum.org/artwork/31729",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
     }
   ]
 }

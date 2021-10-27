@@ -1,0 +1,80 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/object/64628",
+  "type": "HumanMadeObject",
+  "_label": "Broken Family tea set",
+  "identified_by": [
+    {
+      "id": "https://data.discovernewfields.org/object/64628/irn",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Collections Database Number for the Object",
+      "content": "64628",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "repository numbers"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org//>object/64628/object-number",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Object Number for the Object",
+      "content": "2009.390.1-.16",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "accession numbers"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/64628/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Broken Family tea set",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/64628/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Broken Family tea set",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "http://collection.imamuseum.org/artwork/89899",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ]
+}

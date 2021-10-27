@@ -1,13 +1,13 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/1065",
+  "id": "https://data.discovernewfields.org/object/20419",
   "type": "HumanMadeObject",
-  "_label": "The Bachelor Boudoir (Corner of the Studio)",
+  "_label": "Love",
   "classified_as": [
     {
-      "id": "http://vocab.getty.edu/aat/300033618",
+      "id": "http://vocab.getty.edu/aat/300047090",
       "type": "Type",
-      "_label": "paintings (visual works)"
+      "_label": "sculpture (visual works)"
     }
   ]
 }

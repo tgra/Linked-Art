@@ -1,21 +1,14 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/20419",
+  "id": "https://data.discovernewfields.org/object/55312",
   "type": "HumanMadeObject",
-  "_label": "Love",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300047090",
-      "type": "Type",
-      "_label": "sculpture (visual works)"
-    }
-  ],
+  "_label": "necklace",
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/20419/irn",
+      "id": "https://data.discovernewfields.org/object/55312/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "20419",
+      "content": "55312",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404621",
@@ -25,10 +18,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org//>object/20419/object-number",
+      "id": "https://data.discovernewfields.org//>object/55312/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "75.174",
+      "content": "80.1596",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
@@ -38,10 +31,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org/object/20419/title",
+      "id": "https://data.discovernewfields.org/object/55312/title",
       "type": "Name",
       "_label": "Primary Title for the Object",
-      "content": "Love",
+      "content": "necklace",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404670",

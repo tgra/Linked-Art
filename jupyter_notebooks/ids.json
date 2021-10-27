@@ -1,14 +1,14 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/20419",
+  "id": "https://data.discovernewfields.org/object/21137",
   "type": "HumanMadeObject",
-  "_label": "Love",
+  "_label": "Hakone",
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/20419/irn",
+      "id": "https://data.discovernewfields.org/object/21137/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "20419",
+      "content": "21137",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404621",
@@ -18,10 +18,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org//>object/20419/object-number",
+      "id": "https://data.discovernewfields.org//>object/21137/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "75.174",
+      "content": "06.137",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",

@@ -1,14 +1,14 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/20419",
+  "id": "https://data.discovernewfields.org/object/21137",
   "type": "HumanMadeObject",
-  "_label": "Love",
+  "_label": "Hakone",
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/20419/title",
+      "id": "https://data.discovernewfields.org/object/21137/title",
       "type": "Name",
       "_label": "Primary Title for the Object",
-      "content": "Love",
+      "content": "Hakone",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404670",
