@@ -1,0 +1,34 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://abc.org/object/6136",
+  "type": "HumanMadeObject",
+  "_label": "PRAISES FOR KSITIGARBA SUTRA (DIZANG JINGZAN)",
+  "identified_by": [
+    {
+      "id": "https://abc.org/object/6136/irn",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Collections Database Number for the Object",
+      "content": "6136",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "repository numbers"
+        }
+      ]
+    },
+    {
+      "id": "https://abc.org/object/6136/object-number",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Object Number for the Object",
+      "content": "1983.100",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "accession numbers"
+        }
+      ]
+    }
+  ]
+}

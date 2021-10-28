@@ -1,0 +1,21 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://abc.org/object/6136",
+  "type": "HumanMadeObject",
+  "_label": "PRAISES FOR KSITIGARBA SUTRA (DIZANG JINGZAN)",
+  "identified_by": [
+    {
+      "id": "https://abc.org/object/6136/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "PRAISES FOR KSITIGARBA SUTRA (DIZANG JINGZAN)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ]
+}

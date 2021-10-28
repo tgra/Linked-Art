@@ -1,0 +1,26 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://abc.org/object/6136",
+  "type": "HumanMadeObject",
+  "_label": "PRAISES FOR KSITIGARBA SUTRA (DIZANG JINGZAN)",
+  "referred_to_by": [
+    {
+      "id": "https://abc.org/object/6136/credit-line",
+      "type": "LinguisticObject",
+      "_label": "IMA at Newfields Credit Line for the Object",
+      "content": "Gift of Mr. Keith Uhl Clary",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ]
+}

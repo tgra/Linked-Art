@@ -1,0 +1,26 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://abc.org/object/6136",
+  "type": "HumanMadeObject",
+  "_label": "PRAISES FOR KSITIGARBA SUTRA (DIZANG JINGZAN)",
+  "subject_of": [
+    {
+      "id": "http://collection.imamuseum.org/artwork/50209",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ]
+}

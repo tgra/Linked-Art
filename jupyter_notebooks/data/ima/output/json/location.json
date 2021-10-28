@@ -1,0 +1,13 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://abc.org/object/6136",
+  "type": "HumanMadeObject",
+  "_label": "PRAISES FOR KSITIGARBA SUTRA (DIZANG JINGZAN)",
+  "current_location": [
+    {
+      "id": "https://abc.org/thesauri/location/storage",
+      "type": "Place",
+      "_label": "IMA Storage"
+    }
+  ]
+}
