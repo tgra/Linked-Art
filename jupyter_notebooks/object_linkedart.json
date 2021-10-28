@@ -1,41 +1,21 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/24693",
+  "id": "https://abc.orb/object/41019",
   "type": "HumanMadeObject",
-  "_label": "censer in form of teahouse",
+  "_label": "Killiecrankie",
   "classified_as": [
     {
-      "id": "http://vocab.getty.edu/aat/300047090",
+      "id": "http://vocab.getty.edu/aat/300041273",
       "type": "Type",
-      "_label": "sculpture (visual works)"
-    }
-  ],
-  "subject_of": [
-    {
-      "id": "http://collection.imamuseum.org/artwork/5413",
-      "type": "LinguisticObject",
-      "_label": "Homepage for the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab/getty.edu/aat/300264578",
-          "type": "Type",
-          "_label": "Web pages (documents)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300266277",
-          "type": "Type",
-          "_label": "home pages"
-        }
-      ],
-      "format": "text/html"
+      "_label": "prints (visual works)"
     }
   ],
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/24693/irn",
+      "id": "https://abc.orb/object/41019/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "24693",
+      "content": "41019",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404621",
@@ -45,10 +25,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org//>object/24693/object-number",
+      "id": "https://abc.orb//>object/41019/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "13.1A-C",
+      "content": "80.1596.2",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
@@ -58,10 +38,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org/object/24693/title",
+      "id": "https://abc.orb/object/41019/title",
       "type": "Name",
       "_label": "Primary Title for the Object",
-      "content": "censer in form of teahouse",
+      "content": "Killiecrankie",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404670",
@@ -71,10 +51,36 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org/object/24693/title",
+      "id": "https://abc.orb/object/41019/title",
       "type": "Name",
       "_label": "Primary Title for the Object",
-      "content": "censer in form of teahouse",
+      "content": "Killiecrankie",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://abc.orb/object/41019/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Killiecrankie",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://abc.orb/object/41019/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Killiecrankie",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404670",

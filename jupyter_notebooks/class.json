@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/21137",
+  "id": "https://abc.orb/object/41019",
   "type": "HumanMadeObject",
-  "_label": "Hakone",
+  "_label": "Killiecrankie",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300041273",

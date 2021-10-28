@@ -1,14 +1,14 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/21137",
+  "id": "https://abc.orb/object/41019",
   "type": "HumanMadeObject",
-  "_label": "Hakone",
+  "_label": "Killiecrankie",
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/21137/irn",
+      "id": "https://abc.orb/object/41019/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "21137",
+      "content": "41019",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404621",
@@ -18,10 +18,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org//>object/21137/object-number",
+      "id": "https://abc.orb//>object/41019/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "06.137",
+      "content": "80.1596.2",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
