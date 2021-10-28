@@ -34,7 +34,7 @@ https://nbviewer.org/github/tgra/Linked-Art/blob/04226e1b9dd8fd46aa39db46cac213d
 In GitHub there is an icon that will show the selected notebook in nbviewwer.
 
 See the following, for an example - the icon is on the right-hand side of the document:
-https://github.com/tgra/Linked-Art/blob/main/jupyter_notebooks/IMA%20-%20From%20Catalogue%20Data%20to%20Linked%20Art.ipynb
+https://github.com/tgra/Linked-Art/blob/main/jupyter_notebooks//Catalogue_Data_to_Linked_Art_IMA.ipynb
 
 ### GitHub 
 Github offers a static view of a Jupyter Notebook. Viewing the file in GitHub is simply a matter of selecting the relevant *.iynb file in the `jupyter_notebooks` folder
@@ -42,5 +42,5 @@ Github offers a static view of a Jupyter Notebook. Viewing the file in GitHub is
 
 ## Notebooks 
 
-- [Indianapolis Museum of Art - From Catalogue Data to Linked Art](./jupyter_notebooks/IMA%20-%20From%20Catalogue%20Data%20to%20Linked%20Art.ipynb)
+- [Indianapolis Museum of Art - From Catalogue Data to Linked Art](./jupyter_notebooks//Catalogue_Data_to_Linked_Art_IMA.ipynb)
 - [Linked Art - Core Properties](./jupyter_notebooks/Core-Properties.ipynb)
