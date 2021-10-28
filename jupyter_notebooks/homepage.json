@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/68199",
+  "id": "https://abc.org/object/21137",
   "type": "HumanMadeObject",
-  "_label": "Broken Family plate",
+  "_label": "Hakone",
   "subject_of": [
     {
-      "id": "http://collection.imamuseum.org/artwork/39064",
+      "id": "http://collection.imamuseum.org/artwork/80085",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [

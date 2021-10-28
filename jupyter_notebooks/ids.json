@@ -1,14 +1,14 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://abc.orb/object/41019",
+  "id": "https://abc.org/object/3521",
   "type": "HumanMadeObject",
-  "_label": "Killiecrankie",
+  "_label": "Still Life with Flowerpot",
   "identified_by": [
     {
-      "id": "https://abc.orb/object/41019/irn",
+      "id": "https://abc.org/object/3521/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "41019",
+      "content": "3521",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404621",
@@ -18,10 +18,10 @@
       ]
     },
     {
-      "id": "https://abc.orb//>object/41019/object-number",
+      "id": "https://abc.org//>object/3521/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "80.1596.2",
+      "content": "42.07",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",

@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://abc.orb/object/41019",
+  "id": "https://abc.org/object/21137",
   "type": "HumanMadeObject",
-  "_label": "Killiecrankie",
+  "_label": "Hakone",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300041273",

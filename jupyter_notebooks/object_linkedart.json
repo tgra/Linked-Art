@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://abc.orb/object/41019",
+  "id": "https://abc.org/object/21137",
   "type": "HumanMadeObject",
-  "_label": "Killiecrankie",
+  "_label": "Hakone",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300041273",
@@ -10,12 +10,32 @@
       "_label": "prints (visual works)"
     }
   ],
+  "subject_of": [
+    {
+      "id": "http://collection.imamuseum.org/artwork/80085",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ],
   "identified_by": [
     {
-      "id": "https://abc.orb/object/41019/irn",
+      "id": "https://abc.org/object/21137/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "41019",
+      "content": "21137",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404621",
@@ -25,10 +45,10 @@
       ]
     },
     {
-      "id": "https://abc.orb//>object/41019/object-number",
+      "id": "https://abc.org//>object/21137/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "80.1596.2",
+      "content": "06.137",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
@@ -38,10 +58,10 @@
       ]
     },
     {
-      "id": "https://abc.orb/object/41019/title",
+      "id": "https://abc.org/object/21137/title",
       "type": "Name",
       "_label": "Primary Title for the Object",
-      "content": "Killiecrankie",
+      "content": "Hakone",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404670",
@@ -49,43 +69,49 @@
           "_label": "preferred terms"
         }
       ]
-    },
+    }
+  ],
+  "current_location": [
     {
-      "id": "https://abc.orb/object/41019/title",
-      "type": "Name",
-      "_label": "Primary Title for the Object",
-      "content": "Killiecrankie",
+      "id": "https://abc.org/thesauri/location/storage",
+      "type": "Place",
+      "_label": "IMA Storage"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://abc.org/object/21137/credit-line",
+      "type": "LinguisticObject",
+      "_label": "IMA at Newfields Credit Line for the Object",
+      "content": "John Herron Fund",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300404670",
+          "id": "http://vocab.getty.edu/aat/300026687",
           "type": "Type",
-          "_label": "preferred terms"
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
         }
       ]
     },
     {
-      "id": "https://abc.orb/object/41019/title",
-      "type": "Name",
-      "_label": "Primary Title for the Object",
-      "content": "Killiecrankie",
+      "id": "https://abc.org/object/21137/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "IMA Provenance Statement about the Object",
+      "content": "Purchased by the John Herron Art Institute, Indianapolis, Indiana, now the Indianapolis Museum of Art at Newfields, in 1906.",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300404670",
+          "id": "http://vocab.getty.edu/aat/300055863",
           "type": "Type",
-          "_label": "preferred terms"
-        }
-      ]
-    },
-    {
-      "id": "https://abc.orb/object/41019/title",
-      "type": "Name",
-      "_label": "Primary Title for the Object",
-      "content": "Killiecrankie",
-      "classified_as": [
+          "_label": "provenance (history of ownership)"
+        },
         {
-          "id": "http://vocab.getty.edu/aat/300404670",
+          "id": "http://vocab.getty.edu/aat/300418049",
           "type": "Type",
-          "_label": "preferred terms"
+          "_label": "brief texts"
         }
       ]
     }

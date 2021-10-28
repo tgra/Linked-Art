@@ -1,14 +1,14 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://abc.orb/object/41019",
+  "id": "https://abc.org/object/3521",
   "type": "HumanMadeObject",
-  "_label": "Killiecrankie",
+  "_label": "Still Life with Flowerpot",
   "identified_by": [
     {
-      "id": "https://abc.orb/object/41019/title",
+      "id": "https://abc.org/object/3521/title",
       "type": "Name",
       "_label": "Primary Title for the Object",
-      "content": "Killiecrankie",
+      "content": "Still Life with Flowerpot",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404670",
