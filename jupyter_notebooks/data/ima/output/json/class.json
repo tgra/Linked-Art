@@ -1,6 +1,13 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/46950",
+  "id": "https://data.discovernewfields.org/object/21137",
   "type": "HumanMadeObject",
-  "_label": "United States Flag"
+  "_label": "Hakone",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300041273",
+      "type": "Type",
+      "_label": "prints (visual works)"
+    }
+  ]
 }

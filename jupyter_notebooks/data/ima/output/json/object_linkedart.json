@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/89367",
+  "id": "https://data.discovernewfields.org/object/21137",
   "type": "HumanMadeObject",
-  "_label": "Ichikawa Ebiz\u014d  \u5e02\u5ddd\u6d77\u8001\u5897  (Danj\u016br\u014d VII) as Masamune Dankur\u014d V \u6b63\u5b97\u56e3\u4e5d\u90ce(left)",
+  "_label": "Hakone",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300041273",
@@ -12,7 +12,7 @@
   ],
   "subject_of": [
     {
-      "id": "http://collection.imamuseum.org/artwork/85671",
+      "id": "http://collection.imamuseum.org/artwork/80085",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -32,10 +32,10 @@
   ],
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/89367/irn",
+      "id": "https://data.discovernewfields.org/object/21137/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "89367",
+      "content": "21137",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404621",
@@ -45,10 +45,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org/object/89367/object-number",
+      "id": "https://data.discovernewfields.org/object/21137/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "16.924A",
+      "content": "06.137",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
@@ -58,10 +58,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org/object/89367/title",
+      "id": "https://data.discovernewfields.org/object/21137/title",
       "type": "Name",
       "_label": "Primary Title for the Object",
-      "content": "Ichikawa Ebiz\u014d  \u5e02\u5ddd\u6d77\u8001\u5897  (Danj\u016br\u014d VII) as Masamune Dankur\u014d V \u6b63\u5b97\u56e3\u4e5d\u90ce(left)",
+      "content": "Hakone",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404670",
@@ -80,15 +80,33 @@
   ],
   "referred_to_by": [
     {
-      "id": "https://data.discovernewfields.org/object/89367/credit-line",
+      "id": "https://data.discovernewfields.org/object/21137/credit-line",
       "type": "LinguisticObject",
       "_label": "IMA at Newfields Credit Line for the Object",
-      "content": "Gift of Eliza M. Niblack",
+      "content": "John Herron Fund",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300026687",
           "type": "Type",
           "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/21137/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "IMA Provenance Statement about the Object",
+      "content": "Purchased by the John Herron Art Institute, Indianapolis, Indiana, now the Indianapolis Museum of Art at Newfields, in 1906.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
         },
         {
           "id": "http://vocab.getty.edu/aat/300418049",
