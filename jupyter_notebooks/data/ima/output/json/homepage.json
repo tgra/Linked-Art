@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://abc.org/object/6136",
+  "id": "https://data.discovernewfields.org/object/46950",
   "type": "HumanMadeObject",
-  "_label": "PRAISES FOR KSITIGARBA SUTRA (DIZANG JINGZAN)",
+  "_label": "United States Flag",
   "subject_of": [
     {
-      "id": "http://collection.imamuseum.org/artwork/50209",
+      "id": "http://collection.imamuseum.org/artwork/34951",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [

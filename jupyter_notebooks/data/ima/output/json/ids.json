@@ -1,14 +1,14 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://abc.org/object/6136",
+  "id": "https://data.discovernewfields.org/object/46950",
   "type": "HumanMadeObject",
-  "_label": "PRAISES FOR KSITIGARBA SUTRA (DIZANG JINGZAN)",
+  "_label": "United States Flag",
   "identified_by": [
     {
-      "id": "https://abc.org/object/6136/irn",
+      "id": "https://data.discovernewfields.org/object/46950/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "6136",
+      "content": "46950",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404621",
@@ -18,10 +18,10 @@
       ]
     },
     {
-      "id": "https://abc.org/object/6136/object-number",
+      "id": "https://data.discovernewfields.org/object/46950/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "1983.100",
+      "content": "05.19",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",

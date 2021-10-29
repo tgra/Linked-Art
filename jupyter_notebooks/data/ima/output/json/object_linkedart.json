@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://abc.org/object/6136",
+  "id": "https://data.discovernewfields.org/object/89367",
   "type": "HumanMadeObject",
-  "_label": "PRAISES FOR KSITIGARBA SUTRA (DIZANG JINGZAN)",
+  "_label": "Ichikawa Ebiz\u014d  \u5e02\u5ddd\u6d77\u8001\u5897  (Danj\u016br\u014d VII) as Masamune Dankur\u014d V \u6b63\u5b97\u56e3\u4e5d\u90ce(left)",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300041273",
@@ -12,7 +12,7 @@
   ],
   "subject_of": [
     {
-      "id": "http://collection.imamuseum.org/artwork/50209",
+      "id": "http://collection.imamuseum.org/artwork/85671",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -32,10 +32,10 @@
   ],
   "identified_by": [
     {
-      "id": "https://abc.org/object/6136/irn",
+      "id": "https://data.discovernewfields.org/object/89367/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "6136",
+      "content": "89367",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404621",
@@ -45,10 +45,10 @@
       ]
     },
     {
-      "id": "https://abc.org/object/6136/object-number",
+      "id": "https://data.discovernewfields.org/object/89367/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "1983.100",
+      "content": "16.924A",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
@@ -58,10 +58,10 @@
       ]
     },
     {
-      "id": "https://abc.org/object/6136/title",
+      "id": "https://data.discovernewfields.org/object/89367/title",
       "type": "Name",
       "_label": "Primary Title for the Object",
-      "content": "PRAISES FOR KSITIGARBA SUTRA (DIZANG JINGZAN)",
+      "content": "Ichikawa Ebiz\u014d  \u5e02\u5ddd\u6d77\u8001\u5897  (Danj\u016br\u014d VII) as Masamune Dankur\u014d V \u6b63\u5b97\u56e3\u4e5d\u90ce(left)",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404670",
@@ -73,17 +73,17 @@
   ],
   "current_location": [
     {
-      "id": "https://abc.org/thesauri/location/storage",
+      "id": "https://data.discovernewfields.org/thesauri/location/storage",
       "type": "Place",
       "_label": "IMA Storage"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://abc.org/object/6136/credit-line",
+      "id": "https://data.discovernewfields.org/object/89367/credit-line",
       "type": "LinguisticObject",
       "_label": "IMA at Newfields Credit Line for the Object",
-      "content": "Gift of Mr. Keith Uhl Clary",
+      "content": "Gift of Eliza M. Niblack",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300026687",

@@ -1,13 +1,6 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://abc.org/object/6136",
+  "id": "https://data.discovernewfields.org/object/46950",
   "type": "HumanMadeObject",
-  "_label": "PRAISES FOR KSITIGARBA SUTRA (DIZANG JINGZAN)",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300041273",
-      "type": "Type",
-      "_label": "prints (visual works)"
-    }
-  ]
+  "_label": "United States Flag"
 }

@@ -1,14 +1,14 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://abc.org/object/6136",
+  "id": "https://data.discovernewfields.org/object/89367",
   "type": "HumanMadeObject",
-  "_label": "PRAISES FOR KSITIGARBA SUTRA (DIZANG JINGZAN)",
+  "_label": "Ichikawa Ebiz\u014d  \u5e02\u5ddd\u6d77\u8001\u5897  (Danj\u016br\u014d VII) as Masamune Dankur\u014d V \u6b63\u5b97\u56e3\u4e5d\u90ce(left)",
   "referred_to_by": [
     {
-      "id": "https://abc.org/object/6136/credit-line",
+      "id": "https://data.discovernewfields.org/object/89367/credit-line",
       "type": "LinguisticObject",
       "_label": "IMA at Newfields Credit Line for the Object",
-      "content": "Gift of Mr. Keith Uhl Clary",
+      "content": "Gift of Eliza M. Niblack",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300026687",
