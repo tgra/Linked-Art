@@ -1,0 +1,29 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/object/82696",
+  "type": "HumanMadeObject",
+  "_label": "Five Brushstrokes",
+  "produced_by": [
+    {
+      "id": "https://data.discovernewfields.org/object/82696/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://data.discovernewfields.org/actor/82696",
+          "type": "Actor",
+          "_label": "Lichtenstein, Roy"
+        }
+      ]
+    }
+  ],
+  "timespan": {
+    "id": "https://data.discovernewfields.org/object/82696/production/timespan",
+    "type": "TimeSpan",
+    "_label": "fabricated 2012",
+    "begin_of_the_begin": "2012",
+    "end_of_the_end": "2012"
+  }
+}

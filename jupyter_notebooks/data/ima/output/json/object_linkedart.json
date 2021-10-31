@@ -1,18 +1,18 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/21137",
+  "id": "https://data.discovernewfields.org/object/82696",
   "type": "HumanMadeObject",
-  "_label": "Hakone",
+  "_label": "Five Brushstrokes",
   "classified_as": [
     {
-      "id": "http://vocab.getty.edu/aat/300041273",
+      "id": "http://vocab.getty.edu/aat/300047090",
       "type": "Type",
-      "_label": "prints (visual works)"
+      "_label": "sculpture (visual works)"
     }
   ],
   "subject_of": [
     {
-      "id": "http://collection.imamuseum.org/artwork/80085",
+      "id": "http://collection.imamuseum.org/artwork/76663",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -32,10 +32,10 @@
   ],
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/21137/irn",
+      "id": "https://data.discovernewfields.org/object/82696/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "21137",
+      "content": "82696",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404621",
@@ -45,10 +45,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org/object/21137/object-number",
+      "id": "https://data.discovernewfields.org/object/82696/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "06.137",
+      "content": "2013.443A-E.4",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
@@ -58,10 +58,23 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org/object/21137/title",
+      "id": "https://data.discovernewfields.org/object/82696/title",
       "type": "Name",
       "_label": "Primary Title for the Object",
-      "content": "Hakone",
+      "content": "Five Brushstrokes",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/82696/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Five Brushstrokes",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404670",
@@ -73,17 +86,40 @@
   ],
   "current_location": [
     {
-      "id": "https://data.discovernewfields.org/thesauri/location/storage",
+      "id": "https://data.discovernewfields.org/thesauri/location/G",
       "type": "Place",
-      "_label": "IMA Storage"
+      "_label": "Newfields Grounds"
     }
   ],
+  "produced_by": [
+    {
+      "id": "https://data.discovernewfields.org/object/82696/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://data.discovernewfields.org/actor/82696",
+          "type": "Actor",
+          "_label": "Lichtenstein, Roy"
+        }
+      ]
+    }
+  ],
+  "timespan": {
+    "id": "https://data.discovernewfields.org/object/82696/production/timespan",
+    "type": "TimeSpan",
+    "_label": "fabricated 2012",
+    "begin_of_the_begin": "2012",
+    "end_of_the_end": "2012"
+  },
   "referred_to_by": [
     {
-      "id": "https://data.discovernewfields.org/object/21137/credit-line",
+      "id": "https://data.discovernewfields.org/object/82696/credit-line",
       "type": "LinguisticObject",
       "_label": "IMA at Newfields Credit Line for the Object",
-      "content": "John Herron Fund",
+      "content": "Robert L. and Marjorie J. Mann Fund, Partial Gift of the Roy Lichtenstein Foundation",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300026687",
@@ -98,10 +134,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org/object/21137/provenance-statement",
+      "id": "https://data.discovernewfields.org/object/82696/provenance-statement",
       "type": "LinguisticObject",
       "_label": "IMA Provenance Statement about the Object",
-      "content": "Purchased by the John Herron Art Institute, Indianapolis, Indiana, now the Indianapolis Museum of Art at Newfields, in 1906.",
+      "content": "(Roy Lichtenstein Foundation, New York, New York); purchased by the Indianapolis Museum of Art in 2013.",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055863",

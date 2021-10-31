@@ -1,13 +1,13 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/21137",
+  "id": "https://data.discovernewfields.org/object/82696",
   "type": "HumanMadeObject",
-  "_label": "Hakone",
+  "_label": "Five Brushstrokes",
   "current_location": [
     {
-      "id": "https://data.discovernewfields.org/thesauri/location/storage",
+      "id": "https://data.discovernewfields.org/thesauri/location/G",
       "type": "Place",
-      "_label": "IMA Storage"
+      "_label": "Newfields Grounds"
     }
   ]
 }
