@@ -69,6 +69,19 @@
           "_label": "preferred terms"
         }
       ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/82696/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Five Brushstrokes",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
     }
   ],
   "current_location": [
@@ -92,15 +105,17 @@
           "_label": "Lichtenstein, Roy"
         }
       ]
+    },
+    {
+      "timespan": {
+        "id": "https://data.discovernewfields.org/object/82696/production/timespan",
+        "type": "TimeSpan",
+        "_label": "fabricated 2012",
+        "begin_of_the_begin": "2012",
+        "end_of_the_end": "2012"
+      }
     }
   ],
-  "timespan": {
-    "id": "https://data.discovernewfields.org/object/82696/production/timespan",
-    "type": "TimeSpan",
-    "_label": "fabricated 2012",
-    "begin_of_the_begin": "2012",
-    "end_of_the_end": "2012"
-  },
   "current_owner": [
     {
       "id": "http://vocab.getty.edu/ulan/500300517",

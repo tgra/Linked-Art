@@ -17,13 +17,15 @@
           "_label": "Lichtenstein, Roy"
         }
       ]
+    },
+    {
+      "timespan": {
+        "id": "https://data.discovernewfields.org/object/82696/production/timespan",
+        "type": "TimeSpan",
+        "_label": "fabricated 2012",
+        "begin_of_the_begin": "2012",
+        "end_of_the_end": "2012"
+      }
     }
-  ],
-  "timespan": {
-    "id": "https://data.discovernewfields.org/object/82696/production/timespan",
-    "type": "TimeSpan",
-    "_label": "fabricated 2012",
-    "begin_of_the_begin": "2012",
-    "end_of_the_end": "2012"
-  }
+  ]
 }
