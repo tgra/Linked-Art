@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/82696",
+  "id": "https://data.discovernewfields.org/object/21137",
   "type": "HumanMadeObject",
-  "_label": "Five Brushstrokes",
+  "_label": "Hakone",
   "current_owner": [
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
@@ -17,7 +17,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://data.discovernewfields.org/object/82696/IMA-acquisition",
+          "id": "https://data.discovernewfields.org/object/21137/IMA-acquisition",
           "type": "Acquisition",
           "_label": "IMA at Newfields Acquisition of the Object",
           "classified_as": [
@@ -38,11 +38,11 @@
         {
           "timespan": [
             {
-              "id": "https://data.discovernewfields.org/object/82696/IMA-acquisition/timespan",
+              "id": "https://data.discovernewfields.org/object/21137/IMA-acquisition/timespan",
               "type": "TimeSpan",
-              "_label": "2013-12-12",
-              "begin_of_the_begin": "2013-12-12-01-01T00:00:00.000Z",
-              "end_of_the_end": "2013-12-12-12-31T00:00:00.000Z"
+              "_label": "1906-05-01",
+              "begin_of_the_begin": "1906-05-01T00:00:00.000Z",
+              "end_of_the_end": "1906-05-01T00:00:00.000Z"
             }
           ]
         }

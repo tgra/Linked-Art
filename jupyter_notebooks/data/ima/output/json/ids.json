@@ -1,14 +1,14 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/82696",
+  "id": "https://data.discovernewfields.org/object/21137",
   "type": "HumanMadeObject",
-  "_label": "Five Brushstrokes",
+  "_label": "Hakone",
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/82696/irn",
+      "id": "https://data.discovernewfields.org/object/21137/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "82696",
+      "content": "21137",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300404621",
@@ -18,10 +18,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org/object/82696/object-number",
+      "id": "https://data.discovernewfields.org/object/21137/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
-      "content": "2013.443A-E.4",
+      "content": "06.137",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",
