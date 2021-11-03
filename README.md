@@ -101,8 +101,6 @@ Please contact Tanya Gray at tanya.gray@humanities.ox.ac.uk to discuss.
 
 Further exemplars for Linked Art will be published on the themes of `Reconciliation` and `Visualisation`
 
---- 
-
 ## Acknowledgements
 
 This work was undertaken by the [Linked Art II project](https://linked.art/community/projects/linkedartii/) at the University of Oxford 
