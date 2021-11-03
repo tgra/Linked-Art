@@ -80,7 +80,7 @@ Alternatively, they can be [viewed directly on GitHub](https://github.com/tgra/L
 
 ## Community Feedback
 
-We welcome feedback on the notebooks provided here for the `Tranformation` exemplar. If you have a moment, please consider the following questions and send your comments to Tanya Gray at tanya.gray@humanities.ox.ac.uk. Thank you.
+We welcome feedback on the notebooks provided here for the `Transformation` exemplar. If you have a moment, please consider the following questions and send your comments to Tanya Gray at tanya.gray@humanities.ox.ac.uk. Thank you.
 
 
 > Thinking about your colleagues who are less familiar with Linked Art, can we do anything with this tool to make it more useful? 
