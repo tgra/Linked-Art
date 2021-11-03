@@ -1,18 +1,18 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/21137",
+  "id": "https://data.discovernewfields.org/object/82696",
   "type": "HumanMadeObject",
-  "_label": "Hakone",
+  "_label": "Five Brushstrokes",
   "classified_as": [
     {
-      "id": "http://vocab.getty.edu/aat/300041273",
+      "id": "http://vocab.getty.edu/aat/300047090",
       "type": "Type",
-      "_label": "prints (visual works)"
+      "_label": "sculpture (visual works)"
     }
   ],
   "subject_of": [
     {
-      "id": "http://collection.imamuseum.org/artwork/80085",
+      "id": "http://collection.imamuseum.org/artwork/76663",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -30,76 +30,35 @@
       "format": "text/html"
     }
   ],
-  "identified_by": [
-    {
-      "id": "https://data.discovernewfields.org/object/21137/irn",
-      "type": "Identifier",
-      "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "21137",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300404621",
-          "type": "Type",
-          "_label": "repository numbers"
-        }
-      ]
-    },
-    {
-      "id": "https://data.discovernewfields.org/object/21137/object-number",
-      "type": "Identifier",
-      "_label": "IMA at Newfields Object Number for the Object",
-      "content": "06.137",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300312355",
-          "type": "Type",
-          "_label": "accession numbers"
-        }
-      ]
-    },
-    {
-      "id": "https://data.discovernewfields.org/object/21137/title",
-      "type": "Name",
-      "_label": "Primary Title for the Object",
-      "content": "Hakone",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300404670",
-          "type": "Type",
-          "_label": "preferred terms"
-        }
-      ]
-    }
-  ],
   "current_location": [
     {
-      "id": "https://data.discovernewfields.org/thesauri/location/storage",
+      "id": "https://data.discovernewfields.org/thesauri/location/G",
       "type": "Place",
-      "_label": "IMA Storage"
+      "_label": "Newfields Grounds"
     }
   ],
   "produced_by": [
     {
-      "id": "https://data.discovernewfields.org/object/21137/production",
+      "id": "https://data.discovernewfields.org/object/82696/production",
       "type": "Production",
       "_label": "Production of the Object"
     },
     {
       "carried_out_by": [
         {
-          "id": "https://data.discovernewfields.org/actor/21137",
+          "id": "https://data.discovernewfields.org/actor/82696",
           "type": "Actor",
-          "_label": "Utagawa Hiroshige \u6b4c\u5ddd\u5e83\u91cd"
+          "_label": "Lichtenstein, Roy"
         }
       ]
     },
     {
       "timespan": {
-        "id": "https://data.discovernewfields.org/object/21137/production/timespan",
+        "id": "https://data.discovernewfields.org/object/82696/production/timespan",
         "type": "TimeSpan",
-        "_label": "1833-1834",
-        "begin_of_the_begin": "1833",
-        "end_of_the_end": "1834"
+        "_label": "fabricated 2012",
+        "begin_of_the_begin": "2012",
+        "end_of_the_end": "2012"
       }
     }
   ],
@@ -117,7 +76,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://data.discovernewfields.org/object/21137/IMA-acquisition",
+          "id": "https://data.discovernewfields.org/object/82696/IMA-acquisition",
           "type": "Acquisition",
           "_label": "IMA at Newfields Acquisition of the Object",
           "classified_as": [
@@ -138,23 +97,22 @@
         {
           "timespan": [
             {
-              "id": "https://data.discovernewfields.org/object/21137/IMA-acquisition/timespan",
+              "id": "https://data.discovernewfields.org/object/82696/IMA-acquisition/timespan",
               "type": "TimeSpan",
-              "_label": "1906-05-01",
-              "begin_of_the_begin": "1906-05-01T00:00:00.000Z",
-              "end_of_the_end": "1906-05-01T00:00:00.000Z"
+              "_label": "2013-12-12",
+              "begin_of_the_begin": "2013-12-12T00:00:00.000Z",
+              "end_of_the_end": "2013-12-12T00:00:00.000Z"
             }
           ]
         }
       ]
     }
   ],
-  "dimensions": [],
   "member_of": [
     {
-      "id": "https://data.discovernewfields.org/collection/905.2-Asian Art (Japanese and Korean)",
+      "id": "https://data.discovernewfields.org/collection/907-Contemporary",
       "type": "Set",
-      "_label": "Collection of IMA at Newfields' Asian Art (Japanese and Korean) Department",
+      "_label": "Collection of IMA at Newfields' Contemporary Department",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300025976",
@@ -166,10 +124,10 @@
   ],
   "referred_to_by": [
     {
-      "id": "https://data.discovernewfields.org/object/21137/credit-line",
+      "id": "https://data.discovernewfields.org/object/82696/credit-line",
       "type": "LinguisticObject",
       "_label": "IMA at Newfields Credit Line for the Object",
-      "content": "John Herron Fund",
+      "content": "Robert L. and Marjorie J. Mann Fund, Partial Gift of the Roy Lichtenstein Foundation",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300026687",
@@ -184,10 +142,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org/object/21137/provenance-statement",
+      "id": "https://data.discovernewfields.org/object/82696/provenance-statement",
       "type": "LinguisticObject",
       "_label": "IMA Provenance Statement about the Object",
-      "content": "Purchased by the John Herron Art Institute, Indianapolis, Indiana, now the Indianapolis Museum of Art at Newfields, in 1906.",
+      "content": "(Roy Lichtenstein Foundation, New York, New York); purchased by the Indianapolis Museum of Art in 2013.",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055863",
@@ -198,6 +156,47 @@
           "id": "http://vocab.getty.edu/aat/300418049",
           "type": "Type",
           "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "https://data.discovernewfields.org/object/82696/irn",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Collections Database Number for the Object",
+      "content": "82696",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "repository numbers"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/82696/object-number",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Object Number for the Object",
+      "content": "2013.443A-E.4",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "accession numbers"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/82696/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Five Brushstrokes",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
         }
       ]
     }
