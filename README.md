@@ -50,14 +50,23 @@ Interactive, documented code transformations for parts of the Linked Art Data Mo
 
 #### Indianapolis Museum of Art
 >These notebooks use sample data published by the Indianapolis Museum of Art (IMA) as data input. The transformation is based on an XSLT file published by the IMA.
+
+Download
 1. [Indianapolis Museum of Art - Transformation of a selected artwork](./jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb)
 2. [Indianapolis Museum of Art - Transformation of all artworks](./jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb) 
 
+View via nbviewer
+1. [Indianapolis Museum of Art - Transformation of a selected artwork](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb)
+2. [Indianapolis Museum of Art - Transformation of all artworks](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb)
+
+View via Binder
+1. Indianapolis Museum of Art - Transformation of a selected artwork [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb/HEAD)
+2. Indianapolis Museum of Art - Transformation of all artworks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb/HEAD)
 
 ## Availability
 
 All of the Jupyter notebooks can be downloaded as a [zip file](https://github.com/tgra/Linked-Art/archive/refs/heads/main.zip) or checked out of the Github repository:
-- https https://github.com/tgra/Linked-Art.git
+- [https](https://github.com/tgra/Linked-Art.git)
 - GitHub client `gh repo clone tgra/Linked-Art`
 
 Alternatively, they can be [viewed directly on GitHub](https://github.com/tgra/Linked-Art/tree/main/jupyter_notebooks). 
