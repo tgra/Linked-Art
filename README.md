@@ -9,6 +9,7 @@ A number of exemplars will be published to demonstrate the processes involved in
 - `Visualisation` - Documented transformation of Linked Art JSON-LD to data visualisation
 
 This exemplar is concerned with `Transformation` - the transformation process, from collections data to Linked Art JSON-LD.
+
 ---
 ## Transformation Exemplar - From Collections Data to Linked Art JSON-LD
 
