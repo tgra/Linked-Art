@@ -74,3 +74,26 @@ All of the Jupyter notebooks can be downloaded as a [zip file](https://github.co
 - GitHub client `gh repo clone tgra/Linked-Art`
 
 Alternatively, they can be [viewed directly on GitHub](https://github.com/tgra/Linked-Art/tree/main/jupyter_notebooks). 
+
+## Community Feedback
+
+We welcome feedback on the notebooks provided here for the `Tranformation` exemplar. If you have a moment, please consider the following questions and send your comments to [Tanya Gray](tanya.gray@humanities.ox.ac.uk). Thank you.
+
+
+> Thinking about your colleagues who are less familiar with Linked Art, can we do anything with this tool to make it more useful? 
+
+> Does the tool make sense?
+
+> Are the workbook steps too large or too small? 
+Are the steps of the correct granularity?
+
+## Transformation of Other Collections Data 
+This workbook works with EMu export data in XML - can you offer data in this format to transform?
+
+We would also welcome collections data from other collections in other formats to transform to Linked Art JSON-LD.
+
+Please contact [Tanya Gray](tanya.gray@humanities.ox.ac.uk) to discuss.
+
+## What's next?  
+
+Further exemplars for Linked Art will be published on the themes of `Reconciliation` and `Visualisation`
