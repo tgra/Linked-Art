@@ -52,7 +52,7 @@ Interactive, documented code transformations for parts of the Linked Art Data Mo
 1. [Core Properties](./jupyter_notebooks/Core-Properties.ipynb)
 
 ## Collections Data
->Interactive, documented code transformations using read-world collections data.
+>Interactive, documented code transformations using real-world collections data.
 
 #### Indianapolis Museum of Art
 >These notebooks use sample data published by the Indianapolis Museum of Art (IMA) as data input. The transformation is based on an XSLT file published by the IMA.
