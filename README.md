@@ -8,6 +8,8 @@ A number of exemplars will be published to demonstrate the processes involved in
 - `Reconciliation` - Documented reconciliation process - matching data with an external identifier source
 - `Visualisation` - Documented transformation of Linked Art JSON-LD to data visualisation
 
+![Linked Art exemplars](https://github.com/tgra/linked-art/blob/main/docs/media/img/exemplar.png?raw=true)
+
 This exemplar is concerned with `Transformation` - the transformation process, from collections data to Linked Art JSON-LD.
 
 ---
