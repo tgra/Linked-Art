@@ -35,7 +35,7 @@ The following options are available to view the Jupyter notebooks. Installation 
 
 ## nbviewer
 https://nbviewer.org/
-> nbviewer is an online service that will render a static view of a Jupyter notebook using a URL. An example of [the IMA transformation notebook via nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/04226e1b9dd8fd46aa39db46cac213dbc5b09c89/jupyter_notebooks/IMA%20-%20From%20Catalogue%20Data%20to%20Linked%20Art.ipynb). 
+> nbviewer is an online service that will render a static view of a Jupyter notebook using a URL.
 
 ### GitHub 
 > Github offers a static view of a Jupyter Notebook. Viewing the file in GitHub is simply a matter of selecting the relevant *.iynb file in the `jupyter_notebooks` folder
