@@ -36,7 +36,7 @@ The following options are available to view the Jupyter notebooks. Installation 
 >Binder is an online services that allows interactive Jupyter Notebooks to be viewed online. The following link will allows you to view the Jupyter Notebooks in this repository using Binder. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD)
 
 ## nbviewer
-https://nbviewer.org/
+[nbviewer](https://nbviewer.org/)
 > nbviewer is an online service that will render a static view of a Jupyter notebook using a URL.
 
 ### GitHub 
