@@ -18,7 +18,7 @@ This repository contains a worked example of the transformation process for Link
 The aim is to demonstrate how easy it is to transform collections data to Linked Art JSON-LD.
 
 ## How
-The `Linked Art Transformation Exemplar` is in the form of collection of interactive documented code, as [Jupyter notebooks](https://jupyter.org).
+The `Transformation` exemplar is in the form of collection of interactive documented code, as [Jupyter notebooks](https://jupyter.org).
 
 ---
 ## How to view Jupyter Notebooks
