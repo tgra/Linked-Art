@@ -1,7 +1,7 @@
 # Linked Art - Transformation Exemplar
 
-[Webpage view of this content](https://tgra.github.io/Linked-Art/)
-[GitHub Repo view of this content](https://github.com/tgra/Linked-Art/blob/main/README.md)
+- [Webpage view of this content](https://tgra.github.io/Linked-Art/)
+- [GitHub Repo view of this content](https://github.com/tgra/Linked-Art/blob/main/README.md)
 
 ## Introduction
 [Linked Art](https://linked.art) is a community working together to create a shared Model based on Linked Open Data to describe Art.
