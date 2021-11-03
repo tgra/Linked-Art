@@ -50,8 +50,8 @@ Interactive, documented code transformations for parts of the Linked Art Data Mo
 
 #### Indianapolis Museum of Art
 >These notebooks use sample data published by the Indianapolis Museum of Art (IMA) as data input. The transformation is based on an XSLT file published by the IMA.
-1. [Indianapolis Museum of Art - Transformation of a selected artwork](./jupyter_notebooks//Catalogue_Data_to_Linked_Art_IMA.ipynb)
-2. [Indianapolis Museum of Art - Transformation of all artworks](./jupyter_notebooks//Catalogue_Data_to_Linked_Art_IMA_All_Records.ipynb) 
+1. [Indianapolis Museum of Art - Transformation of a selected artwork](./jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb)
+2. [Indianapolis Museum of Art - Transformation of all artworks](./jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb) 
 
 
 ## Availability
