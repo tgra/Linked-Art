@@ -60,8 +60,9 @@ View via nbviewer
 2. [Indianapolis Museum of Art - Transformation of all artworks](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb)
 
 View via Binder
-1. Indianapolis Museum of Art - Transformation of a selected artwork [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb/HEAD)
-2. Indianapolis Museum of Art - Transformation of all artworks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb/HEAD)
+1. Indianapolis Museum of Art - Transformation of a selected artwork [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb)
+2. Indianapolis Museum of Art - Transformation of all artworks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb)
+
 
 ## Availability
 
