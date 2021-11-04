@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/82696",
+  "id": "https://data.discovernewfields.org/object/21137",
   "type": "HumanMadeObject",
-  "_label": "Five Brushstrokes",
+  "_label": "Hakone",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300133025",
@@ -10,9 +10,14 @@
       "_label": "works of art"
     },
     {
-      "id": "http://vocab.getty.edu/aat/300047090",
+      "id": "http://vocab.getty.edu/aat/300041273",
       "type": "Type",
-      "_label": "sculpture (visual works)"
+      "_label": "prints (visual works)"
+    },
+    {
+      "id": "https://data.discovernewfields.org/thesauri/type/",
+      "type": "Type",
+      "_label": "color woodcuts"
     }
   ]
 }

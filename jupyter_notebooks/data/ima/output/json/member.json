@@ -1,13 +1,13 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/82696",
+  "id": "https://data.discovernewfields.org/object/21137",
   "type": "HumanMadeObject",
-  "_label": "Five Brushstrokes",
+  "_label": "Hakone",
   "member_of": [
     {
-      "id": "https://data.discovernewfields.org/collection/907-Contemporary",
+      "id": "https://data.discovernewfields.org/collection/905.2-Asian Art (Japanese and Korean)",
       "type": "Set",
-      "_label": "Collection of IMA at Newfields' Contemporary Department",
+      "_label": "Collection of IMA at Newfields' Asian Art (Japanese and Korean) Department",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300025976",
