@@ -33,9 +33,7 @@
               "type": "Place",
               "_label": "Indianapolis, Indiana"
             }
-          ]
-        },
-        {
+          ],
           "timespan": [
             {
               "id": "https://data.discovernewfields.org/object/82696/IMA-acquisition/timespan",

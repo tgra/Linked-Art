@@ -5,6 +5,11 @@
   "_label": "Five Brushstrokes",
   "classified_as": [
     {
+      "id": "http://vocab.getty.edu/aat/300133025",
+      "type": "Type",
+      "_label": "works of art"
+    },
+    {
       "id": "http://vocab.getty.edu/aat/300047090",
       "type": "Type",
       "_label": "sculpture (visual works)"
@@ -92,9 +97,7 @@
               "type": "Place",
               "_label": "Indianapolis, Indiana"
             }
-          ]
-        },
-        {
+          ],
           "timespan": [
             {
               "id": "https://data.discovernewfields.org/object/82696/IMA-acquisition/timespan",
@@ -162,15 +165,15 @@
   ],
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/object/82696/irn",
-      "type": "Identifier",
-      "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "82696",
+      "id": "https://data.discovernewfields.org/object/82696/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Five Brushstrokes",
       "classified_as": [
         {
-          "id": "http://vocab.getty.edu/aat/300404621",
+          "id": "http://vocab.getty.edu/aat/300404670",
           "type": "Type",
-          "_label": "repository numbers"
+          "_label": "preferred terms"
         }
       ]
     },
@@ -184,19 +187,6 @@
           "id": "http://vocab.getty.edu/aat/300312355",
           "type": "Type",
           "_label": "accession numbers"
-        }
-      ]
-    },
-    {
-      "id": "https://data.discovernewfields.org/object/82696/title",
-      "type": "Name",
-      "_label": "Primary Title for the Object",
-      "content": "Five Brushstrokes",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300404670",
-          "type": "Type",
-          "_label": "preferred terms"
         }
       ]
     }

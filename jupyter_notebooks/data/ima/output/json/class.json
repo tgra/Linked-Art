@@ -5,6 +5,11 @@
   "_label": "Five Brushstrokes",
   "classified_as": [
     {
+      "id": "http://vocab.getty.edu/aat/300133025",
+      "type": "Type",
+      "_label": "works of art"
+    },
+    {
       "id": "http://vocab.getty.edu/aat/300047090",
       "type": "Type",
       "_label": "sculpture (visual works)"
