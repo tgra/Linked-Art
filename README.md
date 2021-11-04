@@ -114,5 +114,5 @@ Further exemplars for Linked Art will be published on the themes of `Reconciliat
 ## Acknowledgements
 
 This work was undertaken by the [Linked Art II project](https://linked.art/community/projects/linkedartii/) at the University of Oxford 
-(Principal Investigator: Dr. Kevin Page, Oxford e-Research Centre) funded by the UK Arts and Humanities Research Council (AHRC project reference AH/T013117/1). The project's Research Software Engineer was Tanya Gray. We gratefully acknowledge the participation and contributions of our project partners and the wider Linked Art community.**
+(Principal Investigator: Dr. Kevin Page, Oxford e-Research Centre) funded by the UK Arts and Humanities Research Council (AHRC project reference AH/T013117/1). The project's Research Software Engineer was Tanya Gray. We gratefully acknowledge the participation and contributions of our project partners and the wider Linked Art community.
 
