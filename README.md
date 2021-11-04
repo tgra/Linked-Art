@@ -49,7 +49,16 @@ The different types of Jupyter notebooks:
 
 ### Data Model Parts
 Interactive, documented code transformations for parts of the Linked Art Data Model.
+Download
 1. [Core Properties](./jupyter_notebooks/Core-Properties.ipynb)
+
+### Transformation Process
+Download
+1. [Transform CSV to Linked Data JSON-LD](./jupyter_notebooks/CSV_to_Linked_Art_JSON-LD.ipynb)
+
+
+Binder
+1. Transform CSV to Linked Data JSON=LD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FCSV_to_Linked_Art_JSON-LD.ipynb)
 
 ## Collections Data
 >Interactive, documented code transformations using real-world collections data.
