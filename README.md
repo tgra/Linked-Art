@@ -52,15 +52,8 @@ Interactive, documented code transformations for parts of the Linked Art Data Mo
 Download
 1. [Core Properties](./jupyter_notebooks/Core-Properties.ipynb)
 
-### Transformation Process
-Download
-1. [Transform CSV to Linked Data JSON-LD](./jupyter_notebooks/CSV_to_Linked_Art_JSON-LD.ipynb)
 
-
-Binder
-1. Transform CSV to Linked Data JSON=LD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FCSV_to_Linked_Art_JSON-LD.ipynb)
-
-## Collections Data
+### Collections Data
 >Interactive, documented code transformations using real-world collections data.
 
 #### Indianapolis Museum of Art
@@ -77,6 +70,14 @@ View via nbviewer
 View via Binder
 1. Indianapolis Museum of Art - Transformation of a selected artwork [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb)
 2. Indianapolis Museum of Art - Transformation of all artworks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb)
+
+### Transformation Process
+Download
+1. [Transform CSV to Linked Data JSON-LD](./jupyter_notebooks/CSV_to_Linked_Art_JSON-LD.ipynb)
+
+
+Binder
+1. Transform CSV to Linked Data JSON=LD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FCSV_to_Linked_Art_JSON-LD.ipynb)
 
 
 ## Availability
@@ -113,5 +114,5 @@ Further exemplars for Linked Art will be published on the themes of `Reconciliat
 ## Acknowledgements
 
 This work was undertaken by the [Linked Art II project](https://linked.art/community/projects/linkedartii/) at the University of Oxford 
-(Principal Investigator: Dr. Kevin Page, Oxford e-Research Centre) funded by the UK Arts and Humanities Research Council (AHRC project reference AH/T013117/1). The project's Research Software Engineer was Tanya Gray. We gratefully acknowledge the participation and contributions of our project partners and the wider Linked Art community.**
+(Principal Investigator: Dr. Kevin Page, Oxford e-Research Centre) funded by the UK Arts and Humanities Research Council (AHRC project reference AH/T013117/1). The project's Research Software Engineer was Tanya Gray. We gratefully acknowledge the participation and contributions of our project partners and the wider Linked Art community.
 
