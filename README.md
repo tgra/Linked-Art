@@ -59,17 +59,13 @@ Download
 #### Indianapolis Museum of Art
 >These notebooks use sample data published by the Indianapolis Museum of Art (IMA) as data input. The transformation is based on an XSLT file published by the IMA.
 
-Download
-1. [Indianapolis Museum of Art - Transformation of a selected artwork](./jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb)
-2. [Indianapolis Museum of Art - Transformation of all artworks](./jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb) 
+| Notebook  | Download | nbviewer | Binder |
+| ------------- | ------------- | ------- | ------ |
+| Indianapolis Museum of Art - selected artwork  |  [download](./jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb)|
+| Indianapolis Museum of Art - all artworks  | [download](./jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb)   | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb) |
+| Philadelphia Museum of Art | [download](./jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_PMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_PMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_Data_to_Linked_Art_PMA.ipynb) |
 
-View via nbviewer
-1. [Indianapolis Museum of Art - Transformation of a selected artwork](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb)
-2. [Indianapolis Museum of Art - Transformation of all artworks](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb)
 
-View via Binder
-1. Indianapolis Museum of Art - Transformation of a selected artwork [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb)
-2. Indianapolis Museum of Art - Transformation of all artworks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb)
 
 ### Transformation Process
 Download
