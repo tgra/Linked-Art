@@ -1,0 +1,45 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://philamuseum.org/collection/object/object/250-2003-1 frame",
+  "type": "HumanMadeObject",
+  "_label": "Frame for: Red Hills with Pedernal, White Clouds",
+  "identified_by": [
+    {
+      "id": "https://philamuseum.org/collection/object/object/250-2003-1 frame/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Frame for: Red Hills with Pedernal, White Clouds",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://philamuseum.org/collection/object/object/250-2003-1 frame/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://philamuseum.org/collection/object/actor/250-2003-1 frame",
+          "type": "Actor",
+          "_label": "Georgia O'Keeffe"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://philamuseum.org/collection/object/250-2003-1 frame/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1936"
+      }
+    }
+  ]
+}

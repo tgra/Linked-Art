@@ -1,0 +1,45 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://philamuseum.org/collection/object/object/9-1982-1",
+  "type": "HumanMadeObject",
+  "_label": "Mask with Golden Apple",
+  "identified_by": [
+    {
+      "id": "https://philamuseum.org/collection/object/object/9-1982-1/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Mask with Golden Apple",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://philamuseum.org/collection/object/object/9-1982-1/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://philamuseum.org/collection/object/actor/9-1982-1",
+          "type": "Actor",
+          "_label": "Georgia O'Keeffe"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://philamuseum.org/collection/object/9-1982-1/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1921"
+      }
+    }
+  ]
+}

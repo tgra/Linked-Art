@@ -1,0 +1,38 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://philamuseum.org/collection/object/object/48-1993-1",
+  "type": "HumanMadeObject",
+  "_label": "African Mask and Apple",
+  "identified_by": [
+    {
+      "id": "https://philamuseum.org/collection/object/object/48-1993-1/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "African Mask and Apple",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://philamuseum.org/collection/object/object/48-1993-1/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://philamuseum.org/collection/object/actor/48-1993-1",
+          "type": "Actor",
+          "_label": "Georgia O'Keeffe"
+        }
+      ]
+    }
+  ]
+}

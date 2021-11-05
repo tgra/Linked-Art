@@ -1,14 +1,14 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/21137",
+  "id": "https://sa/object/82696",
   "type": "HumanMadeObject",
-  "_label": "Hakone",
+  "_label": "Five Brushstrokes",
   "referred_to_by": [
     {
-      "id": "https://data.discovernewfields.org/object/21137/credit-line",
+      "id": "https://sa/object/82696/credit-line",
       "type": "LinguisticObject",
       "_label": "IMA at Newfields Credit Line for the Object",
-      "content": "John Herron Fund",
+      "content": "Robert L. and Marjorie J. Mann Fund, Partial Gift of the Roy Lichtenstein Foundation",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300026687",
@@ -23,10 +23,10 @@
       ]
     },
     {
-      "id": "https://data.discovernewfields.org/object/21137/provenance-statement",
+      "id": "https://sa/object/82696/provenance-statement",
       "type": "LinguisticObject",
       "_label": "IMA Provenance Statement about the Object",
-      "content": "Purchased by the John Herron Art Institute, Indianapolis, Indiana, now the Indianapolis Museum of Art at Newfields, in 1906.",
+      "content": "(Roy Lichtenstein Foundation, New York, New York); purchased by the Indianapolis Museum of Art in 2013.",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300055863",
