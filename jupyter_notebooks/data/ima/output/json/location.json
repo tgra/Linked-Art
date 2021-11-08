@@ -5,9 +5,9 @@
   "_label": "Five Brushstrokes",
   "current_location": [
     {
-      "id": "https://data.discovernewfields.org/thesauri/location/on-loan",
+      "id": "https://data.discovernewfields.org/thesauri/location/G",
       "type": "Place",
-      "_label": "On Loan"
+      "_label": "Newfields Grounds"
     }
   ]
 }
