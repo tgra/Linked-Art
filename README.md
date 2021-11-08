@@ -46,34 +46,22 @@ The following options are available to view the Jupyter notebooks. Installation 
 ---
 ## Documented Interactive Code Jupyter Notebooks
 The different types of Jupyter notebooks:
-
-### Data Model Parts
-Interactive, documented code transformations for parts of the Linked Art Data Model.
-Download
-1. [Core Properties](./jupyter_notebooks/Core-Properties.ipynb)
-
-
-### Collections Data
->Interactive, documented code transformations using real-world collections data.
-
-#### Indianapolis Museum of Art
->These notebooks use sample data published by the Indianapolis Museum of Art (IMA) as data input. The transformation is based on an XSLT file published by the IMA.
+- Collections Data - transformations using real-world collections data
+- Data Model Parts - transformations for parts of the Linked Art Data Model
+- Transformation Process
+  
 
 | Notebook  | Download | nbviewer | Binder |
 | ------------- | ------------- | ------- | ------ |
+| ### Collections Data | |  |  |
 | Indianapolis Museum of Art - selected artwork  |  [download](./jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_to_Linked_Art_IMA_Selected_Artwork.ipynb)|
 | Indianapolis Museum of Art - all artworks  | [download](./jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb)   | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb) |
 | Philadelphia Museum of Art | [download](./jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_PMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_PMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_Data_to_Linked_Art_PMA.ipynb) |
+| ### Data Model Parts | |  |  |
+|Core Properties| [Core Properties](./jupyter_notebooks/Core-Properties.ipynb) |||
+| ### Transformation Process | |  |  |
+| Transform CSV to Linked Data JSON-LD | [download](./jupyter_notebooks/CSV_to_Linked_Art_JSON-LD.ipynb)|  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FCSV_to_Linked_Art_JSON-LD.ipynb) |
 
-
-
-### Transformation Process
-Download
-1. [Transform CSV to Linked Data JSON-LD](./jupyter_notebooks/CSV_to_Linked_Art_JSON-LD.ipynb)
-
-
-Binder
-1. Transform CSV to Linked Data JSON=LD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FCSV_to_Linked_Art_JSON-LD.ipynb)
 
 
 ## Availability
