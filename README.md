@@ -58,7 +58,7 @@ The different types of Jupyter notebooks:
 | Indianapolis Museum of Art - all artworks  | [download](./jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb)   | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_to_Linked_Art_IMA_All_Artworks.ipynb) |
 | Philadelphia Museum of Art | [download](./jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_PMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_PMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_Data_to_Linked_Art_PMA.ipynb) |
 | ### Data Model Parts | |  |  |
-|Core Properties| [Core Properties](./jupyter_notebooks/Core-Properties.ipynb) |||
+|Core Properties| [download](./jupyter_notebooks/Core-Properties.ipynb) |||
 | ### Transformation Process | |  |  |
 | Transform CSV to Linked Data JSON-LD | [download](./jupyter_notebooks/CSV_to_Linked_Art_JSON-LD.ipynb)|  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FCSV_to_Linked_Art_JSON-LD.ipynb) |
 
