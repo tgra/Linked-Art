@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://sa/object/82696",
+  "id": "https://data.discovernewfields.org/object/82696",
   "type": "HumanMadeObject",
   "_label": "Five Brushstrokes",
   "referred_to_by": [
     {
-      "id": "https://sa/object/82696/credit-line",
+      "id": "https://data.discovernewfields.org/object/82696/credit-line",
       "type": "LinguisticObject",
       "_label": "IMA at Newfields Credit Line for the Object",
       "content": "Robert L. and Marjorie J. Mann Fund, Partial Gift of the Roy Lichtenstein Foundation",
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "id": "https://sa/object/82696/provenance-statement",
+      "id": "https://data.discovernewfields.org/object/82696/provenance-statement",
       "type": "LinguisticObject",
       "_label": "IMA Provenance Statement about the Object",
       "content": "(Roy Lichtenstein Foundation, New York, New York); purchased by the Indianapolis Museum of Art in 2013.",

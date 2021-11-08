@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://sa/object/82696",
+  "id": "https://data.discovernewfields.org/object/82696",
   "type": "HumanMadeObject",
   "_label": "Five Brushstrokes",
   "identified_by": [
     {
-      "id": "https://sa/object/82696/irn",
+      "id": "https://data.discovernewfields.org/object/82696/irn",
       "type": "Identifier",
       "_label": "IMA at Newfields Collections Database Number for the Object",
       "content": "82696",
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "id": "https://sa/object/82696/object-number",
+      "id": "https://data.discovernewfields.org/object/82696/object-number",
       "type": "Identifier",
       "_label": "IMA at Newfields Object Number for the Object",
       "content": "2013.443A-E.4",

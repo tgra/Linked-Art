@@ -1,13 +1,13 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://sa/object/82696",
+  "id": "https://data.discovernewfields.org/object/82696",
   "type": "HumanMadeObject",
   "_label": "Five Brushstrokes",
   "current_location": [
     {
-      "id": "https://sa/thesauri/location/G",
+      "id": "https://data.discovernewfields.org/thesauri/location/on-loan",
       "type": "Place",
-      "_label": "Newfields Grounds"
+      "_label": "On Loan"
     }
   ]
 }

@@ -1,30 +1,21 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/object/21137",
+  "id": "https://data.discovernewfields.org/object/82696",
   "type": "HumanMadeObject",
-  "_label": "Hakone",
+  "_label": "Five Brushstrokes",
   "produced_by": [
     {
-      "id": "https://data.discovernewfields.org/object/21137/production",
+      "id": "https://data.discovernewfields.org/object/93739/production",
       "type": "Production",
       "_label": "Production of the Object"
     },
     {
-      "carried_out_by": [
-        {
-          "id": "https://data.discovernewfields.org/actor/21137",
-          "type": "Actor",
-          "_label": "Utagawa Hiroshige \u6b4c\u5ddd\u5e83\u91cd"
-        }
-      ]
-    },
-    {
       "timespan": {
-        "id": "https://data.discovernewfields.org/object/21137/production/timespan",
+        "id": "https://data.discovernewfields.org/object/93739/production/timespan",
         "type": "TimeSpan",
-        "_label": "1833-1834",
-        "begin_of_the_begin": "1833",
-        "end_of_the_end": "1834"
+        "_label": "fabricated 2012",
+        "begin_of_the_begin": "2012",
+        "end_of_the_end": "2012"
       }
     }
   ]

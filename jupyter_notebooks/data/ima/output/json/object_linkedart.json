@@ -1,9 +1,14 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://sa/object/82696",
+  "id": "https://data.discovernewfields.org/object/82696",
   "type": "HumanMadeObject",
   "_label": "Five Brushstrokes",
   "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300133025",
+      "type": "Type",
+      "_label": "works of art"
+    },
     {
       "id": "http://vocab.getty.edu/aat/300047090",
       "type": "Type",
@@ -30,57 +35,99 @@
       "format": "text/html"
     }
   ],
-  "identified_by": [
-    {
-      "id": "https://sa/object/82696/irn",
-      "type": "Identifier",
-      "_label": "IMA at Newfields Collections Database Number for the Object",
-      "content": "82696",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300404621",
-          "type": "Type",
-          "_label": "repository numbers"
-        }
-      ]
-    },
-    {
-      "id": "https://sa/object/82696/object-number",
-      "type": "Identifier",
-      "_label": "IMA at Newfields Object Number for the Object",
-      "content": "2013.443A-E.4",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300312355",
-          "type": "Type",
-          "_label": "accession numbers"
-        }
-      ]
-    },
-    {
-      "id": "https://sa/object/82696/title",
-      "type": "Name",
-      "_label": "Primary Title for the Object",
-      "content": "Five Brushstrokes",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300404670",
-          "type": "Type",
-          "_label": "preferred terms"
-        }
-      ]
-    }
-  ],
   "current_location": [
     {
-      "id": "https://sa/thesauri/location/G",
+      "id": "https://data.discovernewfields.org/thesauri/location/G",
       "type": "Place",
       "_label": "Newfields Grounds"
     }
   ],
+  "produced_by": [
+    {
+      "id": "https://data.discovernewfields.org/object/82696/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://data.discovernewfields.org/actor/82696",
+          "type": "Actor",
+          "_label": "Lichtenstein, Roy"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://data.discovernewfields.org/object/82696/production/timespan",
+        "type": "TimeSpan",
+        "_label": "fabricated 2012",
+        "begin_of_the_begin": "2012",
+        "end_of_the_end": "2012"
+      }
+    }
+  ],
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500300517",
+      "type": "Group",
+      "_label": "Indianapolis Museum of Art at Newfields",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "museums (institutions)"
+        }
+      ],
+      "acquired_title_through": [
+        {
+          "id": "https://data.discovernewfields.org/object/82696/IMA-acquisition",
+          "type": "Acquisition",
+          "_label": "IMA at Newfields Acquisition of the Object",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300157782",
+              "type": "Type",
+              "_label": "acquisition (collections management)"
+            }
+          ],
+          "took_place_at": [
+            {
+              "id": "http://vocab.getty.edu/tgn/7012924",
+              "type": "Place",
+              "_label": "Indianapolis, Indiana"
+            }
+          ],
+          "timespan": [
+            {
+              "id": "https://data.discovernewfields.org/object/82696/IMA-acquisition/timespan",
+              "type": "TimeSpan",
+              "_label": "2013-12-12",
+              "begin_of_the_begin": "2013-12-12T00:00:00.000Z",
+              "end_of_the_end": "2013-12-12T00:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://data.discovernewfields.org/collection/907-Contemporary",
+      "type": "Set",
+      "_label": "Collection of IMA at Newfields' Contemporary Department",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025976",
+          "type": "Type",
+          "_label": "collections (object groupings)"
+        }
+      ]
+    }
+  ],
   "referred_to_by": [
     {
-      "id": "https://sa/object/82696/credit-line",
+      "id": "https://data.discovernewfields.org/object/82696/credit-line",
       "type": "LinguisticObject",
       "_label": "IMA at Newfields Credit Line for the Object",
       "content": "Robert L. and Marjorie J. Mann Fund, Partial Gift of the Roy Lichtenstein Foundation",
@@ -98,7 +145,7 @@
       ]
     },
     {
-      "id": "https://sa/object/82696/provenance-statement",
+      "id": "https://data.discovernewfields.org/object/82696/provenance-statement",
       "type": "LinguisticObject",
       "_label": "IMA Provenance Statement about the Object",
       "content": "(Roy Lichtenstein Foundation, New York, New York); purchased by the Indianapolis Museum of Art in 2013.",
@@ -112,6 +159,34 @@
           "id": "http://vocab.getty.edu/aat/300418049",
           "type": "Type",
           "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "https://data.discovernewfields.org/object/82696/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Five Brushstrokes",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    },
+    {
+      "id": "https://data.discovernewfields.org/object/82696/object-number",
+      "type": "Identifier",
+      "_label": "IMA at Newfields Object Number for the Object",
+      "content": "2013.443A-E.4",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "accession numbers"
         }
       ]
     }
