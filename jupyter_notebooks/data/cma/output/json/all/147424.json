@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1973.167",
+  "type": "HumanMadeObject",
+  "_label": "Hercules and the Hydra",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.167/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Hercules and the Hydra",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.167/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "L. L. Neumann (London, England), 1919;; William Salomon, 1852-1919 (New York, New York), upon his death, held in trust by the estate.; Estate of William Salomon, sold in 1923;; Henry Walters, 1948-1931 (New York, New York), upon his death, by inheritance to his wife, Mrs. Henry Walters;; Mrs. Henry Walters, (New York, New York), 1941;; Mrs. Gaby Salomon (London, England), 1966-1973, sold to the Cleveland Museum of Art, 1973.; Dr. Kaufman;; Dr. Otto Wertheimer (Paris, France);; Herbert N. Bier (London, England)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.167/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1973.167",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1973.167/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1500s-early 1600s",
+        "begin_of_the_begin": "1575",
+        "end_of_the_end": "1675"
+      }
+    }
+  ]
+}

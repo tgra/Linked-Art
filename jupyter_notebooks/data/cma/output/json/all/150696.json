@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1982.127",
+  "type": "HumanMadeObject",
+  "_label": "Crucified Christ",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.127/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Crucified Christ",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.127/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Severo da Ravenna (Italian, c.1496-c.1543), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1982.127/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sold, Christie's, London, July 8, 1981, no. 342, to Paul Roseberg & Co.; Paul Rosenberg & Co. (New York, New York), sold to the Cleveland Museum of Art, 1982.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.127/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1982.127",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1982.127/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1500",
+        "begin_of_the_begin": "1495",
+        "end_of_the_end": "1505"
+      }
+    }
+  ]
+}

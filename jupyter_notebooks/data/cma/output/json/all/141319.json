@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1964.531",
+  "type": "HumanMadeObject",
+  "_label": "Cruet Stand",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.531/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Cruet Stand",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.531/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1964.531",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1964.531/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1790 - 1810 ?",
+        "begin_of_the_begin": "1785",
+        "end_of_the_end": "1815"
+      }
+    }
+  ]
+}

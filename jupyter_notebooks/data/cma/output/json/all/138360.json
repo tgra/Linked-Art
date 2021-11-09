@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1962.293",
+  "type": "HumanMadeObject",
+  "_label": "Landscape with Venus and Adonis",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.293/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Landscape with Venus and Adonis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.293/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gillis van Coninxloo (Netherlandish, 1544-1607), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1962.293/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Possibly Gillis van Coninxloo the Elder (inventory of January 19, 1607);; Possibly Jacques Kina (N. de Roever, \"De Coninxloo's,\" Oud Holland, III, 1885,42);; Possibly Anna de Schot (inventory of April 21, 1663; see J. Denuce, De Antwerpsche 'Konst-kamers' Inventarissen van Kunstverzamelingen te Antwerpen in de 16 en 17 Eeuwen, II, Amsterdam, 1932,238);; Henry Doetsch, London, 1895;; (Christie's, London, June 22-25,1895, no. 282, illus.);; M. Greene, London, 1932;; Harry Quilter, London, 1961;; [F. Kleinberger, New York], sold to the Cleveland Museum of Art, 1962.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.293/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1962.293",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1962.293/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1580s",
+        "begin_of_the_begin": "1580",
+        "end_of_the_end": "1589"
+      }
+    }
+  ]
+}

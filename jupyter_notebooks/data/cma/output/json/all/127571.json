@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1950.250",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of a Man, possibly Girolamo Rosati",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1950.250/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of a Man, possibly Girolamo Rosati",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1950.250/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Lorenzo Lotto (Italian, 1480-1556), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1950.250/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Imperial collection, Vienna;; - 1923            Kunsthistorisches Museum (Vienna, Austria), sold to Moritz Lindemann, 1923;; 1923              Moritz Lindemann (Vienna, Austria),sold to Wilhelm von Ofenheim, 1923;; 1923 - 1930   Wilhelm von Ofenheim, 1860-1930 (Vienna, Austria), upon his death, held in trust by his heirs, 1930;; 1930 - 1939   Von Ofenheim family trust, sold to Rosenberg and Stiebel, 1939;; [Rosenberg & Stiebel, New York], sold to the Cleveland Museum of Art, 1950.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1950.250/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1950.250",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1950.250/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1533\u201334",
+        "begin_of_the_begin": "1533",
+        "end_of_the_end": "1534"
+      }
+    }
+  ]
+}

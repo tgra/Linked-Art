@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1954.601",
+  "type": "HumanMadeObject",
+  "_label": "Adoration of the Magi",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1954.601/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Adoration of the Magi",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1954.601/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Giulio della Torre (Italian, c. 1481-bef 1563), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1954.601/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Possibly Marco Benavides, 1489-1582 (Padua, Italy); By 1899. Probably Count Friedrich von Pourtales, 1853-1928 (St. Petersburg, Russia, and Berlin, Germany).; by 1953 - 1954  Dr. Jacob Hirsch (New York, New York), sold to the Cleveland Museum of Art, 1954.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1954.601/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1954.601",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1954.601/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1500-1525",
+        "begin_of_the_begin": "1500",
+        "end_of_the_end": "1525"
+      }
+    }
+  ]
+}

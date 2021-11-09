@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1965.233",
+  "type": "HumanMadeObject",
+  "_label": "Twilight in the Wilderness",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.233/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Twilight in the Wilderness",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.233/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Frederic Edwin Church (American, 1826-1900), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1965.233/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "William T. Walters [1820-1894], Baltimore, MD, consigned to Samuel Putnam Avery for sale at Henry H. Leeds and Co. (1860-1864); (Henry H. Leeds and Co., New York, NY, Feb. 12-13, 1864) (1864); (Samuel Putnam Avery [1822-1904], New York, NY) (1864-1866); (Leeds and Minor at Old Dusseldorf Gallery, New York, NY, March 9, 1866, no. 174, sold to John Taylor Johnston) (1866); John Taylor Johnston [1820-1893], New York, NY (1866-1876); (Chickering Hall, John Taylor Johnston sale, Dec. 19-22, 1876, sold to John Work Garrett?) (1876); John Work Garrett [1820-1884], Baltimore, MD, by descent to his daughter, Mary E. Garrett? (1876-probably 1884); Mary E. Garrett [1854-1909], Baltimore, MD, sold to Robert de Forest (Probably 1884-at least 1902); Robert de Forest [1848-1931], Parkers Point, CT, by descent to his brother, Lockwood de Forest (After 1902-1931); Lockwood de Forest [1850-1932], Santa Barbara, CA, by descent to his son, Alfred Victor de Forest (1931-1932); Alfred Victor de Forest [1888-1945], Marlborough, NH, by descent to his son, Taber de Forest (1932-1945); Taber de Forest, Maine, sold to David McCoy (1945-early 1960s); David McCoy, Lyme, CT, sold to Robert Weimann (Early 1960s); Robert Weimann, Ansonia, CT, sold to the Cleveland Museum of Art (1962 or 1963-1965); The Cleveland Museum of Art, Cleveland, OH (1965-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.233/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1965.233",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1965.233/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1860",
+        "begin_of_the_begin": "1860",
+        "end_of_the_end": "1860"
+      }
+    }
+  ]
+}

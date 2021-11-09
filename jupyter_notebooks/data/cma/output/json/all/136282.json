@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1960.171",
+  "type": "HumanMadeObject",
+  "_label": "Bowls with Floral Sprays",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1960.171/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Bowls with Floral Sprays",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1960.171/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Harry C. Nail, Jr. [1909-1990], Palo Alto, CA, sold to Severance and Greta Millikin); Severance A. [1895-1985] and Greta Millikin [1903-1989], Cleveland, OH, given to the Cleveland Museum of Art (?-1960); The Cleveland Museum of Art, Cleveland, OH (1960-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1960.171/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1960.171",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1960.171/production/timespan",
+        "type": "TimeSpan",
+        "_label": "early 1700s",
+        "begin_of_the_begin": "1700",
+        "end_of_the_end": "1725"
+      }
+    }
+  ]
+}

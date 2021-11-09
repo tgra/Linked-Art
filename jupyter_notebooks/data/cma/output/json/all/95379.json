@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.1135",
+  "type": "HumanMadeObject",
+  "_label": "The Chofu Tama River in Musashi Province (from the series The Six Tama Rivers of the Floating World)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.1135/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Chofu Tama River in Musashi Province (from the series The Six Tama Rivers of the Floating World)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.1135/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Kitao Shigemasa (Japanese, 1739-1819), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.1135/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.1135",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1916.1135/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1770",
+        "begin_of_the_begin": "1765",
+        "end_of_the_end": "1775"
+      }
+    }
+  ]
+}

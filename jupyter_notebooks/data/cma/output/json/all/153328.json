@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1986.4",
+  "type": "HumanMadeObject",
+  "_label": "Untitled",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1986.4/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Untitled",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1986.4/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Barnett Newman (American, 1905-1970), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1986.4/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Barnett Newman [1905-1970], New York, NY, sold to Cleve and Francine du Plessix Gray, Warren, CT (1959-1961); Cleve [1918-2004] and Francine du Plessix [1930-2019] Gray, Warren, CT (1961-probably 1985); (Xavier Fourcade, New York, NY, sold to the Cleveland Museum of Art) (by 1985-1986); The Cleveland Museum of Art, Cleveland, OH (1986-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1986.4/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1986.4",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1986.4/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1959",
+        "begin_of_the_begin": "1959",
+        "end_of_the_end": "1959"
+      }
+    }
+  ]
+}

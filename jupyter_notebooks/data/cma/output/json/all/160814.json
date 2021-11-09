@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1999.126",
+  "type": "HumanMadeObject",
+  "_label": "Leaf from a Book of Hours: Initial D: Massacre of the Innocents (1 of 2 Excised Leaves)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.126/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Leaf from a Book of Hours: Initial D: Massacre of the Innocents (1 of 2 Excised Leaves)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.126/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "[Bruce Ferrini (1949-2010), Akron, OH, sold to Mrs. Jeanne Miles Blackburn]; Ms. Jeanne Miles Blackburn (Durham, NC), gifted to the Cleveland Museum of Art (?-1999); The Cleveland Museum of Art, Cleveland, OH (1999-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.126/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1999.126",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1999.126/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1300-1330",
+        "begin_of_the_begin": "1295",
+        "end_of_the_end": "1335"
+      }
+    }
+  ]
+}

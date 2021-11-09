@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1962.169",
+  "type": "HumanMadeObject",
+  "_label": "Piazza San Marco, Venice",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.169/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Piazza San Marco, Venice",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.169/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Bernardo Bellotto (Italian, 1721-1780), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1962.169/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "William, 2nd Earl of Craven [1809-1866], Combe Abbey, Warwickshire (by 1833); George Grimstone Craven, 3rd Earl of Craven [1841-1883], Combe Abbey, Warwickshire (1866-1883); William George Robert, 4th Earl of Craven [1868-1921], Combe Abbey, Warwickshire (1883-1921); Cornelia (nee Martin), Countess of Craven [1877-1961], Hamstead Marshall, Berkshire (1921-1961); (sale: Sotheby\u2019s, London, November 29, 1961, no. 42 [as by Canaletto]; purchased by Faroni); (1961)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.169/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1962.169",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1962.169/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1740",
+        "begin_of_the_begin": "1735",
+        "end_of_the_end": "1745"
+      }
+    }
+  ]
+}

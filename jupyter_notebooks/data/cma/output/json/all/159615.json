@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1996.346.4",
+  "type": "HumanMadeObject",
+  "_label": "Ouch! (Archery)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1996.346.4/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Ouch! (Archery)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1996.346.4/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Harold Eugene Edgerton (American, 1903-1990), artist; Palm Press, Inc., publisher",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1996.346.4/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The Harold and Esther Edgerton Family Foundation, Santa Fe, NM; The Cleveland Museum of Art, Cleveland, OH (December 2, 1996)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1996.346.4/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1996.346.4",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1996.346.4/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1934",
+        "begin_of_the_begin": "1934",
+        "end_of_the_end": "1934"
+      }
+    }
+  ]
+}

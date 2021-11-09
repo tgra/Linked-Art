@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1988.57",
+  "type": "HumanMadeObject",
+  "_label": "Countess Sz\u00e9chenyi",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1988.57/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Countess Sz\u00e9chenyi",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1988.57/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ferdinand Georg Waldm\u00fcller (Austrian, 1793-1865), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1988.57/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Possibly Dr. Izidor Deutsch [d. 1906], Budapest (Before 1906); Maximilian Mauthner, Schloss Feistritz, Wechsel, Austria (Probably until 1925); (Sale, Dorotheum, Vienna, June 15, 1925, lot 69) (1925); Possibly Dr. Paul Eger [1881-1947], Basel (Before 1940); (Sale, Galerie Fischer, Lucerne, Nov. 7-9, 1940, lot 1250, sold to Galerie Nathan) (1940); (Galerie Nathan, Z\u00fcrich) (1940-); (Erich von Kreibig, Munich) (By 1970); (Sale, Neumeister, Munich, Sept. 20-22, 1972, lot 1689 (1972); (Galerie Gr\u00fcnwald, Munich) (From 1972?); Private collection, Munich (By 1987?); (David Carritt, Ltd./Artemis Group, London, and Galerie Sanct Lucas, Vienna, sold to the Cleveland Museum of Art) (1988); The Cleveland Museum of Art, Cleveland, OH (1988-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1988.57/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1988.57",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1988.57/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1828",
+        "begin_of_the_begin": "1828",
+        "end_of_the_end": "1828"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1974.31",
+  "type": "HumanMadeObject",
+  "_label": "Birds Gather under the Spring Willow",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.31/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Birds Gather under the Spring Willow",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.31/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Yin Hong (Chinese, c. 1430-c. 1500), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1974.31/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Marquis Yoshitaka Satake \u4faf\u7235 \u4f50\u7af9\u7fa9\u7406 [1858\u20131914] (?-November 1917); (Fugendo Co., Ltd., Tokyo, Japan, sold to the Cleveland Museum of Art) (?-1974); The Cleveland Museum of Art, Cleveland, OH (1974-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.31/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1974.31",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1974.31/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1400s-early 1500",
+        "begin_of_the_begin": "1480",
+        "end_of_the_end": "1510"
+      }
+    }
+  ]
+}

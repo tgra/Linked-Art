@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2008.365",
+  "type": "HumanMadeObject",
+  "_label": "Two Standing Figures (Study for the Left Section of The Mission of the Apostles)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.365/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Two Standing Figures (Study for the Left Section of The Mission of the Apostles)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.365/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Hippolyte Jean Flandrin (French, 1809-1864), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2008.365/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Estate of the artist (Lugt 933, lower right, in black ink); [probably artist's studio sale, H\u00f4tel Drouot, Paris (15-17 May 1865), part of no. 113 (this lot went to Haroa for 650 francs)]. [Shepherd Gallery, New York]; purchased in 1977.; a. According to an inscription in an album of drawings by Michel-Martin Drolling, Haro was a \"Restaurateur de tableaux, Neveu et El\u00e9ve de M. Rey\" whose shop, \"Au g\u00e9nie des arts,\" was at 30 rue du Colombier; see De Corot aux impressionnistes, donations Moreau-Nelaton, exh. cat., Grand Palais, Paris (R\u00e9union des Mus\u00e9es Nationaux, 1991), no. 301.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.365/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2008.365",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2008.365/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1860",
+        "begin_of_the_begin": "1860",
+        "end_of_the_end": "1860"
+      }
+    }
+  ]
+}

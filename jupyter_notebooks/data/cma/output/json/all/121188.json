@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1942.1065",
+  "type": "HumanMadeObject",
+  "_label": "Romaine Lacaux",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.1065/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Romaine Lacaux",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.1065/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Pierre-Auguste Renoir (French, 1841-1919), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1942.1065/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Lacaux family, Paris, France; Edmond Decap, Paris, France, by descent to Mme. Maruice Barret-Decap; Mme. Maurice Barret-Decap, Paris, France (-1929); (Drouot, Paris, France, December 12, 1929, lot 12, Barret-Decap Sale, sold to Roger Berheim) (1929-1941); (Roger Bernheim, Paris, France, sold to Jacques Seligmann & Co.,) (by 1941); (Jacques Seligmann & Co., New York, NY, December 2, 1941, sold to the Cleveland Museum of Art) (1941-1942); The Cleveland Museum of Art, Cleveland, OH (1942-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.1065/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1942.1065",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1942.1065/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1864",
+        "begin_of_the_begin": "1864",
+        "end_of_the_end": "1864"
+      }
+    }
+  ]
+}

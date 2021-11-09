@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1967.23",
+  "type": "HumanMadeObject",
+  "_label": "Peasants at the Edge of a Wood",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1967.23/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Peasants at the Edge of a Wood",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1967.23/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jacob van Mosscher (Dutch, 1655), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1967.23/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Edward George Spencer-Churchill, Northwick Park and Cheltenham; Coghlan Briscoe, Dublin; J.H.J. Mellaart; Hendrikus Egbertus ten Cate, Almelo; [C. G. Boerner, Inc., D\u00fcsseldorf] (1966    ); Edward George Spencer-Churchill, Northwick Park and Cheltenham (L. Suppl. 2709a, not stamped) (according to Boerner cat. Nov. 1966, no. 64).  Coghlan Briscoe, Dublin (L. Suppl. 347c, not stamped) (according to Boerner cat. Nov. 1966, no. 64).  J.H.J. Mellaart (not stamped, not in Lugt) (according to Hannema 1955, vol. 1, p. 148, cat. no. 264).  Hendrikus Egbertus ten Cate, Almelo (L. Suppl. 533b, not stamped, D. Hannema, Catalogue of the H.E. ten Cate Collection, 2 vols. (Rotterdam, 1955), vol. 1, p. 148, cat. no. 264, vol. 2, pl. 95). [C. G. Boerner, Inc., D\u00fcsseldorf] (cat. Jan. 1966, no. 21, pl. 8; cat. Nov. 1966, no. 64, pl. 36)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1967.23/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1967.23",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1967.23/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1630",
+        "begin_of_the_begin": "1625",
+        "end_of_the_end": "1635"
+      }
+    }
+  ]
+}

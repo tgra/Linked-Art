@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1995.199.24.c",
+  "type": "HumanMadeObject",
+  "_label": "Camera Work: Still Life [Flowering Shrub in Glass]",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.199.24.c/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Camera Work: Still Life [Flowering Shrub in Glass]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.199.24.c/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Baron Adolph de Meyer (American, 1868-1949), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.199.24.c/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1995.199.24.c",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1995.199.24.c/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1908",
+        "begin_of_the_begin": "1908",
+        "end_of_the_end": "1908"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1925.654",
+  "type": "HumanMadeObject",
+  "_label": "Fragment",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1925.654/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Fragment",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1925.654/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1925.654",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1925.654/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1100-1400",
+        "begin_of_the_begin": "1100",
+        "end_of_the_end": "1400"
+      }
+    }
+  ]
+}

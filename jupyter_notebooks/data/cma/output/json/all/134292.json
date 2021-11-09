@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1956.754.c",
+  "type": "HumanMadeObject",
+  "_label": "The Matsukaze Chapter of the Tale of Genji (from the series The Tale of Genji in Elegant Modern Dress)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1956.754.c/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Matsukaze Chapter of the Tale of Genji (from the series The Tale of Genji in Elegant Modern Dress)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1956.754.c/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ch\u014dbunsai Eishi (Japanese, 1756-1829), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1956.754.c/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Hayashi Tadamasa; Julio E. van Canegham (sale: Walpole Galleries, March 3, 1921, lot 242)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1956.754.c/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1956.754.c",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1956.754.c/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1791",
+        "begin_of_the_begin": "1786",
+        "end_of_the_end": "1796"
+      }
+    }
+  ]
+}

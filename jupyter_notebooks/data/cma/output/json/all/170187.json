@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2012.38.c",
+  "type": "HumanMadeObject",
+  "_label": "Field Armor in Maximilian Style: Breastplate with Fauld and Mail Skirt",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2012.38.c/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Field Armor in Maximilian Style: Breastplate with Fauld and Mail Skirt",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2012.38.c/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "William Randolph Hearst;  Sotheby's London (June 9, 1961), lot 153; David Norton Yerkes, Washington, D.C.; to his daughter, Catharine Y. Kulski [by inheritance]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2012.38.c/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2012.38.c",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2012.38.c/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1510\u201315",
+        "begin_of_the_begin": "1505",
+        "end_of_the_end": "1520"
+      }
+    }
+  ]
+}

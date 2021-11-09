@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1978.26",
+  "type": "HumanMadeObject",
+  "_label": "Frame for a Portable Reliquary Icon",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1978.26/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Frame for a Portable Reliquary Icon",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1978.26/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Blumka Gallery, New York).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1978.26/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1978.26",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1978.26/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1347",
+        "begin_of_the_begin": "1347",
+        "end_of_the_end": "1347"
+      }
+    }
+  ]
+}

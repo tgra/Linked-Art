@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2021.146",
+  "type": "HumanMadeObject",
+  "_label": "Fishermen Plate",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.146/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Fishermen Plate",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.146/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "James A. Garland [1840\u20131900], New York, NY; J. P. Morgan [1837\u20131913] (?\u20131913); (Duveen Brothers, New York, NY) (1913); (Christie\u2018s London, April 1990 sale) (April 1990); Dr. Anton C.R. Dreesmann [1923\u20132000], The Netherlands (1990\u20132000); (Christie\u2019s Amsterdam, April 16, 2002 sale) (April 16, 2002); Private collection, The Netherlands (2002?\u20132018); Vanderven Oriental Art, \u2019s-Hertogenbosch, The Netherlands (2018\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.146/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2021.146",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2021.146/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1730",
+        "begin_of_the_begin": "1725",
+        "end_of_the_end": "1735"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2009.583",
+  "type": "HumanMadeObject",
+  "_label": "Donkey Ride",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.583/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Donkey Ride",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.583/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Pierre Bonnard (French, 1867-1947), artist; Crevel Fr\u00e8res (French, 19th century), printer; E. Fremont (French, 19th century), publisher",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2009.583/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Barbara Davidson Fine Art, Seattle, sold to Mr. John Bonebrake, Cleveland, OH) (?-1988); Mr. John Bonebrake, Cleveland, OH, given to the Cleveland Museum of Art, Cleveland, OH (1988-2009); Cleveland Museum of Art, Cleveland, OH (2009-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.583/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2009.583",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2009.583/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1893",
+        "begin_of_the_begin": "1893",
+        "end_of_the_end": "1893"
+      }
+    }
+  ]
+}

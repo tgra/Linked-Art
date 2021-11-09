@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1995.209",
+  "type": "HumanMadeObject",
+  "_label": "Wine Warmer (Jue)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.209/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Wine Warmer (Jue)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.209/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1995.209",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1995.209/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1300-1023 BC",
+        "begin_of_the_begin": "-1300",
+        "end_of_the_end": "-1023"
+      }
+    }
+  ]
+}

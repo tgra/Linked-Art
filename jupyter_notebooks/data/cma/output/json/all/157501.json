@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1994.4",
+  "type": "HumanMadeObject",
+  "_label": "Boy Drinking",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1994.4/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Boy Drinking",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1994.4/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Annibale Carracci (Italian, c. 1560-1609), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1994.4/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Lord Bateman, Shobdon Court, Herfordshire, England; [Sale: The Property of the Rt. Hon. Lord Bateman, Christie's London, April 11, 1896, lot 145 as Velazquez] (April 11, 1986); John Hill Wood (1813-1869), Gatehead, Yorkshire, England, by inheritance to his son Sir John Wood 1st Bt. (1896-); Sir John Wood 1st Bt. (1857-1951), Hengrave Hall, Bury St. Edmonds, Suffolk (-1951); [Sale: The Contents of Hengrave Hall, Knight, Frank and Rutley, London, September 15-25, 1952, lot 1686] (September 15-25, 1952); L. J. King, Esq., Dorchester, Dorset, by inheritance to his wife, Mrs. Mary King; Mrs. Mary King, Dorchester, Dorset, England (1952-1984); [Sale: Lawrence\u2019s of Crewkerne, England] (1984); [Sale: Old master Drawings and 17th, 18th and 19th century Oil Paintings, Bonhams, London, July 11, 1985, lot 5] (July 11, 1985); [Harari and [Derek] Johns, London, England, sold to Peter Jay Sharp] (1985-); Peter Jay Sharp (1931-1992), New York, NY (-1992); [Sale: The Estate Of Peter Jay Sharp, Sotheby's New York, January 13, 1994, lot 70, to the Cleveland Museum of Art] (January 13, 1994); The Cleveland Museum of Art, Cleveland, OH (1994-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1994.4/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1994.4",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1994.4/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1582\u201383",
+        "begin_of_the_begin": "1578",
+        "end_of_the_end": "1589"
+      }
+    }
+  ]
+}

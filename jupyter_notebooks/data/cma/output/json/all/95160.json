@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1915.673",
+  "type": "HumanMadeObject",
+  "_label": "Zhang (Ceremonial Blade)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1915.673/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Zhang (Ceremonial Blade)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1915.673/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1915.673",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1915.673/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 2500-1500 BC",
+        "begin_of_the_begin": "-2500",
+        "end_of_the_end": "-1500"
+      }
+    }
+  ]
+}

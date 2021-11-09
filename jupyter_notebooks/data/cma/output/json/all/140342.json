@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1964.292",
+  "type": "HumanMadeObject",
+  "_label": "Mme. Dufresne",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.292/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Mme. Dufresne",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.292/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Pierre-Paul Prud'hon (French, 1758-1823), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1964.292/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Studio of the artist (c. 1816 - 1823); Charles Boulanger de Boisfremont [1773-1838], probably bequeathed to his daughter, Henri Power (Probably 1823 - 1838); Probably Henri Power [d. 1864], probably to Charles Boulanger de Boisfremont fils (Probably 1838 - 1864); Probably Charles Boulanger de Boisfremont fils (Probably 1864 - 1870); (Boisfremont fils sale, H\u00f4tel Drouot, Paris, April 9, 1870, no. 8, sold to Monsieur de Norzy) (1870); Monsieur de Norzy (1870 - by 1874); M. Jeanne-Deslandes (By 1874); (Sale, H\u00f4tel Drouot, Paris, April 24, 1886, no. 52) (1886); Collection Henri Rochefort [1831-1913], Paris (By 1887); Paul-Arthur Ch\u00e9ramy [1840-1912], Paris (Until 1908); (Ch\u00e9ramy sale, Galerie Georges Petit, Paris, May 5-7, 1908, no. 95, bought in) (1908); Probably Paul-Arthur Ch\u00e9ramy [1840-1912], Paris (1908-1912); (Ch\u00e9ramy estate sale, H\u00f4tel Drouot, Paris, April 14-16, 1913, no. 391, sold to Jacob) (1913); Jacob (1913-); David David-Weill [1871-1952], Paris (By 1922 - at least 1937); Irwin Laughlin [1871-1941], Washington, D.C. (Probably until 1941); (Laughlin sale, Sotheby's, London, June 10, 1959, lot 123, possibly sold to Betts on behalf of Clifford Duits) (1959); Severance A. [1895-1989] and Greta Millikin [1903-1989], Cleveland, OH, given to the Cleveland Museum of Art (1963-1964); The Cleveland Museum of Art, Cleveland, OH (1964-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.292/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1964.292",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1964.292/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1816",
+        "begin_of_the_begin": "1811",
+        "end_of_the_end": "1821"
+      }
+    }
+  ]
+}

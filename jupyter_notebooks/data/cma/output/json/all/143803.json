@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1968.23",
+  "type": "HumanMadeObject",
+  "_label": "Samson and Delilah",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1968.23/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Samson and Delilah",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1968.23/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gerrit van Honthorst (Dutch, 1590-1656), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1968.23/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Possibly March\u00e9se Tommaso Raggi [1595/6-1676], Genoa and Rome, and descendents (After 1621-at least 1701); [possibly] in the collection of the Ruspoli family, Rome, until sold to an art dealer (before 1967); (Dealer, Rome, sold to the Hazlitt Gallery) (until 1967); (Hazlitt Gallery, London, sold to the Cleveland Museum of Art) (Until 1968); The Cleveland Museum of Art, Cleveland, Ohio (1968-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1968.23/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1968.23",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1968.23/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1616",
+        "begin_of_the_begin": "1615",
+        "end_of_the_end": "1617"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2009.81",
+  "type": "HumanMadeObject",
+  "_label": "Saint Peter of Alc\u00e1ntara",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.81/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Saint Peter of Alc\u00e1ntara",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.81/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Pedro de Mena (Spanish, 1628-1688), artist; Workshop, artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2009.81/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "By repute Alameda de Osu\u00f1a Palace, Spain (1800s); Bauer Collection, Spain; Ignacio Zuloaga (1870-1945), Madrid, Spain, sold or gifted to a Private Collector; Spanish Private Collector, through inheritance passed down generations, sold to the Cleveland Museum of Art (-2009); The Cleveland Museum of Art, Cleveland, OH (2009-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.81/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2009.81",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2009.81/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1663-1670",
+        "begin_of_the_begin": "1628",
+        "end_of_the_end": "1675"
+      }
+    }
+  ]
+}

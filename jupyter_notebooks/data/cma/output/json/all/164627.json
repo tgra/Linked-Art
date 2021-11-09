@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2006.136",
+  "type": "HumanMadeObject",
+  "_label": "Lotus-blossom petal canopy",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2006.136/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Lotus-blossom petal canopy",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2006.136/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Christie's New York, March 25, 2004, no. 55); Textile Gallery, London",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2006.136/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2006.136",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2006.136/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1500s-early 1600s",
+        "begin_of_the_begin": "1500",
+        "end_of_the_end": "1625"
+      }
+    }
+  ]
+}

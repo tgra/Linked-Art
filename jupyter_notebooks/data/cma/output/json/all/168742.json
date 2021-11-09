@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2010.447",
+  "type": "HumanMadeObject",
+  "_label": "Scepter",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2010.447/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Scepter",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2010.447/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Ren\u00e9 De Wolf, Brussels, BE, before 1972, sold to Ren\u00e9 and Odette Delenne) (?-1972); Ren\u00e9 [1901-1998] and Odette Delenne [1925-2012], Brussels, BE, 2010, sold to the Cleveland Museum of Art (1972-2010); The Cleveland Museum of Art, Cleveland, OH, 2010 (2010)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2010.447/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2010.447",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2010.447/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1800s-early 1900s",
+        "begin_of_the_begin": "1880",
+        "end_of_the_end": "1920"
+      }
+    }
+  ]
+}

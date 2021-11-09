@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1951.277",
+  "type": "HumanMadeObject",
+  "_label": "View of a Castle (recto); Eight-Sided Cup (verso)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1951.277/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "View of a Castle (recto); Eight-Sided Cup (verso)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1951.277/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Wolfgang Huber (Austrian, 1490-1553), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1951.277/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Arnold Otto Meyer, Hamburg (1825-1903), Lugt 1994 (not stamped) (?-1914); his sale, C. G. Boerner, Leipzig, 19-20 March 1914, no. 300 (1914); Art market, 1930 (according to Halm 1930, 4); Collection Prince Franz Josef II von Liechtenstein (1906-1989), Vienna (?-ca. 1950); with Kunsthandlung Walter Feilchenfeldt, Zurich (1950)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1951.277/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1951.277",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1951.277/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1513",
+        "begin_of_the_begin": "1513",
+        "end_of_the_end": "1513"
+      }
+    }
+  ]
+}

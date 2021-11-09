@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1998.151",
+  "type": "HumanMadeObject",
+  "_label": "Grain Pot",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1998.151/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Grain Pot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1998.151/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1998.151",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1998.151/production/timespan",
+        "type": "TimeSpan",
+        "_label": "mid 1900s",
+        "begin_of_the_begin": "1930",
+        "end_of_the_end": "1970"
+      }
+    }
+  ]
+}

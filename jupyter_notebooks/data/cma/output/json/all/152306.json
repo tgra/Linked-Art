@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1985.171",
+  "type": "HumanMadeObject",
+  "_label": "The Death of Procris",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.171/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Death of Procris",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.171/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Giorgio Ghisi (Italian, 1520-1582), artist; Giulio Romano (Italian, 1492/99-1546), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1985.171/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Viti-Antaldi (16th-19th centuries)?, Urbino and Pesaro, script (Lugt 2246), lower left, in pen and brown ink [script very similar, but not exactly like Lugt]; unknown collector, Australia",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.171/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1985.171",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1985.171/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1540",
+        "begin_of_the_begin": "1535",
+        "end_of_the_end": "1545"
+      }
+    }
+  ]
+}

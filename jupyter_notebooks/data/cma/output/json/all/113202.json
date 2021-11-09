@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1932.227",
+  "type": "HumanMadeObject",
+  "_label": "The Holy Family with Saint John the Baptist and Saint Margaret",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1932.227/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Holy Family with Saint John the Baptist and Saint Margaret",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1932.227/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Filippino Lippi (Italian, 1457-1504), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1932.227/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Caraffa family, Palazzo Sant'Angelo, Naples (1858-1898); Mrs. Samuel D. Warren, Boston (1898); Edward Warren, Lewes House, England (1928); H. A. Thomas (1929); Harry Woodbury Parsons, sold to the Cleveland Museum of Art. (1932); The Cleveland Museum of Art, Cleveland, OH (1932-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1932.227/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1932.227",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1932.227/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1495",
+        "begin_of_the_begin": "1490",
+        "end_of_the_end": "1500"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1962.287.2.b",
+  "type": "HumanMadeObject",
+  "_label": "The Gotha Missal:  Fol. 2v, Text ",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.287.2.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Gotha Missal:  Fol. 2v, Text ",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.287.2.b/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Master of the Boqueteaux (French), artist; Workshop, artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1962.287.2.b/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "J. B. Huhn (1720    ); Dukes of Gotha (1745    ); Earl of Denbigh, Sale: Southey's, 4/3/1950, Lot 1 (1950    ); Apsley Cherry-Garrard; Mrs. Gordon Mathias, Sale: Southey's 6/5/1961, lot 177) (1961    ); H. P. Kraus, New York, NY, sold to the Cleveland Museum of Art (-1962); The Cleveland Museum of Art, Cleveland, Oh (1962-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.287.2.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1962.287.2.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1962.287.2.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1375",
+        "begin_of_the_begin": "1370",
+        "end_of_the_end": "1380"
+      }
+    }
+  ]
+}

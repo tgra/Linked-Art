@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1921.1276",
+  "type": "HumanMadeObject",
+  "_label": "Clear Weather after Snow at Matsuchiyama, from the series Famous Places in the Eastern Capital",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1921.1276/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Clear Weather after Snow at Matsuchiyama, from the series Famous Places in the Eastern Capital",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1921.1276/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Utagawa Hiroshige (Japanese, 1797-1858), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1921.1276/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "William S. And John T. Spaulding (sale: American Art Association, November 16, 1921, lot 147); (Yamanaka & Co.)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1921.1276/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1921.1276",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1921.1276/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1830s or early 1840s",
+        "begin_of_the_begin": "1838",
+        "end_of_the_end": "1844"
+      }
+    }
+  ]
+}

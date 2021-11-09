@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1929.441",
+  "type": "HumanMadeObject",
+  "_label": "Statuette of a Youth",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1929.441/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Statuette of a Youth",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1929.441/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Said to be from Southern Italy;  purchased through Harold Parsons from Dr. Jacob Hirsch, New York (According to Dr. Hirsch's notebook. R. Howard, file note, 6/28/29.)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1929.441/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1929.441",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1929.441/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 520-500 BC",
+        "begin_of_the_begin": "-520",
+        "end_of_the_end": "-500"
+      }
+    }
+  ]
+}

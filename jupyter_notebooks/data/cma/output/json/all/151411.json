@@ -1,0 +1,38 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1983.247",
+  "type": "HumanMadeObject",
+  "_label": "Fragment of Decorative Band",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1983.247/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Fragment of Decorative Band",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1983.247/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1983.247",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

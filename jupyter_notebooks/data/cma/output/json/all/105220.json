@@ -1,0 +1,57 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1923.412",
+  "type": "HumanMadeObject",
+  "_label": "Dispute between Luther and a Catholic Theologian",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1923.412/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Dispute between Luther and a Catholic Theologian",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1923.412/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Hans Sebald Beham (German, 1500-1550), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1923.412/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1923.412",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

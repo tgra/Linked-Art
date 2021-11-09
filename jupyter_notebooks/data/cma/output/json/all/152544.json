@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1985.360",
+  "type": "HumanMadeObject",
+  "_label": "Act VII from the series The Storehouse of Loyal Retainers",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.360/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Act VII from the series The Storehouse of Loyal Retainers",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.360/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Kitagawa Utamaro (Japanese, 1753?-1806), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1985.360/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Philippe R. Stoclet, consigned for sale at Sotheby & Co. (?-1965); (Sotheby & Co., May 1965 sale, lot 139) (May 1965); Edith Ehrman, consigned for sale at Sotheby Parke Bernet (1965?-1975); (Sotheby Parke Bernet, June 17, 1975 sale, lot 122) (June 17, 1975); (R. E. Lewis, Inc., California, sold to Mr. and Mrs. Kelvin Smith) (after 1975-?); The Kelvin Smith Collection, Cleveland, OH, given by Mrs. Kelvin [Eleanor Armstrong] Smith [1899-1998] to the Cleveland Museum of Art (?-1985); The Cleveland Museum of Art, Cleveland, OH (1985-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.360/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1985.360",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1985.360/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1801-2",
+        "begin_of_the_begin": "1801",
+        "end_of_the_end": "1802"
+      }
+    }
+  ]
+}

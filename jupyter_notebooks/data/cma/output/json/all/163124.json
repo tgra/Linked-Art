@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2004.1.26",
+  "type": "HumanMadeObject",
+  "_label": "Album of Daoist and Buddhist Themes: Procession of Daoist Deities: Leaf 26",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2004.1.26/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Album of Daoist and Buddhist Themes: Procession of Daoist Deities: Leaf 26",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2004.1.26/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Wang Hui \u738b\u7fec [1632\u20131717]; Li Jiale \u674e\u5609\u6a02 [jinshi of 1863]; Dr. F. R. (Fredrik Robert) Martin [1868\u20131933], Stockholm, Sweden, and Munich, Germany (1910-?); Mrs. L. M. Morris [20th century], England (?-1947); (Sotheby's, London, sale, 25 March 1947, lot 118, sold to Stephen Junkunc III) (1947); Istv\u00e1n \u201cStephen\" Junkunc III [1904-1978], by descent to his son Stephen Junkunc IV (1947-78); (Stephen Junkunc IV [b. 1937], Miami, FL, sold to the Cleveland Museum of Art) (1978-2004); The Cleveland Museum of Art, Cleveland, OH (2004-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2004.1.26/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2004.1.26",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2004.1.26/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1200s",
+        "begin_of_the_begin": "1200",
+        "end_of_the_end": "1299"
+      }
+    }
+  ]
+}

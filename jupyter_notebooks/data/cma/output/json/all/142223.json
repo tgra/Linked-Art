@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1965.76",
+  "type": "HumanMadeObject",
+  "_label": "Winter Night in a Dutch Town",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.76/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Winter Night in a Dutch Town",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.76/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jacob Cats (Dutch, 1741-1799), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1965.76/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sir Mark Masterman Sykes, Sledmere House and Settrington, Yorkshire (Lugt 1897, verso, lower left, inscribed in brown ink: MMS). Hendrikus Egbertus ten Cate, Almelo (Lugt 533b, not stamped; verso, lower left, inscribed in graphite: Coll. ten Cate Nr. 195 / [75?].116 ; listed in D. Hannema, Catalogue of the H. E. ten Cate Collection, Rotterdam, 1955, p. 116, no. 195, according to departmental card). [Nathan Chaikin, New York]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.76/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1965.76",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1965.76/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1797",
+        "begin_of_the_begin": "1797",
+        "end_of_the_end": "1797"
+      }
+    }
+  ]
+}

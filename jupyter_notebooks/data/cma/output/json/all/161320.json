@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1999.87.2",
+  "type": "HumanMadeObject",
+  "_label": "Arched Fibulae (2 of 2)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.87.2/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Arched Fibulae (2 of 2)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.87.2/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1999.87.2",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1999.87.2/production/timespan",
+        "type": "TimeSpan",
+        "_label": "725-675 BC",
+        "begin_of_the_begin": "-725",
+        "end_of_the_end": "-675"
+      }
+    }
+  ]
+}

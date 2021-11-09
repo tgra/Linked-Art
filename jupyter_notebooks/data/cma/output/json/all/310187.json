@@ -1,0 +1,65 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2018.33.6",
+  "type": "HumanMadeObject",
+  "_label": "The Bad Air Smelled of Roses: Meat Me at the Edge of the Repressed Barrier",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.33.6/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Bad Air Smelled of Roses: Meat Me at the Edge of the Repressed Barrier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.33.6/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Carl Pope Jr. (American, b. 1961), artist; Tribune Showprint, printer",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.33.6/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2018.33.6",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2018.33.6/production/timespan",
+        "type": "TimeSpan",
+        "_label": "2004-ongoing",
+        "begin_of_the_begin": "2004"
+      }
+    }
+  ]
+}

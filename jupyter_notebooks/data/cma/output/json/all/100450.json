@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1919.9",
+  "type": "HumanMadeObject",
+  "_label": "Lampas with undulating vines and lions",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1919.9/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Lampas with undulating vines and lions",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1919.9/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Henry Daguerre, New York.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1919.9/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1919.9",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1919.9/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1400s - early 1500s",
+        "begin_of_the_begin": "1475",
+        "end_of_the_end": "1525"
+      }
+    }
+  ]
+}

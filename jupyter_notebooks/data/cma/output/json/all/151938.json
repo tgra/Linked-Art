@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1984.220",
+  "type": "HumanMadeObject",
+  "_label": "Head of a Bodhisattva",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1984.220/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Head of a Bodhisattva",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1984.220/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Robert H. Ellsworth [1929\u20132014], New York, NY, given to the Cleveland Museum of Art (?\u20131984); The Cleveland Museum of Art, Cleveland, OH (1984\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1984.220/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1984.220",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1984.220/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1st - early 2nd century",
+        "begin_of_the_begin": "50",
+        "end_of_the_end": "149"
+      }
+    }
+  ]
+}

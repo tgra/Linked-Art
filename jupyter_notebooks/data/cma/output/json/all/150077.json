@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1980.282",
+  "type": "HumanMadeObject",
+  "_label": "Lazarillo de Tormes and His Blind Master",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.282/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Lazarillo de Tormes and His Blind Master",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.282/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Th\u00e9odule Ribot (French, 1823-1891), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1980.282/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(E. Oppenheim sale, H\u00f4tel Drouot, May 11, 1897, no. 22, unsold (1897); (Possibly Bernheim-Jeune, Paris) (1911); (Sale, Galerie Georges Petit, Paris, December 4-5, 1918, no. 8) (1918); (H\u00f4tel Drouot, Nov. 7, 1973 [no lot number, reproduced on page 3], sold to Peter Wengraf on behalf of Noah L. and Muriel S. Butkin) (1973); Noah L. [1918-1980] and Muriel S. Butkin [1915-2008], Cleveland, OH, bequeathed to the Cleveland Museum of Art as a result of disclaimer by Muriel S. Butkin (1973-1980); The Cleveland Museum of Art, Cleveland, OH (1980-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.282/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1980.282",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1980.282/production/timespan",
+        "type": "TimeSpan",
+        "_label": "before 1880",
+        "begin_of_the_begin": "1870",
+        "end_of_the_end": "1880"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1943.559",
+  "type": "HumanMadeObject",
+  "_label": "A Mediterranean Harbor",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1943.559/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "A Mediterranean Harbor",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1943.559/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Adrian van der Cabel (Dutch, 1631-1705), artist; Nicolas Robert, publisher",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1943.559/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Heinrich Friedrich de la Motte-Fouquet (1795-1874), Cologne, stamp (Lugt 778), verso, lower left, in blue ; Rudolf Peltzer (1825-1910), Cologne, stamp (Lugt 2231), verso, lower right, in purple. purchased from (Frederick Keppel & Co.)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1943.559/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1943.559",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1943.559/production/timespan",
+        "type": "TimeSpan",
+        "_label": "2nd half 1600s",
+        "begin_of_the_begin": "1650",
+        "end_of_the_end": "1700"
+      }
+    }
+  ]
+}

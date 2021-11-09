@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1998.168",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of Lisa Colt Curtis",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1998.168/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of Lisa Colt Curtis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1998.168/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "John Singer Sargent (American, 1856-1925), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1998.168/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The Cleveland Museum of Art, Cleveland, Ohio (1998-); (Christie\u2019s, New York, Dec. 29, 1998, private treaty sale to the Cleveland Museum of Art) (1998); Patricia Curtis Vigan\u00f2, Venice, Italy; Lisa Marjorie Curtis de Beaumont, France; and Ralph D. Curtis, Venice, Italy (Probably 1973 - probably 1998); Ralph Wormeley Curtis, Jr. [1909-1973] Venice, Italy, and Paris, France, by descent to his children Patricia Curtis Vigan\u00f2, Lisa Marjorie Curtis de Beaumont, and Ralph D. Curtis (Probably 1936 - probably 1973); Sylvia Curtis Steinert [1899-1981], Paris and Saint-Jean-Cap-Ferrat, France, to her brother, Ralph Wormeley Curtis, Jr. (Probably 1933 - probably 1936); Ralph Wormeley Curtis [1854-1922] and Lisette De Wolf Colt Curtis [1867-1933], Paris and Saint-Jean-Cap-Ferrat, France, probably by descent to their daughter Sylvia Curtis Steinert (1898 - probably 1933)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1998.168/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1998.168",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1998.168/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1898",
+        "begin_of_the_begin": "1898",
+        "end_of_the_end": "1898"
+      }
+    }
+  ]
+}

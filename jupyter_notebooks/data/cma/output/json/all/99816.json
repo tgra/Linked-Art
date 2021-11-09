@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1919.38",
+  "type": "HumanMadeObject",
+  "_label": "Columnar Figure of an Apostle",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1919.38/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Columnar Figure of an Apostle",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1919.38/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1919.38",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1919.38/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1180",
+        "begin_of_the_begin": "1175",
+        "end_of_the_end": "1185"
+      }
+    }
+  ]
+}

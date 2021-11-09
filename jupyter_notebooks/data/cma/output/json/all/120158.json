@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1940.936",
+  "type": "HumanMadeObject",
+  "_label": "Globular Vase with Long Neck",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.936/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Globular Vase with Long Neck",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.936/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1940.936",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1940.936/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1661-1722",
+        "begin_of_the_begin": "1661",
+        "end_of_the_end": "1722"
+      }
+    }
+  ]
+}

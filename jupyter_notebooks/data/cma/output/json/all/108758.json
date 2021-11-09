@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1926.441",
+  "type": "HumanMadeObject",
+  "_label": "An Assembly of Scholars",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1926.441/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "An Assembly of Scholars",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1926.441/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Marco Dente (Italian, c. 1486-1527), artist; Francesco Salviati (Italian, 1510-1563), designed by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1926.441/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "William Esdaile (1758-1837), London, script (Lugt 2617), verso, lower right, and lower left, in pen and brown ink ; unknown collector, stamp (C[reversed]C, with a '--' across the center where they meet),  verso, lower left, in purple ; unknown collector, stamp (rectangle, interior markings illegible), verso, lower left,  in red ; purchased from (Kennedy & Co., NY)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1926.441/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1926.441",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1926.441/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1515/1527",
+        "begin_of_the_begin": "1515",
+        "end_of_the_end": "1527"
+      }
+    }
+  ]
+}

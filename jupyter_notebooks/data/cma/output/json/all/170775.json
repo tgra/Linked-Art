@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2013.287",
+  "type": "HumanMadeObject",
+  "_label": "Sultan Abdullah Qutb Shah (1614-74) on Horseback",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.287/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Sultan Abdullah Qutb Shah (1614-74) on Horseback",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.287/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Collection of Hagop Kevorkian (1872\u20131962), New York, before 1962; Sotheby\u2019s London, Important Oriental Manuscripts and Miniatures: The Property of the Kevorkian Foundation, 12 April 1976, lot 137; Christie\u2019s, London, Islamic Art and Indian Miniatures, 15 October 1996, lot. 10; Spink and Son, London, 2001",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.287/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2013.287",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2013.287/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1635",
+        "begin_of_the_begin": "1630",
+        "end_of_the_end": "1640"
+      }
+    }
+  ]
+}

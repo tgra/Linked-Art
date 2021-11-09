@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2011.63",
+  "type": "HumanMadeObject",
+  "_label": "Leaf from a Book of Hours: St. Barbara (2 of 2 Excised Leaves)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2011.63/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Leaf from a Book of Hours: St. Barbara (2 of 2 Excised Leaves)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2011.63/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Master of Jacques de Luxembourg (French), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2011.63/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Damasc\u00e8ne Morgand, Paris, France, sold to Thomas Yates Thompson (-1894); Henry Yates Thompson (1838-1928), London, England (1894-1904); (Sale: Sotheby's, London, May 3, 1904, no. 31) (May 3, 1904); [Bruce Ferrini, Akron, Ohio], sold to Jeanne Miles Blackburn; Jeanne Miles Blackburn, Maitland, Fl, gifted to the Cleveland Museum of Art (-2011); The Cleveland Museum of Art, Cleveland, Ohio (2011-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2011.63/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2011.63",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2011.63/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1465",
+        "begin_of_the_begin": "1460",
+        "end_of_the_end": "1470"
+      }
+    }
+  ]
+}

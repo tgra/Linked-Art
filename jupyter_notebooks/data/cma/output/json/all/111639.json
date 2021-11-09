@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1930.18.6.a",
+  "type": "HumanMadeObject",
+  "_label": "Capital from the Narthex of the Collegiale de Saint-Melaine de Preuilly-sur-Claise",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1930.18.6.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Capital from the Narthex of the Collegiale de Saint-Melaine de Preuilly-sur-Claise",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1930.18.6.a/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Collegiale of St. Melaine at Preuilly-sur-Claise; (Arnold Seligmann, Rey, & Co., New York).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1930.18.6.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1930.18.6.a",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1930.18.6.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "mid-1100s",
+        "begin_of_the_begin": "1145",
+        "end_of_the_end": "1165"
+      }
+    }
+  ]
+}

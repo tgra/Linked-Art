@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1997.159.b",
+  "type": "HumanMadeObject",
+  "_label": "Cover for a Tureen",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1997.159.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Cover for a Tureen",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1997.159.b/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Creil Factory (French), made by; F\u00e9lix Bracquemond (French, 1833-1914), designed by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1997.159.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1997.159.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1997.159.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1866-75",
+        "begin_of_the_begin": "1866",
+        "end_of_the_end": "1875"
+      }
+    }
+  ]
+}

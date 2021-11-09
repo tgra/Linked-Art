@@ -1,0 +1,57 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1922.381",
+  "type": "HumanMadeObject",
+  "_label": "Par-ci, par-l\u00e1:  We have given no one the right to doubt the sincerity of our manifestations.  Therefore,  say briefly today:  No! Prussia's attitude does not in the least disquiet us",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1922.381/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Par-ci, par-l\u00e1:  We have given no one the right to doubt the sincerity of our manifestations.  Therefore,  say briefly today:  No! Prussia's attitude does not in the least disquiet us",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1922.381/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Paul Gavarni (French, 1804-1866), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1922.381/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1922.381",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

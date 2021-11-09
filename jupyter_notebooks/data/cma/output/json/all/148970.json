@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1977.127",
+  "type": "HumanMadeObject",
+  "_label": "Singers",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.127/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Singers",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.127/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Th\u00e9odule Ribot (French, 1823-1891), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1977.127/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Probably Bernheim-Jeune, Paris) (1890); (Possibly Monsieur de H.) (By 1892); Frederick R. Sears, Jr. [1855-1939], Boston (By 1895); (Bernheim-Jeune, Paris) (1925); Norton Gallery, New York (?); Noah L. [1918-1980] and Muriel S. Butkin [1915-1908], Cleveland, OH, given to the Cleveland Museum of Art (Until 1977); The Cleveland Museum of Art, Cleveland, OH (1977-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.127/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1977.127",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1977.127/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1863-1868",
+        "begin_of_the_begin": "1863",
+        "end_of_the_end": "1868"
+      }
+    }
+  ]
+}

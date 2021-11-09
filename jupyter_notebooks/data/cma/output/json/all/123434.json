@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1943.658.b",
+  "type": "HumanMadeObject",
+  "_label": "Bahram Gur Slays a Dragon (verso), from a Shahnama (Book of Kings) of Firdausi (940-1019 or 1025), known as the Great Mongol Shahnama",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1943.658.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Bahram Gur Slays a Dragon (verso), from a Shahnama (Book of Kings) of Firdausi (940-1019 or 1025), known as the Great Mongol Shahnama",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1943.658.b/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Georges Demotte [1877-1923], New York, NY) (c. 1910-?); Wells; Grace Rainey Rogers [1867\u20131943], New York, NY (before 1943); (Heeramaneck Galleries, New York, NY, sold to the Cleveland Museum of Art) (?-1943); The Cleveland Museum of Art, Cleveland, OH (1943-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1943.658.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1943.658.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1943.658.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1330-35",
+        "begin_of_the_begin": "1330",
+        "end_of_the_end": "1335"
+      }
+    }
+  ]
+}

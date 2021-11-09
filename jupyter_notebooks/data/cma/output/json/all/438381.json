@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1991.118.2.a",
+  "type": "HumanMadeObject",
+  "_label": "Scene from The K\u014drin Picture Book (Volume 2)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1991.118.2.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Scene from The K\u014drin Picture Book (Volume 2)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1991.118.2.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Nakamura H\u014dch\u016b (Japanese, d. 1819), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1991.118.2.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1991.118.2.a",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1991.118.2.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1800s",
+        "begin_of_the_begin": "1802",
+        "end_of_the_end": "1899"
+      }
+    }
+  ]
+}

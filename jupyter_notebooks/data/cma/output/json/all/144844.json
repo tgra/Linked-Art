@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1969.69",
+  "type": "HumanMadeObject",
+  "_label": "Tobias Healing His Father's Blindness",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1969.69/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Tobias Healing His Father's Blindness",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1969.69/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Rembrandt van Rijn (Dutch, 1606-1669), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1969.69/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Ignace-Joseph de Claussin, Paris and London, 1766-1844 (Lugt 485, not stamped); his sale, Batignolles, Paris, 2 December 1844, lot 53 (\"Tobie recouvrant la vue\") to Van Os. (?-1844); George Jacob Johan van Os, Paris and Amsterdam, 1782-1861; his sale, Roussel et Defer, Paris, 20-22 January, 1851, lot 179 (\"Tobie recouvrant la vue\") (1844-1851); Collection Defer-Dumesnil, Pierre Defer (1798-1870) and Henri Dumesnil (1823-1898), Paris (Lugt 739); his sale, Drouot, Paris, 10-12 May, 1900, lot 84) to Reinach (?-1900); Joseph Reinach, Paris, 1856-1921. (1900-?); by descent to Madame Pierre Goujon, daughter of Joseph Reinach, Paris; with Wildenstein & Co., Inc., New York; Cleveland Museum of Art, Cleveland, OH (1969-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1969.69/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1969.69",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1969.69/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1640-45",
+        "begin_of_the_begin": "1640",
+        "end_of_the_end": "1645"
+      }
+    }
+  ]
+}

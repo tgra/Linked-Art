@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1961.421.2",
+  "type": "HumanMadeObject",
+  "_label": "Poem by Wang Wei in the Cursive Script Style (xingshu)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1961.421.2/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Poem by Wang Wei in the Cursive Script Style (xingshu)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1961.421.2/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Song Lizong (Chinese, 1205-1264), artist; Zhang Daqian (Chinese, 1899-1983), calligrapher",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1961.421.2/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Nagatani, Inc., Chicago, IL, ?-1961) (?-1961); The Cleveland Museum of Art, Cleveland, OH, 1961 to present (1961-present)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1961.421.2/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1961.421.2",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1961.421.2/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1256",
+        "begin_of_the_begin": "1256",
+        "end_of_the_end": "1256"
+      }
+    }
+  ]
+}

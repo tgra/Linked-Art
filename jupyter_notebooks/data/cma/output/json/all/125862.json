@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1948.111",
+  "type": "HumanMadeObject",
+  "_label": "Section of Needlepoint (Point d'Argentan) Lace Flounce",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.111/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Section of Needlepoint (Point d'Argentan) Lace Flounce",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.111/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Collection of Empress Eug\u00e9nie and acquired directly from her estate by Arthur Blackburn of London.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.111/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1948.111",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1948.111/production/timespan",
+        "type": "TimeSpan",
+        "_label": "mid 18th century",
+        "begin_of_the_begin": "1740",
+        "end_of_the_end": "1760"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.977.b",
+  "type": "HumanMadeObject",
+  "_label": "Electrotype Replica of Tetradrachm: Owl, Olive Wreath, Amphora (Reverse)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.977.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Electrotype Replica of Tetradrachm: Owl, Olive Wreath, Amphora (Reverse)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.977.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.977.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1916.977.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "before 1916",
+        "begin_of_the_begin": "-1875",
+        "end_of_the_end": "-1916"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1979.55",
+  "type": "HumanMadeObject",
+  "_label": "Fountain of Venus",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1979.55/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Fountain of Venus",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1979.55/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Fran\u00e7ois Boucher (French, 1703-1770), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1979.55/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Baron Edmond de Rothschild [1845-1934], Paris, by descent to his son, Maurice de Rothschild (Until 1934); Maurice de Rothschild [1881-1957], Paris, confiscated by the Einsatzstab Reichsleiter Rosenberg (1934-1940); In possession of the Nazis (1940-); Rothschild Family, to P. & D. Colnaghi (Until 1974); (P. & D. Colnaghi, London, sold to the Cleveland Museum of Art) (1974-1979); The Cleveland Museum of Art, Cleveland, OH (1979-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1979.55/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1979.55",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1979.55/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1756",
+        "begin_of_the_begin": "1756",
+        "end_of_the_end": "1756"
+      }
+    }
+  ]
+}

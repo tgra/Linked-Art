@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1981.11",
+  "type": "HumanMadeObject",
+  "_label": "Hunter and Lord at the River Isar with View of Munich",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1981.11/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Hunter and Lord at the River Isar with View of Munich",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1981.11/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Wilhelm von Kobell (German, 1766-1853), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1981.11/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Major Corbett Winder, Vaynor Park, Berriew, Montgomeryshire.; London sale, Christie's, 17 June 1905 (lot 25), 1823, Sportsmen on Horseback, and Other Figures-A Pair, panel 9\u00bd x 7\u00bd in., to Kenderick, with pendant.; New York sale, Sotheby's Parke-Bernet, 14 June 1973 (lot 353), Two Riders in a Landscape, and The Afternoon Ride: A Pair of Paintings, with pendant, to Ira Spanierman, New York, and German dealer.; Rudolf Heinemann, Lugano.; Artemis, Fine Arts Ltd., London, 1980. Purchased by the cma through Eugene V. Thaw, New York, 1981.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1981.11/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1981.11",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1981.11/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1823",
+        "begin_of_the_begin": "1823",
+        "end_of_the_end": "1823"
+      }
+    }
+  ]
+}

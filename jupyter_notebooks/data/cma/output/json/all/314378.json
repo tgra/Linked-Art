@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2018.119",
+  "type": "HumanMadeObject",
+  "_label": "Rama\u2019s Brothers Bharata and Shatrughna set out from Ayodhya to find Rama and Lakshmana in the forest to inform them of the death of their father Dasharatha",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.119/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Rama\u2019s Brothers Bharata and Shatrughna set out from Ayodhya to find Rama and Lakshmana in the forest to inform them of the death of their father Dasharatha",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.119/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2018.119",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2018.119/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1775-80",
+        "begin_of_the_begin": "1775",
+        "end_of_the_end": "1780"
+      }
+    }
+  ]
+}

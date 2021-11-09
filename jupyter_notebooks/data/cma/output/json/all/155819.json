@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1991.133",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of Hugh Hope",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1991.133/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of Hugh Hope",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1991.133/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Henry Raeburn (Scottish, 1756-1823), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1991.133/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "the sitter (1782-1822); by inheritance to Sir Alexander Hope, Pinkie House, Scotland (sale: Sotheby's, London, 16 May, 1928, Lot B); I. D. Levy (1930); (Knoedler); Jane Taft Ingalls [1874-1962], Cleveland, OH (1945); David S. Ingalls, Sr. [1899-1985], Cleveland, OH (1945-1985); Francis W. Ingalls; The Cleveland Museum of Art, Cleveland, OH (1991-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1991.133/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1991.133",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1991.133/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1810",
+        "begin_of_the_begin": "1805",
+        "end_of_the_end": "1815"
+      }
+    }
+  ]
+}

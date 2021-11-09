@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1922.210",
+  "type": "HumanMadeObject",
+  "_label": "Christ and the Samaritan Woman at the Well",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1922.210/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Christ and the Samaritan Woman at the Well",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1922.210/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Giovanni della Robbia (Italian, 1469-1529/30), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1922.210/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sacro Monte di San Vivaldo, Tuscany, Italy, sold to Elia Volpi (-1911/12); (Elia Volpi (1858\u20131938), Florence, Italy) (1911/12-); (Maurice (1879-1950) and Rapha\u00ebl (1887-1963) Stora, Paris, France) (By 1922); Samuel Mather [1851-1931] Cleveland, OH, by gift to the Cleveland Museum of Art. (-1922); The Cleveland Museum of Art, Cleveland, OH (1922-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1922.210/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1922.210",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1922.210/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1500-1530",
+        "begin_of_the_begin": "1495",
+        "end_of_the_end": "1535"
+      }
+    }
+  ]
+}

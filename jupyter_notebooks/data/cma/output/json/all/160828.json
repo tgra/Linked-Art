@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1999.135",
+  "type": "HumanMadeObject",
+  "_label": "Cutting from a Missal: Initial O with Christ Performing an Exorcism",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.135/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Cutting from a Missal: Initial O with Christ Performing an Exorcism",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.135/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Matteo da Milano (Italian), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1999.135/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(all owners are known from shortly after the sacking of the Sistine Chapel sacristy by Napolean's troops in 1798 to the present):; William Young Ottley (1771-1836) [his sale, Sotheby's, London, 11-12 May 1838, lot 50 (one of three miniatures)]; Robert S. Holford (1808-1892); Sir George Holford (1860-1926) [his sale, Sotheby's, London, 12 July 1927, lot 27]; G. Wells; A. R. H. Mann [his sale, Sotheby's, London, 11 April 1961, lot 77]; [Areade Gallery]; Philip Hofer; private collection, New York; Roger Wieck; [Bruce Ferrini, Akron]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.135/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1999.135",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1999.135/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1520",
+        "begin_of_the_begin": "1515",
+        "end_of_the_end": "1525"
+      }
+    }
+  ]
+}

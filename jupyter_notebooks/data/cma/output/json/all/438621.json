@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2021.12",
+  "type": "HumanMadeObject",
+  "_label": "Prince Shreyamsa Dreams of the Coming of Rishabha, from a Panchakalyanaka (Five Auspicious Events)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.12/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Prince Shreyamsa Dreams of the Coming of Rishabha, from a Panchakalyanaka (Five Auspicious Events)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.12/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "An Indian physician, possibly Solon, OH, given to his partner (by the 1960s-?); Private collection, Cleveland, OH, consigned by her nieces and nephews to Neue Auction for sale (c. 1960s-2021); (Neue Auctions, Beachwood, OH, February 20, 2021 sale \"A Neue Year-Fine Art & Antiques,\" sold to the Cleveland Museum of Art) (February 20, 2021); The Cleveland Museum of Art, Cleveland, OH (2021-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.12/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2021.12",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2021.12/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1670\u201380",
+        "begin_of_the_begin": "1670",
+        "end_of_the_end": "1680"
+      }
+    }
+  ]
+}

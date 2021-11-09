@@ -1,0 +1,57 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1987.200",
+  "type": "HumanMadeObject",
+  "_label": "The Four Times of Day:  Noon",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1987.200/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Four Times of Day:  Noon",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1987.200/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gilles Demarteau (French, 1722-1776), artist; Jean-Baptiste Marie H\u00fcet (French, 1745-1811), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1987.200/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1987.200",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

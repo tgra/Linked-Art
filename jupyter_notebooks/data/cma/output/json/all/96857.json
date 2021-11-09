@@ -1,0 +1,38 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.557.2",
+  "type": "HumanMadeObject",
+  "_label": "Candlestick (2 of 2)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.557.2/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Candlestick (2 of 2)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.557.2/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.557.2",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

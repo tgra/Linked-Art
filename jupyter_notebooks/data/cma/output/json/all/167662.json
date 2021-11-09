@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2009.342.1",
+  "type": "HumanMadeObject",
+  "_label": "Shakyamuni Triad: Buddha Attended by Manjushri and Samantabhadra (Bodhisattva with Lion)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.342.1/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Shakyamuni Triad: Buddha Attended by Manjushri and Samantabhadra (Bodhisattva with Lion)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.342.1/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Reportedly from the Enman-in \u5186\u6e80\u9662 located inside the Onjo-ji temple (also known as the Miidera temple) in Otsu City, Shiga prefecture, Japan (before 1888-c. 1945); Private collection, Japan (after 1945-c. 1985); (Yanagi Takashi Oriental Fine Art, Kyoto, Japan,  sold to the Cleveland Museum of Art) (c. 1985-2009); The Cleveland Museum of Art, Cleveland, OH (2009-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.342.1/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2009.342.1",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2009.342.1/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1300s",
+        "begin_of_the_begin": "1350",
+        "end_of_the_end": "1368"
+      }
+    }
+  ]
+}

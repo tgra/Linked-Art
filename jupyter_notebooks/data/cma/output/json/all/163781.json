@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2005.19",
+  "type": "HumanMadeObject",
+  "_label": "Fragment of a Mantle with Oculate Being",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2005.19/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Fragment of a Mantle with Oculate Being",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2005.19/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Nobuko Kajitani, #835 (purchased from David Bernstein, New York dealer, in 1989); Sotheby's, New York sale, \"Pre-Columbian Art,\" May 16, 1989 (lot 28)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2005.19/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2005.19",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2005.19/production/timespan",
+        "type": "TimeSpan",
+        "_label": "200 BC-1",
+        "begin_of_the_begin": "-200",
+        "end_of_the_end": "1"
+      }
+    }
+  ]
+}

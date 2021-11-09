@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1917.946",
+  "type": "HumanMadeObject",
+  "_label": "George Washington at the Battle of Princeton",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1917.946/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "George Washington at the Battle of Princeton",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1917.946/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Charles Willson Peale (American, 1741-1827), artist; Workshop, artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1917.946/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Colonel Frisby Tilghman [1773-1847], Talbot County, Maryland, by descent to his son-in-law, Thomas Jefferson McKaig1 (Probably until 1847); General Thomas Jefferson McKaig [1804-1882], Cumberland, Maryland, by descent to his son, Dr. Frisby Tilghman McKaig (Probably 1847-probably 1882); Dr. Frisby Tilghman McKaig [1859-1921], Andrews, North Carolina, consigned to Jonce I. McGurk through Macbeth Gallery (Probably 1882-1915); (Jonce I. McGurk through Macbeth Gallery, New York, NY, sold to the Cleveland Museum of Art)1 (1915-1917); The Cleveland Museum of Art, Cleveland, Ohio (1917-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1917.946/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1917.946",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1917.946/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1779",
+        "begin_of_the_begin": "1774",
+        "end_of_the_end": "1784"
+      }
+    }
+  ]
+}

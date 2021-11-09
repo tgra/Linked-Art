@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2016.59",
+  "type": "HumanMadeObject",
+  "_label": "Fervor",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.59/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Fervor",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.59/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Shirin Neshat (American, born in Iran 1957), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2016.59/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Shirin Neshat (the artist) [1957-]; (Barbara Gladstone Gallery, New York, NY); Private Collection; (Sotheby's, London, United Kingdom) (November 18, 2008); Michael Mattis and Judith Hochberg, Scarsdale, NY (2008-2016); The Cleveland Museum of Art, Cleveland, OH (September 6, 2016)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.59/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2016.59",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2016.59/production/timespan",
+        "type": "TimeSpan",
+        "_label": "2000",
+        "begin_of_the_begin": "2000",
+        "end_of_the_end": "2000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2008.407",
+  "type": "HumanMadeObject",
+  "_label": "Valmy and L\u00e9a",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.407/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Valmy and L\u00e9a",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.407/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jean B\u00e9raud (French, 1849-1935), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.407/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2008.407",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2008.407/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1885-1895",
+        "begin_of_the_begin": "1885",
+        "end_of_the_end": "1895"
+      }
+    }
+  ]
+}

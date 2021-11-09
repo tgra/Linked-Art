@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1999.5",
+  "type": "HumanMadeObject",
+  "_label": "The Disrobing of Christ",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.5/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Disrobing of Christ",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.5/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Giovanni Domenico Tiepolo (Italian, 1727-1804), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1999.5/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Victor Luzarches [1803-1869], Tours, France. (?-1869); Camille Rogier [1805-1893], Paris. (After 1869-?); (Christie's, New York, January 13, 1993, no. 62, sold.) (1993); (Stephen Mazoh & Co., Inc., New York.) (1993-?); Martin Kline [1961-], Rhinebeck, New York, sold to The Cleveland Museum of Art, Feb. 1999. (?-1999); The Cleveland Museum of Art, Cleveland, OH. (1999-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.5/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1999.5",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1999.5/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1785-1790",
+        "begin_of_the_begin": "1785",
+        "end_of_the_end": "1790"
+      }
+    }
+  ]
+}

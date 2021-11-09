@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1955.36",
+  "type": "HumanMadeObject",
+  "_label": "Landscape after Guo Zhongshu",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1955.36/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Landscape after Guo Zhongshu",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1955.36/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Bada Shanren (Chinese, 1626-1705), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1955.36/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Chang Dai-chien [Zhang Daqian \u5f35\u5927\u5343] [1899-1983]; (Walter Hochstadter [1914-2007], New York, NY,  sold to the Cleveland Museum of Art) (?-1955); The Cleveland Museum of Art, Cleveland, OH (1955-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1955.36/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1955.36",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1955.36/production/timespan",
+        "type": "TimeSpan",
+        "_label": "mid-1600s-1705",
+        "begin_of_the_begin": "1650",
+        "end_of_the_end": "1705"
+      }
+    }
+  ]
+}

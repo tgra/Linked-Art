@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2013.295",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of a kneeling holy man, from the Prince Salim Album",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.295/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of a kneeling holy man, from the Prince Salim Album",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.295/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mir Sayyid Ali (Persian, active in India, 1555\u20131580), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2013.295/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Collection of Hagop Kevorkian (1872\u20131962), New York, before 1962; Sotheby\u2019s, London, Highly Important Oriental Manuscripts and Miniatures: The Property of the Kevorkian Foundation, 6 December 1967, lot 47",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.295/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2013.295",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2013.295/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1556\u201360; border c. 1602",
+        "begin_of_the_begin": "1555",
+        "end_of_the_end": "1565"
+      }
+    }
+  ]
+}

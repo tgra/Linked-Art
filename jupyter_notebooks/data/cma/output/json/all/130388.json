@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1953.152",
+  "type": "HumanMadeObject",
+  "_label": "Leaf from a Cocharelli Treatise on the Vices: Acedia and Her Court",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.152/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Leaf from a Cocharelli Treatise on the Vices: Acedia and Her Court",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.152/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Edwin and Caroline Czeczkowiczka, Vienna, Austria (?-1930); Sale: Hermann Ball & Paul Graupe, Berlin, Germany, 12 May 1930, lot. no. 3 (1930); Heinrich Eisemann (1890-1972), London, England, sold to the Cleveland Museum of Art (?-1953); The Cleveland Museum of Art, Cleveland, OH (1953-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.152/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1953.152",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1953.152/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1330",
+        "begin_of_the_begin": "1325",
+        "end_of_the_end": "1335"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2020.178.1",
+  "type": "HumanMadeObject",
+  "_label": "Owl-shaped Jar",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.178.1/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Owl-shaped Jar",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.178.1/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Purchased by the parents of Yves Bonan, by descent to Yves Bonan, Venice, Italy (1970s-2008); (K.Y. Fine Art, Hong Kong, sold to Mr. and Mrs. Joseph P. Keithley) (2008); Nancy F. and Joseph P. Keithley, Cleveland, OH, given to the Cleveland Museum of Art (2008-2020); The Cleveland Museum of Art, Cleveland, OH (2020-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.178.1/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2020.178.1",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2020.178.1/production/timespan",
+        "type": "TimeSpan",
+        "_label": "206 BC\u2013AD 9",
+        "begin_of_the_begin": "-206",
+        "end_of_the_end": "9"
+      }
+    }
+  ]
+}

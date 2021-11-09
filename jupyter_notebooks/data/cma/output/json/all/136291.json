@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1960.176.3",
+  "type": "HumanMadeObject",
+  "_label": "Time (From Chateau de Chaumont Set)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1960.176.3/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Time (From Chateau de Chaumont Set)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1960.176.3/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "one of set of three allegorical tapestries from the Chateau de Chaumont, Chaumont-sur-Loire, France until 1907 (-1907); (Duveen Collection, New York, NY, sold to Clarence H. MacKay) (1925); Clarence H. MacKay [1874-1938] New York, NY; (French & Co., New York, NY, sold to the Cleveland Museum of Art) (1939-1960); The Cleveland Museum of Art, Cleveland, OH (1960-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1960.176.3/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1960.176.3",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1960.176.3/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1512\u201315",
+        "begin_of_the_begin": "1512",
+        "end_of_the_end": "1515"
+      }
+    }
+  ]
+}

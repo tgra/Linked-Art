@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1986.5",
+  "type": "HumanMadeObject",
+  "_label": "The Emperor as Philosopher, probably Marcus Aurelius (reigned AD 161-180)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1986.5/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Emperor as Philosopher, probably Marcus Aurelius (reigned AD 161-180)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1986.5/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1986.5",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1986.5/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. AD 180\u2013200",
+        "begin_of_the_begin": "180",
+        "end_of_the_end": "200"
+      }
+    }
+  ]
+}

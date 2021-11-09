@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1953.629",
+  "type": "HumanMadeObject",
+  "_label": "Tall Bamboo and Distant Mountains, after Wang Meng",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.629/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Tall Bamboo and Distant Mountains, after Wang Meng",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.629/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Wang Hui (Chinese, 1632-1717), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1953.629/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Pang Yuanji \u9f90\u5143\u6fdf [1864\u20131949] (by 1909-?); (Walter Hochstadter [1914\u20132007], New York, NY, sold to the Cleveland Museum of Art) (?-1953); The Cleveland Museum of Art, Cleveland, OH (1953-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.629/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1953.629",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1953.629/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1694",
+        "begin_of_the_begin": "1694",
+        "end_of_the_end": "1694"
+      }
+    }
+  ]
+}

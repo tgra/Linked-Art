@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1982.40",
+  "type": "HumanMadeObject",
+  "_label": "The Waterfall of Marmore at Terni",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.40/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Waterfall of Marmore at Terni",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.40/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Philipp Hackert (German, 1737-1807), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1982.40/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Galerie Gerda Bassenge (Auktionskatalog Nr. 11), Berlin, 23-27 April 1968, Nr. 581 (1968); with Lucien Goldschmidt, New York (?-?); with Sven H.A. Bruntjen, Woodside, CA (?-1982); The Cleveland Museum of Art, Cleveland, OH (1982-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.40/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1982.40",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1982.40/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1776-78",
+        "begin_of_the_begin": "1776",
+        "end_of_the_end": "1778"
+      }
+    }
+  ]
+}

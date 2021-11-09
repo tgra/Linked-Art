@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1974.273",
+  "type": "HumanMadeObject",
+  "_label": "The Wrath of Neptune",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.273/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Wrath of Neptune",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.273/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Tiziano Minio (Italian, 1511/12-1552), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1974.273/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "1961 - 1967  Dr. M. Hugo Oelze (Amsterdam, Netherlands) (sold, Paul Brandt, Amsterdam, April 23-36, 1968, no. 42).; - 1974  Barrie Morrison (Riverside, Connecticut), by gift to the Cleveland Museum of Art, 1974.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.273/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1974.273",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1974.273/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1500s to early 1600s",
+        "begin_of_the_begin": "1575",
+        "end_of_the_end": "1625"
+      }
+    }
+  ]
+}

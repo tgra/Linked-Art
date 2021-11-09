@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1977.123",
+  "type": "HumanMadeObject",
+  "_label": "The Boatyard",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.123/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Boatyard",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.123/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jean-Charles Cazin (French, 1841-1901), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1977.123/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Ernest May [1845-1925], Paris, France (Until 1925); (Sale, H\u00f4tel Drouot, Paris, France, June 19, 1933 (no. 56), unsold (1933); (Sale, H\u00f4tel Drouot, Paris, France, November 24, 1947 (no. 124) (1947); (Tedesco Fr\u00e8res, Paris, France, sold to Walter P. Chrysler) (1954); Walter P. Chrysler Jr. [1909-1988], New York, NY, sold to Gr\u00e9goire Galleries) (1954-1973); (Gr\u00e9goire Galleries, New York, NY) (1973); (Shepherd Gallery, New York, NY,  sold to Noah L. and Muriel S. Butkin) (Until 1976); Noah L. Butkin [1918-1980] and Muriel S. Butkin [1915-2008], Shaker Heights, OH, given to the Cleveland Museum of Art (1976-1977); The Cleveland Museum of Art, Cleveland, OH (1977-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.123/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1977.123",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1977.123/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1875",
+        "begin_of_the_begin": "1870",
+        "end_of_the_end": "1880"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1973.186",
+  "type": "HumanMadeObject",
+  "_label": "Stumpwork Panel: Story of David and Bathsheba",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.186/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Stumpwork Panel: Story of David and Bathsheba",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.186/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1973.186",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1973.186/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1658",
+        "begin_of_the_begin": "1658",
+        "end_of_the_end": "1658"
+      }
+    }
+  ]
+}

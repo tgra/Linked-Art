@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1945.384.b",
+  "type": "HumanMadeObject",
+  "_label": "The Story of Adam, peace upon him, his Sons and Progeny, from a Jami al-tavarikh (Compendium of Chronicles) of Rashid al-din (verso)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1945.384.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Story of Adam, peace upon him, his Sons and Progeny, from a Jami al-tavarikh (Compendium of Chronicles) of Rashid al-din (verso)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1945.384.b/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Hagop Kevorkian [1872\u20131962], New York, NY, sold to the Cleveland Museum of Art) (?-1945); The Cleveland Museum of Art, Cleveland, OH (1945-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1945.384.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1945.384.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1945.384.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1425",
+        "begin_of_the_begin": "1420",
+        "end_of_the_end": "1430"
+      }
+    }
+  ]
+}

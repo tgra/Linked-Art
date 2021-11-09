@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1956.602",
+  "type": "HumanMadeObject",
+  "_label": "St. John the Evangelist",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1956.602/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "St. John the Evangelist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1956.602/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Charles de La Fosse (French, 1636-1716), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1956.602/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Unknown eighteenth-century? collector (?-?); R\u00e9mi Valdemar Chardey [1813-1900], Le Havre (?-by 1877); (H\u00f4tel Drouot, Paris, May 14-17, 1877, no. 353) (1877); Mr. and Mrs. Antonio di Nardo, Cleveland, OH, given to the Cleveland Museum of Art, Cleveland, OH (?-1956); The Cleveland Museum of Art, Cleveland, OH",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1956.602/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1956.602",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1956.602/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1700-1702",
+        "begin_of_the_begin": "1695",
+        "end_of_the_end": "1707"
+      }
+    }
+  ]
+}

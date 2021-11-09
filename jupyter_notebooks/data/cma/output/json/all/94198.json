@@ -1,0 +1,38 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1914.716.f",
+  "type": "HumanMadeObject",
+  "_label": "Fragments of Egyptian Mummy Wrappings fround in Senbi Coffin",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1914.716.f/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Fragments of Egyptian Mummy Wrappings fround in Senbi Coffin",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1914.716.f/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1914.716.f",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

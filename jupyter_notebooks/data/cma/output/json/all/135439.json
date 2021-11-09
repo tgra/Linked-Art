@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1958.434",
+  "type": "HumanMadeObject",
+  "_label": "The Martyrdom of the Apostles:  St. Andrew",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1958.434/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Martyrdom of the Apostles:  St. Andrew",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1958.434/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jacques Callot (French, 1592-1635), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1958.434/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1958.434",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1958.434/production/timespan",
+        "type": "TimeSpan",
+        "_label": "ca. 1632",
+        "begin_of_the_begin": "1627",
+        "end_of_the_end": "1637"
+      }
+    }
+  ]
+}

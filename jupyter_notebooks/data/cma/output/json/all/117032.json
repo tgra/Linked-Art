@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1937.577",
+  "type": "HumanMadeObject",
+  "_label": "The Sacrifice of Isaac",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1937.577/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Sacrifice of Isaac",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1937.577/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Andrea del Sarto (Italian, 1486-1530), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1937.577/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Cardinal Carlo de' Medici, Florence, 1649; Montalvi Collection, Florence; Peruzzi Collection, Florence; Zondadari Collection, Florence (see Biadi, 1829); William Cave, died 1858 (Brentry House, near Bristol, bought in Florence in 1846), unsold, Christie's, London, June 29, 1854, lot 77, by inheritance to his wife.; Mrs. Cave, sold, Christie's, London, June 22, 1858, lot 102, bought by Peters); Peters; George Cornwall Legh, High Legh, Co. Chester (according to Royal Academy exhibition catalogue, Winter 1882, no. 206, \"purchased by George Cornwall Legh in 1862 at Florence; in the Tordanari collection\"); Lieutenant Colonel Henry Cornwall Legh, High Legh, Co. Chester, sold Sotheby's, London, May 21, 1935, to Spencer Samuels; Spencer Samuels, T. Harris, London, and Durlacher Brothers, New York, sold to the Cleveland Museum of Art, 1937.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1937.577/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1937.577",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1937.577/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1527",
+        "begin_of_the_begin": "1522",
+        "end_of_the_end": "1532"
+      }
+    }
+  ]
+}

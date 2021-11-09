@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1985.67",
+  "type": "HumanMadeObject",
+  "_label": "Leaf from a Book of Hours",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.67/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Leaf from a Book of Hours",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.67/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1985.67",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1985.67/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1460",
+        "begin_of_the_begin": "1455",
+        "end_of_the_end": "1465"
+      }
+    }
+  ]
+}

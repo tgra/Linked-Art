@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2009.521",
+  "type": "HumanMadeObject",
+  "_label": "Madam Pauline Garcia-Viardot",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.521/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Madam Pauline Garcia-Viardot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.521/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Achille Dev\u00e9ria (French, 1800-1857), artist; Galerie de la Gazette Musicale of October 25, 1940 to illustrate an article by H. Blanchard on Pauline and Eug\u00e9nie Garcia, published by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2009.521/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Donald B. Wilson, Boston (on mat)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.521/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2009.521",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2009.521/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1840",
+        "begin_of_the_begin": "1840",
+        "end_of_the_end": "1840"
+      }
+    }
+  ]
+}

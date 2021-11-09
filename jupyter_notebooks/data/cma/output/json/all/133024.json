@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1955.45",
+  "type": "HumanMadeObject",
+  "_label": "Lonely Temple and Towering Cliff",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1955.45/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Lonely Temple and Towering Cliff",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1955.45/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Kenk\u014d Sh\u014dkei (Japanese, active 1478-1506), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1955.45/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "S. Ueno, \u014csaka, Japan; (Osborne I. Hauge [1913-2004] and Victor Lloyd Hauge [1919-2013], Falls Church, VA, sold to the Cleveland Museum of Art) (?\u20131955); The Cleveland Museum of Art, Cleveland, OH (1955\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1955.45/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1955.45",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1955.45/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1480",
+        "begin_of_the_begin": "1475",
+        "end_of_the_end": "1485"
+      }
+    }
+  ]
+}

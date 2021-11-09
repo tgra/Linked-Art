@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2018.149",
+  "type": "HumanMadeObject",
+  "_label": "Maharana Jawan Singh of Mewar (r. 1828\u201338) Holding a Falcon",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.149/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Maharana Jawan Singh of Mewar (r. 1828\u201338) Holding a Falcon",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.149/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ghasi (Indian, active c. 1820-36), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.149/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2018.149",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2018.149/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1835",
+        "begin_of_the_begin": "1825",
+        "end_of_the_end": "1845"
+      }
+    }
+  ]
+}

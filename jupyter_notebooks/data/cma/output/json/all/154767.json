@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1989.344",
+  "type": "HumanMadeObject",
+  "_label": "Maharao Chattar Sal (reigned 1758\u201364) of Kota in a Palanquin",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.344/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Maharao Chattar Sal (reigned 1758\u201364) of Kota in a Palanquin",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.344/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "B. R. Sharma, New Delhi, 1969; Severance and Greta Millikin, Cleveland.; (B. R. Sharma, New Delhi, 1969); Severance and Greta Millikin, Cleveland.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.344/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1989.344",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1989.344/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1760",
+        "begin_of_the_begin": "1755",
+        "end_of_the_end": "1765"
+      }
+    }
+  ]
+}

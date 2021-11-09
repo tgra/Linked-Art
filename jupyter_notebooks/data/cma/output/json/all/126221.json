@@ -1,0 +1,57 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1948.442",
+  "type": "HumanMadeObject",
+  "_label": "The Fifth Bauhaus Portfolio",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.442/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Fifth Bauhaus Portfolio",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.442/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Alfred Kubin (Austrian, 1877-1959), artist; Christian Rohlfs (German, 1849-1938), artist; Edwin Scharff (German, 1887-1955), artist; Erich Heckel (German, 1883-1970), artist; Ernst Ludwig Kirchner (German, 1880-1938), artist; George Grosz (German, 1893-1959), artist; Karl Schmidt-Rottluff (German, 1884-1976), artist; Max Beckmann (German, 1884-1950), artist; Max Burchartz (German, 1887-1961), artist; Max Pechstein (German, 1881-1955), artist; Oskar Kokoschka (Austrian, 1886-1980), artist; Otto Gleichmann (German, 1887-1963), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.442/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1948.442",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

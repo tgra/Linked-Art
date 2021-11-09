@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1974.38",
+  "type": "HumanMadeObject",
+  "_label": "Bull Protome",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.38/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Bull Protome",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.38/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1974.38",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1974.38/production/timespan",
+        "type": "TimeSpan",
+        "_label": "2nd millennium BC",
+        "begin_of_the_begin": "-1999",
+        "end_of_the_end": "-1000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2012.54",
+  "type": "HumanMadeObject",
+  "_label": "The So-Called Sepulcher of the Curiatii Brothers at Albano, with the Church of the Madonna della Stella in the distance at left",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2012.54/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The So-Called Sepulcher of the Curiatii Brothers at Albano, with the Church of the Madonna della Stella in the distance at left",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2012.54/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Carlo Labruzzi (Italian, 1748-1817), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2012.54/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "This watercolor is among a group of plein air drawings by Carlo Labruzzi that were assembled in two albums in the early 19th century. Following the artist's death in 1817, the albums were sold by the artist's widow to the first Lord Wharncliffe, James Archibald Stuart-Wortley-Mackenzie (1776-1845). They then passed by descent in the family to Archibald Ralph, 3rd Earl of Wharncliffe (1892-1953). In 1918 he married Lady Elfreda Mary Fitzwilliam, eldest daughter of William, 7th Earl Fitzwilliam. The albums passed by descent in the Fitzwilliam family until they were sold by the 8th Earl Fitzwilliam at auction in 1948.; Most recently, two albums were owned by an anonymous private collector. The missing third volume was probably also offered in the 1948 sale and subsequently broken up and sold.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2012.54/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2012.54",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2012.54/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c 1770",
+        "begin_of_the_begin": "1765",
+        "end_of_the_end": "1775"
+      }
+    }
+  ]
+}

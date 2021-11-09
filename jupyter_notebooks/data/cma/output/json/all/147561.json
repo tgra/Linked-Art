@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1973.63",
+  "type": "HumanMadeObject",
+  "_label": "Pendant in the Shape of a Fish-Tailed Elephant",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.63/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Pendant in the Shape of a Fish-Tailed Elephant",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.63/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1973.63",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1973.63/production/timespan",
+        "type": "TimeSpan",
+        "_label": "185-72 BC",
+        "begin_of_the_begin": "-185",
+        "end_of_the_end": "-72"
+      }
+    }
+  ]
+}

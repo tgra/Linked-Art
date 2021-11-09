@@ -1,0 +1,38 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.287",
+  "type": "HumanMadeObject",
+  "_label": "Jeweled Necklace and Pendant",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.287/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Jeweled Necklace and Pendant",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.287/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.287",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

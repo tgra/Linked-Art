@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1935.237",
+  "type": "HumanMadeObject",
+  "_label": "Wall Covering, \"The Pheasants\" from the \"Vatican Verdures\" Series",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1935.237/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Wall Covering, \"The Pheasants\" from the \"Vatican Verdures\" Series",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1935.237/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jean-D\u00e9mosth\u00e8ne Dugourc (French, 1749-1825), designed by; Camille Pernon & Cie (French), manufacturer",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1935.237/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "believed to have been made originally for the Royal Palace, Madrid; Gu\u00e9rault (sale, Paris, 1935); (P.W. French & Co.).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1935.237/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1935.237",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1935.237/production/timespan",
+        "type": "TimeSpan",
+        "_label": "after 1799",
+        "begin_of_the_begin": "1799",
+        "end_of_the_end": "1804"
+      }
+    }
+  ]
+}

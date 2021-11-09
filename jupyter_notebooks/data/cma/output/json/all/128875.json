@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1951.484",
+  "type": "HumanMadeObject",
+  "_label": "Moroccans in the Countryside",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1951.484/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Moroccans in the Countryside",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1951.484/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Eug\u00e8ne Delacroix (French, 1798-1863), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1951.484/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Delacroix estate (Lugt 838, lower right, stamped in red ink) (both Colta Ives and Meg Grasselli indicated that there is some confusion regarding this stamp and a fake stamp used by Delacroix's student Pierre Andrieu, see notes); artist's estate sale, Paris, experts Petit and Tedesco, 17-29 Feb. 1864, no. 571.  Alfred Robaut, Paris (Lugt Suppl. 2140c-d, not stamped or inscribed) (according to departmental catalogue sheet).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1951.484/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1951.484",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1951.484/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1832",
+        "begin_of_the_begin": "1832",
+        "end_of_the_end": "1832"
+      }
+    }
+  ]
+}

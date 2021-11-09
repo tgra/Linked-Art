@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2013.9.d",
+  "type": "HumanMadeObject",
+  "_label": "Locket Panel (4 of 4)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.9.d/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Locket Panel (4 of 4)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.9.d/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Alexis Falize (French, 1811-1898), designer; Antoine Tard (French, active 1860-1889), enamelist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2013.9.d/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Reputedly owned by an old man in Paris whose grandfather had worked as an enameller in the trade during the 19th century. Sold in the Paris flea market to the father of the last owner, dealer Sam Gassman of New York",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.9.d/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2013.9.d",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2013.9.d/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1800s",
+        "begin_of_the_begin": "1800",
+        "end_of_the_end": "1899"
+      }
+    }
+  ]
+}

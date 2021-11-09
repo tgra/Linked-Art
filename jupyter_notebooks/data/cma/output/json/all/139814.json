@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1963.573",
+  "type": "HumanMadeObject",
+  "_label": "The Banks of the Marne at Charenton",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.573/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Banks of the Marne at Charenton",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.573/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Armand Guillaumin (French, 1841-1927), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1963.573/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Tadamasa Hayashi collection, Paris (see Guillaumin, no. 117). New York, American Art Galleries sale, Tadamasa Hayashi collection, 8-9 January 1913 (lot 122, repr.), Bords de la Marne. Bought by Durand-Ruel, New York (stock number 3604). Sold to Lewis B. Williams, Cleveland, 16 May 1927. Given to the CMA on 30 November 1963.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.573/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1963.573",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1963.573/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1895",
+        "begin_of_the_begin": "1890",
+        "end_of_the_end": "1900"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1950.574.d",
+  "type": "HumanMadeObject",
+  "_label": "Plaque with Seated Prophet from a Reliquary Shrine: Osea (Hosea)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1950.574.d/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Plaque with Seated Prophet from a Reliquary Shrine: Osea (Hosea)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1950.574.d/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1950.574.d",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1950.574.d/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1170-1180",
+        "begin_of_the_begin": "1170",
+        "end_of_the_end": "1180"
+      }
+    }
+  ]
+}

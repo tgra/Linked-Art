@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1957.498",
+  "type": "HumanMadeObject",
+  "_label": "Farmhouse on the Slope of a Hill",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1957.498/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Farmhouse on the Slope of a Hill",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1957.498/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Fra Bartolommeo (Italian, 1472-1517), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1957.498/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Probably by descent to studio assistant Paolo del Signoraccio (died 1547), called Fra. Paolino da Pistoia, monastery of San Marco, Florence (1517-1547?); Possibly bequeathed to his pupil, Sister Plautilla Nelli [1523-1588], convent of Santa Caterina, Florence (1547-1588?); Possibly to the Convent of Santa Caterina da Siena, Florence, to 1725 (1588?-1725?); Cavaliere Francesco Maria Nicol\u00f2 Gabburri (d. 1742), Florence (his mount), Lugt 2818 and Lugt suppl. 2992b (1725-1742?); By descent to his heirs (1742); William Kent (1685-1748), London and Rome. (1742?-1748?); his sale, London. (ca. 1748); Private collection, southern Ireland (?-1925); Private collection, England (?-1957); with Sotheby\u2019s, London, 20 November 1957, \u201cDrawings of Landscapes and Trees by Fra. Bartolommeo,\" no. 3. (1957); with F. Kleinberger, New York (1957); The Cleveland Museum of Art, Cleveland, OH. (1957-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1957.498/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1957.498",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1957.498/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1508",
+        "begin_of_the_begin": "1503",
+        "end_of_the_end": "1513"
+      }
+    }
+  ]
+}

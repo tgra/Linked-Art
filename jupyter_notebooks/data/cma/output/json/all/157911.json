@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1995.199.28.d",
+  "type": "HumanMadeObject",
+  "_label": "Camera Work: Portrait - The Gown and the Casket",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.199.28.d/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Camera Work: Portrait - The Gown and the Casket",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.199.28.d/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "David Octavius Hill (British, 1802-1870), artist; Robert Adamson (British, 1821-1848), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.199.28.d/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1995.199.28.d",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1995.199.28.d/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1909",
+        "begin_of_the_begin": "1909",
+        "end_of_the_end": "1909"
+      }
+    }
+  ]
+}

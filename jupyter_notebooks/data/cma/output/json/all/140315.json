@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1964.273.2",
+  "type": "HumanMadeObject",
+  "_label": "Hexagonal Jar",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.273.2/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Hexagonal Jar",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.273.2/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(K. J. Hewett, Ltd., London); Severance and Greta Millikin, Cleveland, 1962.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.273.2/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1964.273.2",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1964.273.2/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1600s",
+        "begin_of_the_begin": "1660",
+        "end_of_the_end": "1699"
+      }
+    }
+  ]
+}

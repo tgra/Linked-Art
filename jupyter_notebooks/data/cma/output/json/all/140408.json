@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1964.351",
+  "type": "HumanMadeObject",
+  "_label": "Peregrine Falcons (Duck Hawks)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.351/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Peregrine Falcons (Duck Hawks)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.351/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "John James Audubon (American, 1785-1851), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1964.351/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "John James Audubon [1785-1851], New York, NY, by descent to his wife, Lucy Bakewell Audubon (c. 1827-); Lucy Bakewell Audubon [1787-1874], New York, NY, by descent to her son, John Woodhouse Audubon (?); John Woodhouse Audubon [1812-1862], New York, NY, by descent to his daughter, Lucy A. Williams (?); Lucy Audubon Williams [1838-1909], Greenburgh, Westerchester, NY, probably by descent to her grandson, Charles F. Edwards (?); Charles F. Edwards [1878-1954], Chicago, IL and Alameda, CA, by descent to his sister, Margaret McCormick (?); Mrs. H.V. (Margaret) McCormick, Long Island, NY and Staten Island, NY, sold to Kennedy Galleries (?); (Kennedy Galleries, New York, NY, sold to the Cleveland Museum of Art) (by 1964); The Cleveland Museum of Art, Cleveland, Ohio (1964-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.351/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1964.351",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1964.351/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1827",
+        "begin_of_the_begin": "1822",
+        "end_of_the_end": "1832"
+      }
+    }
+  ]
+}

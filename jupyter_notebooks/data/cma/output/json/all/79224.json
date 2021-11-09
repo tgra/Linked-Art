@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2016.210",
+  "type": "HumanMadeObject",
+  "_label": "Woman Sewing (Study for an illustration in \u201cLivres d\u2019Heures de Louis Legrand\u201d)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.210/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Woman Sewing (Study for an illustration in \u201cLivres d\u2019Heures de Louis Legrand\u201d)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.210/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Louis Auguste Mathieu Legrand (French, 1863-1951), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.210/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2016.210",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2016.210/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1898",
+        "begin_of_the_begin": "1898",
+        "end_of_the_end": "1898"
+      }
+    }
+  ]
+}

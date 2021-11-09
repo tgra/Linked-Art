@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1914.867",
+  "type": "HumanMadeObject",
+  "_label": "Carding Tool",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1914.867/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Carding Tool",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1914.867/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1914.867",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1914.867/production/timespan",
+        "type": "TimeSpan",
+        "_label": "Ptolemaic dynasty (or later)",
+        "begin_of_the_begin": "-304",
+        "end_of_the_end": "-330"
+      }
+    }
+  ]
+}

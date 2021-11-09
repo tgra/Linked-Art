@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1970.53",
+  "type": "HumanMadeObject",
+  "_label": "Boudoir from Hotel d'Hocqueville, Rouen",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.53/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Boudoir from Hotel d'Hocqueville, Rouen",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.53/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Fixon Firm (French), ornamental sculpture by; Fran\u00e7ois Gu\u00e9roult (French, 1745-1804), designed by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1970.53/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Le Roux d'Esneval, Rouen (until 1790); Delahaye-Descours, Rouen (until 1826); M. Bataille de Bellegarde, Rouen; M. Albert de Bellegarde, Rouen (until 1910); Paris Singer, Paris; (Carlhian firm, Paris, 1933-1970).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.53/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1970.53",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1970.53/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1785",
+        "begin_of_the_begin": "1780",
+        "end_of_the_end": "1790"
+      }
+    }
+  ]
+}

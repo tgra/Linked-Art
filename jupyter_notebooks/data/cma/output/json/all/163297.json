@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2004.149.a",
+  "type": "HumanMadeObject",
+  "_label": "Half Tremissis of Justinian I",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2004.149.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Half Tremissis of Justinian I",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2004.149.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2004.149.a",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2004.149.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "527-565",
+        "begin_of_the_begin": "527",
+        "end_of_the_end": "565"
+      }
+    }
+  ]
+}

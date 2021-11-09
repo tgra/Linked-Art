@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1962.279.328.a",
+  "type": "HumanMadeObject",
+  "_label": "King Bahram, who has married Khassa\u2019s daughter, has her tied to a camel to be abandoned in the desert as a result of false accusations made by Khulasa, from a Tuti-nama (Tales of a Parrot): Fifty-first Night",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.279.328.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "King Bahram, who has married Khassa\u2019s daughter, has her tied to a camel to be abandoned in the desert as a result of false accusations made by Khulasa, from a Tuti-nama (Tales of a Parrot): Fifty-first Night",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.279.328.a/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Estate of Breckenridge Long, Bowie, MD, 1959; Harry Burke Antiques, Philadelphia, PA; Bernard Brown, Milwaukee, WI;",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.279.328.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1962.279.328.a",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1962.279.328.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1560",
+        "begin_of_the_begin": "1555",
+        "end_of_the_end": "1565"
+      }
+    }
+  ]
+}

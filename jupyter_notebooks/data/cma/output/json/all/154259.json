@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1988.7",
+  "type": "HumanMadeObject",
+  "_label": "Face from a Cosmetic Spoon",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1988.7/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Face from a Cosmetic Spoon",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1988.7/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Purchased from James Ede, Charles Ede, Ltd, London",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1988.7/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1988.7",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1988.7/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1391-1353 BC",
+        "begin_of_the_begin": "-1391",
+        "end_of_the_end": "-1353"
+      }
+    }
+  ]
+}

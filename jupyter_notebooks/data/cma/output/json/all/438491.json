@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2021.26",
+  "type": "HumanMadeObject",
+  "_label": "Police Break Up Demonstration: Police carry off two men who were part of a sit-down group at Montgomery, Alabama today. Hundreds had marched on the capitol yesterday and several attempted to continue it today. March 11, 1965",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.26/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Police Break Up Demonstration: Police carry off two men who were part of a sit-down group at Montgomery, Alabama today. Hundreds had marched on the capitol yesterday and several attempted to continue it today. March 11, 1965",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.26/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Michael Mattis and Judith Hochberg, Scarsdale, NY (?-2021); The Cleveland Museum of Art, Cleveland, OH (March 1, 2021)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.26/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2021.26",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2021.26/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1965",
+        "begin_of_the_begin": "1965",
+        "end_of_the_end": "1965"
+      }
+    }
+  ]
+}

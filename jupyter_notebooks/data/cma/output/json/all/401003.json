@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1969.130.2.e",
+  "type": "HumanMadeObject",
+  "_label": "Volume from the Great Perfection of Wisdom Sutra",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1969.130.2.e/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Volume from the Great Perfection of Wisdom Sutra",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1969.130.2.e/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1969.130.2.e",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1969.130.2.e/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1100s",
+        "begin_of_the_begin": "1175",
+        "end_of_the_end": "1199"
+      }
+    }
+  ]
+}

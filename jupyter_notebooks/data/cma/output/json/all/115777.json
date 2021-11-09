@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1936.490",
+  "type": "HumanMadeObject",
+  "_label": "Needlepoint Lace (Alen\u00e7on Lace) Garniture for Cap with Lappets",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1936.490/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Needlepoint Lace (Alen\u00e7on Lace) Garniture for Cap with Lappets",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1936.490/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1936.490",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1936.490/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1730s",
+        "begin_of_the_begin": "1730",
+        "end_of_the_end": "1739"
+      }
+    }
+  ]
+}

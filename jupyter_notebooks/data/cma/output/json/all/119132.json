@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1940.128",
+  "type": "HumanMadeObject",
+  "_label": "Mourner from the Tomb of Philip the Bold, Duke of Burgundy (1364-1404)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.128/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Mourner from the Tomb of Philip the Bold, Duke of Burgundy (1364-1404)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.128/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Claus de Werve (Netherlandish, 1380-1439), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1940.128/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "M. M. Hocquart, Dijon, France; Vicomte Edouard de Broissia & son, Georges (d.  1875), Dijon, France (1825-1875); (M. Legay, Nancy, sold to Charles Stein) (1875-?); (Charles Stein, Paris, France); Baron Arthur de Schickler, Paris, France; Count de Pourtales, Paris, France; (Duveen Bros., Paris, France) (1919); (Clarence Mackay (d. 1939), New York, NY) (By 1922-1939); (Jacques Seligmann, New York, sold to the Cleveland Museum of Art) (?-1940); The Cleveland Museum of Art, Cleveland, OH (1940-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.128/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1940.128",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1940.128/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1404-1410",
+        "begin_of_the_begin": "1404",
+        "end_of_the_end": "1410"
+      }
+    }
+  ]
+}

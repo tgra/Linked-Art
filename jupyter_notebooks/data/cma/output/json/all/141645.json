@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1965.239",
+  "type": "HumanMadeObject",
+  "_label": "Jonah Under the Gourd Vine",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.239/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Jonah Under the Gourd Vine",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.239/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "according to William Wixom, one unconfirmed report tells us that the entire group (1965.237-1965.247) was found in a single, huge pithos or jar.  (J. J. Klejman, New York).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.239/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1965.239",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1965.239/production/timespan",
+        "type": "TimeSpan",
+        "_label": "AD 280-90",
+        "begin_of_the_begin": "280",
+        "end_of_the_end": "290"
+      }
+    }
+  ]
+}

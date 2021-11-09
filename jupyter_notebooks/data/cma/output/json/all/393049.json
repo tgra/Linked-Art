@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2020.223",
+  "type": "HumanMadeObject",
+  "_label": "The Laundresses",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.223/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Laundresses",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.223/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Edgar Degas (French, 1834-1917), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2020.223/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Studio of the artist, Paris (L. 657) (1880-1918); (his sale, Galerie Manzi-Joyant, Paris, November 22-23, 1918, no. 95) (1918); (sale, Kornfeld and Klipstein, Bern, Switzerland, June 20, 1973, no. 161) (1973); (Artemis Group/David Carritt Limited, London) (by 1983-?); Josefowitz Collection, Lausanne, Switzerland, sold to the Cleveland Museum of Art, Cleveland, OH (after 1983-2020); The Cleveland Museum of Art, Cleveland, OH (2020-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.223/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2020.223",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2020.223/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1879\u201380",
+        "begin_of_the_begin": "1879",
+        "end_of_the_end": "1880"
+      }
+    }
+  ]
+}

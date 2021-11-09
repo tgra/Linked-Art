@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2016.544",
+  "type": "HumanMadeObject",
+  "_label": "Serpent Deity (Nag Devta I)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.544/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Serpent Deity (Nag Devta I)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.544/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mrinalini Mukherjee (Indian, 1949-2015), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2016.544/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Mrinalini Mukherjee [1949-2015], New Delhi, India, to Phyllis Granoff (1979); Phyllis Granoff [b. 1947], New Haven, CT, given to the Cleveland Museum of Art (1979\u20132016); The Cleveland Museum of Art, Cleveland, OH (2016\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.544/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2016.544",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2016.544/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1979",
+        "begin_of_the_begin": "1979",
+        "end_of_the_end": "1979"
+      }
+    }
+  ]
+}

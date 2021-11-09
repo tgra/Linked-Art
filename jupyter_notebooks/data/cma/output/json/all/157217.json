@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1994.10",
+  "type": "HumanMadeObject",
+  "_label": "Charity",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1994.10/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Charity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1994.10/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Abraham Bloemaert (Dutch, 1564-1651), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1994.10/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Private collection, Caracas, Venezuela (Probably until 1992); (Sotheby\u2019s, New York, Jan. 17, 1992, no. 18 [as \"attributed to Abraham Bloemaert\"]; unsold) (1992); American private collection? (1992-1993?); (Sotheby\u2019s, New York, private treaty sale, June 16, 1993, sold to Jack Kilgore) (1993); (Jack Kilgore & Co., Inc., New York, sold to the Cleveland Museum of Art) (1993-1994); The Cleveland Museum of Art, Cleveland, Ohio (1994-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1994.10/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1994.10",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1994.10/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1590",
+        "begin_of_the_begin": "1585",
+        "end_of_the_end": "1595"
+      }
+    }
+  ]
+}

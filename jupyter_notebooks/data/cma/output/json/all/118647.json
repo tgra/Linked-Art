@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1939.661.b",
+  "type": "HumanMadeObject",
+  "_label": "Fragment of Two Figures (verso)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1939.661.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Fragment of Two Figures (verso)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1939.661.b/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "according to departmental card: Dr. Daniel A. Huebsch, Cleveland; Robert Hays Gries, Cleveland",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1939.661.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1939.661.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1939.661.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "16th century",
+        "begin_of_the_begin": "1500",
+        "end_of_the_end": "1599"
+      }
+    }
+  ]
+}

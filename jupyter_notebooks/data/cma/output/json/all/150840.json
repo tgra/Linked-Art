@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1982.246",
+  "type": "HumanMadeObject",
+  "_label": "Flowers in a Vase",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.246/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Flowers in a Vase",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.246/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Simon Verelst (Dutch, 1644-1721), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1982.246/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "R. Warner, London; S. W. Highley, Harrogate (1928); Mrs. Noah L. Butkin; R. Warner (London, England); S. W. Highley Harrogate, 1928; Mrs. Noah L. Butkin (Shaker Heights, Ohio), by gift to the Cleveland Museum of Art, 1982. (-1982); The Cleveland Museum of Art, Cleveland, OH (1982-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.246/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1982.246",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1982.246/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1669",
+        "begin_of_the_begin": "1664",
+        "end_of_the_end": "1674"
+      }
+    }
+  ]
+}

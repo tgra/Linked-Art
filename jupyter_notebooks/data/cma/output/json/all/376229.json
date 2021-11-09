@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2020.63",
+  "type": "HumanMadeObject",
+  "_label": "Quasimodo",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.63/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Quasimodo",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.63/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Odilon Redon (French, 1840-1916), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2020.63/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Marcel Lecomte [1900-1966], Paris, France (?-?); (sale, Hotel Drouot, Paris, June 11, 1997, no. 74) (1997); (Galerie Ronny van de Velde, Antwerp, Belgium) (by 1999); Private Collection, Paris, France (after 1999-before 2002); (Galerie Eric Coatalem, Paris, sold to Eugene Thaw, New York) (2002); Eugene Thaw [1927-2018], New York, NY (2002-2018); (sale, Christie\u2019s, New York, November 12, 2018, no. 160) (2018); (sale, Christie\u2019s, New York, May 14, 2019, no. 116, sold to a private collector) (2019); Private Collection (2019); (Jill Newhouse, New York, sold to the Cleveland Museum of Art, Cleveland, OH) (2019-2020); The Cleveland Museum of Art, Cleveland, OH (2020-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.63/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2020.63",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2020.63/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1875\u201380",
+        "begin_of_the_begin": "1870",
+        "end_of_the_end": "1885"
+      }
+    }
+  ]
+}

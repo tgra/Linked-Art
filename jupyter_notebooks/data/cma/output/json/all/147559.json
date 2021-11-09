@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1973.61.1",
+  "type": "HumanMadeObject",
+  "_label": "Gold Piece in Shape of Triratna",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.61.1/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Gold Piece in Shape of Triratna",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.61.1/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1973.61.1",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1973.61.1/production/timespan",
+        "type": "TimeSpan",
+        "_label": "185-72 BC",
+        "begin_of_the_begin": "-185",
+        "end_of_the_end": "-72"
+      }
+    }
+  ]
+}

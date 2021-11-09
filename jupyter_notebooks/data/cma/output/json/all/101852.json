@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1920.514",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of Mrs. George Collier",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1920.514/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of Mrs. George Collier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1920.514/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Joshua Reynolds (British, 1723-1792), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1920.514/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(possibly Mary Horneck Gwynn, sister in law of the sitter (1823); Sir William W. Knighton, Hampshire (1864, Christie's, London sale 21 May, 1885, no. 457; Mrs. Adelaide Ross; J. H. Wade, Cleveland (by 1913); Possib;y Mrs. George Collier, possibly by inheritance to her sister-in-law, Mary Horneck Gwynn,; Possibly Mary Horneck Gwynn; William Wellesley Knighton, 2nd Bt., 1836-1855 (London, England, and Blendworth Lodge, Hampshire, England), upon his death, held in trust by the estate; Estate of William Wellesley Knighton, sold, Christie's, London, May 21, 1885, lot 457; Mrs. Adelaide Ross (Stachelberg, New York); Jeptha Homer Wade, 1857-1926 (Cleveland, Ohio), by gift to the Cleveland Museum of Art, 1920.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1920.514/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1920.514",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1920.514/production/timespan",
+        "type": "TimeSpan",
+        "_label": "18th century",
+        "begin_of_the_begin": "1700",
+        "end_of_the_end": "1799"
+      }
+    }
+  ]
+}

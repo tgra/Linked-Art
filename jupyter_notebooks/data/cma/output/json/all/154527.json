@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1989.162.2",
+  "type": "HumanMadeObject",
+  "_label": "Stool",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.162.2/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Stool",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.162.2/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Fran\u00e7ois-Honor\u00e9-Georges Jacob (French, 1770-1841), artist; Georges Jacob (French, 1739-1814), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1989.162.2/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Joachim Murat and his wife, Caroline Bonaparte, Elys\u00e9e Palace, c. 1805-1809.  Napoleon Bonapart, Elys\u00e9e Palace, 1809-1815 (?).  Louis XVIII, Elys\u00e9e Palace, 1815-1816.  Duc de Berry, Elys\u00e9e Palace, 1816.  Palais-Royal, Paris, 19th century.  Garde-Meuble National, Paris, 19th century.  (Rosenberg & Steibel, New York).  Severance and Greta Millikin, Clevland, 1959.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.162.2/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1989.162.2",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1989.162.2/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1805-1813",
+        "begin_of_the_begin": "1805",
+        "end_of_the_end": "1813"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1973.30",
+  "type": "HumanMadeObject",
+  "_label": "Card Rack with a Jack of Hearts",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.30/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Card Rack with a Jack of Hearts",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.30/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "John F. Peto (American, 1854-1907), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1973.30/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The Cleveland Museum of Art, Cleveland, Ohio (1973-); (Hirschl & Adler Galleries, New York, NY, sold to the Cleveland Museum of Art) (1972-1973); Alice Kaplan [1903-1995], New York, NY1 (Probably 1965-1972); (Kennedy Galleries, New York, NY, probably sold to Alice Kaplan) (By 1965); Howard Keyser III [1904-1980], Island Heights, NJ and Philadelphia, PA, consigned to the Kennedy Galleries 1 (By 1947 - by 1965)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.30/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1973.30",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1973.30/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c.1895",
+        "begin_of_the_begin": "1890",
+        "end_of_the_end": "1900"
+      }
+    }
+  ]
+}

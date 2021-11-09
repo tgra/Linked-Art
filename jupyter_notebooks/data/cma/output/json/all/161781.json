@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2001.120",
+  "type": "HumanMadeObject",
+  "_label": "Layered Peaks and Splashing Waterfall: Portrait of Hua Yan as a Young Man",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2001.120/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Layered Peaks and Splashing Waterfall: Portrait of Hua Yan as a Young Man",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2001.120/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Hua Yan (Chinese, 1682-about 1765), artist; Wei Shijie (Chinese, 1667-after 1747), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2001.120/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Hua Pinyu \u83ef\u54c1\u7389 (active 1800s) (1800s); (Christie's, New York, Important Classical Chinese Paintings, June 1, 1989 sale, lot 30) (June 1, 1989); Private Collection of a Min Chiu Society \u654f\u6c42\u7cbe\u820d member, Hong Kong (1989?-1999?); (Christie's, Hong Kong, Fine Chinese Classical Painting an Calligraphy, April 25, 1999, lot 270) (April 25, 1999); (Kaikodo America Inc., New York, NY, sold to the Cleveland Museum of Art) (?-2001); The Cleveland Museum of Art, Cleveland, OH (2001-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2001.120/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2001.120",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2001.120/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1705",
+        "begin_of_the_begin": "1705",
+        "end_of_the_end": "1705"
+      }
+    }
+  ]
+}

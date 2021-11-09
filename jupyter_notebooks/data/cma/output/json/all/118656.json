@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1939.666.b",
+  "type": "HumanMadeObject",
+  "_label": "Sketch of Two Men and Other Various Figures (verso)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1939.666.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Sketch of Two Men and Other Various Figures (verso)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1939.666.b/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Franz Baumgartner, Vienna (Lugt 223, upper left, inscribed in brown ink: Franz Baumgartner [partially undelined] / 853). J. Schr\u00f6fl (lower left, stamped in blue ink, followed by his inventory number?, in graphite: 12). Dr. Daniel A. Huebsch, Cleveland (according to departmental card)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1939.666.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1939.666.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1939.666.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1600s",
+        "begin_of_the_begin": "1600",
+        "end_of_the_end": "1699"
+      }
+    }
+  ]
+}

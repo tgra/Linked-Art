@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1940.884",
+  "type": "HumanMadeObject",
+  "_label": "Benjamin Franklin",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.884/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Benjamin Franklin",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.884/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Justus Chevillet (French, 1729-1802), artist; Published in Journal de Paris, 7 July 1779 and in the Gazette de France, 16 July 1779, published by; Jean Claude Thomas Duplessis (French, 1783), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.884/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1940.884",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1940.884/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1779",
+        "begin_of_the_begin": "1779",
+        "end_of_the_end": "1779"
+      }
+    }
+  ]
+}

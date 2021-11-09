@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1926.480",
+  "type": "HumanMadeObject",
+  "_label": "Copy of Student at a Table by Candelight",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1926.480/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Copy of Student at a Table by Candelight",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1926.480/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Rembrandt van Rijn (Dutch, 1606-1669), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1926.480/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Joseph Camesina de Pomal (1765-1827), Vienna, inscription (Lugt 429), lower left, in pen and black ink. D.G. de Arozarena (died around 1860), Paris and South America, stamp (Lugt 109), verso, lower left, in blue. Ambroise Firmin-Didot (1790-1876), Paris, stamp (Lugt 119), verso, lower left, in black ink. J. Peoli., stamp (Lugt 2020), verso, lower left, in purple. Ralph King, Cleveland, Ohio; gift, 1926.480",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1926.480/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1926.480",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1926.480/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1654",
+        "begin_of_the_begin": "1654",
+        "end_of_the_end": "1654"
+      }
+    }
+  ]
+}

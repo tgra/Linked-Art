@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2019.231",
+  "type": "HumanMadeObject",
+  "_label": "Untitled",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2019.231/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Untitled",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2019.231/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Nicole Eisenman (American, b. 1965), artist; Marina Ancona (American, b. 1971), printer; 10 Grand Press, publisher",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2019.231/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(10 Grand Press, Brooklyn, NY, sold to the Cleveland Museum of Art, Cleveland, OH) (2012-2019); Cleveland Museum of Art, Cleveland, OH (2019-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2019.231/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2019.231",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2019.231/production/timespan",
+        "type": "TimeSpan",
+        "_label": "2012",
+        "begin_of_the_begin": "2012",
+        "end_of_the_end": "2012"
+      }
+    }
+  ]
+}

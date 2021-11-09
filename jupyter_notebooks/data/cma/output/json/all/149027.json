@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1977.17",
+  "type": "HumanMadeObject",
+  "_label": "Star and Cross Pattern from a Tomb Cover(?)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.17/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Star and Cross Pattern from a Tomb Cover(?)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.17/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "said to have been found in a tomb in the Caucasus in the late 19th century.  Loewi-Robertson acquired it from anonymous French collection.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.17/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1977.17",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1977.17/production/timespan",
+        "type": "TimeSpan",
+        "_label": "800s-900s",
+        "begin_of_the_begin": "800",
+        "end_of_the_end": "999"
+      }
+    }
+  ]
+}

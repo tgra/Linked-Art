@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1940.344",
+  "type": "HumanMadeObject",
+  "_label": "Bust of a Woman",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.344/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Bust of a Woman",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.344/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Samuel Mather, 1851-1931 (Cleveland, Ohio), upon his death, held in trust by the estate.; Estate of Samuel Mather, by bequest to the Cleveland Museum of Art.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.344/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1940.344",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1940.344/production/timespan",
+        "type": "TimeSpan",
+        "_label": "early 1500s",
+        "begin_of_the_begin": "1500",
+        "end_of_the_end": "1525"
+      }
+    }
+  ]
+}

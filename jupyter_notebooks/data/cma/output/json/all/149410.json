@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1978.63",
+  "type": "HumanMadeObject",
+  "_label": "In the Waves (Dans les Vagues)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1978.63/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "In the Waves (Dans les Vagues)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1978.63/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Paul Gauguin (French, 1848-1903), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1978.63/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "On consignment with Boussod & Valadon, Paris, 1890, under the title given by Gauguin, Femme nue dans la vague, valued at ff 400 (see, Rewald 1973, 49). Paris, Gauguin sale, 23 February 1891 (lot 14), Une Ondine, for ff 320 to M. Jeanson. Sold by Joseph Hessel to Gustave Fayet, Paris, March 1906. In February 1907 Fayet sold it together with a Gauguin self-portrait for ff 24,000 to Vollard, Paris. Ordrupgaard, Denmark. Paul \u00c9luard, Paris, who probably bought it at Galerie Dru in 1923. Paris sale, Drouot, 12 December 1927 (lot 103 repr.), L'ondine (for ff 10,080 according to Wildenstein 1964; but according to annotated auc-tion catalogue in the Frick Art Reference Library, N.Y., sold for 46,100 to Hessel). Leicester Galleries, London, 1928. Bought in 1929 by Frank H. Ginn, Cleveland. Mr. and Mrs. Powell Jones, Gates Mills, Ohio. Given to the CMA on 20 November 1978.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1978.63/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1978.63",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1978.63/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1889",
+        "begin_of_the_begin": "1889",
+        "end_of_the_end": "1889"
+      }
+    }
+  ]
+}

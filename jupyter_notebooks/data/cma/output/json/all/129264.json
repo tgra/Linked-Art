@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1952.152",
+  "type": "HumanMadeObject",
+  "_label": "Lampas with griffins in roundels, from the Reliquary of Saint Librada in Siguenza Cathedral",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1952.152/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Lampas with griffins in roundels, from the Reliquary of Saint Librada in Siguenza Cathedral",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1952.152/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "the silk fragment was found c. 1948 in the Cathedral of Siguenza, Spain, in the reliquary of Saint Librada (1st c.) , whose relics were restored to the Cathedral in the 12th century; it is said to have been brought there from Almeria in 1147 by Alphonse VII; (Paul O. Berliz, New York, NY, sold to the Cleveland Museum of Art) (?-1952); The Cleveland Museum of Art, Cleveland, OH (1952-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1952.152/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1952.152",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1952.152/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1100-50",
+        "begin_of_the_begin": "1100",
+        "end_of_the_end": "1150"
+      }
+    }
+  ]
+}

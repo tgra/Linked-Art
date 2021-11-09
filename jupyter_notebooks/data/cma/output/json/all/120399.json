@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1941.239",
+  "type": "HumanMadeObject",
+  "_label": "Life of the Chateau:  A Visit in the Neighborhood",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1941.239/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Life of the Chateau:  A Visit in the Neighborhood",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1941.239/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Eug\u00e8ne Louis Lami (French, 1800-1890), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1941.239/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1941.239",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1941.239/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1828",
+        "begin_of_the_begin": "1828",
+        "end_of_the_end": "1828"
+      }
+    }
+  ]
+}

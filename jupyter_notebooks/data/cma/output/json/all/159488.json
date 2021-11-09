@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1996.26",
+  "type": "HumanMadeObject",
+  "_label": "The Trinity",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1996.26/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Trinity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1996.26/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Hendrik van Balen (Flemish, 1575-1632), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1996.26/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The Cleveland Museum of Art, Cleveland, Ohio (1996-); (Konrad O. Bernheimer, Munich, sold to the Cleveland Museum of Art, 1996) (1996); (Alex Wengraf, London, sold to Konrad O. Bernheimer) (1993-1996); Private collection, Spain, consigned to Alex Wengraf (After 1984-1993); (Alex Wengraf, London, sold to a Spanish collector) (By 1984-); (Sale, Sotheby\u2019s, London, April 16, 1980, no. 184, withdrawn) (1980); (Sale, Sotheby's, London, July 11, 1979, no. 37, bought in) (1979)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1996.26/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1996.26",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1996.26/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1620",
+        "begin_of_the_begin": "1615",
+        "end_of_the_end": "1625"
+      }
+    }
+  ]
+}

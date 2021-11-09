@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1982.51",
+  "type": "HumanMadeObject",
+  "_label": "Royal Female Figure",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.51/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Royal Female Figure",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.51/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The Pan-Asian Collection, New York, NY (by 1977); (Robert H. Ellsworth [1929\u20132014], New York, NY, sold to the Cleveland Museum of Art) (?\u20131982); The Cleveland Museum of Art, Cleveland, OH (1982\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.51/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1982.51",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1982.51/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1000s",
+        "begin_of_the_begin": "1075",
+        "end_of_the_end": "1099"
+      }
+    }
+  ]
+}

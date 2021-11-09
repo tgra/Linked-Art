@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2015.103",
+  "type": "HumanMadeObject",
+  "_label": "American Abstract Artists 75th Anniversary Print Portfolio",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2015.103/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "American Abstract Artists 75th Anniversary Print Portfolio",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2015.103/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Alice Adams (American, 1930-), artist; Ce Roser (American, 1930-), artist; Cecily Kahn (American, b. 1959), artist; Clover Vail (American), artist; Creighton Michael (American, 1949-), artist; Daniel G. Hill (American, b. 1956), artist; David Mackenzie (American, 1942-), artist; David Row (American, 1949-), artist; Don Voisine (American, 1952-), artist; Edward Shalala (American), artist; Emily Berger (American, b. 1963), artist; Gabriele Evertz (German, 1945-), artist; Gail Gregg (American), artist; Gilbert Hsiao (American, b. 1956), artist; Henry Brown (American), artist; Hiroshi Murata (American, b. 1941), artist; Irene Lawrence (American), artist; James Gross (American, 1950-), artist; James Juszczyk (American, 1943-), artist; James O. Clark (American, 1948-), artist; Jane Logemann (American, 1942-), artist; Jeanne Wilkinson (American), artist; John Goodyear (American, 1930-), artist; John Phillips (American, 1952-), artist; Julian Jackson (American, b. 1953), artist; Katinka Mann (American, 1925-), artist; Kenneth Bushnell (American, 1933-), artist; Leo Rabkin (American, 1919-2015), artist; Lucio Pozzi (American, 1935-), artist; Lynne Harlow (American, b. 1968), artist; Manfred Mohr (German, 1938-), artist; Mara Held (American, b. 1954), artist; Mark Williams (American, 1950-), artist; Marthe Keller (American, 1948-), artist; Nancy Manter (American, 1952-), artist; Nola Zirin (American, 1943-), artist; Phillis Ideal (American), artist; Power Boothe (American, 1945-), artist; Robert Storr (American), artist; Robert Swain (American, 1940-), artist; Siri Berg (American, b. 1921), artist; Stephen Maine (American), artist; Stephen Westfall (American, b. 1953), artist; Steve Karlik (American), artist; Susan Bonfils (American), artist; Thornton Willis (American, 1936-), artist; Vera Vasek (American, b. 1959), artist; Vincent Longo (American, 1923-2017), artist; Supreme Digital, Brooklyn, NY, printers Brendan Carney and Elizabeth Haberkorn, published by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2015.103/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Dr. Mosesson purchased the portfolio directly from American Abstract Artists.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2015.103/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2015.103",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2015.103/production/timespan",
+        "type": "TimeSpan",
+        "_label": "2012",
+        "begin_of_the_begin": "2012",
+        "end_of_the_end": "2012"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1914.680",
+  "type": "HumanMadeObject",
+  "_label": "Paint Box of Vizier Amenemope",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1914.680/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Paint Box of Vizier Amenemope",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1914.680/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Mohammed Mohasseb and Son, Luxor, sold to  Lucy Olcott Perkins through Henry W. Kent (?-1913); (Lucy Olcott Perkins, New York, NY, sold to the Cleveland Museum of Art) (1913-1914); The Cleveland Museum of Art, Cleveland, OH (1914-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1914.680/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1914.680",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1914.680/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1427-1401 BC",
+        "begin_of_the_begin": "-1427",
+        "end_of_the_end": "-1401"
+      }
+    }
+  ]
+}

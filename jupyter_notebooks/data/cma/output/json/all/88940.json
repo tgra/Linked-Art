@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2020.104",
+  "type": "HumanMadeObject",
+  "_label": "The Port of l'Estaque, the Pier",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.104/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Port of l'Estaque, the Pier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.104/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Georges Braque (French, 1882\u20131963), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2020.104/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Galerie Kahnweiler, Paris, France, no. K1141); Wilhelm Uhde (1874\u20131947), Paris, France; Possibly Paul Roemer, Berlin, Germany (about 1938); Dr. A. Fuchs, Berlin, Germany (1950s); possibly by descent in the family; Private German Collector; (Christie\u2019s, London, December 9, 1997, lot 24, sold to a private collector) (December 9, 1997); (C&M Arts, New York, NY, sold to Nancy F. and Joseph P. Keithley) (before 2013); Nancy F. and Joseph P. Keithley, Cleveland, OH, given to the Cleveland Museum of Art (before 2013\u20132020); The Cleveland Museum of Art, Cleveland, OH (2020\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.104/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2020.104",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2020.104/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1906",
+        "begin_of_the_begin": "1906",
+        "end_of_the_end": "1906"
+      }
+    }
+  ]
+}

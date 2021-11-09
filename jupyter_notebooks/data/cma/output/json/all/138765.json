@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1963.154",
+  "type": "HumanMadeObject",
+  "_label": "Statue of Gudea",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.154/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Statue of Gudea",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.154/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Feuerdent Coll., Paris; E. S. David; Feuerdent Coll., Paris;  (E. S. David)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.154/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1963.154",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1963.154/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 2143-2142 BC",
+        "begin_of_the_begin": "-2143",
+        "end_of_the_end": "-2124"
+      }
+    }
+  ]
+}

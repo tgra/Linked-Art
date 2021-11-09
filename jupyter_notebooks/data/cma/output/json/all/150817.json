@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1982.179.9",
+  "type": "HumanMadeObject",
+  "_label": "Reynard the Fox:  Reynard Promises Honey to the Bear",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.179.9/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Reynard the Fox:  Reynard Promises Honey to the Bear",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.179.9/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Allart van Everdingen (Dutch, 1621-1675), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.179.9/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1982.179.9",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1982.179.9/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1650-75",
+        "begin_of_the_begin": "1650",
+        "end_of_the_end": "1675"
+      }
+    }
+  ]
+}

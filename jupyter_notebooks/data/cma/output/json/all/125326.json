@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1947.28",
+  "type": "HumanMadeObject",
+  "_label": "Saint John the Baptist",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1947.28/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Saint John the Baptist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1947.28/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Erno Wittman, died 1963 (Budapest, Hungary; New York, New York), possibly sold through Raphael Stora (New York, New York) to Mr. and Mrs. Severance A. Millikin, 1945.; Mr. and Mrs. Severance A. Milliken, by gift to the Cleveland Museum of Art, 1947.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1947.28/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1947.28",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1947.28/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1550",
+        "begin_of_the_begin": "1545",
+        "end_of_the_end": "1555"
+      }
+    }
+  ]
+}

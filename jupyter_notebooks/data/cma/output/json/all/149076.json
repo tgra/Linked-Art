@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1977.200",
+  "type": "HumanMadeObject",
+  "_label": "Water Buffalo and Herdboys",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.200/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Water Buffalo and Herdboys",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.200/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Howard C. Hollis [1899-1985], Cleveland, OH, sold to Mr. and Mrs. Leisy); Mr. Herbert F. [1900-1977] and Mrs. Helen Stamp Leisy [1906-1975], Cleveland, OH, bequest to the Cleveland Museum of Art (?-1977); The Cleveland Museum of Art, Cleveland, OH (1977-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.200/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1977.200",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1977.200/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1200s-early 1300s",
+        "begin_of_the_begin": "1275",
+        "end_of_the_end": "1325"
+      }
+    }
+  ]
+}

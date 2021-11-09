@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1980.256",
+  "type": "HumanMadeObject",
+  "_label": "Offering to the God Pan",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.256/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Offering to the God Pan",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.256/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Paul Delaroche (French, 1797-1856), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1980.256/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Goupil in 1856. Artist's sale, Paris, Drouot, 12-13 June 1857 (lot 6), Paysage peint \u00e0 Ems. Ann\u00e9e 1854, sold for ff 2,000 to Goupil. Vincent van Gogh sale, The Hague, Pulchri Studio, 2-3 April 1889 (lot 42), as dated 1851, for fl 210 to General Hopkinson. Bury Street Gallery, London, ca. 1972-73, whose director Lady Abdy claims to have bought it at sale at Christie's, London, at that time. Sold by her to Shepherd Gallery, New York. Ferrers Gallery, London (according to Ziff 1977). Mr. and Mrs. Noah L. Butkin, Cleveland. Bequeathed to the CMA in 1980.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.256/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1980.256",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1980.256/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1855",
+        "begin_of_the_begin": "1855",
+        "end_of_the_end": "1855"
+      }
+    }
+  ]
+}

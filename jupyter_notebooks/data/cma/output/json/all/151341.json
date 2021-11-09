@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1983.189",
+  "type": "HumanMadeObject",
+  "_label": "Beaker",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1983.189/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Beaker",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1983.189/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Black Tulip Galleries, Inc., Dallas, TX, 1962, sold to James C. and Florence C. Gruener) (-1962); James C. Gruener [1903-1990], Cleveland, OH, given to the Cleveland Museum of Art (1962-1983); The Cleveland Museum of Art, Cleveland, OH (1983-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1983.189/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1983.189",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1983.189/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 800-1370",
+        "begin_of_the_begin": "800",
+        "end_of_the_end": "1370"
+      }
+    }
+  ]
+}

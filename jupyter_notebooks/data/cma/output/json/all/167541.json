@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2009.282",
+  "type": "HumanMadeObject",
+  "_label": "Brocaded velvet cushion cover with crescents",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.282/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Brocaded velvet cushion cover with crescents",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.282/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Probably acquired from Dikran Kelekian, Paris and New York (c. 1910); Baron Edmond James de Rothschild, by descent to his great-grandson Edmond Adolphe de Rothschild, Geneva (Baron Edmond James de Rothschild (1845-1934) married Adelheid von Rothschild in 1877. Their son lived at Waddesdon Manor, England: James Armand Edmond de Rothschild (1878-1957) married Dorothy Mathilde Pinto (1896-1988) in 1913. Their son Maurice de Rothschild (1881-1957), married No\u00e9mie Halphen (1888-1968) in 1909. Their son Edmond Adolphe de Rothschild (1926-1997), second marriage to Nadine L'Hopitalier (1932-) in 1963. Their son, Benjamin de Rothschild (1963-), is President of Groupe LCF); Colnaghi, London, 1977; The Textile Gallery, London, 1977; Wher Collection, to Jan 1986.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.282/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2009.282",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2009.282/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1525-75",
+        "begin_of_the_begin": "1525",
+        "end_of_the_end": "1575"
+      }
+    }
+  ]
+}

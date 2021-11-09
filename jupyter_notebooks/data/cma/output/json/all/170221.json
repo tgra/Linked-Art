@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2012.4",
+  "type": "HumanMadeObject",
+  "_label": "The Seed Received Among the Thorns, from the Parable of the Sower",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2012.4/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Seed Received Among the Thorns, from the Parable of the Sower",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2012.4/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gerard van Groeningen (Flemish), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2012.4/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Private Collection, New York, NY (?-2011); sold, Doyle New York, October 26, 2011, sale 11CN03, Lot 24 [as Flemish School] (2011); with Christopher Bishop Fine Art, Milford, CT (2011-2012); The Cleveland Museum of Art, Cleveland, OH. (2012-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2012.4/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2012.4",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2012.4/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1573",
+        "begin_of_the_begin": "1568",
+        "end_of_the_end": "1578"
+      }
+    }
+  ]
+}

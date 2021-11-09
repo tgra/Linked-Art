@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2013.336.a",
+  "type": "HumanMadeObject",
+  "_label": "Mahliqa, Daughter of the Emperor of China, Pointing at the Bird-Man Khwaja Mubarak: A Leaf from a Poetical Romance Relating to Shah Alam I (recto)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.336.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Mahliqa, Daughter of the Emperor of China, Pointing at the Bird-Man Khwaja Mubarak: A Leaf from a Poetical Romance Relating to Shah Alam I (recto)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.336.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2013.336.a",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2013.336.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1710",
+        "begin_of_the_begin": "1705",
+        "end_of_the_end": "1715"
+      }
+    }
+  ]
+}

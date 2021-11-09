@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1982.247",
+  "type": "HumanMadeObject",
+  "_label": "A Painter",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.247/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "A Painter",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.247/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ernest Meissonier (French, 1815-1891), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1982.247/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Countess Lehon [1808-1880], Paris, France, her sale, April 2-3,1861, lot 10, sold to Vente X . . . de Vienne (1861); Vente X . . . de Vienne, 1861, (possibly Georg Plach [1818-1885], Vienna, Austria (1861-1871); G. Simpson, by 1871 (by 1871); John Grant Morris [1811-1897], Allerton Priory, Liverpool, United Kingdom,1883, sold to Samuel P. Avery (1883-1884); (Samuel P. Avery, New York, NY, by 1884, sold to William H. Vanderbilt) (by 1884); William H. Vanderbuilt [1821-1885], New York, NY, by descent to his son, George W. Vanderbuilt; George W. Vanderbilt [1862-1914], New York, NY, by descent to Cornelius Vanderbilt III; Cornelius Vanderbilt III [1983-1942], New York, NY by descent to his widow, Mrs. Cornelius Vanderbilt III (1919-1945); Mrs. Cornelius Vanderbilt III, his widow', [1870-1953], New York, NY, consigned to Parke-Bernet for sale (1945); (Parke-Bernet Galleries, New York, NY, April 18-19, 1945, sold to Mrs. Derek Spence) (1945); Mrs. Derek Spence [1905-1984], New York, NY, February 1976,  consigned to Hammer Gallery (1945-1976); (Hammer Gallery, New York, NY, July 1976, sold to Shepherd Gallery) (1976); (Shephard Gallery, New York, NY, July 1976, sold to Mr. and Mrs. Noah L. Butkin) (1976); Mrs. Noah L. Butkin [1915-2008], Shaker Heights, OH, given to the Cleveland Museum of Art (1976-1982); The Cleveland Museum of Art, Cleveland, OH (1982-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.247/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1982.247",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1982.247/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1855",
+        "begin_of_the_begin": "1855",
+        "end_of_the_end": "1855"
+      }
+    }
+  ]
+}

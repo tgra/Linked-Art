@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1997.89",
+  "type": "HumanMadeObject",
+  "_label": "Drinking in the Moonlight",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1997.89/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Drinking in the Moonlight",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1997.89/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ma Yuan (Chinese, c. 1150-after 1255), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1997.89/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Cheng Qi \u7a0b\u7426 [1911-1988]; C. C. Wang \u738b\u5b63\u9077 [1907\u20132003], New York, NY; Mrs. A. Dean [Helen Wade Greene] Perry [1911-1996], Cleveland, OH, bequest to the Cleveland Museum of Art (by 1980-1997); The Cleveland Museum of Art, Cleveland, OH (1997-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1997.89/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1997.89",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1997.89/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1100s-early 1200s",
+        "begin_of_the_begin": "1189",
+        "end_of_the_end": "1225"
+      }
+    }
+  ]
+}

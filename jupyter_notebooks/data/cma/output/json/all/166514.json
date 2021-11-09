@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2008.293.a",
+  "type": "HumanMadeObject",
+  "_label": "Snuff Box",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.293.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Snuff Box",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.293.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jean-Urbain Gu\u00e9rin (French, 1760-1836), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2008.293.a/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Estate of Muriel Butkin (2008    ); Norton Galleries (New York, New York), sold to Noah L. or Muriel Butkin before 1975.; c. 1975-1980\tNoah L. Butkin (Shaker Heights, Ohio), upon his death, by inheritance to his wife, Muriel Butkin.; 1980-2008\tMuriel Butkin (Shaker Heights, Ohio), upon her death, held in trust by the estate.; 2008-2009\tEstate of Muriel Butkin",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.293.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2008.293.a",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2008.293.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1805",
+        "begin_of_the_begin": "1805",
+        "end_of_the_end": "1805"
+      }
+    }
+  ]
+}

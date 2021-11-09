@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1969.53",
+  "type": "HumanMadeObject",
+  "_label": "A Hare and a Leg of Lamb",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1969.53/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "A Hare and a Leg of Lamb",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1969.53/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jean-Baptiste Oudry (French, 1686-1755), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1969.53/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "M. de Vaize and the de Vaize Family (until at least 1956); (Sale: Galerie Charpentier, Paris, France, December 15\u201416, 1958, no. 64) (December 15\u201416, 1958); (Sale: Palais Galliera, Paris, France, December 4, 1963, no. 200, to Cailleux) (December 4, 1963); Private Collection, New York, NY; [Eugene V. Thaw (1927-2018), New York, NY, sold to the Cleveland Museum of Art]. (-1969); The Cleveland Museum of Art, Cleveland, OH (1969-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1969.53/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1969.53",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1969.53/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1742",
+        "begin_of_the_begin": "1742",
+        "end_of_the_end": "1742"
+      }
+    }
+  ]
+}

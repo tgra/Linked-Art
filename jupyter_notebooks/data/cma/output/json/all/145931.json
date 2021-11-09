@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1971.140",
+  "type": "HumanMadeObject",
+  "_label": "Dish with White and Green Cameo",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1971.140/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Dish with White and Green Cameo",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1971.140/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Taxile Maximin Doat (French, 1851-1939), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1971.140/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1971.140",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1971.140/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1895",
+        "begin_of_the_begin": "1890",
+        "end_of_the_end": "1900"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1985.354",
+  "type": "HumanMadeObject",
+  "_label": "The Actor Segawa Kikunojo II Dancing with a Parasol",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.354/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Actor Segawa Kikunojo II Dancing with a Parasol",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.354/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Katsukawa Shunsh\u014d (Japanese, 1726-1792), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1985.354/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Blondeau (sale: Sotheby, 1910, lot 108); Lady Graham Little (sale: Sotheby & Co., October 5, 1964, lot 66); Hans Popper (sale: Sotheby Parke Bernet, October 5, 1972, lot 98); Eugene V. Thaw",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.354/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1985.354",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1985.354/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1770s",
+        "begin_of_the_begin": "1776",
+        "end_of_the_end": "1779"
+      }
+    }
+  ]
+}

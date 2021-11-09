@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1942.247",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of Mrs. Leneve",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.247/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of Mrs. Leneve",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.247/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Peter Lely (British, 1618-1680), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1942.247/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "family of the sitter, by descent to Isabella Leneve; Isabelle Leneve, by descent to her nephew, Peter Leneve; Mr. and Mrs. Peter Leneve, Norwich, sold to Horace Walpole (?-1759); Horace Walpole [1717-1797] Strawberry Hill, Middlesex, England, to Earl of Waldegrave (1759-1797); The Earls Waldegrave, consigned to Strawberry Hill sale, April 25, 1842, no. 61) (1797-1842); (Robins sale, Strawberry Hill, May 18, 1842, sold to Dommes) (1842); Dommes (1842-?); Sir Hugh Hume Campbell, Bart., sold at Christie\u2019s, London (?-1894); (Christie\u2019s, London, June 16, 1894, no. 26, to Prideaux) (1894); Prideaux (1894-1909?); R. C. Vose and N. M. Vose, Boston, sold to Mrs. Otto Miller (1909-1915); Mrs. Otto Miller, Cleveland, by gift to the Cleveland Museum of Art (1915-1942); The Cleveland Museum of Art, Cleveland, OH (1942-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.247/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1942.247",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1942.247/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1657",
+        "begin_of_the_begin": "1652",
+        "end_of_the_end": "1662"
+      }
+    }
+  ]
+}

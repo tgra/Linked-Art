@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2018.197",
+  "type": "HumanMadeObject",
+  "_label": "Maharaja Abhai Singh of Marwar (r. 1724\u201349), Equestrian, Watching Girls Swinging\nat the Teej Festival",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.197/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Maharaja Abhai Singh of Marwar (r. 1724\u201349), Equestrian, Watching Girls Swinging\nat the Teej Festival",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.197/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2018.197",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2018.197/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1740",
+        "begin_of_the_begin": "1730",
+        "end_of_the_end": "1750"
+      }
+    }
+  ]
+}

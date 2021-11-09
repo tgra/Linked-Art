@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1941.316",
+  "type": "HumanMadeObject",
+  "_label": "Nude Man Standing, with Left Hand Raised",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1941.316/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Nude Man Standing, with Left Hand Raised",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1941.316/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Edgar Degas (French, 1834-1917), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1941.316/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "estate of the artist (Lugt 658, lower left, in red ink and Lugt 657, verso, upper right, in red ink).  [Galerie Georg Petit, Paris, 2-4 July 1919, cat. no. 182b] (photocopy in departmental file)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1941.316/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1941.316",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1941.316/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1900",
+        "begin_of_the_begin": "1895",
+        "end_of_the_end": "1905"
+      }
+    }
+  ]
+}

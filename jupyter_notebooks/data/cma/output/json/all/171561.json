@@ -1,0 +1,57 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2014.349",
+  "type": "HumanMadeObject",
+  "_label": "Landscape (from Advertisement series for Coloured Fabric, Beit & Co., Hamburg",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.349/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Landscape (from Advertisement series for Coloured Fabric, Beit & Co., Hamburg",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.349/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ernst Neumann (German, 1871-1954), artist; Bruno Hessling, Berlin, published by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.349/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2014.349",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

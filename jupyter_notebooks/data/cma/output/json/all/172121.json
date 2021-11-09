@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2014.695.kk",
+  "type": "HumanMadeObject",
+  "_label": "Bouqueti\u00e8re",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.695.kk/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Bouqueti\u00e8re",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.695.kk/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Firmin Bouisset (French, 1859-1925), artist; Imprimerie Champenois, publisher",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.695.kk/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2014.695.kk",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2014.695.kk/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1899",
+        "begin_of_the_begin": "1899",
+        "end_of_the_end": "1899"
+      }
+    }
+  ]
+}

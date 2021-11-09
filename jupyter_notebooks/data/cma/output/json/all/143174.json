@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1967.152",
+  "type": "HumanMadeObject",
+  "_label": "Figure (ba\u00e0th\u00edl)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1967.152/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Figure (ba\u00e0th\u00edl)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1967.152/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Mathias Komor, New York, NY, sold to the Cleveland Museum of Art) (by at least 1967); The Cleveland Museum of Art, Cleveland, OH (1967-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1967.152/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1967.152",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1967.152/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1900",
+        "begin_of_the_begin": "1895",
+        "end_of_the_end": "1905"
+      }
+    }
+  ]
+}

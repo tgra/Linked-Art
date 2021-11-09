@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1935.233",
+  "type": "HumanMadeObject",
+  "_label": "Vase of Flowers",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1935.233/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Vase of Flowers",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1935.233/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Odilon Redon (French, 1840-1916), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1935.233/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Georges Bernheim, Paris, France, January 1929, stock no. A498, sold to Knoedler & Co.) (1929); (Knoedler & Co., New York, NY, September 1929, stock no. A1021, sold to George C. Lee) (1929); Mrs. G. C. Lee returned to Knoedler & Co., New York, NY (stock number A1021) November 1929, held jointly with E. Bignou. (1929); (Knoedler & Co., New York, NY, January 1930, stock number A1171,  jointly with E. Bignou, sold to Mrs. R.T. Wilson) (1929-1930); Mrs. R.T. Wilson [1875-1947], New York, NY returned to Knoedler & Co., May 1930 (1930); (M. Knoedler & Co., New York, NY, December 1935, sold to the Cleveland Museum of Art) (1930-1935); The Cleveland Museum of Art, Cleveland, OH (1935-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1935.233/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1935.233",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1935.233/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1905",
+        "begin_of_the_begin": "1900",
+        "end_of_the_end": "1910"
+      }
+    }
+  ]
+}

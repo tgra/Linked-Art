@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1994.200",
+  "type": "HumanMadeObject",
+  "_label": "If\u00e1 divination vessel (\u00e0g\u00e9r\u00e9 If\u00e1)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1994.200/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "If\u00e1 divination vessel (\u00e0g\u00e9r\u00e9 If\u00e1)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1994.200/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Charles Davis, by purchase in Togo ca.1979-1982 (ca. 1979 to 1982-1994); (Davis Gallery, New Orleans, LA, sold to the Cleveland Museum of Art) (by 1994); The Cleveland Museum of Art, Cleveland, OH (1994-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1994.200/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1994.200",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1994.200/production/timespan",
+        "type": "TimeSpan",
+        "_label": "mid- late 1800s",
+        "begin_of_the_begin": "1850",
+        "end_of_the_end": "1899"
+      }
+    }
+  ]
+}

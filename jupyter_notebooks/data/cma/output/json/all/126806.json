@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1949.200",
+  "type": "HumanMadeObject",
+  "_label": "Tall- case Clock (Regulateur)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1949.200/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Tall- case Clock (Regulateur)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1949.200/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jean-Pierre Latz (French, 1691-1754), artist; Stollewerck (French), movement maker",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1949.200/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Russian Court, gift of King of France; gift of Catherine II to Gagarine family; Prince Victor Gagarine; Prince Serge Gagarine; Prince Troubetzkoy; (Cesar de Hauke, Inc., New York).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1949.200/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1949.200",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1949.200/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1744",
+        "begin_of_the_begin": "1744",
+        "end_of_the_end": "1744"
+      }
+    }
+  ]
+}

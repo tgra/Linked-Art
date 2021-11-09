@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1944.480.2.b",
+  "type": "HumanMadeObject",
+  "_label": "The Reign of Nushirwan, the Combat between the Khan of Chin and the Haitalians (verso) from a Shahnama (Book of Kings) of Firdausi (940\u20131019 or 1025)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1944.480.2.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Reign of Nushirwan, the Combat between the Khan of Chin and the Haitalians (verso) from a Shahnama (Book of Kings) of Firdausi (940\u20131019 or 1025)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1944.480.2.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1944.480.2.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1944.480.2.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c.1299",
+        "begin_of_the_begin": "1290",
+        "end_of_the_end": "1310"
+      }
+    }
+  ]
+}

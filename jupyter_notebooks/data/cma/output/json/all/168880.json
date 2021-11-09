@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2010.562",
+  "type": "HumanMadeObject",
+  "_label": "Picturesque and Romantic Travels in Old France, Picardie:  The Belfry Tower of Amiens, Picardie (Voyages pittoresques et romantiques dans l'ancienne France, Picardie : La Tour du Beffroi d' Amiens, Picardie), after Fran\u00e7ois Bonhomm\u00e9 (French, 1809-1881)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2010.562/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Picturesque and Romantic Travels in Old France, Picardie:  The Belfry Tower of Amiens, Picardie (Voyages pittoresques et romantiques dans l'ancienne France, Picardie : La Tour du Beffroi d' Amiens, Picardie), after Fran\u00e7ois Bonhomm\u00e9 (French, 1809-1881)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2010.562/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Louis Haghe (British, 1806-1885), artist; Thierry Brothers, published by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2010.562/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Hatay-Stratton, Aug 2, 1985; John Bonebrake, Cleveland, OH",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2010.562/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2010.562",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2010.562/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1835",
+        "begin_of_the_begin": "1835",
+        "end_of_the_end": "1835"
+      }
+    }
+  ]
+}

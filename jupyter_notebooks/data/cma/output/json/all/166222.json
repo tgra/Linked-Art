@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2008.157.1.d",
+  "type": "HumanMadeObject",
+  "_label": "Hottentot Apron",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.157.1.d/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Hottentot Apron",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.157.1.d/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Sol Mednick (American, 1916-1970), artist; Letter Edged in Black Press, published by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.157.1.d/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2008.157.1.d",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2008.157.1.d/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1968",
+        "begin_of_the_begin": "1968",
+        "end_of_the_end": "1968"
+      }
+    }
+  ]
+}

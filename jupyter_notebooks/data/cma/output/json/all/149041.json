@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1977.182",
+  "type": "HumanMadeObject",
+  "_label": "Covered Tureen on Stand (Pot-\u00e0-oille)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.182/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Covered Tureen on Stand (Pot-\u00e0-oille)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.182/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Juste-Aur\u00e8le Meissonnier (French, 1695-1750), designer; Pierre-Fran\u00e7ois Bonnestrenne (French), maker; Henry Adnet (French, 1745), maker",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1977.182/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Evelyn Pierrepont, 2nd Duke of Kingston [1711\u20131773], England, by descent to his wife, Elizabeth Chudleigh (1740-1773); Elizabeth Chudleigh, sometime Duchess of Kingston [1721\u20131788], England (1773-1788); Prince Alexander Bezborodko [1747\u20131799], Russia (1788-1799 (?)); Count Elie Bezborodko [1756\u20131815], Russia (1799-1815 (?)); Count Alexander Kushelev-Bezborodko [1800-1855], Russia (1815-1855 (?)); Alexander Alexandrovich Polovtsoff [1832-1909], Russia, by descent to his heirs (1855-1909 (?)); (Jacques Seligmann [1858-1923], Paris, France, 1909, sold to John Pierpont Morgan); John Pierpont Morgan [1837-1913] (1909-1913 (?)); (Charles and Richard Comyns, London, England, 1925-1926, sold to anonymous buyer) (1925-1926); (Peter Zervudachi [b.  1921], Galerie du Lac, Vevey, Switzerland, sold to The Cleveland Museum of Art) (1977); Cleveland Museum of Art, Cleveland, Ohio (1977-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.182/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1977.182",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1977.182/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1735\u201338",
+        "begin_of_the_begin": "1735",
+        "end_of_the_end": "1738"
+      }
+    }
+  ]
+}

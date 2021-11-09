@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1972.119",
+  "type": "HumanMadeObject",
+  "_label": "Noah:  The Eve of the Deluge",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1972.119/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Noah:  The Eve of the Deluge",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1972.119/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "John Linnell (British, 1792-1882), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1972.119/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sold to Joseph Gillott [1799-1872], Birmingham, United Kingdom, May 1847,  before the work was completed. (1847-1872); (Christie's, London, United Kingdom, April 19-20 and 26-27, and May 3-4, 1872,  sale, lot 137, sold to J. Rhodes for Angus, 1st Lord Holden) (1872); Angus 1st Lord Holden [1833-1912], Nun Appleton House, Bolton Percy, England (1872-1913); (Christie's, London, United Kingdom, July 18, 1913, Holden Sale, lot 64, sold to Bale. Mrs. C. Hunter) (1913); (Sotheby's, London Belgravia sale, February 22, 1972,  lot 98, sold to Jeremy Maas, with Herner Wengraf, London) (1972); (Herner Wengraf, London, United Kingdom, 1972, sold to the Cleveland Museum of Art) (1972); The Cleveland Museum of Art, Cleveland, OH (1972-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1972.119/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1972.119",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1972.119/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1848",
+        "begin_of_the_begin": "1848",
+        "end_of_the_end": "1848"
+      }
+    }
+  ]
+}

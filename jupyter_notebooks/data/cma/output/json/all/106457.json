@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1924.527",
+  "type": "HumanMadeObject",
+  "_label": "The Inferno According to Dante, after the Fresco in the Campo Santo at Pisa",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1924.527/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Inferno According to Dante, after the Fresco in the Campo Santo at Pisa",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1924.527/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1924.527",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1924.527/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1400s",
+        "begin_of_the_begin": "1400",
+        "end_of_the_end": "1500"
+      }
+    }
+  ]
+}

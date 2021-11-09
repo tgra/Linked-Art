@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.988.b",
+  "type": "HumanMadeObject",
+  "_label": "Drachm: Horse, r., grazing (Reverse)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.988.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Drachm: Horse, r., grazing (Reverse)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.988.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.988.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1916.988.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "400-344 BC",
+        "begin_of_the_begin": "-400",
+        "end_of_the_end": "-344"
+      }
+    }
+  ]
+}

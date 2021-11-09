@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1914.871",
+  "type": "HumanMadeObject",
+  "_label": "Three Pieces of an Arrow",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1914.871/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Three Pieces of an Arrow",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1914.871/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1914.871",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1914.871/production/timespan",
+        "type": "TimeSpan",
+        "_label": "First Intermediate- Middle Kingdom, 2123- 1814 BC",
+        "begin_of_the_begin": "-2123",
+        "end_of_the_end": "-1814"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1933.446",
+  "type": "HumanMadeObject",
+  "_label": "Bifolium Excised from a Carolingian Gradual",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1933.446/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Bifolium Excised from a Carolingian Gradual",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1933.446/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Cathedral of Paderborn(?); Convent of Kenmade, Westphalia (1777    ); Count of Kesselstadt; Private Collection, Westphalia (until 1933); Cathedral of Paderborn(?); Convent of Kemnade, Westphalia (1777); Count of Kesselstadt; Private Collection, Westphalia (unitl 1933)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1933.446/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1933.446",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1933.446/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 830\u201360",
+        "begin_of_the_begin": "830",
+        "end_of_the_end": "860"
+      }
+    }
+  ]
+}

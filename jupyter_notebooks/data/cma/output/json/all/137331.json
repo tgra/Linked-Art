@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1962.256",
+  "type": "HumanMadeObject",
+  "_label": "Landscape with a Church by a Torrent\n",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.256/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Landscape with a Church by a Torrent\n",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.256/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jacob van Ruisdael (Dutch, 1628/29-1682), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1962.256/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The Cleveland Museum of Art, Cleveland, Ohio (1962-); Jane Taft Ingalls [1874-1962], Cleveland, OH, upon her death, held in trust by the estate Estate of Jane Taft Ingalls, by bequest to the Cleveland Museum of Art (1949-1962); (Rosenberg & Stiebel, New York, NY, sold to Jane Taft Ingalls) (1949); Baroness Clarice von Rothschild [1894-1967], widow of Baron Alphonse, New York, NY, sold to Rosenberg & Stiebel (1946-1949); In possession of the Allies, restituted to Clarice von Rothschild, widow of Alphonse1 (1945-1946); In possession of the Nazis; selected by Hitler for the F\u00fchrermuseum, Linz1 (1938-1945); Baron Alphonse von Rothschild, Vienna [1878-1942], confiscated by the Nazis (Probably 1905-1938); Baron Nathaniel von Rothschild, Vienna [1836-1905], by descent to his nephew, Baron Alphonse von Rothschild (1874-1905); Baron Anselm von Rothschild [1803-1874], Vienna, by descent to his son, Baron Nathaniel von Rothschild (Probably 1873-1874); (Rochebousseau sale, Pillet, Paris, May 5-8, 1873, no. 198, sold to Gu\u00e9not)1 (1873); Marquis de La Rochebousseau (Until 1873)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.256/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1962.256",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1962.256/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1670",
+        "begin_of_the_begin": "1665",
+        "end_of_the_end": "1675"
+      }
+    }
+  ]
+}

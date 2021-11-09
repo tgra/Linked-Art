@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1942.2.12.a",
+  "type": "HumanMadeObject",
+  "_label": "Double-Leaf Doors",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.2.12.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Double-Leaf Doors",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.2.12.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Pierre Rousseau (French, 1751-1829), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1942.2.12.a/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Said by Wildenstein & Co. (letter of January 19,1942) to have come from 193 Boulevard St. Germain, Paris (known at the time as 21 and 23 rue St. Dominique), a private house, supposedly built after plans by Ange-Jacques Gabriel (1698\u20141782). Comte Hippolyte Terray, owner of the house from about 1830; Marquise de Belleuf (daughter of Comte Terray); Comte de Waresquiel; Arthur Veil-Picard; [Wildenstein & Co., Paris]; Grace Rainey Rogers, purchased in 1913. Gift of Grace Rainey Rogers in memory of her father, William J. Rainey, 1942 and 1944.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.2.12.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1942.2.12.a",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1942.2.12.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1790s",
+        "begin_of_the_begin": "1790",
+        "end_of_the_end": "1799"
+      }
+    }
+  ]
+}

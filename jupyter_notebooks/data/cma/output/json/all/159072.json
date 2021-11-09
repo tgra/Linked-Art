@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1995.270",
+  "type": "HumanMadeObject",
+  "_label": "Mirror with Serpentine Interlaces and Angular Meanders",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.270/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Mirror with Serpentine Interlaces and Angular Meanders",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.270/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Thomas and Martha Carter, Madison, WI; (Wui Po Kok, Hong Kong, 1992)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.270/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1995.270",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1995.270/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 325-275 BC",
+        "begin_of_the_begin": "-335",
+        "end_of_the_end": "-265"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2001.38",
+  "type": "HumanMadeObject",
+  "_label": "White Dancer in a Small Nightclub",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2001.38/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "White Dancer in a Small Nightclub",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2001.38/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ernst Ludwig Kirchner (German, 1880-1938), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2001.38/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Hans Graf von der Goltz, Bad Homburg, Germany; Private Collection, Nordrhein-Westfalen, Germany [Hauswedell & Nolte Auction 343, 12 June 1949, lot 1851]; [Kurt Delbanco, German dealer]; Alice Adam sold print for Delbanco to CMA",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2001.38/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2001.38",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2001.38/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1914",
+        "begin_of_the_begin": "1914",
+        "end_of_the_end": "1914"
+      }
+    }
+  ]
+}

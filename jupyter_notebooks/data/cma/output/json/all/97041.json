@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.696",
+  "type": "HumanMadeObject",
+  "_label": "Basket-Hilt Broadsword (\"Mortuary Sword\")",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.696/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Basket-Hilt Broadsword (\"Mortuary Sword\")",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.696/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sir Thomas Fairfax (1612-1671), Yorkshire, England (purportedly); Sir Cuthbert Sharp (1781-1849), Newcastle, England; Prince Augustus Frederick (1773-1843), Duke of Sussex, England; George Francis William Henry Denison (1892-1920), Earl of Londesborough, England; Edwin J. Brett (1828-1895), London, England; S.J. Whawell (1871-1899), London, England; Frank Gair Macomber (1849-1941), Boston, MA, sold to the Cleveland Museum of Art (?-1916); The Cleveland Museum of Art, Cleveland, OH (1916-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.696/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.696",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1916.696/production/timespan",
+        "type": "TimeSpan",
+        "_label": "hilt: c. 1640\u201350; blade: 1700s",
+        "begin_of_the_begin": "1635",
+        "end_of_the_end": "1799"
+      }
+    }
+  ]
+}

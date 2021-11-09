@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1980.43",
+  "type": "HumanMadeObject",
+  "_label": "Stylized Bird:  Decorative Inlay for a Box",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.43/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Stylized Bird:  Decorative Inlay for a Box",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.43/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1980.43",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1980.43/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 2000 BC",
+        "begin_of_the_begin": "-2005",
+        "end_of_the_end": "-1995"
+      }
+    }
+  ]
+}

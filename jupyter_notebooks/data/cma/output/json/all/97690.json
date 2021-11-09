@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1917.333",
+  "type": "HumanMadeObject",
+  "_label": "Spoon with Dual Heads",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1917.333/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Spoon with Dual Heads",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1917.333/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1917.333",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1917.333/production/timespan",
+        "type": "TimeSpan",
+        "_label": "918-1392",
+        "begin_of_the_begin": "918",
+        "end_of_the_end": "1392"
+      }
+    }
+  ]
+}

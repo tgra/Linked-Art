@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1990.180",
+  "type": "HumanMadeObject",
+  "_label": "Vessel with Ballplayer",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1990.180/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Vessel with Ballplayer",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1990.180/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Lee Moore: Fine Art of the Americas, Miami, FL, 1971, sold to James C. Gruener and Florence C, Gruener) (?-1971); James C. [1903-1990] and Florence C. [1908-1982] Gruener, Cleveland, OH, bequest to the Cleveland Museum of Art (1971-1990); The Cleveland Museum of Art (1990)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1990.180/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1990.180",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1990.180/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 600-1000",
+        "begin_of_the_begin": "600",
+        "end_of_the_end": "1000"
+      }
+    }
+  ]
+}

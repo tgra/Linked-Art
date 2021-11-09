@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1990.72",
+  "type": "HumanMadeObject",
+  "_label": "Replica of a Drypainting (Iikaah) after a drypainting by Tsi-tcaci",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1990.72/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Replica of a Drypainting (Iikaah) after a drypainting by Tsi-tcaci",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1990.72/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1990.72",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1990.72/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1800s-early 1900s",
+        "begin_of_the_begin": "1875",
+        "end_of_the_end": "1925"
+      }
+    }
+  ]
+}

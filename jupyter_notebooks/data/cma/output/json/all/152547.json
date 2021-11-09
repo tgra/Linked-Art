@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1985.363",
+  "type": "HumanMadeObject",
+  "_label": "Falcon on a Willow",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.363/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Falcon on a Willow",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.363/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Isoda Kory\u016bsai (Japanese, 1735\u20131790), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1985.363/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Henri Vever [1854\u20131942], France (?-1942); (Sotheby & Co., London, UK, March 26, 1974, part I, lot 88) (March 26, 1974); John R. Gaines (1974-1979); (Sotheby Parke Bernet, New York, NY, May 23-25, 1979, lot 464, sold to Mr. and Mrs. Kelvin Smith) (May 23-25, 1979); The Kelvin Smith Collection, Cleveland, OH, given by Mrs. Kelvin [Eleanor Armstrong] Smith [1899-1998] given to the Cleveland Museum of Art (1979-1985); The Cleveland Museum of Art, Cleveland, OH (1985-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.363/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1985.363",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1985.363/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1780",
+        "begin_of_the_begin": "1780",
+        "end_of_the_end": "1780"
+      }
+    }
+  ]
+}

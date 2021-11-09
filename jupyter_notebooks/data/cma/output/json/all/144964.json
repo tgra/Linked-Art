@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1970.159",
+  "type": "HumanMadeObject",
+  "_label": "Figure in Turkish Costume",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.159/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Figure in Turkish Costume",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.159/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Eug\u00e8ne Delacroix (French, 1798-1863), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1970.159/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Possibly artist's estate sale, Feb. 17-29, 1864, H\u00f4tel Drouot, Paris, no. 188) (1864); Marie-Louise Guinot, to her husband, Georges Aubry (Probably until 1926); Georges Aubry, Paris (By 1926 - c. 1930); (Sale, H\u00f4tel Drouot, Paris, March 6-7, 1967, no. 7, sold to Claude Aubry) (1967); (Claude Aubry, Paris, sold to Paul and Odette Wurzburger) (1967-); Paul [1904-1976] and Odette [1909-2006] Wurzburger, Cleveland, OH, given to the Cleveland Museum of Art (Until 1970); The Cleveland Museum of Art, Cleveland, OH (1970-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.159/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1970.159",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1970.159/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1856-1863",
+        "begin_of_the_begin": "1856",
+        "end_of_the_end": "1863"
+      }
+    }
+  ]
+}

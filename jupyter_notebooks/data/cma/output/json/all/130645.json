@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1953.362",
+  "type": "HumanMadeObject",
+  "_label": "Wooden Casket: Scenes from the Life of Christ",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.362/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Wooden Casket: Scenes from the Life of Christ",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.362/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Philip Nelson, London [base was bought by Nelson in Cheshire in 1921; the lid was discovered at Uttoxeter, Staffordshire in early 19th century; Convent of the Sacred Heart, Hammersmith before 1937 when it passed into the Nelson collection.  Reunited casket loaned to the Victoria & Albert Museum, 1937-1953]; (Dr. Jacob Hirsch, New York).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.362/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1953.362",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1953.362/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1050",
+        "begin_of_the_begin": "1045",
+        "end_of_the_end": "1055"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2016.486",
+  "type": "HumanMadeObject",
+  "_label": "A portrait of the late founder of the Basque Nationalist Movement, Sabino Arena, being carried through the streets of Guernica. It was 40 years ago on the 26th of April 1937 that planes of Hitler's \"Condor Legion\" destroyed the sacred town of the Basques \"Guernica\" on the bay of Biscay near Bilbao. German Heinkels and Junker planes set the town ablaze with their incendiary bombs, but the following day Franco's propaganda machine spread the rumor that the town had been burnt by its inhabitants rather than deliver it to the enemy. For the first time the authorities have allowed a mass memorial reunion for the survivors of the bombing and machine gun firing squads. Its present 19,000 inhabitants have not forgotten their tragic history. School children of the Bilbao art school made a full scale reproduction of Picasso's \"Guernica\" mural and displayed it in front of the city hall. Guernica, Spain, 1977",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.486/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "A portrait of the late founder of the Basque Nationalist Movement, Sabino Arena, being carried through the streets of Guernica. It was 40 years ago on the 26th of April 1937 that planes of Hitler's \"Condor Legion\" destroyed the sacred town of the Basques \"Guernica\" on the bay of Biscay near Bilbao. German Heinkels and Junker planes set the town ablaze with their incendiary bombs, but the following day Franco's propaganda machine spread the rumor that the town had been burnt by its inhabitants rather than deliver it to the enemy. For the first time the authorities have allowed a mass memorial reunion for the survivors of the bombing and machine gun firing squads. Its present 19,000 inhabitants have not forgotten their tragic history. School children of the Bilbao art school made a full scale reproduction of Picasso's \"Guernica\" mural and displayed it in front of the city hall. Guernica, Spain, 1977",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.486/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Leonard Freed (American, 1929-2006), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.486/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2016.486",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2016.486/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1977",
+        "begin_of_the_begin": "1977",
+        "end_of_the_end": "1977"
+      }
+    }
+  ]
+}

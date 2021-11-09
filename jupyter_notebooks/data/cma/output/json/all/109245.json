@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1927.393",
+  "type": "HumanMadeObject",
+  "_label": "Elizabeth Shewell West and Her Son, Raphael",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1927.393/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Elizabeth Shewell West and Her Son, Raphael",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1927.393/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Benjamin West (American, 1738-1820), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1927.393/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The Cleveland Museum of Art, Cleveland, Ohio (1927-); Edward S. Harkness [1874-1940], New York, NY, to the Cleveland Museum of Art (1916-1927); Mary Warden Harkness [1864-1916], New York, NY, by bequest to her brother-in-law Edward S. Harkness (1916); Charles W. Harkness [1860-1916], New York, NY, by bequest to his wife Mary Warden Harkness1 (1911-1916); (M. Knoedler & Co., New York, NY, sold to Charles W. Harkness) (Until 1911); Henry J. Pfungst [1844-1917], Cleveland Square, London (?); Castle Smith, London (By 1909); Grandson of Benjamin West, Jr., to his widow (Probably 1848-); Benjamin West, Jr. [1772-1848], to his grandson (1820-by 1848); Benjamin West [1738-1820], London, to his son, Benjamin West, Jr. (c. 1770-1820)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1927.393/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1927.393",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1927.393/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1770",
+        "begin_of_the_begin": "1765",
+        "end_of_the_end": "1775"
+      }
+    }
+  ]
+}

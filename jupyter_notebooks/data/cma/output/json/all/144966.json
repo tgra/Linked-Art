@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1970.160",
+  "type": "HumanMadeObject",
+  "_label": "Virgin and Child with the Young Saint John the Baptist",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.160/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Virgin and Child with the Young Saint John the Baptist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.160/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Sandro Botticelli (Italian, 1444/45-1510), artist; Workshop, artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1970.160/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Robert Hoe III [1839-1909], New York, NY, after his death, held in trust by his estate1 (Until 1909); (Hoe sale, American Art Association, New York, Feb. 15, 1911, to Arthur Hoe) (1911); Arthur I. Hoe [1880-1956], Bedford Hills, NY 1 (1911-at least 1916); (Ehrich Galleries, New York) 1 (Before 1925); Baron Michele Lazzaroni [1863-1934], Rome 1 (by 1925); (Guglielmo Canessa, Milan, Italy) 1 (By 1959); Private collection, Milan 1 (Before 1970); (Iolanda d'Antoni, Lugano, Switzerland, sold to the Cleveland Museum of Art) (Until 1970); The Cleveland Museum of Art, Cleveland, OH (1970-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.160/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1970.160",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1970.160/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1490",
+        "begin_of_the_begin": "1485",
+        "end_of_the_end": "1495"
+      }
+    }
+  ]
+}

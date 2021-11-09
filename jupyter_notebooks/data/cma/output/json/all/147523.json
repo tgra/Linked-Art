@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1973.33",
+  "type": "HumanMadeObject",
+  "_label": "Count Demetrius de Palatiano in Suliot Costume",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.33/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Count Demetrius de Palatiano in Suliot Costume",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.33/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Eug\u00e8ne Delacroix (French, 1798-1863), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1973.33/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Probably Paul de Laage, sold to Goupil & Cie. (Until 1881); (Goupil & Cie, Paris) (1881-1887); (Goupil & Cie sale, H\u00f4tel Drouot, May 25-27, 1887 (no. 43), sold to Hector Brame) (1887); (Hector Brame, Paris) (1887-); Paul-Arthur Ch\u00e9ramy [1840-1912], Paris (Until 1908); (Ch\u00e9ramy sale, Galerie Georges Petit, Paris, May 5-7, 1908 (no. 159), probably sold to Schoeller or Haro on behalf of Comte Andr\u00e9 Pastr\u00e9 (1908); Comte Andr\u00e9 Pastr\u00e9 [1888-1960], Paris (Probably 1908 - at least); David David-Weill [1871-1952], Paris, to his wife, Flora David-Weill (Until 1952); Flora David-Weill [1878-1970], Paris (By 1963 - probably 1970); (Robert Schmit, Paris, probably sold to E.V. Thaw) (By 1972); The Cleveland Museum of Art, Cleveland, OH (1973-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.33/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1973.33",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1973.33/production/timespan",
+        "type": "TimeSpan",
+        "_label": "not dated",
+        "begin_of_the_begin": "1800",
+        "end_of_the_end": "1863"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1979.40",
+  "type": "HumanMadeObject",
+  "_label": "Vase with Portrait of President MacMahon",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1979.40/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Vase with Portrait of President MacMahon",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1979.40/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Alfred-Thompson Gobert (French, 1822-1894), decorated by; Constantin Renard (French), thrower; Emile-Bernard Rejoux (French, 1832-), gilded by; Jean-Denis Larue (French, 1884), sculptor; Jules Archelais (French, 1865-1902), decorated by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1979.40/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "President MacMahon, Paris; (his descendants, United States?).  [Rosenberg and Stiebel, New York].",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1979.40/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1979.40",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1979.40/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1872-1874",
+        "begin_of_the_begin": "1866",
+        "end_of_the_end": "1879"
+      }
+    }
+  ]
+}

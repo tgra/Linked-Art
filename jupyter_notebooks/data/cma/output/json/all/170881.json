@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2013.348.a",
+  "type": "HumanMadeObject",
+  "_label": "Court Lady Pouring Wine (recto)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.348.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Court Lady Pouring Wine (recto)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.348.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Muhammad Rizavi Hindi (Indian, active mid-1700s), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2013.348.a/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sir Charles Forbes, 7th Baronet (1773-1849), Bengal, London, and Scotland, by descent to his great-grandson, Colonel Sir John Forbes (?-1849); Colonel Sir John Stewart Forbes [1901-1984], Baronet, DSO, DL, Allargue House, Strathdon, Aberdeenshire, Scotland, UK, consigned to Sotheby's London for sale (?-1962); (Sotheby's, London, Western and Oriental Manuscripts and Miniatures, lot 21) (December 10, 1962); Ralph Benkaim [1914-2001], Beverly Hills, CA, by descent to his wife Catherine Benkaim (1962-2001); (Catherine Glynn Benkaim [b. 1946], Beverly Hills, CA, sold to the Cleveland Museum of Art) (2001-2013); The Cleveland Museum of Art, Cleveland, OH (2013-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.348.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2013.348.a",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2013.348.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1760",
+        "begin_of_the_begin": "1755",
+        "end_of_the_end": "1765"
+      }
+    }
+  ]
+}

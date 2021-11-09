@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1926.428",
+  "type": "HumanMadeObject",
+  "_label": "Pendant with the Virgin and Child",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1926.428/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Pendant with the Virgin and Child",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1926.428/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Godefroid de Huy (Netherlandish), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1926.428/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Comtesse de Robiano, Brussels, Belgium; Charles Ducatel, Paris, France (?-1890); Albin Chalandon, Lyon, France, by inheritance to his son, Georges Chalandon (1890-?); Georges Chalandon, Paris, France; (Arnold Seligmann, Rey, & Co., New York, NY sold to the Cleveland Museum of Art) (?-1926); The Cleveland Museum of Art, Cleveland, OH (1926-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1926.428/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1926.428",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1926.428/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1160-1170",
+        "begin_of_the_begin": "1160",
+        "end_of_the_end": "1170"
+      }
+    }
+  ]
+}

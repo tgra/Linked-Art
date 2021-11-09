@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1957.139",
+  "type": "HumanMadeObject",
+  "_label": "The Kill",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1957.139/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Kill",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1957.139/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "S. H. Minkehof; (C.T. Loo \u76e7\u82b9\u9f4b [1880\u20131957], Paris, France, and New York, NY, purchased with funds from Harold T. [1882\u20131965] and Marie Odenkirk Clark [1896\u20131971] for gift to the Cleveland Museum of Art) (?\u20131957); The Cleveland Museum of Art, Cleveland, OH (1957\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1957.139/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1957.139",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1957.139/production/timespan",
+        "type": "TimeSpan",
+        "_label": "300\u2013100 BC",
+        "begin_of_the_begin": "-300",
+        "end_of_the_end": "-100"
+      }
+    }
+  ]
+}

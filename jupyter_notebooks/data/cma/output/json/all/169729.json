@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2011.51",
+  "type": "HumanMadeObject",
+  "_label": "Leaf with Initial from a Latin Bible: Initial M: St. Paul with a Sword and a Book",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2011.51/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Leaf with Initial from a Latin Bible: Initial M: St. Paul with a Sword and a Book",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2011.51/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Vienna Moralized Bible Workshop (French), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2011.51/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Alfred Henry Huth, C.H. St. John Hornby, Sir Sydney Cockerell, and Arthur Haddaway",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2011.51/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2011.51",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2011.51/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1220",
+        "begin_of_the_begin": "1215",
+        "end_of_the_end": "1225"
+      }
+    }
+  ]
+}

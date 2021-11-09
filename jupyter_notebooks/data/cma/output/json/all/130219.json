@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1952.588",
+  "type": "HumanMadeObject",
+  "_label": "Landscape after Jing Hao and Guan Tong",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1952.588/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Landscape after Jing Hao and Guan Tong",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1952.588/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Li Shizhuo (Chinese, c. 1690-1770), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1952.588/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Zhou Jiaqian \u5468\u5bb6\u8b19 [1853\u20131925]; Li Guosong \u674e\u570b\u677e [1877\u20131951]; Shi Shouyu \u5e2b\u5b88\u7389 [20th century]; C. C. Wang \u738b\u5b63\u9077 [1907\u20132003], New York, NY; Fei Dunlu, to Walter Hochstadter; (Walter Hochstadter [1914\u20132007], New York, NY, sold to the Cleveland Museum of Art) (?-1952); The Cleveland Museum of Art, Cleveland, OH (1952-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1952.588/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1952.588",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1952.588/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1690-1770",
+        "begin_of_the_begin": "1690",
+        "end_of_the_end": "1770"
+      }
+    }
+  ]
+}

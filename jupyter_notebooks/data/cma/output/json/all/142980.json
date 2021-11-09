@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1966.7",
+  "type": "HumanMadeObject",
+  "_label": "Hilly Landscape with Hut Beside a Stream",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.7/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Hilly Landscape with Hut Beside a Stream",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.7/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Esaias van de Velde (Dutch, 1587-1630), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1966.7/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "St\u00e4delsches Kunstinstitut (J. F. Staedel); C. Josi; A. Grahl; (Boerner, D\u00fcsseldorf); (Colnaghi, London); F. Lugt; H. E. ten Cate; (Boerner, D\u00fcsseldorf); ACCORDING TO KEYES 1984 AND DEPARTMENTAL RECORDS: Christian Josi , Amsterdam and London (Lugt 573-575, not stamped) (?); St\u00e4delsches Kunstinstitut (J. F. Staedel), Frankfurt (Lugt 2356, verso, lower left, in black ink) (?); August Grahl, Dresden (Lugt 1199, lower left, in black ink); [sold: Sotheby's, London 27-28 April 1885, lot 336]; [sold: Boerner, Leipzig, 28 Nov. 1912, lot 244]; [Colnaghi, London]; Frits Lugt, Maartensdijk (Lugt 1028, not stamped); H. E. ten Cate, Oldenzaal/Almelo (Lugt 533b, verso, lower right, in brown ink); [Boerner, D\u00fcsseldorf]; Nathan Chaikin, Italy",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.7/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1966.7",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1966.7/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1627",
+        "begin_of_the_begin": "1627",
+        "end_of_the_end": "1627"
+      }
+    }
+  ]
+}

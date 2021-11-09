@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1980.290",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of a Young Man",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.290/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of a Young Man",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.290/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Private collector, Vienna, consigned to the Dorotheum (Until 1968); (Dorotheum, Vienna, sale, March 19-22, 1968, lot 129, unsold) (1968); Private collector, consigned to Sotheby\u2019s (Until 1978); (Sotheby\u2019s, New York, sale, May 12, 1978, lot 270, sold to an agent, possibly on behalf of Noah and Muriel Butkin) (1978); Noah and Muriel Butkin, Cleveland, OH, bequeathed to the Cleveland Museum of Art as a result of disclaimer by Muriel S. Butkin (Probably 1978-1980); The Cleveland Museum of Art, Cleveland, Ohio (1980-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.290/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1980.290",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1980.290/production/timespan",
+        "type": "TimeSpan",
+        "_label": "not dated",
+        "begin_of_the_begin": "1800",
+        "end_of_the_end": "1900"
+      }
+    }
+  ]
+}

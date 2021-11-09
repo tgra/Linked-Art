@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2021.33",
+  "type": "HumanMadeObject",
+  "_label": "Civil rights marchers morning campfire sends smoke spiraling skyward near Selma, as they prepare to break camp today and resume their march to the state capitol at Montgomery. The demonstrators spent a cold night in tents in an open field about seven miles from Selma, where the march started out yesterday. March 24, 1965",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.33/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Civil rights marchers morning campfire sends smoke spiraling skyward near Selma, as they prepare to break camp today and resume their march to the state capitol at Montgomery. The demonstrators spent a cold night in tents in an open field about seven miles from Selma, where the march started out yesterday. March 24, 1965",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.33/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Michael Mattis and Judith Hochberg, Scarsdale, NY (?-2021); The Cleveland Museum of Art, Cleveland, OH (March 1, 2021)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.33/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2021.33",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2021.33/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1965",
+        "begin_of_the_begin": "1965",
+        "end_of_the_end": "1965"
+      }
+    }
+  ]
+}

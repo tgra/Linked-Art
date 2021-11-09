@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1989.315",
+  "type": "HumanMadeObject",
+  "_label": "Dish with Laozi Riding a Water Buffalo (interior); Pavilion and Immortals in Rocky Landscape (exterior)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.315/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Dish with Laozi Riding a Water Buffalo (interior); Pavilion and Immortals in Rocky Landscape (exterior)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.315/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Sotheby's, London, 28 May 1968, lot no. 123, sold to Severance and Greta Millikin) (May 28, 1968); Severance A. [1895\u20131985] and Greta [Marguerite Steckerl] Millikin [1903\u20131989], Cleveland, OH, given to the Cleveland Museum of Art (1968\u20131989); The Cleveland Museum of Art, Cleveland, OH (1989\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.315/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1989.315",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1989.315/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1723\u201335",
+        "begin_of_the_begin": "1723",
+        "end_of_the_end": "1735"
+      }
+    }
+  ]
+}

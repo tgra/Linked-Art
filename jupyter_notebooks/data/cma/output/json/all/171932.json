@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2014.657",
+  "type": "HumanMadeObject",
+  "_label": "La Bi\u00e9vre, Les Gobelins, Saint-S\u00e9verin: Le Quartier Saint-S\u00e9verin: La Rue des Pr\u00eatres Saint-S\u00e9verin",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.657/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "La Bi\u00e9vre, Les Gobelins, Saint-S\u00e9verin: Le Quartier Saint-S\u00e9verin: La Rue des Pr\u00eatres Saint-S\u00e9verin",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.657/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Auguste Louis Lep\u00e8re (French, 1849-1918), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2014.657/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "collection of Enid and Irving Kushner in Shaker Heights, Ohio",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.657/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2014.657",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2014.657/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1901",
+        "begin_of_the_begin": "1901",
+        "end_of_the_end": "1901"
+      }
+    }
+  ]
+}

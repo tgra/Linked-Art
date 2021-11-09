@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1914.582",
+  "type": "HumanMadeObject",
+  "_label": "Shawabty of Pinudjem I, High Priest of Amen and King",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1914.582/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Shawabty of Pinudjem I, High Priest of Amen and King",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1914.582/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Presumably Deir el-Bahri (TT 320). Purchased in Egypt by Lucy Olcott Perkins through Henry W. Kent",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1914.582/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1914.582",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1914.582/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 990-969 BC",
+        "begin_of_the_begin": "-990",
+        "end_of_the_end": "-969"
+      }
+    }
+  ]
+}

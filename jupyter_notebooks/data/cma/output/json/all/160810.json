@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1999.122",
+  "type": "HumanMadeObject",
+  "_label": "Leaf from a Bible: Initial E: Entwined Lions and Serpents (1 of 2 Excised Leaves)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.122/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Leaf from a Bible: Initial E: Entwined Lions and Serpents (1 of 2 Excised Leaves)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.122/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Glastonbury Abbey (purportedly); Roger Gale (1672-1744); [Sotheby's London, 22 June 1982, lot 47]; [Bruce Ferrini, Akron].",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.122/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1999.122",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1999.122/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1225-50",
+        "begin_of_the_begin": "1220",
+        "end_of_the_end": "1255"
+      }
+    }
+  ]
+}

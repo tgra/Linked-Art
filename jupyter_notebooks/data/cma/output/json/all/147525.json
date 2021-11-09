@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1973.35",
+  "type": "HumanMadeObject",
+  "_label": "Seated Female Nude (Self-Portrait?)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.35/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Seated Female Nude (Self-Portrait?)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.35/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Paula Modersohn-Becker (German, 1876-1907), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1973.35/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Ernst Rump [1872-1921], Hamburg (after 1899-by 1921); (probably Dr. Ernst Hauswedell, Hamburg, June 1967, no. 1006) (1967); (Allan Frumkin Gallery, New York, sold to the Cleveland Museum of Art, Cleveland, OH) (probably 1967-1973); The Cleveland Museum of Art, Cleveland, OH (1973-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.35/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1973.35",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1973.35/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1899",
+        "begin_of_the_begin": "1894",
+        "end_of_the_end": "1904"
+      }
+    }
+  ]
+}

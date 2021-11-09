@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1989.155",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of a Woman",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.155/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of a Woman",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.155/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jean Baptiste Defernex (French, c. 1729-1783), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1989.155/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Galerie de Bayser & Strolin (Paris, France), sold to Severance and Greta Millikin (-1965); Severance Millikin (1895-1985) and Greta Millikin (1903-1989), upon his death, retained by Greta Millikin (1965-1985); Greta Millikin (1903-1989), upon her death, held in trust by the estate. (1985-1988); Estate of Greta Millikin, by bequest to the Cleveland Museum of Art. (1989); The Cleveland Museum of Art, Cleveland, OH (1989-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.155/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1989.155",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1989.155/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1759",
+        "begin_of_the_begin": "1759",
+        "end_of_the_end": "1759"
+      }
+    }
+  ]
+}

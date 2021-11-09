@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2014.392",
+  "type": "HumanMadeObject",
+  "_label": "Virgin and Child",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.392/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Virgin and Child",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.392/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Reportedly on the French art market (1960s); Gustav Rau collection, Stuttgart, Germany, a noted philanthropist and collector of Impressionist paintings and sculpture. (1960s-2013); Sold at Rau's sale to benefit Unicef at Sotheby's, London (July 2, 2013), lot 8 (July 2, 2013); [Daniel Katz, London], sold to the Cleveland Museum of Art (2013-2014); The Cleveland Museum of Art, Cleveland, Oh (2014-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.392/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2014.392",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2014.392/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1200s",
+        "begin_of_the_begin": "1250",
+        "end_of_the_end": "1299"
+      }
+    }
+  ]
+}

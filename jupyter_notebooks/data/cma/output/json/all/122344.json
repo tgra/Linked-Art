@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1942.640",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of Mary Anne Jolliffe",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.640/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of Mary Anne Jolliffe",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.640/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gainsborough Dupont (British, 1754-1797), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1942.640/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "the sitter, Mary Anne Jolliffe, n\u00e9e Twyford [1756-1802], and Thomas Samuel Jolliffe [1746-1824], Ammerdown House, Somerset, by descent to William Jolliffe (after 1788-1824); William Jolliffe, Esq., Ammerdown House, Somerset, by descent to Lord Hylton; Lord Hylton, Ammerdown Park, Somerset, sold to A.G. Temple (?-1911); Mr. A.G. Temple; (Arthur J. Sulley, London) (by 1912); (M. Knoedler & Co., New York, sold to John L. Severance) (1912-?); John L. Severance [1863-1936], Cleveland, OH, by bequest to the Cleveland Museum of Art (?-1936); The Cleveland Museum of Art, Cleveland, OH (1942-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.640/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1942.640",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1942.640/production/timespan",
+        "type": "TimeSpan",
+        "_label": "after 1788",
+        "begin_of_the_begin": "1788",
+        "end_of_the_end": "1797"
+      }
+    }
+  ]
+}

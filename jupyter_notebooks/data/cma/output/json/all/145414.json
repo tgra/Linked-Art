@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1970.67.b",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of the Zen Master Hotto Kokushi (bench)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.67.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of the Zen Master Hotto Kokushi (bench)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.67.b/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Mayuyama and Company, Tokyo, Japan, ?-1970, sold to the Cleveland Museum of Art) (?-1970); The Cleveland Museum of Art, Cleveland, OH, 1970-present (1970-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.67.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1970.67.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1970.67.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1286",
+        "begin_of_the_begin": "1281",
+        "end_of_the_end": "1291"
+      }
+    }
+  ]
+}

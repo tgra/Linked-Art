@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1942.783",
+  "type": "HumanMadeObject",
+  "_label": "Young Woman and Child at Play",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.783/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Young Woman and Child at Play",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.783/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Clodion (French, 1738-1814), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1942.783/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Paul Meurice (1818-1905), Paris, France, upon his death, held in trust by the estate; Estate of Paul Meurice, Paris, France (1905-1906); (Sale: H\u00f4tel Drouot, Paris, France, May 25, 1906, lot 30) (May 25, 1906); Alphonse de Jonge, Paris, France; French and Co., New York, New York, sold to John L. Severance.; John L. Severance (1863-1936), upon his death, held in trust by the estate.; Estate of John L. Severance, by bequest to the Cleveland Museum of Art (-1942); The Cleveland Museum of Art, Cleveland, OH (1942-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.783/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1942.783",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1942.783/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1780s",
+        "begin_of_the_begin": "1780",
+        "end_of_the_end": "1790"
+      }
+    }
+  ]
+}

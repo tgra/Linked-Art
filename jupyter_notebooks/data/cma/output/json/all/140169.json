@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1964.168",
+  "type": "HumanMadeObject",
+  "_label": "Stem Cup",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.168/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Stem Cup",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.168/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Geoffrey Stevenson, Boston; (Frank Caro, New York); Severance and Greta Millikin, 1958",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.168/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1964.168",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1964.168/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1426-1435",
+        "begin_of_the_begin": "1426",
+        "end_of_the_end": "1435"
+      }
+    }
+  ]
+}

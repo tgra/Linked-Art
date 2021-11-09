@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1996.1",
+  "type": "HumanMadeObject",
+  "_label": "Sweet Melancholy",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1996.1/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Sweet Melancholy",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1996.1/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Joseph-Marie Vien (French, 1716-1809), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1996.1/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Madame Marie-Th\u00e9r\u00e8se Geoffrin [1699-1777], Paris, France (Probably from 1757); Jean Louis Antoine le Vaillant de Damery, Chevalier de l\u2019Ordre Royal Militaire de St-Louis [1723-1803] (c. 1765); Comte Jean-Baptiste Dubarry [1723-1794], Toulouse, France (Until 1774); (Sale: Jean-Pierre-Baptiste Le Brun and Pierre Remy, Paris, Dubarry sale, Nov. 21, 1774, no. 93, probably bought in) (Nov. 21, 1774); (Pierre Remy, Paris, France) (1774-); Louis Fran\u00e7ois, 6th Prince de Conti [1717-1776], Paris, France (Until 1776); (Sale: Pierre Remy, Paris, France, Prince de Conti sale, April 17, 1777, no. 732, sold to Quenet) (April 17, 1777); Quenet, Paris, France (1777-); Jean Paul Andr\u00e9 des Rasins, Marquis de Saint-Marc [1723-1818], Paris, France, by descent to his daughter, Marie de la Roze (Until 1818); Marie de la Roze (Probably 1818 - 1859); (Sale: H\u00f4tel Drouot, Paris, Marquis de Saint-Marc sale, Paris, Feb. 23, 1859, no. 17) (Feb. 23, 1859); (Wildenstein & Company, New York, NY, sold to a private collector, UK) (1955-1980); Private noble collection, UK, sold to Danny Katz and Simon Dickinson through William Thuillier (1980 - probably 1995); (William Thuillier, Paris, France, sold to Danny Katz and Simon Dickinson) (1995); (Danny Katz and Simon Dickinson, London, the latter bought out by the former) (1995); Danny Katz, London, sold to Emmanuel Moatti and Jack Kilgore (1995); (Emmanuel Moatti and Jack Kilgore, New York, NY, sold to the Cleveland Museum of Art) (1995-1996); The Cleveland Museum of Art, Cleveland, Ohio (1996-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1996.1/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1996.1",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1996.1/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1756",
+        "begin_of_the_begin": "1756",
+        "end_of_the_end": "1756"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2014.696.77",
+  "type": "HumanMadeObject",
+  "_label": "Architecture Pittoresque ou Monuments des XVeme. Et XVIeme. Siecles: Chateaux de France des XV et XVI Siecles: Pl. 79, Le Plessis-Dum\u00e9e (Yonne)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.696.77/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Architecture Pittoresque ou Monuments des XVeme. Et XVIeme. Siecles: Chateaux de France des XV et XVI Siecles: Pl. 79, Le Plessis-Dum\u00e9e (Yonne)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.696.77/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Victor Petit (French, 1817-1874), artist; Charles Boivin (publisher and editor); Lith de Godard a Paris (printer), published by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.696.77/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2014.696.77",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2014.696.77/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1860",
+        "begin_of_the_begin": "1860",
+        "end_of_the_end": "1860"
+      }
+    }
+  ]
+}

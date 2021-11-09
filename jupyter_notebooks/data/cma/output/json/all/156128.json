@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1991.59",
+  "type": "HumanMadeObject",
+  "_label": "Singing Guitarist (recto); Reclining Woman Leaning on Her Arm (verso)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1991.59/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Singing Guitarist (recto); Reclining Woman Leaning on Her Arm (verso)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1991.59/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Honor\u00e9 Daumier (French, 1808-1879), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1991.59/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Lousada (not stamped, not in Lugt) (according to Maison 1968, p. 115, no. 340). Croal Thompson, Barbizon House (not stamped, not in Lugt) (according to Maison 1958, p. 349). T.O. Falk (not stamped, not in Lugt) (according to Maison 1968, p. 115, no. 340). Private Collection, Oxford (according to Maison 1968, p. 115, no. 340). [Hobart and Maclean]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1991.59/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1991.59",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1991.59/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1855/60",
+        "begin_of_the_begin": "1855",
+        "end_of_the_end": "1860"
+      }
+    }
+  ]
+}

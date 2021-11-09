@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1923.1123",
+  "type": "HumanMadeObject",
+  "_label": "Stirrup",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1923.1123/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Stirrup",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1923.1123/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Bashford Dean (Sale, American Art Galleries; Nov. 1923; cat.#250.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1923.1123/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1923.1123",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1923.1123/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1525 - 1550",
+        "begin_of_the_begin": "1520",
+        "end_of_the_end": "1555"
+      }
+    }
+  ]
+}

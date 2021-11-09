@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1990.263",
+  "type": "HumanMadeObject",
+  "_label": "Necklace and Nose Ornament",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1990.263/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Necklace and Nose Ornament",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1990.263/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Valetta Swan,1965, to James C. and Florence C. Gruener (?-1965); James C. [1903-1990] and Florence C. [1908-1982] Gruener, Cleveland, OH, bequest to the Cleveland Museum of Art (1965-1990); The Cleveland Museum of Art (1990)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1990.263/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1990.263",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1990.263/production/timespan",
+        "type": "TimeSpan",
+        "_label": "150-200",
+        "begin_of_the_begin": "150",
+        "end_of_the_end": "200"
+      }
+    }
+  ]
+}

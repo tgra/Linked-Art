@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1940.564",
+  "type": "HumanMadeObject",
+  "_label": "Bray Church Yard",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.564/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Bray Church Yard",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.564/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "John Varley (British, 1778-1842), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1940.564/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(sale, Victor G. Fischer Company Collection, Anderson Galleries, New York, February 19, 1912, no. 655) (1912); James Parmelee [1855-1931], Washington, DC, by descent to Alice Maury Parmelee, Washington, DC (probably 1912-1931); Alice Maury Parmelee [1862-1940], Washington, DC, bequeathed to the Cleveland Museum of Art, Cleveland, OH (1931-1940); Cleveland Museum of Art, Cleveland, OH (1940-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.564/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1940.564",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1940.564/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1807",
+        "begin_of_the_begin": "1807",
+        "end_of_the_end": "1807"
+      }
+    }
+  ]
+}

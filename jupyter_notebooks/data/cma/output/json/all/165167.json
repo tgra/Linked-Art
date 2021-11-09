@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2007.163",
+  "type": "HumanMadeObject",
+  "_label": "Filigree Disk Brooch with Central Boss",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2007.163/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Filigree Disk Brooch with Central Boss",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2007.163/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "According to Wolfgang Wilhelm, the dealer who has been commissioned to sell the object, the disc brooch is the property of Dr. Hanns-Ulrich Haedeke of Solingen (Germany). Dr. Haedeke was curator of the Museum for Decorative Arts in Cologne until 1968 and Director of the Klingenmuseum (\"blade museum\") in Solingen. After his departure from Cologne, Dr. Haedeke started to collect jewelry. The disc brooch was one of his earliest acquisitions.; An inquiry was filed with the Art Loss Register by the dealer and a response received on February 8, 2007.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2007.163/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2007.163",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2007.163/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 600s",
+        "begin_of_the_begin": "675",
+        "end_of_the_end": "699"
+      }
+    }
+  ]
+}

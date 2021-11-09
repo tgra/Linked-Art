@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1952.228",
+  "type": "HumanMadeObject",
+  "_label": "Seated Male Holding Chief\u2019s Baton",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1952.228/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Seated Male Holding Chief\u2019s Baton",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1952.228/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1952.228",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1952.228/production/timespan",
+        "type": "TimeSpan",
+        "_label": "200 BC-AD 300",
+        "begin_of_the_begin": "-200",
+        "end_of_the_end": "300"
+      }
+    }
+  ]
+}

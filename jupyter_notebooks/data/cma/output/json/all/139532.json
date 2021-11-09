@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1963.326",
+  "type": "HumanMadeObject",
+  "_label": "Study for \"The Presentation of Christ in the Temple\" (for Saint Ulrich, Vienna)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.326/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Study for \"The Presentation of Christ in the Temple\" (for Saint Ulrich, Vienna)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.326/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Franz Anton Maulbertsch (Austrian, 1724-1796), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1963.326/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Count Gyula Andr\u00e1ssy, Budapest; Countess F. K., London (granddaughter of Count Gyula Andr\u00e1ssy); Franz Szab\u00f3, London; Judith Szab\u00f3, London; Count Gyula Andr\u00e1ssy, Budapest;; Countess F. K., London (granddaughter of Count Gyula Andr\u00e1ssy);; Franz Szab\u00f3, London;; Judith Szab\u00f3, London, sold to the Cleveland Museum of Art, 1963.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.326/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1963.326",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1963.326/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1750",
+        "begin_of_the_begin": "1745",
+        "end_of_the_end": "1755"
+      }
+    }
+  ]
+}

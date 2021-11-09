@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1942.149",
+  "type": "HumanMadeObject",
+  "_label": "Altarpiece with Buddha Enthroned",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.149/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Altarpiece with Buddha Enthroned",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.149/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "M. Bouasse Lebel; (Paul Mallon [1884\u20131975], Paris, France, sold to the Cleveland Museum of Art) (?\u20131942); The Cleveland Museum of Art, Cleveland, OH (1942\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.149/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1942.149",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1942.149/production/timespan",
+        "type": "TimeSpan",
+        "_label": "mid-1100s",
+        "begin_of_the_begin": "1140",
+        "end_of_the_end": "1160"
+      }
+    }
+  ]
+}

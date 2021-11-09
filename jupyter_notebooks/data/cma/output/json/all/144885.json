@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1970.102",
+  "type": "HumanMadeObject",
+  "_label": "Bow-Shaped Fibula",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.102/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Bow-Shaped Fibula",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.102/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1970.102",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1970.102/production/timespan",
+        "type": "TimeSpan",
+        "_label": "450-1 BC",
+        "begin_of_the_begin": "-450",
+        "end_of_the_end": "-1"
+      }
+    }
+  ]
+}

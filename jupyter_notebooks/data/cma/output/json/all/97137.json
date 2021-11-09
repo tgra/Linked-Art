@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.777",
+  "type": "HumanMadeObject",
+  "_label": "Old Woman Asleep",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.777/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Old Woman Asleep",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.777/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "By 1883, James Jackson Jarves, Boston. Purchased along with Jarves's collection in 1884 by Mrs. Liberty E. Holden, Cleveland. Bequeathed to the CMA in 1916.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.777/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.777",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1916.777/production/timespan",
+        "type": "TimeSpan",
+        "_label": "Mid 19th century",
+        "begin_of_the_begin": "1825",
+        "end_of_the_end": "1875"
+      }
+    }
+  ]
+}

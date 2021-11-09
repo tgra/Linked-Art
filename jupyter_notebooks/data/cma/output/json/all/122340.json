@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1942.637",
+  "type": "HumanMadeObject",
+  "_label": "Travelers in Hilly Countryside",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.637/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Travelers in Hilly Countryside",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.637/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Aelbert Cuyp (Dutch, 1620-1691), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1942.637/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Johan van der Linden van Slingeland, Dordrecht (sale:Yver, Dordrecht, August 22, 1785, no. 87);; Sir Simon Clarke, London (sale: Christie's, London, May 14, 1802);; George Hibbert, London (sale: Christie's, London, June 13,1829, no. 66);; Richard Foster, London (sale: Christie's, November 14, 1835);; Henry Bevan, London, 1842;; Sir John Dean Paul (grandson of Henry Bevan); [A. Wertheimer, London];; Alfred de Rothschild, London;; [Galerie Charles Brunner, Paris, 1912, no. 7];; John L. Severance, Cleveland, 1923, upon his death, held in trust by the estate; Estate of John L. Severance, 1936, by bequest to the Cleveland Museum of Art, 1942.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.637/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1942.637",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1942.637/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1650",
+        "begin_of_the_begin": "1645",
+        "end_of_the_end": "1655"
+      }
+    }
+  ]
+}

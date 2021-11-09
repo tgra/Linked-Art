@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1980.40",
+  "type": "HumanMadeObject",
+  "_label": "Dante and Virgil Meeting the Shades of Francesca da Rimini and Paolo",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.40/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Dante and Virgil Meeting the Shades of Francesca da Rimini and Paolo",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.40/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ary Scheffer (Dutch, 1795-1858), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1980.40/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Herman de Zoete sale, London, Christie's, 8-9 May 1885 (lot 96), Francesca da Rimini, small replica, 9\u00bd x 13 in., to Agnew for 46-4-0 gns. Sold to F. Denison on 2 April 1886. Sale of the collection of Mrs. B. M. Denison, Christie's, London, 13 May 1927 (lot 113), Paolo e Francesco [sic], 9\u00bd x 12\u00bd in. Bought by L. Carroll. London sale, Christie's, 7 July 1930 (lot 152), Paol\u00f6 e Francesco [sic], 1851, 9 x 13 in., 10 gns to Mrs. Samuels. To H. D. Samuels. London sale, Christie's, 31 October 1947 (lot 106), Paolo e Francesco [sic], 1851, 9 x 12\u00bd in., for 4 gns to Maxwell. London sale, Christie's, 5 October 1979 (lot 110, repr.), Paolo and Francesca, s.d. 1851, for \u00a33,200 to Hazlitt. Bought by the CMA in 1980.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.40/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1980.40",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1980.40/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1851",
+        "begin_of_the_begin": "1851",
+        "end_of_the_end": "1851"
+      }
+    }
+  ]
+}

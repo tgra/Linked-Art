@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1955.70",
+  "type": "HumanMadeObject",
+  "_label": "Marriage Beaker",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1955.70/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Marriage Beaker",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1955.70/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Baron Maurice de Rothschild [1881-1957], Chateau de Pregny.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1955.70/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1955.70",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1955.70/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1400s",
+        "begin_of_the_begin": "1475",
+        "end_of_the_end": "1499"
+      }
+    }
+  ]
+}

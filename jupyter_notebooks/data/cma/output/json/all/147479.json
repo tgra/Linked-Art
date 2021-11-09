@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1973.212",
+  "type": "HumanMadeObject",
+  "_label": "Pan and Syrinx",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.212/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Pan and Syrinx",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.212/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jean Fran\u00e7ois de Troy (French, 1679-1752), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1973.212/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The Cleveland Museum of Art, Cleveland, Ohio (1973-); (Herner Wengraf/Old Masters Galleries, London, sold to the Cleveland Museum of Art) (1973); (Christie\u2019s, London, sale, June 29, 1973, no. 93, sold to Herner Wengraf) (1973); George Ortiz [1927-2013], Geneva, consigned to Christie\u2019s (Untiel 1973); Graziella Pati\u00f1o de Ortiz-Linares [b. c. 1908-1980], to her son, George Ortiz (After 1934-before 1973); Page?1 (1934-); (Galerie Charpentier, Paris, Chaix d\u2019Est-Ange sale, Dec. 11, 1934, lot 46, sold to \u201cPage\u201d) (1934); Family of Gustave Chaix d\u2019Est-Ange III, consigned to Galerie Charpentier (1923-1934); Gustave Chaix d\u2019Est-Ange III [1863-1923], by descent to his family (1917-1923); Jeanne Sipi\u00e8re Chaix d\u2019Est-Ange [1843-1917], to her son, Gustave Chaix d\u2019Est-Ange III (1882-1917)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.212/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1973.212",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1973.212/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1720",
+        "begin_of_the_begin": "1720",
+        "end_of_the_end": "1720"
+      }
+    }
+  ]
+}

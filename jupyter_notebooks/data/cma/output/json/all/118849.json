@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1940.1046",
+  "type": "HumanMadeObject",
+  "_label": "Young Woman Kneeling by a Stand with a Ceremonial Cap (from the series The Six Immortal Poets in Elegant Modern Dress)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.1046/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Young Woman Kneeling by a Stand with a Ceremonial Cap (from the series The Six Immortal Poets in Elegant Modern Dress)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.1046/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ch\u014dbunsai Eishi (Japanese, 1756-1829), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.1046/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1940.1046",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1940.1046/production/timespan",
+        "type": "TimeSpan",
+        "_label": "mid 1790s",
+        "begin_of_the_begin": "1790",
+        "end_of_the_end": "1799"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1974.26",
+  "type": "HumanMadeObject",
+  "_label": "A Prunus in the Moonlight",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.26/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "A Prunus in the Moonlight",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.26/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Wang Mian (Chinese, 1287-1359), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1974.26/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Qing imperial collection, seals of the Qianlong Emperor, reigned 1736\u201395; Dong Gao \u8463\u8aa5 [1740\u20131818]; Marquis Asano Nagakoto \u4faf\u7235 \u6dfa\u91ce\u9577\u52f2 [1842\u20131937], Hiroshima, Japan; Yasuda Family \u5b89\u7530\u5bb6, chief retainer of the Asano Family; (Mayuyama & Co., Ltd., Tokyo, Japan, sold to the Cleveland Museum of Art) (?-1974); The Cleveland Museum of Art, Cleveland, OH (1974-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.26/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1974.26",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1974.26/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1300s",
+        "begin_of_the_begin": "1300",
+        "end_of_the_end": "1399"
+      }
+    }
+  ]
+}

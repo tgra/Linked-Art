@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1988.155",
+  "type": "HumanMadeObject",
+  "_label": "Vessel Ornament of Banqueter",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1988.155/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Vessel Ornament of Banqueter",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1988.155/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Collection of the Marchese di Riofreddo e Gagliardi (?-1908); William R. Hearst, sold to Brummer Gallery (?-1943); Brummer Gallery, New York, NY, sold to H.K. Montif (1943-1949); H.K. Montif (1949-?); Ella Bache Brummer Collection, New York, NY, gifted to the Cleveland Museum of Art (?-1987); The Cleveland Museum of Art, Cleveland, OH (1987-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1988.155/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1988.155",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1988.155/production/timespan",
+        "type": "TimeSpan",
+        "_label": "probably 400-375 BC",
+        "begin_of_the_begin": "-400",
+        "end_of_the_end": "-375"
+      }
+    }
+  ]
+}

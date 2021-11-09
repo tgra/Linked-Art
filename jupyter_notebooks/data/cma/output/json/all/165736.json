@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2008.108",
+  "type": "HumanMadeObject",
+  "_label": "Spring Rain Thatched Hut",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.108/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Spring Rain Thatched Hut",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.108/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Wang Jianzhang (Chinese, active 1621-1662), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2008.108/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Gong Weiliu \u5bae\u5049\u93d0 [1611\u20131680], given by descent through his family to Gong Ben'ang (1650-1680); Gong Ben\u2019ang \u5bae\u672c\u6602 [1821\u20131874], by descent to relatives Lian Quan and his wife Wu Zhiying (?-1874); Lian Quan \u5ec9\u6cc9 [1868\u20131932] and Wu Zhiying \u5433\u829d\u745b [1868\u20131933], Hangzhou, China (by 1910-1933); (Sydney L. Moss Ltd., London, sold to the Cleveland Museum of Art) (?-2008); The Cleveland Museum of Art, Cleveland, OH (2008-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.108/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2008.108",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2008.108/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1650",
+        "begin_of_the_begin": "1650",
+        "end_of_the_end": "1650"
+      }
+    }
+  ]
+}

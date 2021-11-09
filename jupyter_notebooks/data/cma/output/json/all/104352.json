@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1922.487",
+  "type": "HumanMadeObject",
+  "_label": "The Haul of Monstrous Fish",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1922.487/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Haul of Monstrous Fish",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1922.487/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Adamo Scultori (Italian, c. 1530-1585), artist; Giulio Romano (Italian, 1492/99-1546), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1922.487/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Edme Durand (d.1835), Paris, stamp (Lugt 741), lower left, in black ; Franz Gawet (1762/65-1847), Vienna, script (Lugt 1069), upper left, verso, in pen and brown ink ; Leonard C. Hanna, Jr., Cleveland",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1922.487/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1922.487",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1922.487/production/timespan",
+        "type": "TimeSpan",
+        "_label": "mid-1500s",
+        "begin_of_the_begin": "1545",
+        "end_of_the_end": "1585"
+      }
+    }
+  ]
+}

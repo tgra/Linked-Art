@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1945.385",
+  "type": "HumanMadeObject",
+  "_label": "Animals, Precious Stones, Coins, and Musical Instruments (recto); Animals, Birds, and Plants (verso) from a Mu'nis al-Ahrar fi Daqa'iq al-Ash'ar (The Free Men's Companion to the Subtleties of Poems) of Muhammad Ibn Badr al-Din Jajarmi (active 1340s)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1945.385/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Animals, Precious Stones, Coins, and Musical Instruments (recto); Animals, Birds, and Plants (verso) from a Mu'nis al-Ahrar fi Daqa'iq al-Ash'ar (The Free Men's Companion to the Subtleties of Poems) of Muhammad Ibn Badr al-Din Jajarmi (active 1340s)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1945.385/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Hagop Kevorkian [1872\u20131962], New York, NY, ?-1945, to the Cleveland Museum of Art (?-1945); The Cleveland Museum of Art, Cleveland, OH, 1945-present (1945-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1945.385/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1945.385",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1945.385/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1341",
+        "begin_of_the_begin": "1340",
+        "end_of_the_end": "1345"
+      }
+    }
+  ]
+}

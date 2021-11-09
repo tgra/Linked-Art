@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1963.680",
+  "type": "HumanMadeObject",
+  "_label": "Head of Gudea, ensi of Lagash",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.680/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Head of Gudea, ensi of Lagash",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.680/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1963.680",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1963.680/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 2150 BC",
+        "begin_of_the_begin": "-2200",
+        "end_of_the_end": "-2100"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1951.425.mmm",
+  "type": "HumanMadeObject",
+  "_label": "Sketchbook, The Dells, N\u00b0 127, page 174 & 175: Village with Houses and Road ",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1951.425.mmm/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Sketchbook, The Dells, N\u00b0 127, page 174 & 175: Village with Houses and Road ",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1951.425.mmm/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Maurice Prendergast (American, 1858-1924), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1951.425.mmm/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1951.425.mmm",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1951.425.mmm/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1919-1921",
+        "begin_of_the_begin": "1919",
+        "end_of_the_end": "1921"
+      }
+    }
+  ]
+}

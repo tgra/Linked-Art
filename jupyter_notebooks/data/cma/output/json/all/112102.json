@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1930.578",
+  "type": "HumanMadeObject",
+  "_label": "The Triumphs of Caesar: The Corselet Bearers",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1930.578/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Triumphs of Caesar: The Corselet Bearers",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1930.578/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Giulio Campagnola (Italian, 1482-1515), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1930.578/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1930.578",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1930.578/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1498",
+        "begin_of_the_begin": "1493",
+        "end_of_the_end": "1503"
+      }
+    }
+  ]
+}

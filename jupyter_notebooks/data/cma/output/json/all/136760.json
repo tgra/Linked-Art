@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1961.262",
+  "type": "HumanMadeObject",
+  "_label": "Saint-Mamm\u00e8s, Loing Canal",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1961.262/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Saint-Mamm\u00e8s, Loing Canal",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1961.262/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Alfred Sisley (French, 1840-1899), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1961.262/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Bought from the artist by Durand-Ruel, Paris (stock number 638) on 21 January 1885. Deposited with Joseph Durand-Ruel, 35 Rue de Rome, on 25 February 1885. Bought from Paul Durand-Ruel by Durand-Ruel, Paris (stock number 1442) on 25 August 1891. Sold to Durand-Ruel, New York (stock number 1888). Sold on 10 November 1926 to Lewis B. Williams, New York. Given to the CMA in 1961.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1961.262/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1961.262",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1961.262/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1885",
+        "begin_of_the_begin": "1885",
+        "end_of_the_end": "1885"
+      }
+    }
+  ]
+}

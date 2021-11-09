@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1967.35",
+  "type": "HumanMadeObject",
+  "_label": "\"Bear-Woman\" Vessel",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1967.35/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "\"Bear-Woman\" Vessel",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1967.35/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1967.35",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1967.35/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1200-1000 BC",
+        "begin_of_the_begin": "-1200",
+        "end_of_the_end": "-1000"
+      }
+    }
+  ]
+}

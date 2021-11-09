@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2008.342",
+  "type": "HumanMadeObject",
+  "_label": "Head of a Young Man",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.342/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Head of a Young Man",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.342/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Antoine Coypel (French, 1661-1722), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2008.342/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Pierre-Jean Mariette (Lugt 1852, lower left, in black ink); [probably lot 1215 in the Mariette sale, Paris, 15 November 1775-30 January 1776; see F. Basan, Catalogue Raisonn\u00e9 des diff\u00e9rens objets de curiosit\u00e9s dans les Sciences et Arts qui composoient le Cabinet de feu Mr Mariette (Paris, 1775), 185, no. 1215: \"Coypel (Antoine) / Six Sujets & T\u00eates diverses, dont V\u00e9nus & En\u00e9e, T\u00eate au pastel, &c.\"] [lot 1215 sold to Baron de Lunas (annotated copy of catalogue, Mus\u00e9e du Louvre, D\u00e9partement des Arts Graphiques)]. Sir George Leon; The Lady Dunalley; [her sale, Christie's, London (8 December 1976), no. 107, repr.]; purchased in 1976.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2008.342/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2008.342",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2008.342/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1715-1717",
+        "begin_of_the_begin": "1715",
+        "end_of_the_end": "1717"
+      }
+    }
+  ]
+}

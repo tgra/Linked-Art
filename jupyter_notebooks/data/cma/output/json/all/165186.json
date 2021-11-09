@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2007.180",
+  "type": "HumanMadeObject",
+  "_label": "Frogs and Lily Pads (Grenouilles et N\u00e9nuphars) Vase",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2007.180/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Frogs and Lily Pads (Grenouilles et N\u00e9nuphars) Vase",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2007.180/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ren\u00e9 Lalique (French, 1860-1945), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2007.180/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The Roger J. Mour\u00e9 Collection, (Phillips, New York, March 12, 1979, Lot 147). (before 1979); The Frey Collection (Christie's, New York, June 10, 1988, Lot 51). (before 1988); Tsuyoshi Kajikawa, Japan (1988-2006); Collection of Tsuyoshi Kajikawa (Christie's, New York, 10 February 2006, Lot 94). (2006); A Private Collection of G. Argy Rousseau and Rene Lalique Masters of French Design (Christie's, New York, 18 December 2006, Lot 415) (2006); Mark Waller, Gallery Moderne, Piermont, New York.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2007.180/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2007.180",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2007.180/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1909\u201312",
+        "begin_of_the_begin": "1909",
+        "end_of_the_end": "1912"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1947.137",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of Stefano della Bella",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1947.137/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of Stefano della Bella",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1947.137/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Wenceslaus Hollar (Bohemian, 1607-1677), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1947.137/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Baron Anselm von Rothschild, Vienna, 1873; Baron Albert von Rothschild, Vienna, 1909; Baron Alphonse von Rothschild, Vienna (see note); [Rosenberg & Stiebel, New York]. Note: During World War II, when it belong to Baron Alphonse von Rothschild, this painting, along with many others, was confiscated by the Germans, stored in an Austrian salt mine, ultimately destined for the Gemaldegalerie, Vienna. After the war it was returned to Baron von Rothschild (see Francis, 1948, pp. 163-64). Purchase from the J.H. Wade Fund, 1948.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1947.137/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1947.137",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1947.137/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1649",
+        "begin_of_the_begin": "1644",
+        "end_of_the_end": "1654"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1944.131",
+  "type": "HumanMadeObject",
+  "_label": "Child Carrying Fruit and Flowers",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1944.131/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Child Carrying Fruit and Flowers",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1944.131/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Clodion (French, 1738-1814), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1944.131/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Possibly Eug\u00e8ne Tondu (Paris, France) (sold, Paris, April 3, 1865, lot. no. 206); Sir Thomas Gibson Carmichael, Bart., Castle Craig, Scotland, sold at Christie, Manson and Woods (-1902); (Sale: Christie, Manson and Woods, London, England, May 12-13, 1902, lot no. 257, to Durlacher Brothers) (May 12-13, 1902); (Durlacher Brothers, New York, NY) (1902-); J. Pierpont Morgan (1837\u20131913), New York, New York; Elisabeth Severance Prentiss [Mrs. Francis Fleury Prentiss] (1865\u20131944), Cleveland, OH, upon her death, held in trust by the estate (-1944); Estate of Elisabeth Severance Prentiss, by bequest to the Cleveland Museum of Art (-1944); The Cleveland Museum of Art, Cleveland, OH (1944-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1944.131/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1944.131",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1944.131/production/timespan",
+        "type": "TimeSpan",
+        "_label": "18th-early 19th century",
+        "begin_of_the_begin": "1750",
+        "end_of_the_end": "1814"
+      }
+    }
+  ]
+}

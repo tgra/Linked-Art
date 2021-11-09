@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1993.158",
+  "type": "HumanMadeObject",
+  "_label": "Pair of Boots",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1993.158/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Pair of Boots",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1993.158/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1993.158",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1993.158/production/timespan",
+        "type": "TimeSpan",
+        "_label": "907\u20131125",
+        "begin_of_the_begin": "907",
+        "end_of_the_end": "1125"
+      }
+    }
+  ]
+}

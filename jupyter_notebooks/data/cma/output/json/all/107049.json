@@ -1,0 +1,57 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1925.1045",
+  "type": "HumanMadeObject",
+  "_label": "Pour moi le plus diffile c'est de m'habituer \u00e0 porter un chapeau",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1925.1045/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Pour moi le plus diffile c'est de m'habituer \u00e0 porter un chapeau",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1925.1045/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Hermann Paul (French, 1864-1940), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1925.1045/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1925.1045",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

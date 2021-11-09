@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2018.211.17",
+  "type": "HumanMadeObject",
+  "_label": "Les yeux m\u00eames et noirs de leur \u00e2me \u00e9tonn\u00e9e!",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.211.17/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Les yeux m\u00eames et noirs de leur \u00e2me \u00e9tonn\u00e9e!",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.211.17/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Laure Albin Guillot (French, 1879-1962), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2018.211.17/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Madame Pierre Paquette; Private Collection, Europe; Librarie Alain Brieux, Paris, France (c. 2008); Eric Chaim Kline Bookseller, Santa Monica, CA; Private Collection, United States; Eric Chaim Kline Bookseller, Santa Monica, CA and Librarie Alain Brieux, Paris, France (c. 2016); The Cleveland Museum of Art, Cleveland, OH (September 4, 2018)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.211.17/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2018.211.17",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2018.211.17/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1936",
+        "begin_of_the_begin": "1936",
+        "end_of_the_end": "1936"
+      }
+    }
+  ]
+}

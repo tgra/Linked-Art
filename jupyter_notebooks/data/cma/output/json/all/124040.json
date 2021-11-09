@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1944.524",
+  "type": "HumanMadeObject",
+  "_label": "The Brierwood Pipe",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1944.524/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Brierwood Pipe",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1944.524/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Winslow Homer (American, 1836-1910), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1944.524/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The Cleveland Museum of Art, Cleveland, Ohio (1944-); Mrs. Z. Boylston Adams (Helen Foster), Brookline, MA, sold to the Cleveland Museum of Art (Probably 1940-1944); Zabdiel Boylston Adams [1875-1940], Brookline, MA, to his wife, Mrs. Z. Boylston Adams1 (1915 - probably 1940); Annie Adams Fields (Mrs. James T. Fields) [1834-1915], Boston, MA, by bequest to her nephew, Zabdiel Boylston Adams (1881-1915); James Thomas Fields [1817-1881], Boston, MA (-1881)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1944.524/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1944.524",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1944.524/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1864",
+        "begin_of_the_begin": "1864",
+        "end_of_the_end": "1864"
+      }
+    }
+  ]
+}

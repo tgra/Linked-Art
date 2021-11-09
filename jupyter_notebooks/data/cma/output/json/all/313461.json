@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2018.206",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of Madame Jules Ricard, n\u00e9e Augustine Bulteau",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.206/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of Madame Jules Ricard, n\u00e9e Augustine Bulteau",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.206/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Fernand Khnopff (Belgian, 1858-1921), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2018.206/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Galerie Nova, Brussels, Belgium (June 10, 1986); Private Collection; Sotheby's, London, United Kingdom (June 15, 2004); Private Collection; Galerie De Vuyst, Lokeren, Belgium (October 22, 2011); Private Collection; Galerie Gerda Bassenge, Berlin, Germany (June 1, 2018); the Cleveland Museum of Art, Cleveland, OH (September 4, 2018)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.206/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2018.206",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2018.206/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1893",
+        "begin_of_the_begin": "1888",
+        "end_of_the_end": "1898"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1954.590.b",
+  "type": "HumanMadeObject",
+  "_label": "Leaf from a Christian Homily",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1954.590.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Leaf from a Christian Homily",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1954.590.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1954.590.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1954.590.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "500s-600s",
+        "begin_of_the_begin": "500",
+        "end_of_the_end": "700"
+      }
+    }
+  ]
+}

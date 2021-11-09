@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1954.262",
+  "type": "HumanMadeObject",
+  "_label": "Pure Tones among Hills and Waters",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1954.262/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Pure Tones among Hills and Waters",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1954.262/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Xiao Yuncong (Chinese, 1596-1673), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1954.262/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Jiang Xun \u6c5f\u6042 [active about 1753\u2013after 1780]; Xiang Yuan \u9805\u6e90 [active about 1811]; Qi Zhiliu \u7941\u4e4b\u93d0 [active about 1858]; Yu Zhimeng \u4fde\u82b7\u76df [second half of 19th century]; Wu Changshou \u5433\u660c\u7dac [1867\u20131924]; Zhang Yunzhong \u5f35\u5141\u4e2d [1881\u20131960?]; Wang Shaoming \u6c6a\u5146\u9298 [Wang Jingwei \u6c6a\u7cbe\u885b, 1883\u20131944]; (Walter Hochstadter [1914\u20132007], New York, NY, sold to the Cleveland Museum of Art) (?-1954); The Cleveland Museum of Art, Cleveland, OH (1954-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1954.262/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1954.262",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1954.262/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1664",
+        "begin_of_the_begin": "1664",
+        "end_of_the_end": "1664"
+      }
+    }
+  ]
+}

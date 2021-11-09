@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1931.462.b",
+  "type": "HumanMadeObject",
+  "_label": "Trap door for the Portable Altar of Countess Gertrude",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1931.462.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Trap door for the Portable Altar of Countess Gertrude",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1931.462.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1931.462.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1931.462.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1045",
+        "begin_of_the_begin": "1040",
+        "end_of_the_end": "1050"
+      }
+    }
+  ]
+}

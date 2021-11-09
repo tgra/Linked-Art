@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2016.439",
+  "type": "HumanMadeObject",
+  "_label": "Policeman hits a protestor, Amsterdam, Holland",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.439/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Policeman hits a protestor, Amsterdam, Holland",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.439/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Leonard Freed (American, 1929-2006), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2016.439/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2016.439",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2016.439/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1966",
+        "begin_of_the_begin": "1966",
+        "end_of_the_end": "1966"
+      }
+    }
+  ]
+}

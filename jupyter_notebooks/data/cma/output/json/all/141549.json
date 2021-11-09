@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1965.15",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of the Jester Calabazas",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.15/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of the Jester Calabazas",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.15/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Diego Vel\u00e1zquez (Spanish, 1599-1660), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1965.15/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Royal Collections, Madrid; Duc de Persigny, Paris (sale: April 4, 1872, \"Le Fou\" 750 fr. [Dictionnaire de Ventes, p. 297]); Maurice Cottier (died 1881), Ch\u00e2teau Cang\u00e9 (Touraine); Sir George Donaldson, London and Brighton, sold in 1915; Herbert Cook, later Sir Herbert Cook, Richmond; Sir Francis Cook, Bart; since 1956; (sale: Christie's, London, March 19, 1965, cat. no. 104, illus., through Thomas Agnew & Sons, London); ca. 1631-32 - until at least 1808   Royal Collections (Palacio del Beun Retiro, Madrid); - possibly 1863   Private Collection (Great Britain); by 1867 - 1872   Jean-Gilbert-Victor Fialin, Duc de Persigny, 1808-1872 (Paris, France) (sold, Hotel Drouot, Paris, April 4,1872, as \"Le Fou,\" for 750 francs; by 1881              Maurice Cottier (died 1881), (Paris, France, and Ch\u00e2teau Cang\u00e9, Touraine.; by 1906 - 1915   Sir George Donaldson, 1845-1925 (London, England, and Brighton, England), sold to Herbert Frederick Cook, 1915.; 1915 - 1939        Herbert Frederick Cook, later 3rd Baronet, 1868-1939 (Richmond, England), by inheritance to Francis Ferdinand Maurice Cook, 1939.; 1939 -                  Francis Ferdinand Maurice Cook, 4th Baronet, 1907-1978 since 1956 (sold, Christie's, London, March 19, 1965, lot 104, through Thomas Agnew & Sons (London, England) to the Cleveland Museum of Art.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.15/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1965.15",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1965.15/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1631\u201332",
+        "begin_of_the_begin": "1631",
+        "end_of_the_end": "1632"
+      }
+    }
+  ]
+}

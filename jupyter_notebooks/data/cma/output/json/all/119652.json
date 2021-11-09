@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1940.494",
+  "type": "HumanMadeObject",
+  "_label": "Painted Wrapping for Mummy",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.494/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Painted Wrapping for Mummy",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.494/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Emery May Holden Norweb [1895-1984] and Raymond Henry Norweb [1894-1983], Cleveland OH, 1940, given to the Cleveland Museum of Art (?-1940); The Cleveland Museum of Art (1940)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.494/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1940.494",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1940.494/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c.1100-1400 A.D.",
+        "begin_of_the_begin": "1100",
+        "end_of_the_end": "1400"
+      }
+    }
+  ]
+}

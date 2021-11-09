@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1943.659",
+  "type": "HumanMadeObject",
+  "_label": "Sophie Crouzet",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1943.659/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Sophie Crouzet",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1943.659/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Louis Hersent (French, 1777-1860), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1943.659/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sophie Crouzet, retained by, until her death in 1844.; By inheritance to her son F\u00e9lix-Adolphe Crouzet.; By inheritance to his daughter Sophie Crouzet, wife of Gustave-Fran\u00e7ois Bourotte.; By inheritance to their first-born son Eug\u00e8ne (d. 1899).; By inheritance to his brother \u00c9mile Bourotte, then by inheritance to his wife, Mme Jos\u00e9phine Darte-Bourotte, Versailles.; Sold to Wildenstein & Co., New York, probably in the early 1920s.; Grace Rainey Rogers sale, Parke-Bernet Galleries, New York, 18 November 1943 (lot 51), as Jacques-Louis David, Citoyenne Crouzet.; Purchased by the CMA in 1943.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1943.659/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1943.659",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1943.659/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1801",
+        "begin_of_the_begin": "1796",
+        "end_of_the_end": "1806"
+      }
+    }
+  ]
+}

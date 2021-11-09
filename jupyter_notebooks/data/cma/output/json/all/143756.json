@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1968.196",
+  "type": "HumanMadeObject",
+  "_label": "Violin",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1968.196/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Violin",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1968.196/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Georges Braque (French, 1882\u20131963), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1968.196/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Galerie Kahnweiler, Paris, France) (probably early 1914-by 1923); Jean Paulhan [1884-1968], Neuilly-sur-Seine, France (by 1923-by 1967); (Albert Loeb & Krugier Gallery, New York, NY, sold to the Cleveland Museum of Art, Cleveland, OH) (1967-1968); The Cleveland Museum of Art, Cleveland, OH (1968-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1968.196/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1968.196",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1968.196/production/timespan",
+        "type": "TimeSpan",
+        "_label": "early 1914",
+        "begin_of_the_begin": "1909",
+        "end_of_the_end": "1919"
+      }
+    }
+  ]
+}

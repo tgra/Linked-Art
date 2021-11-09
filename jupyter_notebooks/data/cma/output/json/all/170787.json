@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2013.294",
+  "type": "HumanMadeObject",
+  "_label": "A Mughal courtier",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.294/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "A Mughal courtier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.294/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Hagop Kevorkian [1872\u20131962], New York, NY; (Sotheby\u2019s, London, Highly Important Oriental Manuscripts and Miniatures: The Property of the Kevorkian Foundation, 6 December 1967, lot 114, sold to Ralph Benkaim) (December 6, 1967); Ralph Benkaim [1914-2001] and\nCatherine Glynn Benkaim [b. 1946], Beverly Hills, CA, sold to the Cleveland Museum of Art (1967-2013); The Cleveland Museum of Art, Cleveland, OH (2013-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.294/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2013.294",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2013.294/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1575; border added probably 1700s",
+        "begin_of_the_begin": "1570",
+        "end_of_the_end": "1580"
+      }
+    }
+  ]
+}

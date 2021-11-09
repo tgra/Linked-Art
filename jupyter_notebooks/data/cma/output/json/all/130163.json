@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1952.542",
+  "type": "HumanMadeObject",
+  "_label": "Young Woman with a Turban",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1952.542/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Young Woman with a Turban",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1952.542/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jacques-Louis David (French, 1748-1825), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1952.542/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sale?: Ho\u0302tel de Bullion, Didot Collection, Paris, France, 6 April 1825 (lot 114). (6 April 1825); Sale: Baron Gros, Paris, France, November-1 December 1835 (lot 127). (November-1 December 1835); Augustin Alexandre Dumont (1801-1884), Paris, France; Mme Audard (by 1913); Henry G. Dalton (1862-1932), Cleveland, OH, left to his grandson, George S. Kendrick (by 1929-1932); George S. Kendrick (1899-1979), Cleveland, OH, gifted to the Cleveland Museum of Art (1932-1952); The Cleveland Museum of Art, Cleveland, OH (1952-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1952.542/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1952.542",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1952.542/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1780",
+        "begin_of_the_begin": "1775",
+        "end_of_the_end": "1785"
+      }
+    }
+  ]
+}

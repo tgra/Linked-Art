@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2000.161",
+  "type": "HumanMadeObject",
+  "_label": "1989. A Portfolio of 11 Images Honoring Artists Lost to AIDS",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2000.161/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "1989. A Portfolio of 11 Images Honoring Artists Lost to AIDS",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2000.161/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Chuck Close (American, 1940-2021), artist; Cindy Sherman (American, b. 1954), artist; Frank Moore (American, 1953-2002), artist; Jack Pierson (American, b. 1960), artist; Jim Hodges (American, b. 1957), artist; Jorge Pardo (American, b. 1963), artist; Kiki Smith (American, b. 1954), artist; Lari Pittman (American, 1952-), artist; Laurie Simmons (American, 1949-), artist; Nan Goldin (American, b. 1953), artist; Robert Wilson (American, 1941-), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2000.161/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2000.161",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2000.161/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1987",
+        "begin_of_the_begin": "1987",
+        "end_of_the_end": "1987"
+      }
+    }
+  ]
+}

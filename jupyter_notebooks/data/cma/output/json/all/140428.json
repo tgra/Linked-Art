@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1964.361",
+  "type": "HumanMadeObject",
+  "_label": "Gray and Silver:  A Nocturne",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.361/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Gray and Silver:  A Nocturne",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.361/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Walter Greaves (British, 1841-1930), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1964.361/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sold by Messrs. Dowdeswell & Dowdeswell, at the death of C. W. Dowdeswell at London sale, Christie's, 7-9 February 1917 (lot 308), W. Greaves, Grey and Silver: A Nocturne, 19\u00bd x 13\u00bd in., for \u00a311:11:-: to Hugh Blaker. Bought in 1945 by Roland, Browse & Delbanco, London. Sold to Beryl Joyce. Sold by her at London sale, Christie's, 5 July 1963 (lot 15), Whistler, Nocturne in Silver and Grey, signed with butterfly, 19 x 23 in., bought in and returned to Beryl Joyce. Bought back by Roland, Browse & Delbanco, London. Sold to Durlacher Bros. New York. Purchased by the CMA in 1964.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.361/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1964.361",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1964.361/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1880-1900",
+        "begin_of_the_begin": "1880",
+        "end_of_the_end": "1900"
+      }
+    }
+  ]
+}

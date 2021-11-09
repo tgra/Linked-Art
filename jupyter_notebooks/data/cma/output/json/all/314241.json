@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2018.107",
+  "type": "HumanMadeObject",
+  "_label": "Ravana\u2019s sister complains that her nose was cut off by Lakshmana as the demons prepare to depart to capture Sita, from the \u201cShangri\u201d Ramayana",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.107/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Ravana\u2019s sister complains that her nose was cut off by Lakshmana as the demons prepare to depart to capture Sita, from the \u201cShangri\u201d Ramayana",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.107/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2018.107",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2018.107/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1690-1710",
+        "begin_of_the_begin": "1690",
+        "end_of_the_end": "1710"
+      }
+    }
+  ]
+}

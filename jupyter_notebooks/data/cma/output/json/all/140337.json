@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1964.288",
+  "type": "HumanMadeObject",
+  "_label": "Woman Reading",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.288/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Woman Reading",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.288/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Nicolas-Bernard L\u00e9pici\u00e9 (French, 1735-1784), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1964.288/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Probably Louis-Charles-L\u00e9on Courajod [1841-1896], Paris, France (Before 1896); (Probably a public auction, Paris, sold to Georges Wildenstein) (Probably 1938); (Georges Wildenstein, Paris, France, owned in share with Galerie Cailleux, confiscated by the Einsatzstab Reichsleiter Rosenberg) (1938-probably 1940); In possession of the Nazis (Probably 1940-1945); In possession of the Allies, repatriated to France and restituted to Georges Wildenstein (1945-1947); (Georges Wildenstein, New York, NY, his share probably sold to Galerie Cailleux) (1947-before 1960); (Galerie Cailleux, Paris, France, sold to Severance and Greta Millikin) (By 1960); Severance (1895-1985) and Greta Millikin (1903-1989), Cleveland, Ohio, gifted to the Cleveland Museum of Art (1960-1964); The Cleveland Museum of Art, Cleveland, Ohio (1964-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.288/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1964.288",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1964.288/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1769",
+        "begin_of_the_begin": "1764",
+        "end_of_the_end": "1774"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2018.126",
+  "type": "HumanMadeObject",
+  "_label": "Krishna and the Cowherds Dive into the River, from a Rasikapriya",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.126/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Krishna and the Cowherds Dive into the River, from a Rasikapriya",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.126/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Catherine Glynn Benkaim and Barbara Timmer, Beverly Hills, CA, partial sale and gift to the Cleveland Museum of Art (1978\u20132018); The Cleveland Museum of Art, Cleveland, OH (2018\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.126/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2018.126",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2018.126/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1640",
+        "begin_of_the_begin": "1630",
+        "end_of_the_end": "1650"
+      }
+    }
+  ]
+}

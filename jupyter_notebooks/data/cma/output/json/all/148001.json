@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1974.93",
+  "type": "HumanMadeObject",
+  "_label": "Woman in Front of a Fireplace",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.93/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Woman in Front of a Fireplace",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.93/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Louis L\u00e9opold Boilly (French, 1761-1845), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1974.93/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Henri-Auguste-C\u00e9sar Serrur [1794-1865], Paris (after 1805 - 1866); (his sale, Ho\u0302tel Drouot, Paris, January 15, 1866, no. 149) (1866); (sale, Ader, Paris, December 5, 1936, no. 10) (1936); Private collection, Paris (?-1972); (sale, Ho\u0302tel Drouot, Paris, June 12, 1972, no. 16) (1972); (Galerie Nathan, Zurich, sold to the Cleveland Museum of Art, Cleveland, OH) (?-1974); Cleveland Museum of Art, Cleveland, OH (1974-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1974.93/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1974.93",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1974.93/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1805\u20137",
+        "begin_of_the_begin": "1805",
+        "end_of_the_end": "1807"
+      }
+    }
+  ]
+}

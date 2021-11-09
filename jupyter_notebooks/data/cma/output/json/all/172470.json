@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2015.109",
+  "type": "HumanMadeObject",
+  "_label": "Voyages pittoresques et romantiques dans l'ancienne France (Languedoc II, part I): Castelnaudary",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2015.109/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Voyages pittoresques et romantiques dans l'ancienne France (Languedoc II, part I): Castelnaudary",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2015.109/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "George Barnard (British, 1807-1890), artist; Hullmandel, publisher",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2015.109/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Hatay-Stratton, Inc. Fine Original Prints and Drawings, Northampton, MA) (August 1985-?); John Bonebrake [1918-2011], Cleveland, OH (?-2011); Estate of Johh Bonebrake (2011-15); The Cleveland Museum of Art, Cleveland, OH (September 8, 2015)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2015.109/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2015.109",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2015.109/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1835",
+        "begin_of_the_begin": "1835",
+        "end_of_the_end": "1835"
+      }
+    }
+  ]
+}

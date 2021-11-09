@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1963.575",
+  "type": "HumanMadeObject",
+  "_label": "Wooded and Hilly Landscape\n",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.575/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Wooded and Hilly Landscape\n",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.575/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jacob van Ruisdael (Dutch, 1628/29-1682), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1963.575/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Johann Matthias de Neufville Gontrad [1754-1794], Frankfurt-am-Main, Germany, upon his death, by inheritance to his wife (-1754); Wife of Johann Matthias de Neufville Gontrad, by gift or sold to the Stadelsches Kunstinstitut, 1817 (1754-1817); Stadelsches Kunstinstitut, Frankfurt am Main (no. 270 in the catalogue of 1900) (1817-possibly 1900); August Berg (Portland, Oregon), 1921 (1921); Frederick Mont [1894-1994], New York, NY, probably sold to Walter P. Chrysler, Jr.,; Walter P. Chrysler, Jr., [1909-1988], New York, NY, sold through Frederick Mont, New York, NY, to the Cleveland Museum of Art, 1963. (1963); The Cleveland Museum of Art, Cleveland, OH (1963-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.575/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1963.575",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1963.575/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1660s",
+        "begin_of_the_begin": "1660",
+        "end_of_the_end": "1669"
+      }
+    }
+  ]
+}

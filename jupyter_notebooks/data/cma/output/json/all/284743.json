@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2017.17",
+  "type": "HumanMadeObject",
+  "_label": "Ewer",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2017.17/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Ewer",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2017.17/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Sotheby's New York, 19 March 1997, lot 205. Sold to Donna and James Reid) (1997); Donna [b. 1931] and James Reid [1926-2020], Cleveland Heights, OH, given to the Cleveland Museum of Art (1997-2016); The Cleveland Museum of Art, Cleveland, OH (2017-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2017.17/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2017.17",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2017.17/production/timespan",
+        "type": "TimeSpan",
+        "_label": "618-907",
+        "begin_of_the_begin": "618",
+        "end_of_the_end": "907"
+      }
+    }
+  ]
+}

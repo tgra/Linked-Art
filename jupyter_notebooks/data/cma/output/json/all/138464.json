@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1962.37",
+  "type": "HumanMadeObject",
+  "_label": "Cupid and Psyche",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.37/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Cupid and Psyche",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.37/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jacques-Louis David (French, 1748-1825), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1962.37/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Giovanni Battista Comte de Sommariva [1760-1826], his sale February 18-23, 1839, sold to Dubois. (1839); (Dubois, Paris, France, February 18-23, 1839, lot 1) (1839); James Alexandre Comte de Pourtal\u00e8s [1776-1855], Paris. France.; Pourtal\u00e8s-Gorgier sale, Paris, France, March 27, 1865 (lot 242), ff 1,450 sold to Madame de Furtado, 1880. (1880); Madame de Furtado [1821-1896], Paris, France (1880-?); M. Eisenschitz ? (See distinguishing marks label); Prince Murat by 1913. Princesse Murat. Murat sale, Palais Galli\u00e9ra, Paris, France, March 2, 1961 (lot 140), ff 245,000.; (Rosenberg & Stiebel, New York, NY sold to the Cleveland Museum of Art) (1962); The Cleveland Museum of Art, Cleveland, OH (1962)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1962.37/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1962.37",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1962.37/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1817",
+        "begin_of_the_begin": "1817",
+        "end_of_the_end": "1817"
+      }
+    }
+  ]
+}

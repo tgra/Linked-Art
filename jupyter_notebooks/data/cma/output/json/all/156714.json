@@ -1,0 +1,57 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1992.344.qqq",
+  "type": "HumanMadeObject",
+  "_label": "Sketchbook, page 70: Study of Two Faces and a Hand",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1992.344.qqq/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Sketchbook, page 70: Study of Two Faces and a Hand",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1992.344.qqq/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ernest Meissonier (French, 1815-1891), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1992.344.qqq/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1992.344.qqq",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.1041",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of Jane Hoskyns",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.1041/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of Jane Hoskyns",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.1041/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "George Romney (British, 1734-1802), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1916.1041/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sir John Chandos Reade (the sitter's son); Shipton Court (sale: Christie's London, 13 July 1895, no. 14); (A. Tooth, London, 1895); Mr. and Mrs. J. H. Wade; Sir John Chandos Reade, Seventh Bart. (1785-1868), Shipton Court, Axon, England (sold, Christie\u2019s, London, July 13, 1895, no. 14, to Tooth and Sons, London);; Tooth and Sons (London, England), sold to Mr. and Mrs. J.H. Wade, 1895; 1895-1916  Mr. and Mrs. J.H. Wade (Gates Mills, Ohio), by gift to the Cleveland Museum of Art, 1916.; The Cleveland Museum of Art, Cleveland, OH (1916-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.1041/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.1041",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1916.1041/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1778-1780",
+        "begin_of_the_begin": "1778",
+        "end_of_the_end": "1780"
+      }
+    }
+  ]
+}

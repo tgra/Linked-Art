@@ -1,0 +1,38 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.396",
+  "type": "HumanMadeObject",
+  "_label": "Amulet in the Shape of a Pipal Leaf (Ficus religiosa) with Four-armed Dancing Shiva",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.396/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Amulet in the Shape of a Pipal Leaf (Ficus religiosa) with Four-armed Dancing Shiva",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.396/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.396",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

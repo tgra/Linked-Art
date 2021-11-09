@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2013.308",
+  "type": "HumanMadeObject",
+  "_label": "Babur receives booty and Humayun\u2019s salute after the victory over Sultan Ibrahim in 1526, from an Akbar-nama (Book of Akbar) of Abu\u2019l Fazl (Indian, 1551\u20131602)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.308/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Babur receives booty and Humayun\u2019s salute after the victory over Sultan Ibrahim in 1526, from an Akbar-nama (Book of Akbar) of Abu\u2019l Fazl (Indian, 1551\u20131602)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.308/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2013.308",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2013.308/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1596-1597 or 1604",
+        "begin_of_the_begin": "1596",
+        "end_of_the_end": "1604"
+      }
+    }
+  ]
+}

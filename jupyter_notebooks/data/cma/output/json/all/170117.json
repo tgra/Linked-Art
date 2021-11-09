@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2012.33.b",
+  "type": "HumanMadeObject",
+  "_label": "Seated Lord with Removable Headdress: Headdress",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2012.33.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Seated Lord with Removable Headdress: Headdress",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2012.33.b/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The figurine was accessioned into the collection of the Munson-Williams-Proctor Institute (MWPI) in Utica, New York in 1968 (accession number 68.76).  The MWPI deaccessioned the vessel in 2000, when it entered a private collection in the U.S.  The results of the Art Loss Register search are pending.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2012.33.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2012.33.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2012.33.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "600-800 ",
+        "begin_of_the_begin": "600",
+        "end_of_the_end": "800"
+      }
+    }
+  ]
+}

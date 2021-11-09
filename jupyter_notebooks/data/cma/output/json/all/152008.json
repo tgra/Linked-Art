@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1984.60",
+  "type": "HumanMadeObject",
+  "_label": "Epidauros",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1984.60/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Epidauros",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1984.60/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Carl Rottmann (German, 1797-1850), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1984.60/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sayn-Wittgenstein; Freiherr von Godin; Hirsch, Munich, auction 26 Nov. 1921, cat. no. 296 (according to Bierhaus-R\u00f6diger 1978, p. 374, no. 583). Sayn-Wittgenstein (according to Bierhaus-R\u00f6diger 1978, p. 373, no. 583). Freiherr von Godin (according to Bierhaus-R\u00f6diger 1978, p. 373, no. 583). Private collection, Munich (according to Bierhaus-R\u00f6diger 1978, p. 373, no. 583). [Mr. and Mrs. Walter Feilchenfeldt, Zurich]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1984.60/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1984.60",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1984.60/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1843",
+        "begin_of_the_begin": "1838",
+        "end_of_the_end": "1848"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2021.13",
+  "type": "HumanMadeObject",
+  "_label": "Composition 28",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.13/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Composition 28",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.13/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Charles Elmer Harris (American, 1917-1993), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2021.13/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Studio of the artist [1917-1993], Cleveland, OH (1957-1993); (Rachel Davis Fine Arts, Cleveland, OH, sold to John Axelrod, Boston) (1993-2000); John Axelrod, Boston, given to the Museum of Fine Arts, Boston (2000-2011); Museum of Fine Arts, Boston, MA (2011-2013); (sale, Swann Galleries, New York, February 14, 2013, no. 61, sold to Dolan/Maxwell, Philadelphia) (2013); Dolan/Maxwell, Philadelphia, sold to the Cleveland Museum of Art, Cleveland, OH (2013-2021); The Cleveland Museum of Art, Cleveland, OH (2021-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.13/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2021.13",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2021.13/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1952",
+        "begin_of_the_begin": "1952",
+        "end_of_the_end": "1952"
+      }
+    }
+  ]
+}

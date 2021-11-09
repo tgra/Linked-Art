@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2020.203",
+  "type": "HumanMadeObject",
+  "_label": "Seashell (Coquillage) Compact",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.203/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Seashell (Coquillage) Compact",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.203/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jean Schlumberger (French, 1907-1987), designer",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2020.203/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Sotheby's, New York, NY, November 20, 2014, Lot 236, sold to Nancy F. and Joseph P. Keithley) (2014); Nancy F. and Joseph P. Keithley, Cleveland, OH, given to the Cleveland Museum of Art (2009-2020); The Cleveland Museum of Art, Cleveland, OH (2020-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.203/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2020.203",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2020.203/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1953\u201356",
+        "begin_of_the_begin": "1953",
+        "end_of_the_end": "1956"
+      }
+    }
+  ]
+}

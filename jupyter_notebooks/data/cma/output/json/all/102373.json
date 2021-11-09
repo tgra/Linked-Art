@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1921.1020",
+  "type": "HumanMadeObject",
+  "_label": "Canopic Jar with Baboon's Head",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1921.1020/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Canopic Jar with Baboon's Head",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1921.1020/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Formerly in the collection of William Amhurst Tyssen-Amherst, 1st Baron Amherst of Hackney, Didlington Hall, Norfolk; Amherst Sale, lot 297. Purchased through Howard Carter",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1921.1020/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1921.1020",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1921.1020/production/timespan",
+        "type": "TimeSpan",
+        "_label": "664-525 BC",
+        "begin_of_the_begin": "-664",
+        "end_of_the_end": "-525"
+      }
+    }
+  ]
+}

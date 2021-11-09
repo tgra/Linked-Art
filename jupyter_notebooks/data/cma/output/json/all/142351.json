@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1966.174",
+  "type": "HumanMadeObject",
+  "_label": "The Lamentation",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.174/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Lamentation",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.174/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gaspar de Crayer (Flemish, 1584-1669), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1966.174/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Johannes Noll; [sale F.A.C. Prestel, Frankfurt am Main, 7-8 Oct. 1912] (1912    ); [Schaeffer Galleries, New York]; Leona E. Prasse, Cleveland; unidentified collectors mark (frament, VERSO, upper right, stamped in red ink). Johannes Noll (not stamped, not in Lugt); [his sale F.A.C. Prestel, Frankfurt am Main, 7-8 Oct. 1912, lot 116] (photocopy of cat. in departmental file).  [Schaeffer Galleries, New York] (according to departmental card); Leona E. Prasse, Cleveland",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.174/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1966.174",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1966.174/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1635",
+        "begin_of_the_begin": "1630",
+        "end_of_the_end": "1640"
+      }
+    }
+  ]
+}

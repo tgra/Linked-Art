@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2011.213",
+  "type": "HumanMadeObject",
+  "_label": "Histamenon of Romanus III",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2011.213/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Histamenon of Romanus III",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2011.213/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "This coin was purchased by Dr. Zaworski about 10 years ago after Spink broke up, he obtained the coin from one of the former employees who went into business for himself.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2011.213/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2011.213",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2011.213/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1028-1034",
+        "begin_of_the_begin": "1028",
+        "end_of_the_end": "1034"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2015.150",
+  "type": "HumanMadeObject",
+  "_label": "The Pranksters (Les Espi\u00e8gles)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2015.150/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Pranksters (Les Espi\u00e8gles)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2015.150/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Charles-Melchior Descourtis (French, 1753-1820), artist; Fr\u00e9d\u00e9ric Schall (French, 1752-1825), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2015.150/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2015.150",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2015.150/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1798",
+        "begin_of_the_begin": "1793",
+        "end_of_the_end": "1803"
+      }
+    }
+  ]
+}

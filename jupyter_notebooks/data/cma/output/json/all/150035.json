@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1980.249",
+  "type": "HumanMadeObject",
+  "_label": "A Woman from the Land of Eskimos",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.249/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "A Woman from the Land of Eskimos",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.249/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "L\u00e9on Cogniet (French, 1794-1880), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1980.249/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Offered by Cogniet to Baron Gros in 1826. His sale, Paris, 23 November 1835 (lot 125), Femme du pays des Esquimaux, ouvrage expos\u00e9 au salon du Louvre en 1827, for ff 715 to Dubois. Mme P\u00e9trus Martin, Paris. Her collection sale, Paris, Drouot, 6-7 February 1902 (lot 10), Femme du pays des Esquimaux, sign\u00e9 \u00e0 gauche, 45 x 36 cm, ff 42. (The CMA painting is signed on the right and the Douwes version is signed on the left, so this auction catalogue entry may refer to that painting.) Shepherd Gallery, New York. Bought in August 1976 by Mr. and Mrs. Noah L. Butkin, Cleveland. Bequeathed to the CMA in 1980.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.249/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1980.249",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1980.249/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1826",
+        "begin_of_the_begin": "1826",
+        "end_of_the_end": "1826"
+      }
+    }
+  ]
+}

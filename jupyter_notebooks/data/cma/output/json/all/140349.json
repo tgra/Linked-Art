@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1964.299",
+  "type": "HumanMadeObject",
+  "_label": "Bracket with Buddha and a Pair of Acolytes",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.299/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Bracket with Buddha and a Pair of Acolytes",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.299/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "M. F. Pila, Paris, France (by 1926); (Robert Rousset, Paris, France, sold to Severance and Greta Millikin); Severance A. [1895-1985] and Greta [Marguerite Steckerl] Millikin [1903-1989], Cleveland, OH, given to the Cleveland Museum of Art (?-1964); The Cleveland Museum of Art, Cleveland, OH (1964-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.299/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1964.299",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1964.299/production/timespan",
+        "type": "TimeSpan",
+        "_label": "700s\u2013800s",
+        "begin_of_the_begin": "700",
+        "end_of_the_end": "899"
+      }
+    }
+  ]
+}

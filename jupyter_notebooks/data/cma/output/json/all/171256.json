@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2013.98.3.a",
+  "type": "HumanMadeObject",
+  "_label": "Cup from Oliver Wolcott, Jr. Tea Service (3 of 6)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.98.3.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Cup from Oliver Wolcott, Jr. Tea Service (3 of 6)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.98.3.a/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Original commission by Oliver Wolcott, Jr. Thence by descent through the Wolcott, Tuckerman, Minturn, Draper and Buchanan families.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.98.3.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2013.98.3.a",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2013.98.3.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1785-1805",
+        "begin_of_the_begin": "1779",
+        "end_of_the_end": "1811"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1940.465",
+  "type": "HumanMadeObject",
+  "_label": "Study for the Nude Youth over the Prophet Daniel (recto); Figure Studies for the Sistine Ceiling (verso)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.465/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Study for the Nude Youth over the Prophet Daniel (recto); Figure Studies for the Sistine Ceiling (verso)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.465/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Michelangelo Buonarroti (Italian, 1475-1564), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1940.465/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Pierre Crozat, Paris (L. 3612), his sale 1741 (1741); Pierre Jean Mariette (L. 1852), Paris, his sale 1775-76, lot 236 (1775-76); B\u00fcrckel family, Vienna; Dr. Alexander de Frey, Temesvar, Romania, his sale, 1933, lot 7 (as school of Michelangelo) (1933); with Wildenstein & Co., New York (1934-37); purchased by Henry G. Dalton (1862-1939), Cleveland (1937); by descent to his nephews George S. and Harry D. Kendrick, Cleveland (1939); The Cleveland Museum of Art, Cleveland, OH (1940-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.465/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1940.465",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1940.465/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1510-11",
+        "begin_of_the_begin": "1510",
+        "end_of_the_end": "1511"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1987.5",
+  "type": "HumanMadeObject",
+  "_label": "Toad",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1987.5/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Toad",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1987.5/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Archduke Leopold Wilhelm, 1614-1662 (Vienna, Austria) (Inventory of 1659).; Imperial Treasury (Vienna, Austria) (Inventory of 1750).; Ambras Castle (near Innsbruck, Austria), 1871.; Kunsthistorisches Museum, Vienna, 1891 (Inventory 5933, sold 1923).; R. Weininger (New York, New York).; Rainer Zietz, (London, England), sold to the Cleveland Museum of Art, 1987.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1987.5/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1987.5",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1987.5/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1500-1550 or later",
+        "begin_of_the_begin": "1495",
+        "end_of_the_end": "1595"
+      }
+    }
+  ]
+}

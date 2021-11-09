@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2017.213",
+  "type": "HumanMadeObject",
+  "_label": "A Christening in Revolutionary France",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2017.213/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "A Christening in Revolutionary France",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2017.213/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jean-Baptiste Mallet (French, 1759-1835), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2017.213/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Patrice Batelli; purchased by Mr. Noah L. Butkin [1918-1980], 1976 (sale, 3 December 1976, \u201cImportant old master drawings\u201d, lot #102, Christie\u2019s, London); bequest of Mrs. Muriel Butkin [1915-2008], 2005 to The Cleveland Museum of Art.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2017.213/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2017.213",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2017.213/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 18th century",
+        "begin_of_the_begin": "1700",
+        "end_of_the_end": "1799"
+      }
+    }
+  ]
+}

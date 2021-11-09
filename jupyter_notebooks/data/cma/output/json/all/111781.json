@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1930.306",
+  "type": "HumanMadeObject",
+  "_label": "Fantastic Lion",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1930.306/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Fantastic Lion",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1930.306/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1930.306",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1930.306/production/timespan",
+        "type": "TimeSpan",
+        "_label": "206 BC - AD 220",
+        "begin_of_the_begin": "-206",
+        "end_of_the_end": "220"
+      }
+    }
+  ]
+}

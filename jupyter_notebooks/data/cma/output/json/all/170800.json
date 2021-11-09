@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2013.303",
+  "type": "HumanMadeObject",
+  "_label": "Lovers parting, page from a book of fables",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.303/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Lovers parting, page from a book of fables",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.303/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2013.303",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2013.303/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1590-95",
+        "begin_of_the_begin": "1585",
+        "end_of_the_end": "1595"
+      }
+    }
+  ]
+}

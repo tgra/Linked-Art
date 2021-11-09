@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1999.129",
+  "type": "HumanMadeObject",
+  "_label": "Christ before Pilate: Leaf from a Book of Hours (2 of 6 Excised Leaves)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.129/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Christ before Pilate: Leaf from a Book of Hours (2 of 6 Excised Leaves)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.129/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Henri d'Orquevaulx (French), artist; Workshop, artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1999.129/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Jehan de Poncy and his wife, Marguerite, ca. 1539; Bartlett Gurney of Norwich (d. 1803); bequeathed by him to his aunt Catherine Gurney; given by her in 1808 to Rev. Edward Edwards of Lynn, Norfolk (d. 15 March 1849); bequeathed by him to William Hay Gurney of North Princeton, nephew of Catherine Gurney and godson of Edwards; dismembered leaves from the original manuscript have appeared with Edward R. Lubin, New York; all the above leaves [Bruce Ferrini, Akron]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.129/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1999.129",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1999.129/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1420-1430",
+        "begin_of_the_begin": "1415",
+        "end_of_the_end": "1435"
+      }
+    }
+  ]
+}

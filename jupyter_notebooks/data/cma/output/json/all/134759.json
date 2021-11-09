@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1957.32",
+  "type": "HumanMadeObject",
+  "_label": "Covered Box",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1957.32/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Covered Box",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1957.32/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Men-Chu Wang, Seller's No. 37; Edward Chao, Hong Kong; (Frank Caro)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1957.32/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1957.32",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1957.32/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1100s",
+        "begin_of_the_begin": "1100",
+        "end_of_the_end": "1199"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.1816.i",
+  "type": "HumanMadeObject",
+  "_label": "Proper Right Gauntlet",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.1816.i/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Proper Right Gauntlet",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.1816.i/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Duc d'Osuna; Frank Gair Macomber, Boston, cat. # 155.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.1816.i/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.1816.i",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1916.1816.i/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1575",
+        "begin_of_the_begin": "1570",
+        "end_of_the_end": "1580"
+      }
+    }
+  ]
+}

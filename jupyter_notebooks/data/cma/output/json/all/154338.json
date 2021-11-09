@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1989.104",
+  "type": "HumanMadeObject",
+  "_label": "Tantric Buddha Vairochana as Vajrasattva",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.104/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Tantric Buddha Vairochana as Vajrasattva",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.104/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(David Tremayne, Ltd., London, UK, sold to the Cleveland Museum of Art) (?\u20131989); The Cleveland Museum of Art, Cleveland, OH (1989\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1989.104/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1989.104",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1989.104/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1150\u20131200",
+        "begin_of_the_begin": "1150",
+        "end_of_the_end": "1200"
+      }
+    }
+  ]
+}

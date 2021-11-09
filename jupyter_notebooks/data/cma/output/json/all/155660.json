@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1990.96.a",
+  "type": "HumanMadeObject",
+  "_label": "Desk Section of a Desk and Bookcase",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1990.96.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Desk Section of a Desk and Bookcase",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1990.96.a/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Col. Christopher Toppan (1735-1818), Hampton, New Hamsphire; his son Edmund Toppan (1777-1857); his daughter Sarah Jane Parker Toppan (b. 1822) who married Rev. Samuel J. Spalding, Newburyport, Massachusetts; their granddaughter Helen Chapin Hitchcock (Mrs. Lawrence).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1990.96.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1990.96.a",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1990.96.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1780",
+        "begin_of_the_begin": "1775",
+        "end_of_the_end": "1785"
+      }
+    }
+  ]
+}

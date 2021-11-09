@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1921.591.b",
+  "type": "HumanMadeObject",
+  "_label": "Jar with Butterflies (lid)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1921.591.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Jar with Butterflies (lid)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1921.591.b/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Mrs. Charles William (Mabel Breckenridge) Wason [c. 1872-1958], Cleveland Heights, OH, ?-1921, given to the Cleveland Museum of Art (?-1921); The Cleveland Museum of Art, Cleveland, OH, 1921-present (1921-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1921.591.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1921.591.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1921.591.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1800s",
+        "begin_of_the_begin": "1868",
+        "end_of_the_end": "1899"
+      }
+    }
+  ]
+}

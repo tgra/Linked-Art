@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1953.628",
+  "type": "HumanMadeObject",
+  "_label": "Amulet in the Form of a Seated Figure with Bovine Head",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.628/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Amulet in the Form of a Seated Figure with Bovine Head",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.628/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "John L. Severance [1863-1936], Cleveland, OH; Severance A. Millikin [1895-1985], Cleveland, OH, given to the Cleveland Museum of Art (?-1953); The Cleveland Museum of Art, Cleveland, OH (1953-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.628/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1953.628",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1953.628/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 4700\u20132920 BC",
+        "begin_of_the_begin": "-4710",
+        "end_of_the_end": "-2910"
+      }
+    }
+  ]
+}

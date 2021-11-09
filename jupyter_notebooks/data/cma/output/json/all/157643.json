@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1995.15",
+  "type": "HumanMadeObject",
+  "_label": "Prostitute Soliciting a Fat, Ugly Man (recto); Young Woman Wringing Her Hands over a Man's Naked Body (verso)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.15/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Prostitute Soliciting a Fat, Ugly Man (recto); Young Woman Wringing Her Hands over a Man's Naked Body (verso)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.15/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Francisco de Goya (Spanish, 1746-1828), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1995.15/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "by inheritance from the artist to his son, Javier Goya y Bayeu (1784-1854), Madrid (1828-1854); by inheritance to his son, Mariano Goya y Goicoechea (1806-1874), Madrid (1854-around 1855-60); sold by Mariano to Valentin Carderera y Solano (1796-1880), Madrid, or to Federico de Madrazo y Kuntz (1806-1874), Madrid, or his brother-in-law Rom\u00e1n Garreta y Huerta (around 1855/60); Given or sold by Madrazo to Scipione Vannutelli (1834\u20131894), Rome (around 1866-75); by descent to his heirs, the Clementi-Vannutelli family. (1894-1960s); Dorothy Braude Edinburg (1920-2015), Boston (?-around 1987); Jo-Ann Edinburg Pinkowitz, John Edinburg, and Hope Edinburg, Boston (around 1987); their sale, Sotheby's, New York, 12 November 1987, lot 108 (1987); with David Carritt Ltd/Artemis Group, London and New York (1994); the Cleveland Museum of Art, Cleveland, OH (1995)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.15/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1995.15",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1995.15/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1796\u201397",
+        "begin_of_the_begin": "1796",
+        "end_of_the_end": "1797"
+      }
+    }
+  ]
+}

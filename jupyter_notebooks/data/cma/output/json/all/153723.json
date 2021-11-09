@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1987.31",
+  "type": "HumanMadeObject",
+  "_label": "Three Studies of a Woman Wearing an Elaborate Headdress",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1987.31/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Three Studies of a Woman Wearing an Elaborate Headdress",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1987.31/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Anonymous, artist; Peter Paul Rubens (Flemish, 1577-1640), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1987.31/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sir Anthony Westcombe, London, died 1752 (early 1700s); Robert Prioleau Roupell, London, 1798-1886 (Lugt 2234) (?-1887); his sale, Christie, Manson & Woods, July 12, 1887, lot 891 (as Van Eyck) (1887); George Salting, London, 1835-1909 (1887-1909?); A.W.M. Mensing, Amsterdam, 1866-1936 (1910?-1936); his sale, Mensing & Fils, Amsterdam, April 27-29, 1937, lot 614 (as Rubens) (1937); Mrs. Leo van Bergh, Wassenaar (?-1985); Sold, Christie's Amsterdam, Nov. 18, 1985, lot 4 (as Flemish School, early 16th century, retouched by Rubens) (1985); Alexander Converse? (?-?); with Baskett and Day, London, 1987 (1987); The Cleveland Museum of Art, Cleveland, OH (1987-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1987.31/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1987.31",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1987.31/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1500",
+        "begin_of_the_begin": "1495",
+        "end_of_the_end": "1505"
+      }
+    }
+  ]
+}

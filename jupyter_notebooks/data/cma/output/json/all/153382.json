@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1986.68",
+  "type": "HumanMadeObject",
+  "_label": "On a Terrace",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1986.68/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "On a Terrace",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1986.68/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ernest Meissonier (French, 1815-1891), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1986.68/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Ernest Secr\u00e9tan [1836-1899], Paris, France; (Georges Petit Gallery, Paris, France, March 15, 1908, sold to to F. F. van der Doucht, Brussels, Belgium, according to Knoedler sale book no. 7, p. 270, 15 March 1908).; (E. Le Roy & Co., by 1893, according to exh. cat., Georges Petit, 1893). (by 1893); (Le Roy consigned it to Knoedler & Co., Paris, France, stock no. 8878a.); (Knoedler & Co., New York, NY, March 15, 1899, sold to Samuel L. Bronson) (1897-1899); Samuel L. Bronson [1834-1917] New Haven, CT (1899-1901); (Bought back by Knoedler, 8 May 1901 (stock number 9444) and sold 10 March 1908 to Thomas Henry Burchell) (1901-1908); Thomas Henry Burchell [-1942] New York, NY, sold it back to Knoedler, November 3, 1910 (stock number 12199). (1908-1910); (Knoedler Gallery, New York, NY, April 15, 1911, sold to Frederick Gehring) (1910-1911); Clara Louise Gehring Bickford [1903-1985] Cleveland, OH, by bequest to the Cleveland Museum of Art (1986); The Cleveland Museum of Art, Cleveland, OH (1986-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1986.68/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1986.68",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1986.68/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1867",
+        "begin_of_the_begin": "1867",
+        "end_of_the_end": "1867"
+      }
+    }
+  ]
+}

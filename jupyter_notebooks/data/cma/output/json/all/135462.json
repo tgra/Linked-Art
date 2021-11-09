@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1958.453",
+  "type": "HumanMadeObject",
+  "_label": "Italian Series:  Arch of Conca, Perugia",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1958.453/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Italian Series:  Arch of Conca, Perugia",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1958.453/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "John Taylor Arms (American, 1887-1953), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1958.453/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1958.453",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1958.453/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1926",
+        "begin_of_the_begin": "1926",
+        "end_of_the_end": "1926"
+      }
+    }
+  ]
+}

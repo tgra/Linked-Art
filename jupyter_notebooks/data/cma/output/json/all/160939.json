@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1999.211",
+  "type": "HumanMadeObject",
+  "_label": "Leather Casket with Scenes of Courtly Love",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.211/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Leather Casket with Scenes of Courtly Love",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1999.211/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1999.211",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1999.211/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1350-1400",
+        "begin_of_the_begin": "1350",
+        "end_of_the_end": "1400"
+      }
+    }
+  ]
+}

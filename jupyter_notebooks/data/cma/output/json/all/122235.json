@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1942.546",
+  "type": "HumanMadeObject",
+  "_label": "Pot",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.546/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Pot",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.546/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1942.546",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1942.546/production/timespan",
+        "type": "TimeSpan",
+        "_label": "3rd-2nd Millenium BC",
+        "begin_of_the_begin": "-2999",
+        "end_of_the_end": "-1000"
+      }
+    }
+  ]
+}

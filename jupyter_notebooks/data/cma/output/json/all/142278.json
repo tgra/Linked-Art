@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1966.115",
+  "type": "HumanMadeObject",
+  "_label": "Birds in a Grove in a Mountainous Winter Landscape",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.115/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Birds in a Grove in a Mountainous Winter Landscape",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.115/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gao Tao (Chinese, 1100s), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1966.115/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Zhu Gang \u6731\u68e1 [1358\u20131398], late 1300s (late 1300s); Suo\u2019etu \u7d22\u984d\u5716 [1636\u20131703]; A\u2019erxipu \u963f\u723e\u559c\u666e [1700s]; Weng Fanggang \u7fc1\u65b9\u7db1 [1733\u20131818], Beijing; (Frank Caro [1904\u20131980], New York, NY, sold to the Cleveland Museum of Art) (?-1966); The Cleveland Museum of Art, Cleveland, OH (1966-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.115/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1966.115",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1966.115/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1100s",
+        "begin_of_the_begin": "1100",
+        "end_of_the_end": "1199"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1977.208",
+  "type": "HumanMadeObject",
+  "_label": "Frog",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.208/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Frog",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.208/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Howard Hollis [1899\u20131985], Cleveland, OH, to Herbert F. Leisy); Herbert F. Leisy [1900\u20131977], Cleveland Heights, OH, gift to the Cleveland Museum of Art (?\u20131977); The Cleveland Museum of Art, Cleveland, OH (1977\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1977.208/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1977.208",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1977.208/production/timespan",
+        "type": "TimeSpan",
+        "_label": "AD 386\u2013534",
+        "begin_of_the_begin": "386",
+        "end_of_the_end": "534"
+      }
+    }
+  ]
+}

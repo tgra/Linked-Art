@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1950.582",
+  "type": "HumanMadeObject",
+  "_label": "The Garden of the Rousseau Family",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1950.582/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Garden of the Rousseau Family",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1950.582/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "James Ensor (Belgian, 1860-1949), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1950.582/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "James Ensor, sold to Ernst and/or Mariette Rousseau at the salon of Les XX (no. 11) (1885-1890); Ernest [1831-1908] and/or Mariette [1850-1926] Rousseau, Brussels (1890-at least 1908); Henry van de Velde [1863-1957], Wassenaar, the Netherlands; (Galerie Giroux, Brussels, sale, February 10, 1930, lot 41) (1930); (Sam Salz, New York, sold to Leonard C. Hanna, Jr.) (After 1930-1946); Leonard C. Hanna Jr., Cleveland, OH, by gift to the Cleveland Museum of Art (1946-1950); The Cleveland Museum of Art, Cleveland, Ohio (1950-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1950.582/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1950.582",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1950.582/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1885",
+        "begin_of_the_begin": "1885",
+        "end_of_the_end": "1885"
+      }
+    }
+  ]
+}

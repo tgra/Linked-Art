@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2002.77.c",
+  "type": "HumanMadeObject",
+  "_label": "A Modern Pilgrim's Print Book: Wellfleet Oysterman",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2002.77.c/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "A Modern Pilgrim's Print Book: Wellfleet Oysterman",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2002.77.c/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Charles Kaeselau (American, 1889-1972), artist; Paul Smith, Provincetown in cooperation with Provincetown Art Association, published by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2002.77.c/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2002.77.c",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2002.77.c/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1935",
+        "begin_of_the_begin": "1935",
+        "end_of_the_end": "1935"
+      }
+    }
+  ]
+}

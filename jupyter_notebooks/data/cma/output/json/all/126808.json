@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1949.202",
+  "type": "HumanMadeObject",
+  "_label": "Cutting from an Antiphonary:  Initial A[spiciens a longe]: The Tree of Jesse",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1949.202/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Cutting from an Antiphonary:  Initial A[spiciens a longe]: The Tree of Jesse",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1949.202/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "C.G. Boerner, Leipzig; Professor Robert Forrer (1866-1947), Strasbourg; Mrs. Otto H. Kahn, sold to Joseph Brummer Gallery (?-1943); (Joseph Brummer Gallery, sold to Vladimir G. Simkovitch) (1943-1949); Vladimir G. Simkhovitch, sold to the Cleveland Museum of Art (1949); The Cleveland Museum of Art, Cleveland, OH (1949-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1949.202/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1949.202",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1949.202/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1115-1125",
+        "begin_of_the_begin": "1115",
+        "end_of_the_end": "1125"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2014.317",
+  "type": "HumanMadeObject",
+  "_label": "Racing Scenes: A Horse Arriving at the Race (Sc\u00e8nes Hippiques: Cheval arrivant de la chasse)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.317/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Racing Scenes: A Horse Arriving at the Race (Sc\u00e8nes Hippiques: Cheval arrivant de la chasse)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.317/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Carle Vernet (French, 1758-1836), artist; Jazet and Aumont, published by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.317/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2014.317",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

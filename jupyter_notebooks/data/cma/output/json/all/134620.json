@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1957.150",
+  "type": "HumanMadeObject",
+  "_label": "Adoration of the Magi",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1957.150/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Adoration of the Magi",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1957.150/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Titian (Italian, c. 1488-1576), artist; Workshop, artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1957.150/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Walsh Porter (died 1810), upon his death, held in trust by the estate; Estate of Walsh Porter (unsold, Christie's, London, April 14, 1810, no. 38; unsold, Christie's, London, June 21, 1811, no. 40; sold, Christie's, London, May 6, 1826, no. 7); Samuel Rogers (sold, Christie's, London, May 2, 1856, no. 700, to Mr. Ripp);; Hugh A. J. Munro of Novar (1797-1864), upon his death, held in trust by the estate; Estate of Hugh A. J. Munro of Novar, (unsold, Christie's, London, May 18, 1867, no. 183; sold, Christie's, London, June 1, 1878, no. 121, to C. Butler); Butler Johnstone, 1881; William Graham (1817-1885), upon his death, held in trust by the estate; Estate of William Graham (sold, Christie's, London, April 10, 1886, no. 472); J. Stewart Hodgson (sold, Christie's, London, June 3, 1893, no. 31); Ralph Brocklebank (sale: Christie's, London, July 7, 1922, no. 112); Julius Bohler, Munich; Durlacher Brothers, London and New York; Arthur Sachs [1880-1975] sold to the Cleveland Museum of Art (1928-1957); The Cleveland Museum of Art, Cleveland, OH (1957-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1957.150/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1957.150",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1957.150/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1500s",
+        "begin_of_the_begin": "1500",
+        "end_of_the_end": "1599"
+      }
+    }
+  ]
+}

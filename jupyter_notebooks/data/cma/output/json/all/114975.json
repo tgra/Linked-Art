@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1935.147",
+  "type": "HumanMadeObject",
+  "_label": "Enthroned planetary deity",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1935.147/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Enthroned planetary deity",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1935.147/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Paul Mallon [1884-1975], Paris, France and New York, NY, sold to the Cleveland Museum of Art) (?-1935); The Cleveland Museum of Art, Cleveland, OH, 1935-present (1935-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1935.147/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1935.147",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1935.147/production/timespan",
+        "type": "TimeSpan",
+        "_label": "850-875",
+        "begin_of_the_begin": "850",
+        "end_of_the_end": "875"
+      }
+    }
+  ]
+}

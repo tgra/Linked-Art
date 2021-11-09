@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1948.356",
+  "type": "HumanMadeObject",
+  "_label": "Head in Mouth of Snake",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.356/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Head in Mouth of Snake",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.356/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "A. Frank, possibly Augusto sold to Brummer Gallery (?-1937); Brummer Collection sold to Vladimir Simkhovitch (1937-1947); Professor Vladimir G. Simkhovitch to J. Wise Ltd., New York, NY (1947-1948); (John Wise Ltd, New York, NY) sold to the Cleveland Museum of Art (1948); The Cleveland Museum of Art (1948-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.356/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1948.356",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1948.356/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1325-1519",
+        "begin_of_the_begin": "1325",
+        "end_of_the_end": "1519"
+      }
+    }
+  ]
+}

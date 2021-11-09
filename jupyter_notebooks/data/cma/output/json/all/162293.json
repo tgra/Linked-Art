@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2002.29.a",
+  "type": "HumanMadeObject",
+  "_label": "Blind Man's Buff",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2002.29.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Blind Man's Buff",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2002.29.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Louise Bourgeois (American, 1911-2010), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2002.29.a/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Louise Bourgeois [1911-2010], New York, NY, possibly consigned to Robert Miller Gallery, New York, NY (1984-?); (Robert Miller Gallery, New York, NY) (?-?); (Galerie Karsten Greve, Cologne, Germany, 1995, sold to private collector) (1995); Private Collector (1995-?); (Christie's, NY, May, 14, 2002, sold to the Cleveland Museum of Art) (2002); The Cleveland Museum of Art, Cleveland, OH (2002-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2002.29.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2002.29.a",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2002.29.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1984",
+        "begin_of_the_begin": "1984",
+        "end_of_the_end": "1984"
+      }
+    }
+  ]
+}

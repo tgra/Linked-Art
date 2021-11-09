@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1929.538",
+  "type": "HumanMadeObject",
+  "_label": "View of Alkmaar with Boats",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1929.538/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "View of Alkmaar with Boats",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1929.538/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "J. G. van Franckenstein; Sybouts; G. Leembruggen; J. -F. Gigoux; N. D. Goldsmid; J. G. van Franckenstein [Lugt 2987 (? see depatmental file), lower left, in black ink]; J. -F. Gigoux [Lugt 1164, lower left, in black ink]; N. D. Goldsmid [Lugt 1962, VERSO, lower left, in blue ink]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1929.538/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1929.538",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1929.538/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1600s",
+        "begin_of_the_begin": "1600",
+        "end_of_the_end": "1699"
+      }
+    }
+  ]
+}

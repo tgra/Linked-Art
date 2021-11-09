@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1997.15",
+  "type": "HumanMadeObject",
+  "_label": "The Sleeping Faun",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1997.15/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Sleeping Faun",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1997.15/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Harriet Goodhue Hosmer (American, 1830-1908), sculptor",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1997.15/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Prince of Wales (1870s   ); Jacob Wakefield; Kendal Museum, Kendal, Cumbria, England; Sotheby's, London (1977    ); Christopher Forbes; Prince of Wales, 1870s; Jacob Wakefield; Kendal Museum, Kendal, Cumbria, England; Sotheby's, London, March 16, 1977; Christopher Forbes; (Hirschl & Adler Galleries, Inc.)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1997.15/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1997.15",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1997.15/production/timespan",
+        "type": "TimeSpan",
+        "_label": "modeled 1864, carved c. 1870",
+        "begin_of_the_begin": "1864",
+        "end_of_the_end": "1870"
+      }
+    }
+  ]
+}

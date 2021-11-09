@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1981.18",
+  "type": "HumanMadeObject",
+  "_label": "The Holy Family on the Steps",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1981.18/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Holy Family on the Steps",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1981.18/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Nicolas Poussin (French, 1594-1665), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1981.18/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Painted for Pierre Hennequin de Fresne (or version in Washington); [perhaps Reyni\u00e8re coll., Paris sale 1793; London sales 1797, 1801]; Lord Ashburton; J. Hervig-Smith, Devon (London sale 1908); (Quinto, Paris); Henri Lerolle (Paris sale 1944, as attributed); Bertin-Mourot coll.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1981.18/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1981.18",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1981.18/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1648",
+        "begin_of_the_begin": "1648",
+        "end_of_the_end": "1648"
+      }
+    }
+  ]
+}

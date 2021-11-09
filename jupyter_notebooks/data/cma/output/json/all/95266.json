@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.1039",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of Charles I (1600-1649)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.1039/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of Charles I (1600-1649)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.1039/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Anthony van Dyck (Flemish, 1599-1641), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1916.1039/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Duke of Hamilton (sale: Paris, June 17, 1882., no. 6);; [Charles Sedelmeyer, Paris];; [Durand-Ruel, Paris];; H. O. Havemeyer. New York;; [Durand-Ruel, New York], sold to Mr. and Mrs. Jeptha H. Wade, 1897; Mr. and Mrs. Jeptha H. Wade (Gates Mills, Ohio), by gift to the Cleveland Museum of Art, 1916.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.1039/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.1039",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1916.1039/production/timespan",
+        "type": "TimeSpan",
+        "_label": "17th century or later",
+        "begin_of_the_begin": "1600",
+        "end_of_the_end": "1699"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1985.145",
+  "type": "HumanMadeObject",
+  "_label": "Construction Site in Amsterdam",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.145/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Construction Site in Amsterdam",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.145/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "George Hendrik Breitner (Dutch, 1857-1923), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1985.145/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "E. J. van Wisselingh & Co., Amsterdam in 1902. Sold to A. Prins, Amsterdam/Hamburg, 31 May 1902, for Dfl 2.000. (Arij Prins [1860-1922] was a Dutch man of letters and a close friend of Breitner with whom he corresponded, and who lived in Hamburg from 1885 to 1905. Breitner's account book, which is in the Breitner Archive at the rkd in The Hague, lists the name of Arij Prins as the purchaser of the painting for Fl. 2.000. There is also a list of his works sold through the dealer van Wisselingh; there W. Prins, Hamburg, is mentioned as the purchaser of this work. W. is most likely a brother of Arij.) A. Terwindt. M. P. Vo\u00fbte, Amsterdam, by 1922. Dr. W. L. Ladenius, Haarlem. Amsterdam sale, F. Muller & Co., 15-22 December 1942 (lot 129), Doorbraak Raadhuisstraat in den Winter, signed, canvas, 60.5 x 81 cm, repr., for Dfl 2.200. Amsterdam sale, Sotheby Mak van Waay, 15 May 1984 (lot 175), repr., for Dfl 47.560, to E. J. van Wisselingh & Co., Amsterdam. Purchased by the CMA in 1985.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1985.145/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1985.145",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1985.145/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1902",
+        "begin_of_the_begin": "1897",
+        "end_of_the_end": "1907"
+      }
+    }
+  ]
+}

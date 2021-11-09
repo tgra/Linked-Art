@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1948.501",
+  "type": "HumanMadeObject",
+  "_label": "Fragment",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.501/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Fragment",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.501/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "belongs to a group of textiles which were originally reported to have been found in a tomb in the necropolis at Rayy.; (Adolph Loewi [1888-1977], Los Angeles, CA, sold to the Cleveland Museum of Art) (?-1948); The Cleveland Museum of Art, Cleveland, OH (1948-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.501/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1948.501",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1948.501/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1100s or early 1200s",
+        "begin_of_the_begin": "1180",
+        "end_of_the_end": "1220"
+      }
+    }
+  ]
+}

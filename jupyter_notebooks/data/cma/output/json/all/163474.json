@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2004.43.c",
+  "type": "HumanMadeObject",
+  "_label": "Stand for a Covered Tureen",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2004.43.c/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Stand for a Covered Tureen",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2004.43.c/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Elsa Peretti (Italian, 1940-), designer; Pampaloni Company, Florence, maker; Tiffany & Co. (American, New York, est. 1837), retailer",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2004.43.c/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2004.43.c",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2004.43.c/production/timespan",
+        "type": "TimeSpan",
+        "_label": "designed 1986",
+        "begin_of_the_begin": "1986",
+        "end_of_the_end": "1986"
+      }
+    }
+  ]
+}

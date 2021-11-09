@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1982.13",
+  "type": "HumanMadeObject",
+  "_label": "Pastoral Scene with Classical Figures",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.13/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Pastoral Scene with Classical Figures",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.13/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Claude Lorrain (French, 1604-1682), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1982.13/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Estate of the artist; Queen Christina of Sweden, Rome (traditional provenance); Cardinal Decio Azzolini, Rome; Don Livio Odescalchi, Duke of Bracciano, Rome; Odescalchi family until 1845; Polish collection until 1939; Swiss collection until 1960; [George Wildenstein, Paris]; Norton Simon, Pasadena; [Eugene Victor Thaw, New York].",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1982.13/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1982.13",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1982.13/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1640-1645",
+        "begin_of_the_begin": "1640",
+        "end_of_the_end": "1645"
+      }
+    }
+  ]
+}

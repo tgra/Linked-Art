@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1980.258",
+  "type": "HumanMadeObject",
+  "_label": "Expulsion of Adam and Eve",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.258/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Expulsion of Adam and Eve",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.258/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "John Faed (Scottish, 1820-1902), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1980.258/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Private collector, consigned to Sotheby\u2019s (Until 1967); (Sale, Sotheby\u2019s, London, Jan. 11, 1967, lot 6, sold to the Fine Art Society, Ltd.) (1967); (Fine Art Society, Ltd., London, sold to R. John Rickett) (1967); R. John Rickett [1930-1970], London, to his wife, Mrs. John Rickett (1967-1970); Mrs. John Rickett, consigned to Sotheby\u2019s Belgravia (1970-1975); (Sale, Sotheby's Belgravia, London, Nov. 11, 1975, lot 87) (1975); (Barry Friedman, Ltd., New York, sold to Shepherd Gallery) (c. 1975-1976); (Shepherd Gallery, New York, sold to Noah L. and Muriel S. Butkin) (Until February 1977); Noah L. and Muriel S. Butkin, Cleveland, OH, bequeathed to the Cleveland Museum of Art as a result of disclaimer by Muriel S. Butkin (1977-1980); The Cleveland Museum of Art, Cleveland, Ohio (1980-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1980.258/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1980.258",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1980.258/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1880s",
+        "begin_of_the_begin": "1880",
+        "end_of_the_end": "1889"
+      }
+    }
+  ]
+}

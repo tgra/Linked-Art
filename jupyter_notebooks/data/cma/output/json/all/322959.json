@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2018.534",
+  "type": "HumanMadeObject",
+  "_label": "Uganda's Milton Obote Campaigning: Dr. Milton Obote the leader of the Ugandan People's Congress (UPC) has already commenced his countrywide campaign in light of the elections on the 30th of September. He visited the Northern province of Karamojong near the town of Moroto where the traditional tribal dances were held by the supporters of the UPC. Obote is highly criticized by his opponents who claim that it was he who brought the nation to a dictatorship by abolishing the constitution. Obote adjusting his sunglasses",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.534/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Uganda's Milton Obote Campaigning: Dr. Milton Obote the leader of the Ugandan People's Congress (UPC) has already commenced his countrywide campaign in light of the elections on the 30th of September. He visited the Northern province of Karamojong near the town of Moroto where the traditional tribal dances were held by the supporters of the UPC. Obote is highly criticized by his opponents who claim that it was he who brought the nation to a dictatorship by abolishing the constitution. Obote adjusting his sunglasses",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.534/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Chris Steele-Perkins (British, b. 1947), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.534/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2018.534",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2018.534/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1980",
+        "begin_of_the_begin": "1980",
+        "end_of_the_end": "1980"
+      }
+    }
+  ]
+}

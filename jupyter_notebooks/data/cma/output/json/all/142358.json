@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1966.179",
+  "type": "HumanMadeObject",
+  "_label": "Sheet of Studies with a Group of Four Figures to the Right (recto) Sketches of Various Figures (verso)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.179/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Sheet of Studies with a Group of Four Figures to the Right (recto) Sketches of Various Figures (verso)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.179/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Honor\u00e9 Daumier (French, 1808-1879), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1966.179/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "all according to Maison 1968, vol. 2, p. 260, cat. no. 797: Roger Marx, Paris (Lugt 2229, not stamped); by decent to his son Claude Roger-Marx, Paris (Lugt Suppl. 1800b, not stamped).  [Carstairs].  Richard S. Davis, Minneapolis (not stamped, not in Lugt).  [New Gallery].  E. Powis Jones, New York (not stamped, not in Lugt).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.179/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1966.179",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1966.179/production/timespan",
+        "type": "TimeSpan",
+        "_label": "third quarter 1800s",
+        "begin_of_the_begin": "1850",
+        "end_of_the_end": "1879"
+      }
+    }
+  ]
+}

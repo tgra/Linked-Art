@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1942.58.1",
+  "type": "HumanMadeObject",
+  "_label": "Candelabrum",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.58.1/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Candelabrum",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.58.1/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Pierre Philippe Thomire (French, 1751-1843), artist; Clodion (French, 1738-1814), cast after a model by",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1942.58.1/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Possibly Richard Seymour-Conway, 4th Marquess of Hertford, 1800-1870 (Paris, France), possibly by inheritance to his illegitimate son, Richard Wallace, 1870.; Sir Richard Wallace, first baronet, 1818-1890 (Paris, France), upon his death, by inheritance to his wife, Julie-Am\u00e9lie-Charlotte Castelnau.; Julie-Am\u00e9lie-Charlotte Castelnau, Lady Wallace, 1819-97 (Paris, France), upon her death, by bequest to John Murray Scott.; John Murray Scott (1847-1912), upon his death, by bequest to Lady Sackville of Knole.; Lady Sackville of Knole, sold to Jacques Seligman, 1914.; Jacques Seligman (New York, New York), sold to Grace Rainey Rogers, 1920.; Grace Rainey Rogers, died 1943 (New York, New York), by gift to the Cleveland Museum of Art, 1942.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1942.58.1/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1942.58.1",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1942.58.1/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1780-1785",
+        "begin_of_the_begin": "1780",
+        "end_of_the_end": "1790"
+      }
+    }
+  ]
+}

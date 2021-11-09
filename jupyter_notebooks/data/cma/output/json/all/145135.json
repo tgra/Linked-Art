@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1970.31",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of Anne Louis Goislard de Montsabert, Comte de Richbourg-le-Toureil",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.31/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of Anne Louis Goislard de Montsabert, Comte de Richbourg-le-Toureil",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.31/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Nicolas de Largilli\u00e8re (French, 1656-1746), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1970.31/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Anne Louis Goislard de Montsabert and the Montsabert family; Possibly Comte Andr\u00e9 de Ganay [1863-1912], Paris1; Charles Fairfax Murray [1849 \u2013 1919], London, sold to Thomas Agnew & Sons; (Thomas Agnew & Sons, London, sold to Calouste S. Gulbenkian)1; Calouste S. Gulbenkian [1869 \u20131955], sold to Thomas Agnew & Sons; (Thomas Agnew & Sons, London, sold to Charles Fairfax Murray); Charles Fairfax Murray [1849 \u2013 1919], London; (Galerie Georges Petit, Paris, Fairfax Murray sale, June 15, 1914, no. 24, sold to Bousquet); Bousquet 1 (1914-); Galerie Cailleux, Paris, sold to the Detroit Institute of Arts with funds provided by Ernest Kanzler 1 (1959-1966); Ernest Kanzler [1892-1967], Detroit, MI 1 (1966-1967); The estate of Ernest Kanzler and Rosemarie Kanzler, sold to Eugene V. Thaw (1967-1970); (Eugene V. Thaw, New York, sold to the Cleveland Museum of Art)1 (1970); The Cleveland Museum of Art, Cleveland, Ohio (1970-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.31/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1970.31",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1970.31/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1734",
+        "begin_of_the_begin": "1734",
+        "end_of_the_end": "1734"
+      }
+    }
+  ]
+}

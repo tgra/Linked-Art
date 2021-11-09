@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1966.4",
+  "type": "HumanMadeObject",
+  "_label": "View of Orl\u00e9ans from the Loire",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.4/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "View of Orl\u00e9ans from the Loire",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.4/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Lambert Doomer (Dutch, 1623-1700), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1966.4/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Jeronimus Tonneman, Amsterdam (1754    ); Hendrik de Wacker van Zon, Amsterdam(?) (1754-61 ); Hartman (1761-64 ); Bernard Houthakker, Amsterdam (-1952   ); Hendrikus Egbertus ten Cate, Oldenzaal (1952-   ); C. G. Boerner, D\u00fcsseldorf (1964    ); H.N. Bier, London; Jeronimus Tonneman, Amsterdam (Lugt 2863a, not stamped); [his sale: H. de Leth, Amsterdam, 21 October 1754, p. 86, lot 25, sold to H. de Wacker van Zon for 11 florins and 5 cents] (according to type-witten note in department file which cites the sale cat.); Hendrik de Wacker van Zon, Amsterdam(?) (not in Lugt, not stamped); [his sale: H. de Leth, Amsterdam, 26 October 1761, p. 24, lot 254, sold to Hartman for 6 florins] (according to type-witten note in department file which cites the sale cat.); Hartman (unidentified collector).  [sale, de Winter, Amsterdam, 19 November 1764].  [Bernard Houthakker, Amsterdam (Lugt 1272, not stamped)] (Catalogue: Exhibition of Ancient Art Belonging to the International Trade, exh. cat. Rijksmuseum, Amsterdam, 1936, p. 43, cat. no. 174); Hendrikus Egbertus ten Cate, Oldenzaal (Lugt 533b, not stamped) (according to Schultz 1974, p. 69, cat. no. 132 sold by Houthakker to ten Cate in 1952, photocopy of cat. in department file).  [C. G. Boerner, D\u00fcsseldorf] (photocopy of cat. of 1-15 December 1964 in department file).  [H.N. Bier, London]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1966.4/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1966.4",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1966.4/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1670",
+        "begin_of_the_begin": "1665",
+        "end_of_the_end": "1675"
+      }
+    }
+  ]
+}

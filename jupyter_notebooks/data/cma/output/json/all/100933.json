@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1920.1289",
+  "type": "HumanMadeObject",
+  "_label": "Bobbin Lace Fragment",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1920.1289/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Bobbin Lace Fragment",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1920.1289/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1920.1289",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1920.1289/production/timespan",
+        "type": "TimeSpan",
+        "_label": "19th century",
+        "begin_of_the_begin": "1800",
+        "end_of_the_end": "1899"
+      }
+    }
+  ]
+}

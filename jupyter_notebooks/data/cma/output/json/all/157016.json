@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1993.165",
+  "type": "HumanMadeObject",
+  "_label": "Statuette of a Woman: \"The Stargazer\"",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1993.165/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Statuette of a Woman: \"The Stargazer\"",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1993.165/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Said to have been found near K\u0131r\u015fehir, Turkey; Nelson Rockefeller (Before 1962); Melba Davis Whatley Greenlee, Austin, Texas; (Harmon Fine Arts Collection, Leonard Norman Stern, New York, NY); The Cleveland Museum of Art, Cleveland, Oh (1993-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1993.165/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1993.165",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1993.165/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 3000 BC",
+        "begin_of_the_begin": "-3005",
+        "end_of_the_end": "-2995"
+      }
+    }
+  ]
+}

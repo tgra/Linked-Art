@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2015.104",
+  "type": "HumanMadeObject",
+  "_label": "Artists' Impressions",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2015.104/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Artists' Impressions",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2015.104/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Clinton Adams (American, 1918-2002), artist; Garo Zareh Antreasian (American, 1922-2018), artist; Walter Miller Askin (American, 1929-), artist; John Beerman (American, b. 1958), artist; William Brice (American, 1921-2008), artist; Christopher Brown (American, 1951-), artist; Larry Brown (American, b. 1942), artist; Squeak Carnwath (American, 1947-), artist; Robert Colescott (American, 1925-2009), artist; James Granberry Davis (American, 1931-), artist; James Drake (American, 1946-), artist; Margo Humphrey (American, 1942-), artist; Gendron Lloyd Jensen (American, 1939-), artist; Roberto Juarez (American, 1952-), artist; Joy Laville (American, 1923-2018), artist; George McNeil (American, 1908-1995), artist; Mary Ristow (American, b. 1953), artist; David Row (American, 1949-), artist; Edward Ruscha (American, 1937-), artist; Italo Scanga (American, 1932-2001), artist; Hollis Sigler (American, 1948-2001), artist; Jaune Quick-to-See Smith (American, 1940-), artist; Steven Sorman (American, b. 1948), artist; June Wayne (American, 1918-2011), artist; Tamarind Institute, printer and publisher",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2015.104/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The portfolio was purchased by the Lissauers directly from Tamarind.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2015.104/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2015.104",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2015.104/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1992-93",
+        "begin_of_the_begin": "1992",
+        "end_of_the_end": "1993"
+      }
+    }
+  ]
+}

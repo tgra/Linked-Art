@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2018.98",
+  "type": "HumanMadeObject",
+  "_label": "The Goddess Kali Standing on a Mountaintop",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.98/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Goddess Kali Standing on a Mountaintop",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.98/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Master of the court of Mandi (Indian), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2018.98/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Royal Mandi Collection; (Ramesh Kapoor Gallery, New York, NY, sold to Ralph and Catherine Glynn Benkaim) (?-July 1980); Ralph Benkaim [1914-2001] and Catherine Glynn Benkaim [b. 1946], Beverly Hills, CA (July 1980-2001); Catherine Glynn Benkaim and Barbara Timmer, Beverly Hills, CA, partial sale and gift to the Cleveland Museum of Art (2001-2018); The Cleveland Museum of Art, Cleveland, OH (2018-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.98/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2018.98",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2018.98/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1720",
+        "begin_of_the_begin": "1715",
+        "end_of_the_end": "1725"
+      }
+    }
+  ]
+}

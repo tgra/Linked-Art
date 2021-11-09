@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1995.15.b",
+  "type": "HumanMadeObject",
+  "_label": "Young Woman Wringing Her Hands over a Man's Naked Body (verso)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.15.b/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Young Woman Wringing Her Hands over a Man's Naked Body (verso)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.15.b/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Francisco de Goya (Spanish, 1746-1828), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1995.15.b/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Javier Goya; Mariano Goya; Valent\u00edn Carderera(?); Federico de Madrazo; Clementi-Vannutelli Collection, Rome. Dorothy Edinburg, Boston; Jo-Ann Edinburg Pinkowitz, John Edinburg, and Hope Edinburg; [sold by them at Sotheby's, New York, 12 November 1987, no. 108]. [Pace Gallery, New York]. [David Carritt Limited/The Artemis Group, London].; On the early provenance of the work, see Gassier 1973, 14-16, and Juliet Wilson-Bareau, \"Goya in the Metropolitan Museum,\" Burlington Magazine 138 (February 1996), 102.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.15.b/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1995.15.b",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1995.15.b/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1796\u201397",
+        "begin_of_the_begin": "1796",
+        "end_of_the_end": "1797"
+      }
+    }
+  ]
+}

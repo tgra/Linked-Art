@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1964.371.5",
+  "type": "HumanMadeObject",
+  "_label": "Twelve Views of Tiger Hill, Suzhou: The Nodding Stone Terrace, Tiger Hill, and the Thousand-Man Seat",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.371.5/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Twelve Views of Tiger Hill, Suzhou: The Nodding Stone Terrace, Tiger Hill, and the Thousand-Man Seat",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.371.5/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Shen Zhou (Chinese, 1427-1509), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1964.371.5/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Hu Zhishou \u80e1\u4e4b\u58fd [late 18th\u2013mid 19th century]; Binliang \u658c\u826f [1784\u20131847]; Hou Shigong \u4faf\u58eb\u606d [late 19th\u2013early 20th century]; Richard B. Hobart [1885-1963], Cambridge, MA; (Walter Hochstadter [1914\u20132007], New York, NY, sold to the Cleveland Museum of Art) (?-1964); The Cleveland Museum of Art, Cleveland, OH (1964-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.371.5/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1964.371.5",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1964.371.5/production/timespan",
+        "type": "TimeSpan",
+        "_label": "after 1490",
+        "begin_of_the_begin": "1491",
+        "end_of_the_end": "1509"
+      }
+    }
+  ]
+}

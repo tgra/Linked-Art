@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1992.2",
+  "type": "HumanMadeObject",
+  "_label": "Hermes Ordering Calypso to Release Odysseus",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1992.2/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Hermes Ordering Calypso to Release Odysseus",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1992.2/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gerard de Lairesse (Flemish, 1641-1711), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1992.2/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Thomas Wodehouse Legh, 2nd Baron Newton [1857-1942], Cheshire, upon his death, probably held in trust by the estate (Until 1946); (Sale, Sotheby\u2019s London, July 17, 1946, lot 63, sold to Julius Singer)1 (1946); (Julius Singer, London, probably sold to a Rio de Janeiro private collector) (1946-); Private collection, Rio de Janeiro (Until 1991); (Christie\u2019s, New York, sale, Oct. 9, 1991, lot 195, sold to Johnny van Haeften, Ltd.) (1991); (Johnny van Haeften, Ltd., London, sold to the Cleveland Museum of Art) (1991-1992); The Cleveland Museum of Art, Cleveland, Ohio (1992-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1992.2/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1992.2",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1992.2/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1670",
+        "begin_of_the_begin": "1665",
+        "end_of_the_end": "1675"
+      }
+    }
+  ]
+}

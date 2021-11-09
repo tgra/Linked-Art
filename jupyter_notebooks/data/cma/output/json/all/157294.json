@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1994.163",
+  "type": "HumanMadeObject",
+  "_label": "21 Etchings and Poems",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1994.163/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "21 Etchings and Poems",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1994.163/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ben-Zion (American, 1897-1987), artist; Adja Yunkers (American, 1900-1983), artist; Andre Racz (American, 1916-1994), artist; Attilio Salemme (American, 1911-1955), artist; Ben Nicholson (British, 1894-1978), artist; Esteban Vicente (American, 1903-2001), artist; Ezio Martinelli (American, 1913-1980), artist; Franz Kline (American, 1910-1962), artist; Fred Becker (American, 1913-), artist; Helen Phillips (American, 1913-1995), artist; Irene Rice Pereira (American, 1907-1971), artist; Jacques Lipchitz (French, 1891-1973), artist; Karl Schrag (American, 1912-1995), artist; Kurt Roesch (American, 1905-1984), artist; Letterio Calapai (American, 1902-1993), artist; Louis Schanker (American, 1903-1981), artist; Peter Grippe (American, 1912-2002), artist; Pierre Alechinsky (Belgian, 1927-), artist; Salvatore Grippi (American, 1921-), artist; Stanley William Hayter (British, 1901-1988), artist; Willem de Kooning (American, 1904-1997), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1994.163/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1994.163",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1994.163/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1960",
+        "begin_of_the_begin": "1960",
+        "end_of_the_end": "1960"
+      }
+    }
+  ]
+}

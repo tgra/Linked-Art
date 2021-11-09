@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.776",
+  "type": "HumanMadeObject",
+  "_label": "The Crucifixion",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.776/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Crucifixion",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.776/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Andrea da Firenze (Italian, 1379), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1916.776/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "By 1858 and until February 18, 1889, Minor K. Kellogg (Paris, France and Cleveland, Ohio); From 1889 and until 1913, Liberty E. Holden (Cleveland, Ohio); By inheritance to his wife, Delia E. Bulkley Holden (Cleveland, Ohio); Bequeathed 1916 to the Cleveland Museum of Art; This panel was first documented in 1858 in the collection of the artist Minor K. Kellogg, who had residences in both Cleveland and Paris.  On February 18, 1889, the panel was sold to Liberty E. Holden, a prominent Cleveland businessman who made his fortune in mining.   Delia E. Bulkley Holden, the widow of Mr. Holden, bequeathed this panel to the Cleveland Museum of Art in 1916, along with several other works from her collection of fourteenth- to seventeenth-century Italian paintings.  The Catalogue of Twentieth Anniversary Exhibition of the Cleveland Museum of Art in 1936 incorrectly stated that Mr. Holden purchased this work from James Jackson Jarves of Boston in 1884 with a group of Italian paintings that were exhibited in Boston in 1883-84.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.776/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.776",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1916.776/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1360s",
+        "begin_of_the_begin": "1360",
+        "end_of_the_end": "1369"
+      }
+    }
+  ]
+}

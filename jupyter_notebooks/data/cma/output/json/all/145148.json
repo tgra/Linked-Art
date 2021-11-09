@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1970.32",
+  "type": "HumanMadeObject",
+  "_label": "The Betrayal of Christ",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.32/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Betrayal of Christ",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.32/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jacob Jordaens (Flemish, 1593-1678), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1970.32/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Juergen Ovens; , upon his death, held in trust by the estate, 1691;; Estate of Juergen Ovens, 1691;; Possibly Count Otto Thott (Gaun\u00d8 Castle, Denmark), (died 1785), by inheritance to Holger Reedtz, grandson of Otto Thott's maternal uncle, who took the name Reedtz-Thott in honor of his benefactor, Count Otto Thott, who had no male heirs;; Holger Reedtz-Thott (died 1797), by inheritance to Baron Otto Reedtz-Thott;; Otto Reedtz-Thott (doed 1862), by inheritance to Baron Kjeld Thor Tage Otto Reedtz-Thott;; Baron Kjeld Thor Tage Otto Reedtz-Thott (died 1923), by inheritance to Baron Otto Reedtz-Thott;; Baron Otto Reedtz-Thott (died 1927), by inheritance to Baron Axel Reedtz-Thott;; Baron Axel Reedtz-Thott (Gaun\u00d8 Castle, Denmark) (sold, Sotheby's, London, July 10, 1968, no. 78); Agnew & Sons, London;; Pinakos, Inc., New York, sold to the Cleveland Museum of Art, 1970.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1970.32/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1970.32",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1970.32/production/timespan",
+        "type": "TimeSpan",
+        "_label": "late 1650s",
+        "begin_of_the_begin": "1655",
+        "end_of_the_end": "1659"
+      }
+    }
+  ]
+}

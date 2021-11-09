@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1964.88",
+  "type": "HumanMadeObject",
+  "_label": "Armor for Man and Horse with V\u00f6ls-Colonna Arms",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.88/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Armor for Man and Horse with V\u00f6ls-Colonna Arms",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.88/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Schloss Pr\u00f6sels, Fi\u00e8 allo Sciliar, Italy; Town Hall, Bolzano, Italy (?-1832); Prince Peter Soltykoff (active 1840-1861), Paris, France (1832-); William H. Rigs (1837-1928), Paris, France, donated to the Metropolitan Museum of Art (-1913); The Metropolitan Museum of Art (1913-64), New York, NY, sold to the Cleveland Museum of Art (1913-1964); The Cleveland Museum of Art, Cleveland, OH (1964-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1964.88/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1964.88",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1964.88/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1575",
+        "begin_of_the_begin": "1570",
+        "end_of_the_end": "1580"
+      }
+    }
+  ]
+}

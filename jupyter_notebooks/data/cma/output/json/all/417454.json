@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2020.435.3.8",
+  "type": "HumanMadeObject",
+  "_label": "Every Beat of My Heart",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.435.3.8/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Every Beat of My Heart",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.435.3.8/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Kerry James Marshall (American, b. 1955), artist; Carnegie Museum of Art, publisher",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.435.3.8/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2020.435.3.8",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2020.435.3.8/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1999-2000",
+        "begin_of_the_begin": "1999",
+        "end_of_the_end": "2000"
+      }
+    }
+  ]
+}

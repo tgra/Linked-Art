@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2018.513",
+  "type": "HumanMadeObject",
+  "_label": "Sadat victim of an assassination attempt: the Egyptian president, Awar El Sadat, was assassinated in Cairo on October 6, 1981. The career of Sadat in retrospective. Sadat holds a press conference (Defense Minister Ahmed Sadani next to him), September 9, 1981",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.513/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Sadat victim of an assassination attempt: the Egyptian president, Awar El Sadat, was assassinated in Cairo on October 6, 1981. The career of Sadat in retrospective. Sadat holds a press conference (Defense Minister Ahmed Sadani next to him), September 9, 1981",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.513/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mohamed Rachad El Koussy, artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2018.513/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2018.513",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2018.513/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1981",
+        "begin_of_the_begin": "1981",
+        "end_of_the_end": "1981"
+      }
+    }
+  ]
+}

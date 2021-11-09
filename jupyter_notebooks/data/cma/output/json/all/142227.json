@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1965.78",
+  "type": "HumanMadeObject",
+  "_label": "Siana Cup (Black-Figure Kylix [Drinking Cup]): Horseman and Warriors",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.78/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Siana Cup (Black-Figure Kylix [Drinking Cup]): Horseman and Warriors",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.78/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Dr. Jacob Hirsch, New York, NY; Conde de Lagunillas, Havana, Cuba; Edgar A. Hahn, Cleveland, OH, gifted to the Cleveland Museum of Art (?-1965); The Cleveland Museum of Art, Cleveland, OH (1965-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.78/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1965.78",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1965.78/production/timespan",
+        "type": "TimeSpan",
+        "_label": "575\u2013550 BC",
+        "begin_of_the_begin": "-575",
+        "end_of_the_end": "-550"
+      }
+    }
+  ]
+}

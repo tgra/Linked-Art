@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1953.9",
+  "type": "HumanMadeObject",
+  "_label": "Coat of Arms with a Skull",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.9/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Coat of Arms with a Skull",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.9/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Albrecht D\u00fcrer (German, 1471-1528), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1953.9/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Pierre Mariette, 1667, Paris; Alfred Hubert, Paris; Pierre Mariette (1634-1716), Paris, inscription (Lugt 1789), verso, lower right, in pen and brown ink. Alfred Hubert (died 1908), Paris, stamp (Lugt 130), verso, lower left, in black. John Charrington (born 1856), Shenley, England, stamp (Lugt 572), lower right, embossed. purchased from (William H. Schab)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1953.9/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1953.9",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1953.9/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1503",
+        "begin_of_the_begin": "1503",
+        "end_of_the_end": "1503"
+      }
+    }
+  ]
+}

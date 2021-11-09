@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1987.1017",
+  "type": "HumanMadeObject",
+  "_label": "Bes Lamp",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1987.1017/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Bes Lamp",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1987.1017/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Gustav Moustaki Collection, Alexandria (1920s-1947) and London (1947-mid 1980s). Purchased from Charles Ede, Ltd., London",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1987.1017/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1987.1017",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1987.1017/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1st Century BC - 1st Century AD",
+        "begin_of_the_begin": "-100",
+        "end_of_the_end": "100"
+      }
+    }
+  ]
+}

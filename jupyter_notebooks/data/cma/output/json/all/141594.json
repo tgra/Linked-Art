@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1965.19",
+  "type": "HumanMadeObject",
+  "_label": "Venus Discovering the Dead Adonis",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.19/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Venus Discovering the Dead Adonis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.19/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Jean Bartoloni, Ch\u00e2teau de Versoix, Switzerland; La Comtesse de Rouge and La Marquise de Divonne, both daughters of Bartolini (sale: Christie\u2019s. London, April 1, 1960, no. 101, pl. LIII); [Frederick M. Mont, New York], sold to the Cleveland Museum of Art, 1965.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1965.19/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1965.19",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1965.19/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1650",
+        "begin_of_the_begin": "1645",
+        "end_of_the_end": "1655"
+      }
+    }
+  ]
+}

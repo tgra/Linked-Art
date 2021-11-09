@@ -1,0 +1,57 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1940.1146",
+  "type": "HumanMadeObject",
+  "_label": "Scenes of Paris:  Promenade in the Tuileries.  What are they looking at?",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.1146/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Scenes of Paris:  Promenade in the Tuileries.  What are they looking at?",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.1146/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Jean Henri Marlet (French, 1770-1847), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1940.1146/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1940.1146",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

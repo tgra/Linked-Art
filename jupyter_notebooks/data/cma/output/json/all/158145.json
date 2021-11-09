@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1995.199.8.g",
+  "type": "HumanMadeObject",
+  "_label": "Camera Work: Study - Miss R.",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.199.8.g/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Camera Work: Study - Miss R.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.199.8.g/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Alvin Langdon Coburn (British, 1882-1966), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1995.199.8.g/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1995.199.8.g",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1995.199.8.g/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1904",
+        "begin_of_the_begin": "1904",
+        "end_of_the_end": "1904"
+      }
+    }
+  ]
+}

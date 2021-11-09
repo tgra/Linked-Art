@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2003.35",
+  "type": "HumanMadeObject",
+  "_label": "Woman and Child",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2003.35/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Woman and Child",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2003.35/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Captain Isidore W. Mesmaekers, Belgian Congo (1920s); his family, by descent (Belgium?); (J. P. Lepage Gallery, Brussels, Belgium) (by at least 1984); (Mr. and Mrs. Willem Vranken-Hoet, Brussels, Belgium, sold to the Cleveland Museum of Art) (1984-2003); The Cleveland Museum of Art, Cleveland, OH (2003-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2003.35/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2003.35",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2003.35/production/timespan",
+        "type": "TimeSpan",
+        "_label": "mid- to late 1800s",
+        "begin_of_the_begin": "1850",
+        "end_of_the_end": "1899"
+      }
+    }
+  ]
+}

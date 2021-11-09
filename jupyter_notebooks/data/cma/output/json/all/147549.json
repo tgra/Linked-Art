@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1973.53.a",
+  "type": "HumanMadeObject",
+  "_label": "Set of Pendants Ending in a Bull's Head",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.53.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Set of Pendants Ending in a Bull's Head",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1973.53.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1973.53.a",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1973.53.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "185-72 BC",
+        "begin_of_the_begin": "-185",
+        "end_of_the_end": "-72"
+      }
+    }
+  ]
+}

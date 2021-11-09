@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1963.259",
+  "type": "HumanMadeObject",
+  "_label": "Poetic Feeling in a Thatched Pavilion",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.259/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Poetic Feeling in a Thatched Pavilion",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.259/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Wu Zhen (Chinese, 1280-1354), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1963.259/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Zhang Chou \u5f35\u4e11 [1577\u20131643?]; Li Zhaoheng \u674e\u8087\u4ea8 [active 1600\u20131662]; Liang Qingbiao \u6881\u6e05\u6a19 [1620\u20131691]; Wang Yirong \u738b\u61ff\u69ae [1848\u20131900]; Chen Rentao [J. D. Chen] \u9673\u4ec1\u6fe4 [1906\u20131968], Hong Kong; (Chiang Er-shih \u8523\u9354\u58eb [1913\u20131972], Hong Kong, sold to the Cleveland Museum of Art) (by 1959-1963); The Cleveland Museum of Art, Cleveland, OH (1963-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1963.259/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1963.259",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1963.259/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1347",
+        "begin_of_the_begin": "1347",
+        "end_of_the_end": "1347"
+      }
+    }
+  ]
+}

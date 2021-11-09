@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2014.14",
+  "type": "HumanMadeObject",
+  "_label": "Telemachus, Urged by Mentor, Leaving the Island of Calypso ",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.14/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Telemachus, Urged by Mentor, Leaving the Island of Calypso ",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.14/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Charles Meynier (French, 1768-1832), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2014.14/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Possibly, T. C. Bruun-Neergaard (1776-1824), Paris (possibly, his sale, Paris:  rue Jean-Jacques Rousseau, H\u00f4tel de Bullion [Gendron], 29 August - 7 September 1814, lot 243; Henri Baderou, Paris; Frederick J. Cummings (1933-1990), Detroit and New York, until 1985; Colnaghi, New York, 1985; Private collection, New York, until 2014",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2014.14/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2014.14",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2014.14/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1800",
+        "begin_of_the_begin": "1800",
+        "end_of_the_end": "1800"
+      }
+    }
+  ]
+}

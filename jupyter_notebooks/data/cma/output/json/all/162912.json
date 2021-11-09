@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2003.39",
+  "type": "HumanMadeObject",
+  "_label": "Oculate Being Mask",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2003.39/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Oculate Being Mask",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2003.39/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2003.39",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2003.39/production/timespan",
+        "type": "TimeSpan",
+        "_label": "300 BC-AD 1 (Thermoluminescence date, 835 BC-AD 185)",
+        "begin_of_the_begin": "-300",
+        "end_of_the_end": "1"
+      }
+    }
+  ]
+}

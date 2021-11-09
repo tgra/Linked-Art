@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2009.301",
+  "type": "HumanMadeObject",
+  "_label": "A Concert:  Laura Dev\u00e9ria Singing",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.301/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "A Concert:  Laura Dev\u00e9ria Singing",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.301/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Eug\u00e8ne Fran\u00e7ois Marie Joseph Dev\u00e9ria (French, 1805-1865), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2009.301/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Colnaghi, London; ? Benezit (1966 ed., Vol. 3, p. 236):  4th Sale Baron de Bethmann, June 21-22, 1923, \"Murique de Chambre\" (aquarelle); Colnaghi, London, \"French Drawings: Post Neo-Classicism,\" Spring Exhibition 1976 (cat. no. 63).",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.301/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2009.301",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2009.301/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1831",
+        "begin_of_the_begin": "1831",
+        "end_of_the_end": "1831"
+      }
+    }
+  ]
+}

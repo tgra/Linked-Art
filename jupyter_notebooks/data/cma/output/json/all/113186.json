@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1932.204",
+  "type": "HumanMadeObject",
+  "_label": "Block Statue of the Royal Acquaintance, Horwedja",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1932.204/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Block Statue of the Royal Acquaintance, Horwedja",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1932.204/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Hurbeit (Pharbaithos)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1932.204/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1932.204",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1932.204/production/timespan",
+        "type": "TimeSpan",
+        "_label": "664-525 BC",
+        "begin_of_the_begin": "-664",
+        "end_of_the_end": "-525"
+      }
+    }
+  ]
+}

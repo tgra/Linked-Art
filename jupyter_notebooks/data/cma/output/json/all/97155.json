@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.793",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of a Couple",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.793/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of a Couple",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.793/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "James Jackson Jarves (1884).  Mrs. Liberty E. Holden, Cleveland.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.793/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.793",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1916.793/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1580\u201388",
+        "begin_of_the_begin": "1580",
+        "end_of_the_end": "1588"
+      }
+    }
+  ]
+}

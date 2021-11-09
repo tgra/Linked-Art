@@ -1,0 +1,38 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1944.278",
+  "type": "HumanMadeObject",
+  "_label": "Cornus sanguinea and Aristolochia cava",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1944.278/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Cornus sanguinea and Aristolochia cava",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1944.278/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1944.278",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    }
+  ]
+}

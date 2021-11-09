@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1993.253",
+  "type": "HumanMadeObject",
+  "_label": "Textile with Palmettes",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1993.253/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Textile with Palmettes",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1993.253/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Loewi - Robertson, Inc., Los Angeles, CA, sold to the Cleveland Museum of Art) (?\u20131993); The Cleveland Museum of Art, Cleveland, OH (1993\u2013)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1993.253/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1993.253",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1993.253/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1200s\u20131300s",
+        "begin_of_the_begin": "1200",
+        "end_of_the_end": "1399"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2013.261",
+  "type": "HumanMadeObject",
+  "_label": "Cordelia Parting from her Sisters",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.261/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Cordelia Parting from her Sisters",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.261/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ford Madox Brown (British, 1821-1893), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2013.261/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "July/August 1854 - D.T. White (dealer), acquired for \u00a310; by February 1855 - B.G. Windus; July 19 1862 - Windus auction, Christie's, London (43), sold as Goneril and Regan; June 1873 - Tooth, London, auction, acquired by John Miller for \u00a316, who exchanged it with the artist for a portrait of himself (Miller); 1874 - Edward Bright, purchased from the artist for \u00a365; by 1897 - Thomas Reid Wilkinson, Manchester; November 11, 1960 - Christie's, London (lot 109), bought by J.S. Maas & Co. Ltd., \u00a322.2s.od; Charles Handley-Reid, London [?]; by 1973 - Robert Walker, Paris; J.S. Maas & Co., sold to private collection; Helen [1929-2012] and Albert Borowitz, Cleveland, Ohio, given to the Cleveland Museum of Art (1973-2013); The Cleveland Museum of Art, Cleveland, OH (2013-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.261/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2013.261",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2013.261/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1854",
+        "begin_of_the_begin": "1854",
+        "end_of_the_end": "1854"
+      }
+    }
+  ]
+}

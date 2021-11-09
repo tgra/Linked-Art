@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1959.348",
+  "type": "HumanMadeObject",
+  "_label": "Buddhist Retreat by Stream and Mountains",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1959.348/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Buddhist Retreat by Stream and Mountains",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1959.348/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Juran (Chinese, active 960-985), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1959.348/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Song government (Shang Shu Sheng yin \u5c1a\u66f8\u7701\u5370), Beijing (960-1279); Ming government (half-seal Si yin \u53f8\u5370), Beijing (1368-98); Wu Ting \u5433\u5ef7 (first half of 1600s) (first half of 1600s); Liang Qingbiao \u6881\u6e05\u6a19 [1620\u20131691] (1620-1691); Geng Zhaozhong \u803f\u662d\u5fe0 [1640\u20131686] (1640-86); An Qi \u5b89\u5c90 [c. 1683\u2013c. 1744] (c. 1683-c. 1744); Qing imperial collection (seals of the Qianlong Emperor), Beijing (1736-95); Shao Fu-hsing (early 1900s); Frank F. Cho, New York, NY (?-1959); Katharine Holden Thayer [1898-1985], Gates Mills, OH, given to the Cleveland Museum of Art (?-1959); The Cleveland Museum of Art, Cleveland, OH (1959-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1959.348/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1959.348",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1959.348/production/timespan",
+        "type": "TimeSpan",
+        "_label": "960-985",
+        "begin_of_the_begin": "960",
+        "end_of_the_end": "985"
+      }
+    }
+  ]
+}

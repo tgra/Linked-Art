@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.332",
+  "type": "HumanMadeObject",
+  "_label": "Fan",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.332/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Fan",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.332/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.332",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1916.332/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1888",
+        "begin_of_the_begin": "1883",
+        "end_of_the_end": "1893"
+      }
+    }
+  ]
+}

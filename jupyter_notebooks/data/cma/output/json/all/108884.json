@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1926.554",
+  "type": "HumanMadeObject",
+  "_label": "Portrait of Sir Anthony Mildmay, Knight of Apethorpe, Northants",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1926.554/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Portrait of Sir Anthony Mildmay, Knight of Apethorpe, Northants",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1926.554/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Nicholas Hilliard (British, c. 1547-1619), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1926.554/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sir Anthony Mildmay, Knight of Apethorpe\n [c. 1549-1617] Northants, England by descent to his daughter, Mary, Countess of Westmoreland (n\u00e9e Mildmay) (1590/9 ?-1617); Mary, Countess of Westmoreland [1593?-1640] Northhamshire, England, by descent to her son, Sir Francis Fane (1617-1640); Sir Frances Fane [1611-1681], Fulbeck, Lincolnshire, England by descent to his son Sir Francis Fane (1640-1681); Sir Francis Fane [d. 1691], Henbury, Gloucestershire, England by descent to his son Henry Fane (1681-1691); Henry Fane [1669-1726], Brympton, Yeovil, Somerset, England by descent to his son, Henry Fane (1691-1726); Henry Fane [1703-1777], Wormsley, Oxfordshire, England by descent to his daughter, Mary Stapelton (n\u00e9e Fane) (1726-1777); Mary Stapleton (n\u00e9e Fane)  [c.1744-1835], Oxfordshire) by descent to her grandson, Rev. Hon. Sir Francis Jarvis Stapleton (1777-1835); Rev. Hon. Sir Francis Jarvis Stapleton [1807-1874], 7th Bt. Mereworth Rectory, Kent, England by descent to his son, Richard Talbot Plantagenet Stapleton (1835-1874); Richard Talbot Plantagenet Stapleton [1834-1899], Grey\u2019s Court, Oxfordshire, England by descent to his son, Sir Miles Talbot Stapleton (1874-1899); Sir Miles Stapleton, Bart of Greys, [1893-1977], Henley-on-Thames, United Kingdom consigned to Christie's London for sale (1899-1926); (Christie\u2019s, London, United Kingdom, May 11, 1926, lot 79 sold to S.J. Phillips for 510 gns.) (1926); (S.J. Phillips, London, United Kingdom, sold to                                                                      \n Durlacher Brothers) (1926); (Durlacher Brothers, New York, NY sold to the Cleveland Museum of Art) (1926); The Cleveland Museum of Art, Cleveland, OH (1926-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1926.554/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1926.554",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1926.554/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1590\u201393",
+        "begin_of_the_begin": "1585",
+        "end_of_the_end": "1598"
+      }
+    }
+  ]
+}

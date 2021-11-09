@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1948.171",
+  "type": "HumanMadeObject",
+  "_label": "Venus with a Burning Urn",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.171/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Venus with a Burning Urn",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.171/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "John Postle Heseltine, 1843-1929 (London, England); Dr. Ern\u00f6 Wittmann, died 1963 (Budapest, Hungary), by 1929; R. Stora & Company (New York), by 1948, sold to the Cleveland Museum of Art, 1948.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1948.171/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1948.171",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1948.171/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1500-1520",
+        "begin_of_the_begin": "1495",
+        "end_of_the_end": "1525"
+      }
+    }
+  ]
+}

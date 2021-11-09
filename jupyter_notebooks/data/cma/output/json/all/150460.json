@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1981.26",
+  "type": "HumanMadeObject",
+  "_label": "The Grindelwald Glacier with Hunter and Peasant Girl in Foreground",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1981.26/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Grindelwald Glacier with Hunter and Peasant Girl in Foreground",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1981.26/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Joseph Anton Koch (Austrian, 1768-1839), artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/1981.26/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "O(ttaviano?) Koch, Rome; Ottaviano Koch, Rome (according to Bruce Livie, letter in file); [Peter Griebert, Munich (letter of 1 July 1982 from Bruce Livie of Galerie Arnoldi-Livie in departmental file)]; Heinz B\u00f6hm-Hennes, Coburg (letter of 1 July 1982 from Bruce Livie of Galerie Arnoldi-Livie in departmental file); [Galerie Arnoldi-Livie, Munich, Cat. 12, Summer-Fall 1980, no. 15 (xerox of cat. in departmental file)]; [Shepherd Gallery Associates, New York]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1981.26/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1981.26",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1981.26/production/timespan",
+        "type": "TimeSpan",
+        "_label": "ca. 1823",
+        "begin_of_the_begin": "1823",
+        "end_of_the_end": "1823"
+      }
+    }
+  ]
+}

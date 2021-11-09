@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2013.338",
+  "type": "HumanMadeObject",
+  "_label": "A princess reclining on a terrace with attendants",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.338/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "A princess reclining on a terrace with attendants",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.338/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Sotheby\u2019s, London, Important Western and Oriental Manuscripts and Miniatures, 11 April 1961, lot 35; Collection of Prince Michael Radziwill (b. 1907), London; Christie\u2019s, London, Art and Textiles of the Islamic and Indian World, 7 October 2011, lot 391; Ramesh Kapoor, New York, until March 2012",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2013.338/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2013.338",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2013.338/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1730-1740",
+        "begin_of_the_begin": "1725",
+        "end_of_the_end": "1745"
+      }
+    }
+  ]
+}

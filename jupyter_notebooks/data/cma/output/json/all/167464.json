@@ -1,0 +1,84 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2009.276",
+  "type": "HumanMadeObject",
+  "_label": "Printed Book of Hours (Use of Rome)",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.276/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Printed Book of Hours (Use of Rome)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.276/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Guillaume Le Rouge (French, Paris, active 1493-1517), printed by; Master of the Tr\u00e8s Petites Heures of Anne of Brittany (French, Paris, active c.1480\u20131510), designer",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://clevelandart.org/art/object/2009.276/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "[Les Enluminures LTD., London], sold to the Cleveland Museum of Art (-2009); The Cleveland Museum of Art, Cleveland, Ohio (2009-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2009.276/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2009.276",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2009.276/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1510",
+        "begin_of_the_begin": "1510",
+        "end_of_the_end": "1510"
+      }
+    }
+  ]
+}

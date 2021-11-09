@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2021.81",
+  "type": "HumanMadeObject",
+  "_label": "Post-mortem of man with Legion d'Honneur ribbon",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.81/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Post-mortem of man with Legion d'Honneur ribbon",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.81/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "(Galerie Paul Benarroche, Aix-en-Provence, France); Michael Mattis and Judith Hochberg, Scarsdale, NY (?-2021); The Cleveland Museum of Art, Cleveland, OH (June 7, 2021)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2021.81/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2021.81",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2021.81/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1850",
+        "begin_of_the_begin": "1845",
+        "end_of_the_end": "1855"
+      }
+    }
+  ]
+}

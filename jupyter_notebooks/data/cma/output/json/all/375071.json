@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2020.80",
+  "type": "HumanMadeObject",
+  "_label": "Devi Shrine",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.80/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Devi Shrine",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.80/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "The Dowager Marchioness of Tweeddale, Marjorie Helen Wagg Nettlefold Hay [1899-1977], Scotland, consigned to Sotheby's (?-1972); (Sotheby's, July 11, 1972 sale, lot 121) (1972); (Christie's South Kensington, Art of the Islamic and Indian Worlds, October 9, 2015 sale, lot 8, sold to Nancy and Wayne Hunnicutt) (October 9, 2015); Nancy and Wayne Hunnicutt, California, given to the Cleveland Museum of Art (2015-2020); The Cleveland Museum of Art, Cleveland, OH (2020-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2020.80/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2020.80",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2020.80/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1810",
+        "begin_of_the_begin": "1805",
+        "end_of_the_end": "1815"
+      }
+    }
+  ]
+}

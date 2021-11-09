@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/2004.64",
+  "type": "HumanMadeObject",
+  "_label": "Jar with Spiral Designs",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2004.64/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Jar with Spiral Designs",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2004.64/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Mr. James Sims Reid Jr. [1926-2020] and Mrs. Donna S. Reid [b. 1931], Cleveland Heights, OH, given to the Cleveland Museum of Art (?-2004); The Cleveland Museum of Art, Cleveland, OH (2004-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/2004.64/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/2004.64",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/2004.64/production/timespan",
+        "type": "TimeSpan",
+        "_label": "3300-2650 BC",
+        "begin_of_the_begin": "-3300",
+        "end_of_the_end": "-2650"
+      }
+    }
+  ]
+}

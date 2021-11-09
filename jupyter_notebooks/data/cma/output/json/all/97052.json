@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/1916.706",
+  "type": "HumanMadeObject",
+  "_label": "Cup-Hilted Rapier",
+  "identified_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.706/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Cup-Hilted Rapier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.706/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "content": "Ralph Bernal (1784-1854), London, England; (Sale: Christie, Manson & Woods, London. Works of art, from the Byzantine period to that of Louis Seize. Mar 5-Apr 30, 1855.) (1855); George Francis William Henry Denison, Earl of Londesborough (1892-1920); Edwin J. Brett (1828-1895), London, England; Frank Gair Macomber (1849-1941), Boston, MA, sold to the Cleveland Museum of Art (?-1916); The Cleveland Museum of Art, Cleveland, OH (1916-)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://clevelandart.org/art/object/1916.706/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://clevelandart.org/art/actor/1916.706",
+          "type": "Actor",
+          "_label": ""
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://clevelandart.org/art/1916.706/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c.1610\u201330",
+        "begin_of_the_begin": "1605",
+        "end_of_the_end": "1635"
+      }
+    }
+  ]
+}
