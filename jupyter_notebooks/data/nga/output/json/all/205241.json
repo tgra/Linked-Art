@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2015.163.37",
+  "type": "HumanMadeObject",
+  "_label": "Gelek Rimpoche from Lhasa and Ann Arbor unwrapping Tibetan text & beginning to chant it, Tokden Rinpoche, handling brass Vajia (Diamond Lightning Bolt) and Ghanta (Bell) Sonam, former chanting. master of Gyuto Tantric College idling behind them at picnic table outside lodge shrine-room after lunch, \"just fooling around rather than having a ceremony.\" Sonam came in from Chicago, Tokden from Eastern Tibet to give oral Transmissions of one-volume short-form  _Prajnaparamita_ [Highest perfect wisdom] _Sutra_ to Gelek's hundred students. \"Gate Gate Para Gate Parasamgate Bodhi Svaha!\" Over annual summer retreat, Yankee Springs State Park, Michigan, August 27, 1993.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.163.37/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Gelek Rimpoche from Lhasa and Ann Arbor unwrapping Tibetan text & beginning to chant it, Tokden Rinpoche, handling brass Vajia (Diamond Lightning Bolt) and Ghanta (Bell) Sonam, former chanting. master of Gyuto Tantric College idling behind them at picnic table outside lodge shrine-room after lunch, \"just fooling around rather than having a ceremony.\" Sonam came in from Chicago, Tokden from Eastern Tibet to give oral Transmissions of one-volume short-form  _Prajnaparamita_ [Highest perfect wisdom] _Sutra_ to Gelek's hundred students. \"Gate Gate Para Gate Parasamgate Bodhi Svaha!\" Over annual summer retreat, Yankee Springs State Park, Michigan, August 27, 1993.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.163.37/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.163.37/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2015.163.37",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2015.163.37/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1993, printed 1995",
+        "begin_of_the_begin": "1993",
+        "end_of_the_end": "1993"
+      }
+    }
+  ]
+}

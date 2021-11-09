@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2009.70.238",
+  "type": "HumanMadeObject",
+  "_label": "Cows and Sheep under Trees",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.70.238/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Cows and Sheep under Trees",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.70.238/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Joseph F. McCrindle Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.70.238/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2009.70.238",
+          "type": "Actor",
+          "_label": "Constant Troyon"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2009.70.238/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1850",
+        "begin_of_the_begin": "1845",
+        "end_of_the_end": "1855"
+      }
+    }
+  ]
+}

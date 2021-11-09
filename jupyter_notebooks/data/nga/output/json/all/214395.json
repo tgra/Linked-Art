@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2015.19.1584.6.4",
+  "type": "HumanMadeObject",
+  "_label": "John Morton",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.1584.6.4/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "John Morton",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.1584.6.4/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Corcoran Collection (Gift of William Wilson Corcoran)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.1584.6.4/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2015.19.1584.6.4",
+          "type": "Actor",
+          "_label": "Charles B. J. F\u00e9vret de Saint-M\u00e9min"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2015.19.1584.6.4/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1797",
+        "begin_of_the_begin": "1797",
+        "end_of_the_end": "1797"
+      }
+    }
+  ]
+}

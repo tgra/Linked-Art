@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2009.103.25",
+  "type": "HumanMadeObject",
+  "_label": "My uncle Abe Ginsberg, Daughters of Israel Geriatric Facility, West Orange, New Jersey, April 13, 1986. He was too weak to sip from a straw. He lifted his hand as I stood at the foot of the bed with camera. He died a week and half later. He had whispered, \u201cI love you\u201d when I first came in his room.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.103.25/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "My uncle Abe Ginsberg, Daughters of Israel Geriatric Facility, West Orange, New Jersey, April 13, 1986. He was too weak to sip from a straw. He lifted his hand as I stood at the foot of the bed with camera. He died a week and half later. He had whispered, \u201cI love you\u201d when I first came in his room.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.103.25/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary S. Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.103.25/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2009.103.25",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2009.103.25/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1986",
+        "begin_of_the_begin": "1986",
+        "end_of_the_end": "1986"
+      }
+    }
+  ]
+}

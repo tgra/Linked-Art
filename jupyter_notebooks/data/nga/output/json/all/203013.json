@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2014.150.5.c",
+  "type": "HumanMadeObject",
+  "_label": "Yellow to grey and grey to purple and yellow to grey movie - grey to yellow and purple to grey and purple to black and black to grey movie - purple to grey and grey to yellow and purple to black movie [right panel]",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2014.150.5.c/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Yellow to grey and grey to purple and yellow to grey movie - grey to yellow and purple to grey and purple to black and black to grey movie - purple to grey and grey to yellow and purple to black movie [right panel]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2014.150.5.c/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of The Heather and Tony Podesta Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2014.150.5.c/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2014.150.5.c",
+          "type": "Actor",
+          "_label": "Olafur Eliasson"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2014.150.5.c/production/timespan",
+        "type": "TimeSpan",
+        "_label": "2009",
+        "begin_of_the_begin": "2009",
+        "end_of_the_end": "2009"
+      }
+    }
+  ]
+}

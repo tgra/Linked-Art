@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1957.14.607.a",
+  "type": "HumanMadeObject",
+  "_label": "Domenico Novello Malatesta, 1418-1465, Lord of Cesena and Cervia 1429 [obverse]",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1957.14.607.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Domenico Novello Malatesta, 1418-1465, Lord of Cesena and Cervia 1429 [obverse]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1957.14.607.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Samuel H. Kress Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1957.14.607.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1957.14.607.a",
+          "type": "Actor",
+          "_label": "Pisanello"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1957.14.607.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1445",
+        "begin_of_the_begin": "1445",
+        "end_of_the_end": "1445"
+      }
+    }
+  ]
+}

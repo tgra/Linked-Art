@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1995.76.139",
+  "type": "HumanMadeObject",
+  "_label": "L'\u00c9toile rouge; Seul",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1995.76.139/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "L'\u00c9toile rouge; Seul",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1995.76.139/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of The Atlas Foundation",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1995.76.139/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1995.76.139",
+          "type": "Actor",
+          "_label": "after Jean-Louis Forain, Adolphe L\u00e9on Willette, Oswald Heidbrinck, and Louis-Auguste-Mathieu Legrand"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1995.76.139/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1892",
+        "begin_of_the_begin": "1892",
+        "end_of_the_end": "1892"
+      }
+    }
+  ]
+}

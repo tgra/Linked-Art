@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1942.9.296",
+  "type": "HumanMadeObject",
+  "_label": "Covered Cup with Shield of Arms of the Countess of Gleichen",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1942.9.296/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Covered Cup with Shield of Arms of the Countess of Gleichen",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1942.9.296/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Widener Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1942.9.296/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1942.9.296",
+          "type": "Actor",
+          "_label": "Freiburg-im-Breisgau 16th Century (crystal); Augsburg 16th Century (mounts)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1942.9.296/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1566 (crystal); 1566 (mounts)",
+        "begin_of_the_begin": "1566",
+        "end_of_the_end": "1566"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1983.49.50",
+  "type": "HumanMadeObject",
+  "_label": "The Four Books of Andrea Palladio's Architecture: Wherein, After a short Treatise of the Five Orders, Those Observations that are most necessary in Building, Private Houses, Streets, Bridges, Piazzas, Xisti, and Temples are treated of.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.50/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Four Books of Andrea Palladio's Architecture: Wherein, After a short Treatise of the Five Orders, Those Observations that are most necessary in Building, Private Houses, Streets, Bridges, Piazzas, Xisti, and Temples are treated of.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.50/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.50/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1983.49.50",
+          "type": "Actor",
+          "_label": "Andrea Palladio (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1983.49.50/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1738",
+        "begin_of_the_begin": "1738",
+        "end_of_the_end": "1738"
+      }
+    }
+  ]
+}

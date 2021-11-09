@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1999.82.13.11",
+  "type": "HumanMadeObject",
+  "_label": "Various Composition Studies",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1999.82.13.11/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Various Composition Studies",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1999.82.13.11/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Ruth Cole Kainen in honor of the artist's 90th birthday",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1999.82.13.11/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1999.82.13.11",
+          "type": "Actor",
+          "_label": "Jacob Kainen"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1999.82.13.11/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1971-1972",
+        "begin_of_the_begin": "1971",
+        "end_of_the_end": "1972"
+      }
+    }
+  ]
+}

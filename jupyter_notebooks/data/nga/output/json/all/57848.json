@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1980.45.198",
+  "type": "HumanMadeObject",
+  "_label": "Omaggio a Braccelli (8th state)",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1980.45.198/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Omaggio a Braccelli (8th state)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1980.45.198/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Rosenwald Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1980.45.198/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1980.45.198",
+          "type": "Actor",
+          "_label": "Paolo Boni"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1980.45.198/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1968",
+        "begin_of_the_begin": "1968",
+        "end_of_the_end": "1968"
+      }
+    }
+  ]
+}

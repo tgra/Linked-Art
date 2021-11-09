@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2015.135.3",
+  "type": "HumanMadeObject",
+  "_label": "Mug Shot - Stanley H. Gardner",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.135.3/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Mug Shot - Stanley H. Gardner",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.135.3/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Robert E. Jackson, in Honor of the 25th Anniversary of Photography at the National Gallery of Art",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.135.3/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2015.135.3",
+          "type": "Actor",
+          "_label": "American 20th Century"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2015.135.3/production/timespan",
+        "type": "TimeSpan",
+        "_label": "April 12, 1932",
+        "begin_of_the_begin": "1932",
+        "end_of_the_end": "1932"
+      }
+    }
+  ]
+}

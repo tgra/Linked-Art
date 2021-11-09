@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2008.131.10",
+  "type": "HumanMadeObject",
+  "_label": "Gregory Corso, his attic room 9 Rue G\u00eet-le-Coeur, wooden angel hung from wall right, window looked on courtyard and across Seine halfblock away to spires of St. Chapelle on Ile St. Louis. Gregory\u2019s _Gasoline_ was ready at City Lights, in attic he prepared \u201cMarriage,\u201d \u201cPower,\u201d \u201cArmy,\u201d \u201cPolice,\u201d \u201cHair\u201d and \u201cBomb\u201d for _Happy Birthday of Death book_. Henri Michaux visited, liked Corso\u2019s \u201cmad children of soda-caps\u201d phrasing Burroughs came from Tanger to live one flight below, shaping _Naked Lunch_ manuscript, Peter Orlovsky and I had window on street two flights downstairs, room with two-burner gas stove, we ate together often, rent $30 a month. I\u2019d begun Kaddish litany, Peter his \u201cFrist Poem.\u201d",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2008.131.10/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Gregory Corso, his attic room 9 Rue G\u00eet-le-Coeur, wooden angel hung from wall right, window looked on courtyard and across Seine halfblock away to spires of St. Chapelle on Ile St. Louis. Gregory\u2019s _Gasoline_ was ready at City Lights, in attic he prepared \u201cMarriage,\u201d \u201cPower,\u201d \u201cArmy,\u201d \u201cPolice,\u201d \u201cHair\u201d and \u201cBomb\u201d for _Happy Birthday of Death book_. Henri Michaux visited, liked Corso\u2019s \u201cmad children of soda-caps\u201d phrasing Burroughs came from Tanger to live one flight below, shaping _Naked Lunch_ manuscript, Peter Orlovsky and I had window on street two flights downstairs, room with two-burner gas stove, we ate together often, rent $30 a month. I\u2019d begun Kaddish litany, Peter his \u201cFrist Poem.\u201d",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2008.131.10/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary S. Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2008.131.10/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2008.131.10",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2008.131.10/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1957, printed later",
+        "begin_of_the_begin": "1957",
+        "end_of_the_end": "1957"
+      }
+    }
+  ]
+}

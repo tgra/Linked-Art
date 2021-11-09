@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2015.19.2894",
+  "type": "HumanMadeObject",
+  "_label": "Study for \"Bucolic Landscape\"",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.2894/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Study for \"Bucolic Landscape\"",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.2894/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Corcoran Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.2894/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2015.19.2894",
+          "type": "Actor",
+          "_label": "Milton Avery"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2015.19.2894/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1945",
+        "begin_of_the_begin": "1940",
+        "end_of_the_end": "1950"
+      }
+    }
+  ]
+}

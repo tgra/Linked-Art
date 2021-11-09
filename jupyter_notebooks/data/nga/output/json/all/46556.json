@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1963.10.81",
+  "type": "HumanMadeObject",
+  "_label": "Edouard Blau",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1963.10.81/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Edouard Blau",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1963.10.81/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Chester Dale Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1963.10.81/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1963.10.81",
+          "type": "Actor",
+          "_label": "Fr\u00e9d\u00e9ric Bazille"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1963.10.81/production/timespan",
+        "type": "TimeSpan",
+        "_label": "probably 1869",
+        "begin_of_the_begin": "1869",
+        "end_of_the_end": "1869"
+      }
+    }
+  ]
+}

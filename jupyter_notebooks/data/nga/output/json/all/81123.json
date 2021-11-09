@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.328",
+  "type": "HumanMadeObject",
+  "_label": "La Perspective Speculative, Et Pratique. Ou Sont Demonstrez Les Fondemens de cet Art, & de tout ce qui en a est\u00e9 enseign\u00e9 jusqu'\u00e0 present. Ensemble la maniere universelle de la pratiquer, non seulement sans Plan Geometral, & sans Tiers poinct, dedans ni dehors le champ du Tableau. Mais encores par le moyen de la Ligne, commun\u00e9ment appell\u00e9e Horisontale. De l'invention du feu Sieur Aleaume, Ingenieur du Roy. Mise Au Iour par Estienne Mignon, Professeur \u00e9s Mathematiques",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.328/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "La Perspective Speculative, Et Pratique. Ou Sont Demonstrez Les Fondemens de cet Art, & de tout ce qui en a est\u00e9 enseign\u00e9 jusqu'\u00e0 present. Ensemble la maniere universelle de la pratiquer, non seulement sans Plan Geometral, & sans Tiers poinct, dedans ni dehors le champ du Tableau. Mais encores par le moyen de la Ligne, commun\u00e9ment appell\u00e9e Horisontale. De l'invention du feu Sieur Aleaume, Ingenieur du Roy. Mise Au Iour par Estienne Mignon, Professeur \u00e9s Mathematiques",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.328/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.328/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.328",
+          "type": "Actor",
+          "_label": "Jacques Aleaume (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.328/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1643",
+        "begin_of_the_begin": "1643",
+        "end_of_the_end": "1643"
+      }
+    }
+  ]
+}

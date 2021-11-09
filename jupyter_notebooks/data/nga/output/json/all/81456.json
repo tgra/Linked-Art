@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.2498",
+  "type": "HumanMadeObject",
+  "_label": "Trattato Della Pittvra Di Lionardo Da Vinci, Nouamente dato In Luce, Con la Vita dell'istesso autore, scritta Da Rafaelle Dv Fresne. Si sono giunti i tre libri della pittura, e il trattato della statua di Leon Battista Alberti, con la vita del medesimo",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2498/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Trattato Della Pittvra Di Lionardo Da Vinci, Nouamente dato In Luce, Con la Vita dell'istesso autore, scritta Da Rafaelle Dv Fresne. Si sono giunti i tre libri della pittura, e il trattato della statua di Leon Battista Alberti, con la vita del medesimo",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2498/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection, David K.E. Bruce Fund",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2498/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.2498",
+          "type": "Actor",
+          "_label": "Leonardo da Vinci (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.2498/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1651",
+        "begin_of_the_begin": "1651",
+        "end_of_the_end": "1651"
+      }
+    }
+  ]
+}

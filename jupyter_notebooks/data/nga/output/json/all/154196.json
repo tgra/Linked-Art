@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2010.137.26",
+  "type": "HumanMadeObject",
+  "_label": "My front room 1010 Montgomery Street North Beach apartment wherein I wrote _Howl_ Part I, Peter Orlovsky's room down the hall past the kitchen in back, windows overlooking Telegraph Hill's roofs and Oakland Bay. Robert La Vigne's watercolor portrait of me in army-surplus jacket and C\u00e9zanne-like landscape pinned to wall above spittoon-shaped woven basket on mantel, fireplace lit. Bollinger books on shelf, letters and Essays of Ezra Pound under bed-table clock, checkered wool blanket hung over alley window first floor, black-painted bureau with victrola-case & Bach on top. \"Blessed be the Muses / for their descent / dancing round my desk / Crowning my balding head / With laurel.\u201d I was living on unemployment checks, San Francisco, Summer 1955.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2010.137.26/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "My front room 1010 Montgomery Street North Beach apartment wherein I wrote _Howl_ Part I, Peter Orlovsky's room down the hall past the kitchen in back, windows overlooking Telegraph Hill's roofs and Oakland Bay. Robert La Vigne's watercolor portrait of me in army-surplus jacket and C\u00e9zanne-like landscape pinned to wall above spittoon-shaped woven basket on mantel, fireplace lit. Bollinger books on shelf, letters and Essays of Ezra Pound under bed-table clock, checkered wool blanket hung over alley window first floor, black-painted bureau with victrola-case & Bach on top. \"Blessed be the Muses / for their descent / dancing round my desk / Crowning my balding head / With laurel.\u201d I was living on unemployment checks, San Francisco, Summer 1955.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2010.137.26/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary S. Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2010.137.26/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2010.137.26",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2010.137.26/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1955, printed 1995",
+        "begin_of_the_begin": "1955",
+        "end_of_the_end": "1955"
+      }
+    }
+  ]
+}

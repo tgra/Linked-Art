@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1998.19.3",
+  "type": "HumanMadeObject",
+  "_label": "Doylestown House--The Stove",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1998.19.3/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Doylestown House--The Stove",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1998.19.3/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Pepita Milmore Memorial Fund",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1998.19.3/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1998.19.3",
+          "type": "Actor",
+          "_label": "Charles Sheeler"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1998.19.3/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1917",
+        "begin_of_the_begin": "1917",
+        "end_of_the_end": "1917"
+      }
+    }
+  ]
+}

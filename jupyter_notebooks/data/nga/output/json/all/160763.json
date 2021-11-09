@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2012.118.85",
+  "type": "HumanMadeObject",
+  "_label": "Robert Frank & his car rented for him by Atlantic Center For Arts where we taught together three weeks with jazz drum genius Elvin Jones. We\u2019d come to town New Smyrna Beach on errands, he showed me how to use his polaroid 195 that gives negative, but when we washed it in his plastic container of water, car-heat-cooked in Florida mid-day sun, the emulsion cracked, dissolved\u2014this copy print from original is o.k. to catch his smile at my amateur focus, June 1984.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2012.118.85/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Robert Frank & his car rented for him by Atlantic Center For Arts where we taught together three weeks with jazz drum genius Elvin Jones. We\u2019d come to town New Smyrna Beach on errands, he showed me how to use his polaroid 195 that gives negative, but when we washed it in his plastic container of water, car-heat-cooked in Florida mid-day sun, the emulsion cracked, dissolved\u2014this copy print from original is o.k. to catch his smile at my amateur focus, June 1984.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2012.118.85/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2012.118.85/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2012.118.85",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2012.118.85/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1984",
+        "begin_of_the_begin": "1984",
+        "end_of_the_end": "1984"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1950.1.118.64",
+  "type": "HumanMadeObject",
+  "_label": "Massacre of the Innocents (from a painting by Scarsellino), Triumph of Flora (detail from a painting by Poussin), Vessel from the Triumph of Bacchus (from a painting by Pietro da Cortona), and Cupid Awaken from Sleep (from a painting by Albani)",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1950.1.118.64/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Massacre of the Innocents (from a painting by Scarsellino), Triumph of Flora (detail from a painting by Poussin), Vessel from the Triumph of Bacchus (from a painting by Pietro da Cortona), and Cupid Awaken from Sleep (from a painting by Albani)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1950.1.118.64/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Rosenwald Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1950.1.118.64/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1950.1.118.64",
+          "type": "Actor",
+          "_label": "Jean Claude Richard de Saint-Non after Jean-Honor\u00e9 Fragonard (after Ippolito Scarsella, Nicolas Poussin, Pietro da Cortona, and Francesco Albani)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1950.1.118.64/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1771",
+        "begin_of_the_begin": "1771",
+        "end_of_the_end": "1771"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1994.59.16",
+  "type": "HumanMadeObject",
+  "_label": "Rue Terre Neuve, Meudon",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1994.59.16/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Rue Terre Neuve, Meudon",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1994.59.16/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Paul Mellon Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1994.59.16/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1994.59.16",
+          "type": "Actor",
+          "_label": "Gwen John"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1994.59.16/production/timespan",
+        "type": "TimeSpan",
+        "_label": "probably late 1910s to early 1920s",
+        "begin_of_the_begin": "1915",
+        "end_of_the_end": "1924"
+      }
+    }
+  ]
+}

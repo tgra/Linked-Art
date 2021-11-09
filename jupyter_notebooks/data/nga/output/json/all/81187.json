@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.416.a",
+  "type": "HumanMadeObject",
+  "_label": "Livre d'Architecture Contenant les Principes Generaux de cet Art, et les Plans, Elevations et Profils de Quelques-uns des Batiments Faits en France & dans les Pays Etrangers...",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.416.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Livre d'Architecture Contenant les Principes Generaux de cet Art, et les Plans, Elevations et Profils de Quelques-uns des Batiments Faits en France & dans les Pays Etrangers...",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.416.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.416.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.416.a",
+          "type": "Actor",
+          "_label": "Gabriel Germain Boffrand (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.416.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1745",
+        "begin_of_the_begin": "1745",
+        "end_of_the_end": "1745"
+      }
+    }
+  ]
+}

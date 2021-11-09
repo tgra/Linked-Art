@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2017.165.24",
+  "type": "HumanMadeObject",
+  "_label": "San Francisco \"K.\" Commune feeds hundreds of homeless folk on Saturdays and their Small Free Inn Band puts on a show, we had a private viewing when visiting Irving Rosenthal & Friends May 23, 1988-- in their vegetarian-grain soup-kitchen, Jimmy Gutierrez in cap watching Jeannie- single hand to heart John O'Brien first time in Curlers, Chandler hand raised in lyric surprise, shadow-eyed Gren behind music stand. \"I saw it in a millinery shop-window in 1928... They look like they're made of wax,\" Harry Smith noticed later.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2017.165.24/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "San Francisco \"K.\" Commune feeds hundreds of homeless folk on Saturdays and their Small Free Inn Band puts on a show, we had a private viewing when visiting Irving Rosenthal & Friends May 23, 1988-- in their vegetarian-grain soup-kitchen, Jimmy Gutierrez in cap watching Jeannie- single hand to heart John O'Brien first time in Curlers, Chandler hand raised in lyric surprise, shadow-eyed Gren behind music stand. \"I saw it in a millinery shop-window in 1928... They look like they're made of wax,\" Harry Smith noticed later.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2017.165.24/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2017.165.24/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2017.165.24",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2017.165.24/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1988",
+        "begin_of_the_begin": "1988",
+        "end_of_the_end": "1988"
+      }
+    }
+  ]
+}

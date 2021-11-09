@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1941.5.1.a",
+  "type": "HumanMadeObject",
+  "_label": "Saint Mary Magdalene, with an Angel [left panel]",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1941.5.1.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Saint Mary Magdalene, with an Angel [left panel]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1941.5.1.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Frieda Schiff Warburg in memory of her husband, Felix M. Warburg",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1941.5.1.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1941.5.1.a",
+          "type": "Actor",
+          "_label": "Pietro Lorenzetti"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1941.5.1.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "probably 1340",
+        "begin_of_the_begin": "1340",
+        "end_of_the_end": "1340"
+      }
+    }
+  ]
+}

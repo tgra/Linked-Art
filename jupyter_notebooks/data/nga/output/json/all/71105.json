@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1989.46.1",
+  "type": "HumanMadeObject",
+  "_label": "The Table of Cebes",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1989.46.1/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Table of Cebes",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1989.46.1/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ruth and Jacob Kainen Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1989.46.1/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1989.46.1",
+          "type": "Actor",
+          "_label": "Jacob Matham, after Hendrick Goltzius"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1989.46.1/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1592",
+        "begin_of_the_begin": "1592",
+        "end_of_the_end": "1592"
+      }
+    }
+  ]
+}

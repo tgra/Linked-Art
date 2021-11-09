@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2002.104.1.56",
+  "type": "HumanMadeObject",
+  "_label": "Two Studies of Rocky Shoreline",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2002.104.1.56/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Two Studies of Rocky Shoreline",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2002.104.1.56/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Sally Michel Avery",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2002.104.1.56/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2002.104.1.56",
+          "type": "Actor",
+          "_label": "Milton Avery"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2002.104.1.56/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1943",
+        "begin_of_the_begin": "1943",
+        "end_of_the_end": "1943"
+      }
+    }
+  ]
+}

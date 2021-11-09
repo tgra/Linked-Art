@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1998.145.1.r",
+  "type": "HumanMadeObject",
+  "_label": "Study for a Stormy Landscape",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1998.145.1.r/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Study for a Stormy Landscape",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1998.145.1.r/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "William B. O'Neal Fund",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1998.145.1.r/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1998.145.1.r",
+          "type": "Actor",
+          "_label": "Johann Heinrich Ramberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1998.145.1.r/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1790",
+        "begin_of_the_begin": "1790",
+        "end_of_the_end": "1790"
+      }
+    }
+  ]
+}

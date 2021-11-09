@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2017.165.35",
+  "type": "HumanMadeObject",
+  "_label": "Lou Reed, poet-musician (hero to avant-guard Czechoslovak intellectual rock-band dissident \"Plastic People of the Universe\" defended from government persecution by playwright Vaclav Havel and his Charter 77 friends) at make-up table in green room, public Theater Lafayette Street New York, invited by impresario Rose Lesniak (above) to Master Ceremonies, Premiere of Poetry- Music Video Clips by Anne Waldman (\"uh! oh! plutonium\") and myself (\"Father Death Blues\"), September 1984.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2017.165.35/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Lou Reed, poet-musician (hero to avant-guard Czechoslovak intellectual rock-band dissident \"Plastic People of the Universe\" defended from government persecution by playwright Vaclav Havel and his Charter 77 friends) at make-up table in green room, public Theater Lafayette Street New York, invited by impresario Rose Lesniak (above) to Master Ceremonies, Premiere of Poetry- Music Video Clips by Anne Waldman (\"uh! oh! plutonium\") and myself (\"Father Death Blues\"), September 1984.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2017.165.35/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2017.165.35/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2017.165.35",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2017.165.35/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1984, printed 1991",
+        "begin_of_the_begin": "1984",
+        "end_of_the_end": "1984"
+      }
+    }
+  ]
+}

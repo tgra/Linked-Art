@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.646",
+  "type": "HumanMadeObject",
+  "_label": "L'Architecture A La Mode ou sont Les Nouveaux Dessins pour la D\u00e9coration Des B\u00e2timens et Jardins. Par les plus habils Architectes Sculpteurs Peintres Men\u00fcisiers Jardiniers Seruriers &c. A Paris chez N. Langlois r\u00fce St. Jacques...",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.646/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "L'Architecture A La Mode ou sont Les Nouveaux Dessins pour la D\u00e9coration Des B\u00e2timens et Jardins. Par les plus habils Architectes Sculpteurs Peintres Men\u00fcisiers Jardiniers Seruriers &c. A Paris chez N. Langlois r\u00fce St. Jacques...",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.646/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.646/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.646",
+          "type": "Actor",
+          "_label": "Nicolas Langlois (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.646/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1700-1716",
+        "begin_of_the_begin": "1700",
+        "end_of_the_end": "1716"
+      }
+    }
+  ]
+}

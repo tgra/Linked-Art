@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2014.126.87",
+  "type": "HumanMadeObject",
+  "_label": "Mom's Homemade Comics",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2014.126.87/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Mom's Homemade Comics",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2014.126.87/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of William and Abigail Gerdts",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2014.126.87/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2014.126.87",
+          "type": "Actor",
+          "_label": "Various Artists (artists, authors), Denis Kitchen (artist, author), Skip Williamson (artist, author), Don Glassford (artist, author), Wendell Pugh (artist, author), Jim Mitchell (artist, author), Bruce Walthers (artist, author), Dale Kuipers (artist, author), Peter Poplaski (artist, author), Robert Crumb (artist, author), Jay Lynch (artist, author), Dave Dozier (artist, author), Dennis Brulc (artist, author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2014.126.87/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1971",
+        "begin_of_the_begin": "1971",
+        "end_of_the_end": "1971"
+      }
+    }
+  ]
+}

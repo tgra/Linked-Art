@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2012.119.17",
+  "type": "HumanMadeObject",
+  "_label": "Goatherd in a Thunderstorm",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2012.119.17/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Goatherd in a Thunderstorm",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2012.119.17/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Christopher and Beverly With in memory of Karl and Gerda With",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2012.119.17/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2012.119.17",
+          "type": "Actor",
+          "_label": "Otto Rodewald"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2012.119.17/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1923",
+        "begin_of_the_begin": "1923",
+        "end_of_the_end": "1923"
+      }
+    }
+  ]
+}

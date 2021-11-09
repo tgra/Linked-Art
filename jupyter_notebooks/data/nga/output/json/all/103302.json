@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1997.114.27.a",
+  "type": "HumanMadeObject",
+  "_label": "Alexander VII (Fabio Chigi, 1599-1667), Pope 1655 [obverse]",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1997.114.27.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Alexander VII (Fabio Chigi, 1599-1667), Pope 1655 [obverse]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1997.114.27.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Lisa and Leonard Baskin",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1997.114.27.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1997.114.27.a",
+          "type": "Actor",
+          "_label": "Gasparo Morone Mola"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1997.114.27.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1663",
+        "begin_of_the_begin": "1663",
+        "end_of_the_end": "1663"
+      }
+    }
+  ]
+}

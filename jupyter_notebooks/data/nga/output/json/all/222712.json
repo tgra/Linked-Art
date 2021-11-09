@@ -1,0 +1,47 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2020.115.1.2",
+  "type": "HumanMadeObject",
+  "_label": "Longmont, Colorado",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2020.115.1.2/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Longmont, Colorado",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2020.115.1.2/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2020.115.1.2",
+          "type": "Actor",
+          "_label": "Robert Adams"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2020.115.1.2/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1982\u20131992",
+        "begin_of_the_begin": "1982",
+        "end_of_the_end": "1982"
+      }
+    }
+  ]
+}

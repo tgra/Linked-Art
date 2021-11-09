@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.651",
+  "type": "HumanMadeObject",
+  "_label": "Grand Escalier du Chateau de Versailles dit Escalier des Ambassadeurs Ordonne et Peint par Charles le Brun",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.651/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Grand Escalier du Chateau de Versailles dit Escalier des Ambassadeurs Ordonne et Peint par Charles le Brun",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.651/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.651/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.651",
+          "type": "Actor",
+          "_label": "Charles Le Brun (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.651/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published c. 1725",
+        "begin_of_the_begin": "1725",
+        "end_of_the_end": "1725"
+      }
+    }
+  ]
+}

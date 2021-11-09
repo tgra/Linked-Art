@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2014.124.19.100",
+  "type": "HumanMadeObject",
+  "_label": "Untitled (11.14.05)",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2014.124.19.100/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Untitled (11.14.05)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2014.124.19.100/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of the Frank Lobdell Trust",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2014.124.19.100/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2014.124.19.100",
+          "type": "Actor",
+          "_label": "Frank Lobdell"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2014.124.19.100/production/timespan",
+        "type": "TimeSpan",
+        "_label": "2005",
+        "begin_of_the_begin": "2005",
+        "end_of_the_end": "2005"
+      }
+    }
+  ]
+}

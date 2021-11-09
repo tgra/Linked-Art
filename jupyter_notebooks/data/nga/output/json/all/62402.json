@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1983.49.63",
+  "type": "HumanMadeObject",
+  "_label": "Les Thermes Des Romains Dessin\u00e9es Par Andrea Palladio Et Publi\u00e9es De Nouveau Avec Quelques Observations Par Octave Bertotti Scamozzi D'Apr\u00e9s L'Ex\u00e9mplaire Du Lord Comte De Burlingthon Imprim\u00e9 A Londres En 1732.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.63/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Les Thermes Des Romains Dessin\u00e9es Par Andrea Palladio Et Publi\u00e9es De Nouveau Avec Quelques Observations Par Octave Bertotti Scamozzi D'Apr\u00e9s L'Ex\u00e9mplaire Du Lord Comte De Burlingthon Imprim\u00e9 A Londres En 1732.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.63/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.63/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1983.49.63",
+          "type": "Actor",
+          "_label": "Andrea Palladio (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1983.49.63/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1785",
+        "begin_of_the_begin": "1785",
+        "end_of_the_end": "1785"
+      }
+    }
+  ]
+}

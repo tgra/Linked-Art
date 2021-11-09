@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1983.49.49",
+  "type": "HumanMadeObject",
+  "_label": "Andrea Palladio's Architecture, in Four Books Containing a Dissertation on the Five Orders & ye most Necessary Observations relating to all kinds of Building. as also The Different Constructions of Public and Private Houses, High-ways, Bridges, Market-Places, Xystes, & Temples, n.th their Plans, Sections, & Elevations. The Whole Containing 226 Folio Copper-Plates Carefully Revied and Redelineated By Edw.d Hoppus...and Embellish'd n.th a Large Variety of Chimney Pieces Collected from the Works of Inigo Jones & others.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.49/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Andrea Palladio's Architecture, in Four Books Containing a Dissertation on the Five Orders & ye most Necessary Observations relating to all kinds of Building. as also The Different Constructions of Public and Private Houses, High-ways, Bridges, Market-Places, Xystes, & Temples, n.th their Plans, Sections, & Elevations. The Whole Containing 226 Folio Copper-Plates Carefully Revied and Redelineated By Edw.d Hoppus...and Embellish'd n.th a Large Variety of Chimney Pieces Collected from the Works of Inigo Jones & others.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.49/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.49/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1983.49.49",
+          "type": "Actor",
+          "_label": "Andrea Palladio (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1983.49.49/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1736",
+        "begin_of_the_begin": "1736",
+        "end_of_the_end": "1736"
+      }
+    }
+  ]
+}

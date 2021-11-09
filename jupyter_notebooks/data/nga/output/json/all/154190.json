@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2010.137.20",
+  "type": "HumanMadeObject",
+  "_label": "William Seward Burroughs and Alan Ansen, two elegant gentlemen at entrance to defunct San Remo Caf\u00e9 , N.W. corner Bleeker looking north up MacDougal Street, then the heart of Greenwich Village. Before vogue of the Cedar Bar, poets painters Kerouac's \"subterraneans\" Gregory Corso Carl Solomon myself Frank O'Hara Larry Rivers Maxwell Bodenheim drunk even Dylan Thomas ate drank and talked till 3 AM at this central caf\u00e9 - superb inexpensive veal parmigiana and spaghetti a la vongole in rear restaurant, wooden tables - At that season W.S.B.'d published _Junkie_ and we were assembling _Yage Letters_ and _Queer_, Burroughs improvising earliest routines for _Naked Lunch_. Alan Ansen had been Polymath secretary to W.H. Auden a decade before, helping type \"_Age of Anxiety_.\" One mid-afternoon, Fall 1953, fixed with trembling hand.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2010.137.20/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "William Seward Burroughs and Alan Ansen, two elegant gentlemen at entrance to defunct San Remo Caf\u00e9 , N.W. corner Bleeker looking north up MacDougal Street, then the heart of Greenwich Village. Before vogue of the Cedar Bar, poets painters Kerouac's \"subterraneans\" Gregory Corso Carl Solomon myself Frank O'Hara Larry Rivers Maxwell Bodenheim drunk even Dylan Thomas ate drank and talked till 3 AM at this central caf\u00e9 - superb inexpensive veal parmigiana and spaghetti a la vongole in rear restaurant, wooden tables - At that season W.S.B.'d published _Junkie_ and we were assembling _Yage Letters_ and _Queer_, Burroughs improvising earliest routines for _Naked Lunch_. Alan Ansen had been Polymath secretary to W.H. Auden a decade before, helping type \"_Age of Anxiety_.\" One mid-afternoon, Fall 1953, fixed with trembling hand.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2010.137.20/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary S. Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2010.137.20/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2010.137.20",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2010.137.20/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1953, printed 1993",
+        "begin_of_the_begin": "1953",
+        "end_of_the_end": "1953"
+      }
+    }
+  ]
+}

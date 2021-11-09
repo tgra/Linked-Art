@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2015.19.5104",
+  "type": "HumanMadeObject",
+  "_label": "Boston (As the temperature drops, Linda and Gerald reluctantly spend the night at a shelter, rather than on the streets. This emergency facility, which will admit people who are drunk, is sometimes referred to on the street as the \"Nightmare Center\" or \"Fright Center.\" There are no beds, so guests must sleep on chairs or on the floor. Linda sleeps under her wheelchair because she worries that someone might steal it.)",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.5104/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Boston (As the temperature drops, Linda and Gerald reluctantly spend the night at a shelter, rather than on the streets. This emergency facility, which will admit people who are drunk, is sometimes referred to on the street as the \"Nightmare Center\" or \"Fright Center.\" There are no beds, so guests must sleep on chairs or on the floor. Linda sleeps under her wheelchair because she worries that someone might steal it.)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.5104/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Corcoran Collection (Gift of Betsy K. Karel)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.5104/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2015.19.5104",
+          "type": "Actor",
+          "_label": "Betsy Karel"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2015.19.5104/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1999",
+        "begin_of_the_begin": "1999",
+        "end_of_the_end": "1999"
+      }
+    }
+  ]
+}

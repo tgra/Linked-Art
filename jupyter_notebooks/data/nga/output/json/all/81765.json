@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.2802",
+  "type": "HumanMadeObject",
+  "_label": "The New Vitruvius Britannicus; consisting of Plans and elevations of Modern Buildings, Public and Private, Erected in Great Britain by the most Celebrated Architects",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2802/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The New Vitruvius Britannicus; consisting of Plans and elevations of Modern Buildings, Public and Private, Erected in Great Britain by the most Celebrated Architects",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2802/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection, David K.E. Bruce Fund",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2802/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.2802",
+          "type": "Actor",
+          "_label": "George Richardson (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.2802/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1802",
+        "begin_of_the_begin": "1802",
+        "end_of_the_end": "1802"
+      }
+    }
+  ]
+}

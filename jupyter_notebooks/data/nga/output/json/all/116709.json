@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2000.97.3.a",
+  "type": "HumanMadeObject",
+  "_label": "A View of Rome from Santa Maria del Priorato",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2000.97.3.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "A View of Rome from Santa Maria del Priorato",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2000.97.3.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Bequest of Lore Heinemann in memory of her husband, Dr. Rudolf J. Heinemann",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2000.97.3.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2000.97.3.a",
+          "type": "Actor",
+          "_label": "Gaspar van Wittel"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2000.97.3.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1710",
+        "begin_of_the_begin": "1710",
+        "end_of_the_end": "1710"
+      }
+    }
+  ]
+}

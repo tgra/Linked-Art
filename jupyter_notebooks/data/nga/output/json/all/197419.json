@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2015.19.3013",
+  "type": "HumanMadeObject",
+  "_label": "Thurlow Evans Tibbs, Sr.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.3013/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Thurlow Evans Tibbs, Sr.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.3013/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Corcoran Collection (The Evans-Tibbs Collection, Gift of Thurlow Evans Tibbs, Jr.)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.3013/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2015.19.3013",
+          "type": "Actor",
+          "_label": "Lois Mailou Jones"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2015.19.3013/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1943",
+        "begin_of_the_begin": "1943",
+        "end_of_the_end": "1943"
+      }
+    }
+  ]
+}

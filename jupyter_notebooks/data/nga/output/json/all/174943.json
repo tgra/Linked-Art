@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2015.19.5107",
+  "type": "HumanMadeObject",
+  "_label": "Boston (Sharon Morrison, a nurse with the Family Team at Boston Health Care for the Homeless Program, has a special fondness and respect for this young mother and her daughter. She marvels at the calm and loving manner of the mother and the corresponding spirit of joy and playfulness in her child. The little girl is about to undergo emergency brain surgery to replace a shunt.)",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.5107/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Boston (Sharon Morrison, a nurse with the Family Team at Boston Health Care for the Homeless Program, has a special fondness and respect for this young mother and her daughter. She marvels at the calm and loving manner of the mother and the corresponding spirit of joy and playfulness in her child. The little girl is about to undergo emergency brain surgery to replace a shunt.)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.5107/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Corcoran Collection (Gift of Betsy K. Karel)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.5107/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2015.19.5107",
+          "type": "Actor",
+          "_label": "Betsy Karel"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2015.19.5107/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1999",
+        "begin_of_the_begin": "1999",
+        "end_of_the_end": "1999"
+      }
+    }
+  ]
+}

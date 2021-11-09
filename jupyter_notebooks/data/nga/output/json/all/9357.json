@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1943.3.6563",
+  "type": "HumanMadeObject",
+  "_label": "Simon Arnauld, Le Marquis de Pomponne",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1943.3.6563/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Simon Arnauld, Le Marquis de Pomponne",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1943.3.6563/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Rosenwald Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1943.3.6563/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1943.3.6563",
+          "type": "Actor",
+          "_label": "Robert Nanteuil"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1943.3.6563/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1675",
+        "begin_of_the_begin": "1675",
+        "end_of_the_end": "1675"
+      }
+    }
+  ]
+}

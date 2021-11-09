@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.527",
+  "type": "HumanMadeObject",
+  "_label": "Les Plans, Profils et Elevations de Ville et Chateau de Versailles avec les Bosquets et Fontaines tels qu'ils sont a present Levez sur les Lieux, Dessinez et Gravez en 1714 et 1715",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.527/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Les Plans, Profils et Elevations de Ville et Chateau de Versailles avec les Bosquets et Fontaines tels qu'ils sont a present Levez sur les Lieux, Dessinez et Gravez en 1714 et 1715",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.527/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.527/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.527",
+          "type": "Actor",
+          "_label": "Gilles de Mortain (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.527/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published c. 1730",
+        "begin_of_the_begin": "1730",
+        "end_of_the_end": "1730"
+      }
+    }
+  ]
+}

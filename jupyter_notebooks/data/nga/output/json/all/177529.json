@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2015.19.4048",
+  "type": "HumanMadeObject",
+  "_label": "Octagonal Bottle-Shaped Vase",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.4048/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Octagonal Bottle-Shaped Vase",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.4048/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Corcoran Collection (William A. Clark Collection)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.4048/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2015.19.4048",
+          "type": "Actor",
+          "_label": "The \"Greek A\" Factory"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2015.19.4048/production/timespan",
+        "type": "TimeSpan",
+        "_label": "early 18th century",
+        "begin_of_the_begin": "1700",
+        "end_of_the_end": "1749"
+      }
+    }
+  ]
+}

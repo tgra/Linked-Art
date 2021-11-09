@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2012.46.1.16",
+  "type": "HumanMadeObject",
+  "_label": "Monstra della Giostra [A Tournament in the Cortile Belvedere]",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2012.46.1.16/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Monstra della Giostra [A Tournament in the Cortile Belvedere]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2012.46.1.16/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "The Ahmanson Foundation",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2012.46.1.16/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2012.46.1.16",
+          "type": "Actor",
+          "_label": "Monogrammist HCB, published by Antonio Lafreri"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2012.46.1.16/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1565",
+        "begin_of_the_begin": "1565",
+        "end_of_the_end": "1565"
+      }
+    }
+  ]
+}

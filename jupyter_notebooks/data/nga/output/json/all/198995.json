@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2018.181.20",
+  "type": "HumanMadeObject",
+  "_label": "Madrid, 2004, at the Puerta del Sol",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2018.181.20/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Madrid, 2004, at the Puerta del Sol",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2018.181.20/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Anonymous gift",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2018.181.20/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2018.181.20",
+          "type": "Actor",
+          "_label": "Leo Rubinfien"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2018.181.20/production/timespan",
+        "type": "TimeSpan",
+        "_label": "2004, printed 2014",
+        "begin_of_the_begin": "2004",
+        "end_of_the_end": "2004"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2015.205.28",
+  "type": "HumanMadeObject",
+  "_label": "100 Boots Move On. Sorrento Valley, California. June 24, 1972, 8:50 a.m.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.205.28/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "100 Boots Move On. Sorrento Valley, California. June 24, 1972, 8:50 a.m.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.205.28/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Pepita Milmore Memorial Fund",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.205.28/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2015.205.28",
+          "type": "Actor",
+          "_label": "Eleanor Antin"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2015.205.28/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1972",
+        "begin_of_the_begin": "1972",
+        "end_of_the_end": "1972"
+      }
+    }
+  ]
+}

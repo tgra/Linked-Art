@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.2681",
+  "type": "HumanMadeObject",
+  "_label": "Designs in Architecture; Consisting of Plans, Elevations and sections for Temples, Baths, Cassines, Pavilions, Garden Seats, Obelisks, and other Buildings for Decorating Pleasure-Ground, Parks, Forests etc.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2681/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Designs in Architecture; Consisting of Plans, Elevations and sections for Temples, Baths, Cassines, Pavilions, Garden Seats, Obelisks, and other Buildings for Decorating Pleasure-Ground, Parks, Forests etc.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2681/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection, David K.E. Bruce Fund",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2681/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.2681",
+          "type": "Actor",
+          "_label": "Sir John Soane (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.2681/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1778",
+        "begin_of_the_begin": "1778",
+        "end_of_the_end": "1778"
+      }
+    }
+  ]
+}

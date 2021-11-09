@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1991.241.84",
+  "type": "HumanMadeObject",
+  "_label": "Wall Drawing No. 309 / A wall is divided vertically into three equal parts, one red, one yellow and one blue. 1st part:  On the red part, a yellow straight, a yellow not straight, and a yellow broken line; and a blue straight, a blue not straight, and a blue broken line; 2nd part:  On the yellow part, a blue straight, a blue not straight, and a blue broken line; and a red straight, a red not straight, and a red broken line; 3rd part:  On the blue part, a red straight, a red not straight, and a red broken line; and a yellow broken line. The lines are horizontal and equally spaced.\n\u2026",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1991.241.84/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Wall Drawing No. 309 / A wall is divided vertically into three equal parts, one red, one yellow and one blue. 1st part:  On the red part, a yellow straight, a yellow not straight, and a yellow broken line; and a blue straight, a blue not straight, and a blue broken line; 2nd part:  On the yellow part, a blue straight, a blue not straight, and a blue broken line; and a red straight, a red not straight, and a red broken line; 3rd part:  On the blue part, a red straight, a red not straight, and a red broken line; and a yellow broken line. The lines are horizontal and equally spaced.\n\u2026",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1991.241.84/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "The Dorothy and Herbert Vogel Collection, Ailsa Mellon Bruce Fund, Patrons' Permanent Fund and Gift of Dorothy and Herbert Vogel",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1991.241.84/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1991.241.84",
+          "type": "Actor",
+          "_label": "Sol LeWitt"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1991.241.84/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1978",
+        "begin_of_the_begin": "1978",
+        "end_of_the_end": "1978"
+      }
+    }
+  ]
+}

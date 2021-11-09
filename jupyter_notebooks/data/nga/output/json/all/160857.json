@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2012.108.6.a",
+  "type": "HumanMadeObject",
+  "_label": "Jacques-Louis David, 1748-1825, Painter [obverse]",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2012.108.6.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Jacques-Louis David, 1748-1825, Painter [obverse]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2012.108.6.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Faya Causey in memory of Philip Conisbee",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2012.108.6.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2012.108.6.a",
+          "type": "Actor",
+          "_label": "Andr\u00e9 Galle"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2012.108.6.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1820",
+        "begin_of_the_begin": "1820",
+        "end_of_the_end": "1820"
+      }
+    }
+  ]
+}

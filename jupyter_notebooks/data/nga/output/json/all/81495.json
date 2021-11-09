@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.2537",
+  "type": "HumanMadeObject",
+  "_label": "Le Magnifique Chasteau De Richelieu, En General Et En Particulier. Ou Les Plans, Les Elevations, Et Profils Generaux Et Particulier Dudit Chasteau, Et de ses Avenu\u00eb, Basses-courts, Anticourts, Cours, Corps de logis, Aisles, Galleries, Escuriers, Maneges, Jardins, Bois, Parc, & generalement de tous ses Appartemens. Commenc\u00e9 & achev\u00e9 par Jean Armand du Plessis, Cardinal Duc de Richelieu, sous la conduite de Jacques le Mercier, Architecte ordinaire du Roy. Grav\u00e9 & reduit au petit-pied, par Jean Marot, aussi Architecte & Graveur de sadite Majeste. Dedi\u00e9 \u00e0 Monseigneur le Duc de Richelieu. Avec Privilege Du Roy",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2537/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Le Magnifique Chasteau De Richelieu, En General Et En Particulier. Ou Les Plans, Les Elevations, Et Profils Generaux Et Particulier Dudit Chasteau, Et de ses Avenu\u00eb, Basses-courts, Anticourts, Cours, Corps de logis, Aisles, Galleries, Escuriers, Maneges, Jardins, Bois, Parc, & generalement de tous ses Appartemens. Commenc\u00e9 & achev\u00e9 par Jean Armand du Plessis, Cardinal Duc de Richelieu, sous la conduite de Jacques le Mercier, Architecte ordinaire du Roy. Grav\u00e9 & reduit au petit-pied, par Jean Marot, aussi Architecte & Graveur de sadite Majeste. Dedi\u00e9 \u00e0 Monseigneur le Duc de Richelieu. Avec Privilege Du Roy",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2537/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2537/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.2537",
+          "type": "Actor",
+          "_label": "Jean Marot I (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.2537/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published c. 1660",
+        "begin_of_the_begin": "1660",
+        "end_of_the_end": "1660"
+      }
+    }
+  ]
+}

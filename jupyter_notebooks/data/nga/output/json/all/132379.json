@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2017.199.5",
+  "type": "HumanMadeObject",
+  "_label": "Une Matin\u00e9e d'Hiver au Quai de l'H\u00f4tel-Dieu (Winter Morning on the Quai de l'H\u00f4tel-Dieu)",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2017.199.5/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Une Matin\u00e9e d'Hiver au Quai de l'H\u00f4tel-Dieu (Winter Morning on the Quai de l'H\u00f4tel-Dieu)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2017.199.5/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Helena Gunnarsson Buhot Collection, Gift in Honor of the Fiftieth Anniversary of the National Gallery of Art",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2017.199.5/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2017.199.5",
+          "type": "Actor",
+          "_label": "F\u00e9lix-Hilaire Buhot"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2017.199.5/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1876",
+        "begin_of_the_begin": "1876",
+        "end_of_the_end": "1876"
+      }
+    }
+  ]
+}

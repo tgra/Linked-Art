@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1983.49.22.a",
+  "type": "HumanMadeObject",
+  "_label": "Architectura Civilis: Das ist: Eigentliche Beschreibung wie ma nach bester form, und gerechter Regul, F\u00fcrs Erste: Pall\u00e4st, mit dero Lust: und Thiergarten, darben auch Grotten: So dann Gemeine Bewonungen: Zum Andern, Kirchen, Capellen, Alt\u00e4r, Gotsh\u00e4user: Drittens, Spit\u00e4ler, Lazareten und Gots\u00e4cker auff\u00fcren unnd erbawen soll; Alles auss vielfaltiger Erfahrnuss zusammen getragen, beschrieben, und mit. 40. Kupfferstucken f\u00fcr Augen gestellt, Durch Josephum Furttenbach",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.22.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Architectura Civilis: Das ist: Eigentliche Beschreibung wie ma nach bester form, und gerechter Regul, F\u00fcrs Erste: Pall\u00e4st, mit dero Lust: und Thiergarten, darben auch Grotten: So dann Gemeine Bewonungen: Zum Andern, Kirchen, Capellen, Alt\u00e4r, Gotsh\u00e4user: Drittens, Spit\u00e4ler, Lazareten und Gots\u00e4cker auff\u00fcren unnd erbawen soll; Alles auss vielfaltiger Erfahrnuss zusammen getragen, beschrieben, und mit. 40. Kupfferstucken f\u00fcr Augen gestellt, Durch Josephum Furttenbach",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.22.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.22.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1983.49.22.a",
+          "type": "Actor",
+          "_label": "Joseph Furttenbach (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1983.49.22.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1628",
+        "begin_of_the_begin": "1628",
+        "end_of_the_end": "1628"
+      }
+    }
+  ]
+}

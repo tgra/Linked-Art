@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1986.3.67",
+  "type": "HumanMadeObject",
+  "_label": "Trees, Slide Lake,  Grand Teton National Park, Wyoming",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1986.3.67/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Trees, Slide Lake,  Grand Teton National Park, Wyoming",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1986.3.67/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Virginia B. Adams",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1986.3.67/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1986.3.67",
+          "type": "Actor",
+          "_label": "Ansel Adams"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1986.3.67/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1965, printed 1981",
+        "begin_of_the_begin": "1965",
+        "end_of_the_end": "1965"
+      }
+    }
+  ]
+}

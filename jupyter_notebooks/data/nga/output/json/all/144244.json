@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2009.103.17",
+  "type": "HumanMadeObject",
+  "_label": "I sat for decades at morning breakfast tea looking out my kitchen window, one day recognized my own world the familiar backyard, a giant wet brick-walled undersea Atlantis garden, waving ailanthus (\u201cstinkweed\u201d) \u201cTrees of Heaven,\u201d with chimney pots along Avenue A topped by Stuyvesant Town apartments\u2019 upper floors two blocks distant on 14th Street, I focus\u2019d on the raindrops along the clothesline. \u201cThings are symbols of themselves,\u201d said Ch\u00f6gyam Trungpa Rinpoche. New York City August 18, 1984",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.103.17/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "I sat for decades at morning breakfast tea looking out my kitchen window, one day recognized my own world the familiar backyard, a giant wet brick-walled undersea Atlantis garden, waving ailanthus (\u201cstinkweed\u201d) \u201cTrees of Heaven,\u201d with chimney pots along Avenue A topped by Stuyvesant Town apartments\u2019 upper floors two blocks distant on 14th Street, I focus\u2019d on the raindrops along the clothesline. \u201cThings are symbols of themselves,\u201d said Ch\u00f6gyam Trungpa Rinpoche. New York City August 18, 1984",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.103.17/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary S. Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.103.17/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2009.103.17",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2009.103.17/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1984",
+        "begin_of_the_begin": "1984",
+        "end_of_the_end": "1984"
+      }
+    }
+  ]
+}

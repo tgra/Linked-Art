@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2009.103.23",
+  "type": "HumanMadeObject",
+  "_label": "Lucien Carr, my oldest friend from college days, had introduced me to Jack Kerouac after they\u2019d met at the West End bar on 113th St. & Broadway, and connected Jack + me to his fellow St. Louis uppermiddle-class (aristocrat we thought) confr\u00e8re William S. Burroughs, late winter 1944. We lived down the hall from each other on 7th floor Union Theological Seminary, Columbia freshman dorm during W.W.II, I heard haunting Brahms sextet music through his door, knocked, we met. Kerouac heard _Old Angel Midnight_ eloquence in Lucien\u2019s laconic \u201cCeltic\u201d intonations. Here four decades later, wise Old Dog Bureau Manager United Press International he was visiting former house-mate Alene Lee\u2019s Soho loft. More eyes perused his wire-service prose than all Jack\u2019s & my texts, I\u2019ll bet. December 2, 1986.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.103.23/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Lucien Carr, my oldest friend from college days, had introduced me to Jack Kerouac after they\u2019d met at the West End bar on 113th St. & Broadway, and connected Jack + me to his fellow St. Louis uppermiddle-class (aristocrat we thought) confr\u00e8re William S. Burroughs, late winter 1944. We lived down the hall from each other on 7th floor Union Theological Seminary, Columbia freshman dorm during W.W.II, I heard haunting Brahms sextet music through his door, knocked, we met. Kerouac heard _Old Angel Midnight_ eloquence in Lucien\u2019s laconic \u201cCeltic\u201d intonations. Here four decades later, wise Old Dog Bureau Manager United Press International he was visiting former house-mate Alene Lee\u2019s Soho loft. More eyes perused his wire-service prose than all Jack\u2019s & my texts, I\u2019ll bet. December 2, 1986.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.103.23/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary S. Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.103.23/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2009.103.23",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2009.103.23/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1986, printed 1996",
+        "begin_of_the_begin": "1986",
+        "end_of_the_end": "1986"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1946.21.153.zz",
+  "type": "HumanMadeObject",
+  "_label": "L'amour presentant un bouquet",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1946.21.153.zz/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "L'amour presentant un bouquet",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1946.21.153.zz/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Rosenwald Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1946.21.153.zz/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1946.21.153.zz",
+          "type": "Actor",
+          "_label": "Jeanne Antoinette Poisson, marquise de Pompadour after Fran\u00e7ois Boucher after Jacques Guay"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1946.21.153.zz/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1782",
+        "begin_of_the_begin": "1782",
+        "end_of_the_end": "1782"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1964.8.1921",
+  "type": "HumanMadeObject",
+  "_label": "Collection de Vues des principaux Palais, Eglises, Batimens ... de Vienne / Ansichten Sammlung der beruhmtesten Pallaste, Gebaude, und der Schonsten Gegenden von und un Wien",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1964.8.1921/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Collection de Vues des principaux Palais, Eglises, Batimens ... de Vienne / Ansichten Sammlung der beruhmtesten Pallaste, Gebaude, und der Schonsten Gegenden von und un Wien",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1964.8.1921/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Rosenwald Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1964.8.1921/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1964.8.1921",
+          "type": "Actor",
+          "_label": "Marie Geissler"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1964.8.1921/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1815",
+        "begin_of_the_begin": "1815",
+        "end_of_the_end": "1815"
+      }
+    }
+  ]
+}

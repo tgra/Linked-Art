@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1992.59.6",
+  "type": "HumanMadeObject",
+  "_label": "The Roman Studio (L'Atelier de Rome)",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1992.59.6/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Roman Studio (L'Atelier de Rome)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1992.59.6/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Mr. and Mrs. Daniel Bell, in Honor of the 50th Anniversary of the National Gallery of Art",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1992.59.6/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1992.59.6",
+          "type": "Actor",
+          "_label": "Albert Besnard"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1992.59.6/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1885",
+        "begin_of_the_begin": "1885",
+        "end_of_the_end": "1885"
+      }
+    }
+  ]
+}

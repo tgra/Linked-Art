@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1983.49.46",
+  "type": "HumanMadeObject",
+  "_label": "L'Architettura d'Andrea Palladio Divisa in Quatro Libri Di nuovo ristampata, ed abbellita coll' impressione delle figure in rame non pi\u00f9 isata. Con l'Aggiunta del Quinto Libro, Che tratta dell Antichit\u00e0 di Roma dell' Autore medemo no pi\u00f9 veduto.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.46/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "L'Architettura d'Andrea Palladio Divisa in Quatro Libri Di nuovo ristampata, ed abbellita coll' impressione delle figure in rame non pi\u00f9 isata. Con l'Aggiunta del Quinto Libro, Che tratta dell Antichit\u00e0 di Roma dell' Autore medemo no pi\u00f9 veduto.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.46/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.46/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1983.49.46",
+          "type": "Actor",
+          "_label": "Andrea Palladio (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1983.49.46/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1711",
+        "begin_of_the_begin": "1711",
+        "end_of_the_end": "1711"
+      }
+    }
+  ]
+}

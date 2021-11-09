@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.2688",
+  "type": "HumanMadeObject",
+  "_label": "Recueil Des Fondations Et \u00c9tablissemens Faits Par Le Roi De Pologne Duc De Lorraine Et De Bar, Qui comprend la construction d'une nouvelle Place, au milieu de laquelle est \u00e9rig\u00e9e la Statu\u00eb de Louis XV. & les B\u00e2timens que sa Majest\u00e9 Polonoise \u00e0 fait \u00e9lever dans la Ville de Nancy pour son embelissement. Nouvelle edition, augment\u00e9e & corrig\u00e9e",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2688/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Recueil Des Fondations Et \u00c9tablissemens Faits Par Le Roi De Pologne Duc De Lorraine Et De Bar, Qui comprend la construction d'une nouvelle Place, au milieu de laquelle est \u00e9rig\u00e9e la Statu\u00eb de Louis XV. & les B\u00e2timens que sa Majest\u00e9 Polonoise \u00e0 fait \u00e9lever dans la Ville de Nancy pour son embelissement. Nouvelle edition, augment\u00e9e & corrig\u00e9e",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2688/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2688/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.2688",
+          "type": "Actor",
+          "_label": "Stanislaw Leszczynski, King of Poland"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.2688/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1762",
+        "begin_of_the_begin": "1762",
+        "end_of_the_end": "1762"
+      }
+    }
+  ]
+}

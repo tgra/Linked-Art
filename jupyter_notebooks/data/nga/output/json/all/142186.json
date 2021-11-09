@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2008.131.21",
+  "type": "HumanMadeObject",
+  "_label": "Sea of Japan, returning after year and half in India, six-week stopover in Japan travelling with Gary Snyder & wife Joanne Kyger, we supped at Zen Temple nearby, Snyder snorkelled, my Kodak Retina probably in Joanne\u2019s hands, early July 1963.\n",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2008.131.21/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Sea of Japan, returning after year and half in India, six-week stopover in Japan travelling with Gary Snyder & wife Joanne Kyger, we supped at Zen Temple nearby, Snyder snorkelled, my Kodak Retina probably in Joanne\u2019s hands, early July 1963.\n",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2008.131.21/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary S. Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2008.131.21/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2008.131.21",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2008.131.21/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1963, printed 1989",
+        "begin_of_the_begin": "1963",
+        "end_of_the_end": "1963"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1996.85.27",
+  "type": "HumanMadeObject",
+  "_label": "Christ Telling the Pharisees Parables",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1996.85.27/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Christ Telling the Pharisees Parables",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1996.85.27/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of A. Thompson Ellwanger III",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1996.85.27/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1996.85.27",
+          "type": "Actor",
+          "_label": "Hans Amann"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1996.85.27/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1553",
+        "begin_of_the_begin": "1553",
+        "end_of_the_end": "1553"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2013.84.1.105",
+  "type": "HumanMadeObject",
+  "_label": "The Soldier Brings His Pike to the Horizontal Position in One Movement",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2013.84.1.105/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "The Soldier Brings His Pike to the Horizontal Position in One Movement",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2013.84.1.105/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Ruth and Jacob Kainen Memorial Acquisition Fund",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2013.84.1.105/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2013.84.1.105",
+          "type": "Actor",
+          "_label": "Jacques de Gheyn II"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2013.84.1.105/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1608",
+        "begin_of_the_begin": "1608",
+        "end_of_the_end": "1608"
+      }
+    }
+  ]
+}

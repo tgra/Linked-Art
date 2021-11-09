@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2020.37.4",
+  "type": "HumanMadeObject",
+  "_label": "Vue du Moulin de Montville pr\u00e8s Liancourt (View of the Mill of Montville near Liancourt)",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2020.37.4/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Vue du Moulin de Montville pr\u00e8s Liancourt (View of the Mill of Montville near Liancourt)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2020.37.4/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Katharine Shepard Fund",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2020.37.4/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2020.37.4",
+          "type": "Actor",
+          "_label": "Mademoiselle Le Roy, after L. Le Sueur"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2020.37.4/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1772",
+        "begin_of_the_begin": "1767",
+        "end_of_the_end": "1777"
+      }
+    }
+  ]
+}

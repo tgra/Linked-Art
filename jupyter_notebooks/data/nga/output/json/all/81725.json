@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.2736",
+  "type": "HumanMadeObject",
+  "_label": "Altas Du Plan G\u00e9n\u00e9ral De La Ville De Paris Lev\u00e9 g\u00e9om\u00e9triquement Par Le Cen. Verniquet. Rapport\u00e9 sur une Echelle d'une demie Ligne pour Toise. Divis\u00e9e en 72. Planches compris les Cartouches et Plan des op\u00e9rations Trigonom\u00e9triques. Dessin\u00e9 et Grav\u00e9 par les Cens. Bartholom\u00e9 et Mathie l'An IV",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2736/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Altas Du Plan G\u00e9n\u00e9ral De La Ville De Paris Lev\u00e9 g\u00e9om\u00e9triquement Par Le Cen. Verniquet. Rapport\u00e9 sur une Echelle d'une demie Ligne pour Toise. Divis\u00e9e en 72. Planches compris les Cartouches et Plan des op\u00e9rations Trigonom\u00e9triques. Dessin\u00e9 et Grav\u00e9 par les Cens. Bartholom\u00e9 et Mathie l'An IV",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2736/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2736/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.2736",
+          "type": "Actor",
+          "_label": "Edm\u00e9 Verniquet (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.2736/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1795",
+        "begin_of_the_begin": "1795",
+        "end_of_the_end": "1795"
+      }
+    }
+  ]
+}

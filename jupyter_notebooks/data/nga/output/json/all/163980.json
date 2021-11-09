@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2013.145.44",
+  "type": "HumanMadeObject",
+  "_label": "David Greenberg, Phi Beta Kappa Rutgers U. '93, Poet, art curator & essayist, guitar-singer Indie-Rock group \"Pen Pal\", co-editor Soft Skull Press, Great friend & scholar, fresh from 24th birthday head-shave: when you look at it closer it doesn't look menacing,\" he said first seeing this portrait. After graduation he stayed six months in little guest-room open-doored behind him. March 13, 1995.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2013.145.44/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "David Greenberg, Phi Beta Kappa Rutgers U. '93, Poet, art curator & essayist, guitar-singer Indie-Rock group \"Pen Pal\", co-editor Soft Skull Press, Great friend & scholar, fresh from 24th birthday head-shave: when you look at it closer it doesn't look menacing,\" he said first seeing this portrait. After graduation he stayed six months in little guest-room open-doored behind him. March 13, 1995.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2013.145.44/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2013.145.44/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2013.145.44",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2013.145.44/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1995",
+        "begin_of_the_begin": "1995",
+        "end_of_the_end": "1995"
+      }
+    }
+  ]
+}

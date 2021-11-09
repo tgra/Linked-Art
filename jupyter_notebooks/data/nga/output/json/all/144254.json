@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2009.108.6",
+  "type": "HumanMadeObject",
+  "_label": "I got conscious of my kitchen breakfast-table window backyard\u2019s seasons\u2019 daily view, here morning snow-dropped window-sill, white roofed tool-shed, bare branched \u201ctrees of Heaven\u201d (ailanthus), fences & fire-escapes lined with snow, N.Y. Times January 23, 1987.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.108.6/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "I got conscious of my kitchen breakfast-table window backyard\u2019s seasons\u2019 daily view, here morning snow-dropped window-sill, white roofed tool-shed, bare branched \u201ctrees of Heaven\u201d (ailanthus), fences & fire-escapes lined with snow, N.Y. Times January 23, 1987.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.108.6/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of Gary S. Davis",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2009.108.6/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2009.108.6",
+          "type": "Actor",
+          "_label": "Allen Ginsberg"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2009.108.6/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1987",
+        "begin_of_the_begin": "1987",
+        "end_of_the_end": "1987"
+      }
+    }
+  ]
+}

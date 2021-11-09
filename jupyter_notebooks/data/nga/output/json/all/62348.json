@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1983.49.17.a",
+  "type": "HumanMadeObject",
+  "_label": "F\u00fcrstlicher Baumeister, Oder: Architectura Civilis, Wie Grosser F\u00fcrsten und Herren Pall\u00e4ste, mit ihren H\u00f6fen, Lust-H\u00e4usern, G\u00e4rten, Grotten, Orangerien, und anderen darzu geh\u00f6rigen Geb\u00e4uden f\u00fcglich anzulegen, und nach heutiger Art auszuzieren;...Erster Theil, Inventirt und gezeichnet, Durch Paulus Decker",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.17.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "F\u00fcrstlicher Baumeister, Oder: Architectura Civilis, Wie Grosser F\u00fcrsten und Herren Pall\u00e4ste, mit ihren H\u00f6fen, Lust-H\u00e4usern, G\u00e4rten, Grotten, Orangerien, und anderen darzu geh\u00f6rigen Geb\u00e4uden f\u00fcglich anzulegen, und nach heutiger Art auszuzieren;...Erster Theil, Inventirt und gezeichnet, Durch Paulus Decker",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.17.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1983.49.17.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1983.49.17.a",
+          "type": "Actor",
+          "_label": "Paul Decker (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1983.49.17.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published part I: 1711, supplement to part I: 1713, part II: 1716",
+        "begin_of_the_begin": "1711",
+        "end_of_the_end": "1716"
+      }
+    }
+  ]
+}

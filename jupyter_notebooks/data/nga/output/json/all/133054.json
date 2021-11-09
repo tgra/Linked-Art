@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2005.111.1.a",
+  "type": "HumanMadeObject",
+  "_label": "Architecture Holding Statues of Personifications of Structure, Form, and Color (Medal for the Soci\u00e9t\u00e9 centrale des architects) [obverse]",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2005.111.1.a/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Architecture Holding Statues of Personifications of Structure, Form, and Color (Medal for the Soci\u00e9t\u00e9 centrale des architects) [obverse]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2005.111.1.a/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of David and Constance Yates in memory of Dr. Frank Trapp",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2005.111.1.a/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2005.111.1.a",
+          "type": "Actor",
+          "_label": "Eug\u00e8ne-Andr\u00e9 Oudin\u00e9"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2005.111.1.a/production/timespan",
+        "type": "TimeSpan",
+        "_label": "designed 1843, awarded 1911",
+        "begin_of_the_begin": "1843",
+        "end_of_the_end": "1843"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.2651",
+  "type": "HumanMadeObject",
+  "_label": "Dictionnaire D'Architecture, Civile, Militaire Et Navale, Antique, Ancienne Et Moderne, Et De Tous Les Arts Et M\u00e9tiers Qui En D\u00e9pendent, Dont tous les Termes sont exprim\u00e9s, en Fran\u00e7ois, Latin, Italien, Espagnol, Anglois et Allemand. Enrichi de cent une Planches de Figures en Taille-douce, Pour En Faciliter L'Intelligence, Auquel On A Joint Une Notice des architects, Ing\u00e9nieurs, Peintres, Sculpteurs, Graveurs & autres Artistes les plus celebres, dont on rapporte les principaux Ouvrages...Tome Troisieme",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2651/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Dictionnaire D'Architecture, Civile, Militaire Et Navale, Antique, Ancienne Et Moderne, Et De Tous Les Arts Et M\u00e9tiers Qui En D\u00e9pendent, Dont tous les Termes sont exprim\u00e9s, en Fran\u00e7ois, Latin, Italien, Espagnol, Anglois et Allemand. Enrichi de cent une Planches de Figures en Taille-douce, Pour En Faciliter L'Intelligence, Auquel On A Joint Une Notice des architects, Ing\u00e9nieurs, Peintres, Sculpteurs, Graveurs & autres Artistes les plus celebres, dont on rapporte les principaux Ouvrages...Tome Troisieme",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2651/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2651/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.2651",
+          "type": "Actor",
+          "_label": "Charles Fran\u00e7ois Roland le Virloys (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.2651/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1770-1771",
+        "begin_of_the_begin": "1770",
+        "end_of_the_end": "1771"
+      }
+    }
+  ]
+}

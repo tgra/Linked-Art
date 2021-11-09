@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.2598",
+  "type": "HumanMadeObject",
+  "_label": "Reliquiae Antiquae Urbis Romae Quarum Singulas Innocentio XL Alexandro VIII & Innocentio XII PP MM Diligentissime Perscrutatus Est, ad Vivum Delineatvit Dimensus est, Descripsit, atque in aes Incidit Bonnaventura ab Overbeke Opus Postumum",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2598/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Reliquiae Antiquae Urbis Romae Quarum Singulas Innocentio XL Alexandro VIII & Innocentio XII PP MM Diligentissime Perscrutatus Est, ad Vivum Delineatvit Dimensus est, Descripsit, atque in aes Incidit Bonnaventura ab Overbeke Opus Postumum",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2598/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection, David K.E. Bruce Fund",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2598/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.2598",
+          "type": "Actor",
+          "_label": "Bonaventura van Overbeek (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.2598/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1763",
+        "begin_of_the_begin": "1763",
+        "end_of_the_end": "1763"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2010.21.1.51",
+  "type": "HumanMadeObject",
+  "_label": "Untitled [New Orleans and the Gulf Coast, 2005]",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2010.21.1.51/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Untitled [New Orleans and the Gulf Coast, 2005]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2010.21.1.51/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of the Artist",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2010.21.1.51/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2010.21.1.51",
+          "type": "Actor",
+          "_label": "Richard Misrach"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2010.21.1.51/production/timespan",
+        "type": "TimeSpan",
+        "_label": "2005, printed 2010",
+        "begin_of_the_begin": "2005",
+        "end_of_the_end": "2005"
+      }
+    }
+  ]
+}

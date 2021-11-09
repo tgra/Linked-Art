@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2018.91.26",
+  "type": "HumanMadeObject",
+  "_label": "Le Jeune Astianax qu\u2019Andromaque avoit cach\u00e9 dans le tombeau d\u2019Hector est arrach\u00e9 des bras de sa Mere par les ordres d'Ulisse (Young Astianax, who Andromache Hid in Hector's Tomb, is Seized from his Mother's Arms by Ulysses' Orders)\n",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2018.91.26/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Le Jeune Astianax qu\u2019Andromaque avoit cach\u00e9 dans le tombeau d\u2019Hector est arrach\u00e9 des bras de sa Mere par les ordres d'Ulisse (Young Astianax, who Andromache Hid in Hector's Tomb, is Seized from his Mother's Arms by Ulysses' Orders)\n",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2018.91.26/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Pepita Milmore Memorial Fund",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2018.91.26/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2018.91.26",
+          "type": "Actor",
+          "_label": "Fran\u00e7ois-Philippe Charpentier, after Gabriel Fran\u00e7ois Doyen"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2018.91.26/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1766",
+        "begin_of_the_begin": "1766",
+        "end_of_the_end": "1766"
+      }
+    }
+  ]
+}

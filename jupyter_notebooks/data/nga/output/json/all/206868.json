@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2015.142.1.13",
+  "type": "HumanMadeObject",
+  "_label": "La Fureur des Duels arret\u00e9e en 1662 (The Violence of Duels Stopped in 1662) [pl. 12**]",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.142.1.13/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "La Fureur des Duels arret\u00e9e en 1662 (The Violence of Duels Stopped in 1662) [pl. 12**]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.142.1.13/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of David H. McDonnell",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.142.1.13/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2015.142.1.13",
+          "type": "Actor",
+          "_label": "Jean-Baptiste Mass\u00e9 (designer) and engravers Jean-Michel Liotard and Laurent Cars after Charles Le Brun"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2015.142.1.13/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1752",
+        "begin_of_the_begin": "1752",
+        "end_of_the_end": "1752"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1985.61.2631",
+  "type": "HumanMadeObject",
+  "_label": "Description Des Bains De Titus, Ou Collection Des Peintures Trouv\u00e9es Dans Les Ruines Des Thermes De Cet Empereur, Et grav\u00e9e sous la direction de M. Ponce...Avec un Avant-propos et un Texte expicatif des Planches",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2631/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Description Des Bains De Titus, Ou Collection Des Peintures Trouv\u00e9es Dans Les Ruines Des Thermes De Cet Empereur, Et grav\u00e9e sous la direction de M. Ponce...Avec un Avant-propos et un Texte expicatif des Planches",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2631/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Mark J. Millard Architectural Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1985.61.2631/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1985.61.2631",
+          "type": "Actor",
+          "_label": "Nicolas Ponce (author)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1985.61.2631/production/timespan",
+        "type": "TimeSpan",
+        "_label": "published 1786",
+        "begin_of_the_begin": "1786",
+        "end_of_the_end": "1786"
+      }
+    }
+  ]
+}

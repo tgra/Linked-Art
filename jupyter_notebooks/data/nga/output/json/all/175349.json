@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2015.19.5130",
+  "type": "HumanMadeObject",
+  "_label": "In the CARA job-training program, Margie is hungry for knowledge and eager to participate in her studies. She takes copious notes and never hesitates to ask questions. I can see her sense of self-worth returning. I was lucky to meet Margie at a time when she was ready to take control over her life. I spent time riding with her to CARA, and met many people in the same situation. I realize now that being homeless is nothing like the fantasy  sleeping on the street, wearing shabby clothes, begging for money. The homeless people I met looked just like me.",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.5130/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "In the CARA job-training program, Margie is hungry for knowledge and eager to participate in her studies. She takes copious notes and never hesitates to ask questions. I can see her sense of self-worth returning. I was lucky to meet Margie at a time when she was ready to take control over her life. I spent time riding with her to CARA, and met many people in the same situation. I realize now that being homeless is nothing like the fantasy  sleeping on the street, wearing shabby clothes, begging for money. The homeless people I met looked just like me.",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.5130/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Corcoran Collection (Gift of Donna Ferrato)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.5130/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2015.19.5130",
+          "type": "Actor",
+          "_label": "Donna Ferrato"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2015.19.5130/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1999",
+        "begin_of_the_begin": "1999",
+        "end_of_the_end": "1999"
+      }
+    }
+  ]
+}

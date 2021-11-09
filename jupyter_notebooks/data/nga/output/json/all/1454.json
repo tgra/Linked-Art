@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1942.9.294",
+  "type": "HumanMadeObject",
+  "_label": "Altar Cross",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1942.9.294/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Altar Cross",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1942.9.294/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Widener Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1942.9.294/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1942.9.294",
+          "type": "Actor",
+          "_label": "Attributed to Saracchi Workshop (foot); Western European 19th Century (cross and its mounts)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1942.9.294/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1590 (foot); mid to late 19th century (cross and its mounts)",
+        "begin_of_the_begin": "1590",
+        "end_of_the_end": "1899"
+      }
+    }
+  ]
+}

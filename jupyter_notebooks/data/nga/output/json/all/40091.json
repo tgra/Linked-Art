@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/1951.10.294",
+  "type": "HumanMadeObject",
+  "_label": "\"Under my rule it shall be brought to pass, that potatoes and small-beer shall be con sidered a holiday treat;  and woe to him who meets my eye with the audacious front of health. Haggard want, and crouching fear, are my insignia; and in this livery I will clothe ye.\"(\"In meinem Gebiet soll's soweit kommen, das Kartoffeln und D\u00fcnnbier ein Traktament f\u00fcr Festtage werden, und wehe dem, der mir mit vollen feurigen Backen unter die Augen tritt! Bl\u00e4sse der Armut und sklavische Furcht sind meine Leibf arbe; in diese Livrei will ich euch kleiden.\")",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1951.10.294/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "\"Under my rule it shall be brought to pass, that potatoes and small-beer shall be con sidered a holiday treat;  and woe to him who meets my eye with the audacious front of health. Haggard want, and crouching fear, are my insignia; and in this livery I will clothe ye.\"(\"In meinem Gebiet soll's soweit kommen, das Kartoffeln und D\u00fcnnbier ein Traktament f\u00fcr Festtage werden, und wehe dem, der mir mit vollen feurigen Backen unter die Augen tritt! Bl\u00e4sse der Armut und sklavische Furcht sind meine Leibf arbe; in diese Livrei will ich euch kleiden.\")",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1951.10.294/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Rosenwald Collection",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/1951.10.294/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/1951.10.294",
+          "type": "Actor",
+          "_label": "George Grosz"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/1951.10.294/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1920/1921",
+        "begin_of_the_begin": "1920",
+        "end_of_the_end": "1921"
+      }
+    }
+  ]
+}

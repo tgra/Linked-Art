@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2006.145.1",
+  "type": "HumanMadeObject",
+  "_label": "Sc\u00e8nes de la vie Priv\u00e9e et Publique des Animaux (Scenes from the Public and Private Lives of Animals)[Volume 1]",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2006.145.1/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Sc\u00e8nes de la vie Priv\u00e9e et Publique des Animaux (Scenes from the Public and Private Lives of Animals)[Volume 1]",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2006.145.1/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Professor William B. O'Neal Fund",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2006.145.1/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2006.145.1",
+          "type": "Actor",
+          "_label": "Pierre-Jules Hetzel (principal author) and Jean-Jacques Grandville (illustrator) and Various Artists (printmakers)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2006.145.1/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1842",
+        "begin_of_the_begin": "1814",
+        "end_of_the_end": "1886"
+      }
+    }
+  ]
+}

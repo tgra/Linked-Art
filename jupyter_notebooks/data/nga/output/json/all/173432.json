@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2015.19.4964",
+  "type": "HumanMadeObject",
+  "_label": "Children at play in the kindergarten of one of the model Viennese community housing centres for the working class, built in the 1920s",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.4964/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "Children at play in the kindergarten of one of the model Viennese community housing centres for the working class, built in the 1920s",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.4964/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Corcoran Collection (Gift of Ben Shneiderman)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2015.19.4964/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2015.19.4964",
+          "type": "Actor",
+          "_label": "David Seymour (Chim)"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2015.19.4964/production/timespan",
+        "type": "TimeSpan",
+        "_label": "c. 1948",
+        "begin_of_the_begin": "1943",
+        "end_of_the_end": "1953"
+      }
+    }
+  ]
+}

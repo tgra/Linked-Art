@@ -1,0 +1,66 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/2005.100.25",
+  "type": "HumanMadeObject",
+  "_label": "24' Diameter, 9' High (mistake)",
+  "identified_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2005.100.25/title",
+      "type": "Name",
+      "_label": "Primary Title for the Object",
+      "content": "24' Diameter, 9' High (mistake)",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "preferred terms"
+        }
+      ]
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2005.100.25/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "content": "Gift of the Artist, Andy Goldsworthy",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgments"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    }
+  ],
+  "produced_by": [
+    {
+      "id": "https://www.nga.gov/collection/object/2005.100.25/production",
+      "type": "Production",
+      "_label": "Production of the Object"
+    },
+    {
+      "carried_out_by": [
+        {
+          "id": "https://www.nga.gov/collection/actor/2005.100.25",
+          "type": "Actor",
+          "_label": "Andy Goldsworthy"
+        }
+      ]
+    },
+    {
+      "timespan": {
+        "id": "https://www.nga.gov/collection/2005.100.25/production/timespan",
+        "type": "TimeSpan",
+        "_label": "1956 - 2004",
+        "begin_of_the_begin": "1956",
+        "end_of_the_end": "2004"
+      }
+    }
+  ]
+}
