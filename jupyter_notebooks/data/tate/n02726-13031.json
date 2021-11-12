@@ -1,0 +1,96 @@
+{
+  "acno": "N02726", 
+  "acquisitionYear": 1910, 
+  "all_artists": "John Ruskin", 
+  "catalogueGroup": {}, 
+  "classification": "on paper, unique", 
+  "contributorCount": 1, 
+  "contributors": [
+    {
+      "birthYear": 1819, 
+      "date": "1819\u20131900", 
+      "displayOrder": 1, 
+      "fc": "John Ruskin", 
+      "gender": "Male", 
+      "id": 465, 
+      "mda": "Ruskin, John", 
+      "role": "artist", 
+      "startLetter": "R"
+    }
+  ], 
+  "creditLine": "Presented by Sir Claude Phillips in memory of his sister Eugenie Phillips 1910", 
+  "dateRange": {
+    "endYear": 1876, 
+    "startYear": 1831, 
+    "text": "before 1877"
+  }, 
+  "dateText": "before 1877", 
+  "depth": "", 
+  "dimensions": "support: 375 x 279 mm", 
+  "foreignTitle": null, 
+  "groupTitle": null, 
+  "height": "279", 
+  "id": 13031, 
+  "inscription": null, 
+  "medium": "Graphite, watercolour and ink on paper", 
+  "movementCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch"
+              }, 
+              {
+                "id": 3269, 
+                "name": "olive"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 448, 
+                "name": "leaf"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02726_8.jpg", 
+  "title": "An Olive Spray and Two Leaf Outlines", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ruskin-an-olive-spray-and-two-leaf-outlines-n02726", 
+  "width": "375"
+}
