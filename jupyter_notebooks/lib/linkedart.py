@@ -12,6 +12,8 @@ from cromulent.vocab import TimeBasedMedia, Page, Folio, Folder, Box, Envelope, 
 from cromulent.vocab import HumanMadeObject,Tapestry,LocalNumber
 from cromulent.vocab import Type,Set
 from cromulent.vocab import TimeSpan, Actor, Group, Acquisition, Place
+from cromulent.vocab import Production, TimeSpan, Actor
+from cromulent.vocab import LinguisticObject
 
 
 objTypes = {
@@ -97,23 +99,23 @@ def createObjProp(obj,docProp):
 
 def objPrimaryname(objProp,mapp,object_uri):
     primaryname = None
-    title = objProp[mapp["title"]]
-    id = objProp[mapp["id"]]
-    primaryname = PrimaryName( object_uri + id + "/primary-name",
+    title = objProp["title"]
+    id = objProp["id"]
+    primaryname = PrimaryName( object_uri + "/primary-name",
                                 value=title)
     return primaryname
 
 def objAlternatename(objProp,mapp,object_uri):
     alternateName = None
-    if mapp["alt_title"] in objProp:
-        alt_title = objProp[mapp["alt_title"]]
-        alternatename = AlternateName(object_uri + id + "/alternate-name",value=alt_title)
+    if objProp["alt_title"] in objProp:
+        alt_title = objProp["alt_title"]
+        alternatename = AlternateName(object_uri +  "/alternate-name",value=alt_title)
     return alternateName
 
 def objHomepage(objProp,mapp,object_uri):
 
     homepage = None
-    id = objProp[mapp["id"]]
+    id = objProp["id"]
 
     homepageId = "http://collection.imamuseum.org/artwork/" + id
 
@@ -128,50 +130,47 @@ def objHomepage(objProp,mapp,object_uri):
 def objProvenance(objProp,mapp,object_uri):
 
     prov = None
-    propProv = mapp["created_provenance"]
-    if propProv in objProp:
-        provenance = objProp[propProv]
-        if provenance != "":
+    if "created_provenance" in objProp:
+        provenance = objProp["created_provenance"]
+        if provenance !="":
             prov = LinguisticObject(object_uri + "/provenance-statement", 
                             value=provenance,
                             label="Provenance Statement about the Object"
                            )
             prov.classified_as = Type("http://vocab.getty.edu/aat/300055863", label="provenance (history of ownership)")
             prov.classified_as = Type("http://vocab.getty.edu/aat/300418049", label="brief texts")
-    return prov
+        return prov
 
 
 def objAccession(objProp, mapp,object_uri):
     accession = None
-    accession_number = objProp[mapp.get("accession_number")]
+    accession_number = objProp["accession_number"]
     if accession_number != "":
         accession = AccessionNumber(accession_number,value=accession_number)
     return accession
 
 def objLocalnumber(objProp,mapp,object_uri):
     localnumber = None
-    id = objProp[mapp.get("id")]
+    id = objProp["id"]
     if id != "":
         localnumber = LocalNumber(id,value=id)
     return localnumber
 
 def objCollection(objProp,mapp,object_uri):
     coll = None
-    collection = mapp["collection"]
-
-    if collection in objProp:
-        collection = objProp[collection]
+    if "collection" in objProp:
+        collection = objProp["collection"]
         coll = Set(object_uri +"/collection/" + collection, 
                    label= collection)
         coll.classified_as = Type("http://vocab.getty.edu/aat/300025976", 
                               label="collections (object groupings)")
     return coll
 
-from cromulent.vocab import LinguisticObject
+
 
 def objCredit(objProp,mapp,object_uri):
     credit = None
-    propCredit = mapp["credit_line"]
+    propCredit = "credit_line"
     
     if propCredit in objProp:
         credit_line = objProp[propCredit]
@@ -184,15 +183,15 @@ def objCredit(objProp,mapp,object_uri):
             credit.classified_as = Type("http://vocab.getty.edu/aat/300418049", label="brief texts")
     return credit
 
-from cromulent.vocab import Production, TimeSpan, Actor
+
 
 def objProduction(objProp,mapp,object_uri):
 
     prod = None
 
-    date_created = mapp["date_created"]
-    created_earliest = mapp["date_created_earliest"]
-    created_latest = mapp["date_created_latest"]
+    date_created = "date_created"
+    created_earliest = "date_created_earliest"
+    created_latest = "date_created_latest"
 
     if date_created in objProp:
         prod = Production(object_uri + "/production", label="Production of the Object")    
@@ -209,17 +208,23 @@ def objProduction(objProp,mapp,object_uri):
             timespan.end_of_the_end = objProp[created_latest]
     
         prod.timespan = timespan
-    
-        for creator in objProp["creator"]:
-            if "id" in creator:
-                actor = Actor(creator["id"], label=creator["name"])
+
+        propCreator = mapp["creator"] 
+        if propCreator in objProp:
+            for creator in objProp[propCreator]:
+                actor = Actor()
+                if "id" in creator:
+                    actor.id = creator["id"]
+                if "label" in creator:
+                    actor.label = creator["name"]
                 prod.carried_out_by = actor
+            
     return prod
 
 
 def objCurrentowner(objProp,mapp,object_uri):
-    if mapp["current_owner"] != "" and mapp["current_owner"] in objProp:
-        current_owner = objProp[mapp["current_owner"]]
+    if objProp["current_owner"] != "" and objProp["current_owner"] in objProp:
+        current_owner = objProp["current_owner"]
         if current_owner != "":
             current_owner = Group("http://vocab.getty.edu/ulan/500300517", 
                           label=current_owner
@@ -235,7 +240,7 @@ def objCurrentowner(objProp,mapp,object_uri):
 
 def objAcquisition(object_uri,objProp,mapp):
     acquisition = None
-    accession_date = objProp[mapp["accession_date"]]
+    accession_date = objProp["accession_date"]
     if accession_date != "": 
         acquisition = Acquisition(object_uri + "/IMA-acquisition", label = "Acquisition of the Object")
         acquisition.classified_as = Type("http://vocab.getty.edu/aat/300157782",label="acquisition (collections management)")
@@ -280,7 +285,7 @@ def objCustody(objProp,mapp,object_uri):
     
     custody = None
 
-    if mapp["current_status"] != "" and  mapp["current_status"] in objProp:
+    if "current_status" in objProp and objProp["current_status"] != "" :
         current_status = objProp[mapp["current_status"]]
         currentowner = checkCurrentOwner(current_status)
     
@@ -297,13 +302,12 @@ def createObjDesc(objProp,mapp,objTypes,object_uri):
     objLA = HumanMadeObject() # linked art object
 
     for otype in objTypes:
-        if otype in objProp[mapp.get("classification")]:
+        if otype in objProp["classification"]:
             objLA = objTypes[otype]        
             break
             
     objLA.id = object_uri
-    objLA._label =  objProp[mapp.get("title")]
-
+    objLA._label =  objProp["title"]
     
     # IDENTIFIED_BY 
     accession = objAccession(objProp,mapp,object_uri)
@@ -349,7 +353,7 @@ def createObjDesc(objProp,mapp,objTypes,object_uri):
     if "creator" in objProp:
         prod = None
         prod = objProduction(objProp,mapp,object_uri)
-        objLA.produced_by = None
+      #  objLA.produced_by = None
         if prod is not None:
             objLA.produced_by = prod # production
 
@@ -375,3 +379,14 @@ def createObjDesc(objProp,mapp,objTypes,object_uri):
             objLA.current_owner = current_owner
           
     return objLA
+
+def checkCurrentOwner(current_status):
+    currentowner = False
+    if current_status != "":
+        checkObjStatus = ('Accessioned','Partial Accession')
+        for status in checkObjStatus:
+            if status == current_status:
+                currentowner = True
+            if 'IMA-Owned' in current_status:
+                currentowner = True
+    return currentowner

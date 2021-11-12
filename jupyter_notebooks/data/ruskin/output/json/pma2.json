@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.nga.gov/collection/70367",
+  "id": "https://www.philamuseum.org/collection/object/pma2",
   "type": "HumanMadeObject",
-  "_label": "Tree Study",
+  "_label": "Beanstalk",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300033973",
@@ -19,7 +19,7 @@
   ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1988.20.38",
+      "id": "http://lod.example.org/museum/Identifier/01/07/1995",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1988.20.38"
+      "content": "01/07/1995"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/70367",
+      "id": "http://lod.example.org/museum/Identifier/01/07/1995",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "70367"
+      "content": "01/07/1995"
     },
     {
-      "id": "https://www.nga.gov/collection/70367/primary-name",
+      "id": "https://www.philamuseum.org/collection/object/pma2/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,12 +52,12 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Tree Study"
+      "content": "Beanstalk"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.nga.gov/collection/70367/credit-line",
+      "id": "https://www.philamuseum.org/collection/object/pma2/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -72,14 +72,14 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Gift of John Nichols Estabrook and Dorothy Coogan Estabrook"
+      "content": "Purchased with The Herbert & Nannette Rothschild Memorial Fund in memory of Judith Rothschild, 1995"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.nga.gov/collection/70367/collection/CG-E",
+      "id": "https://www.philamuseum.org/collection/object/pma2/collection/PDP",
       "type": "Set",
-      "_label": "CG-E",
+      "_label": "PDP",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300025976",
@@ -91,7 +91,7 @@
   ],
   "subject_of": [
     {
-      "id": "http://collection.imamuseum.org/artwork/70367",
+      "id": "http://collection.imamuseum.org/artwork/01/07/1995",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -110,15 +110,15 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.nga.gov/collection/70367/production",
+    "id": "https://www.philamuseum.org/collection/object/pma2/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.nga.gov/collection/70367/production/timespan",
+      "id": "https://www.philamuseum.org/collection/object/pma2/production/timespan",
       "type": "TimeSpan",
-      "_label": "mid-1850s",
-      "begin_of_the_begin": "1845",
-      "end_of_the_end": "1855"
+      "_label": "Date unknown",
+      "begin_of_the_begin": "Date unknown",
+      "end_of_the_end": "Date unknown"
     }
   }
 }

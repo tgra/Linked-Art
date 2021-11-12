@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.nga.gov/collection/70367",
+  "id": "https://www.philamuseum.org/collection/object/pma1",
   "type": "HumanMadeObject",
-  "_label": "Tree Study",
+  "_label": "Study of a River Bank, Beauvais, France",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300033973",
@@ -19,7 +19,7 @@
   ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1988.20.38",
+      "id": "http://lod.example.org/museum/Identifier/64-1993-1",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1988.20.38"
+      "content": "64-1993-1"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/70367",
+      "id": "http://lod.example.org/museum/Identifier/64-1993-1",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "70367"
+      "content": "64-1993-1"
     },
     {
-      "id": "https://www.nga.gov/collection/70367/primary-name",
+      "id": "https://www.philamuseum.org/collection/object/pma1/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,34 +52,14 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Tree Study"
-    }
-  ],
-  "referred_to_by": [
-    {
-      "id": "https://www.nga.gov/collection/70367/credit-line",
-      "type": "LinguisticObject",
-      "_label": "Credit Line for the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300026687",
-          "type": "Type",
-          "_label": "acknowledgements"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Gift of John Nichols Estabrook and Dorothy Coogan Estabrook"
+      "content": "Study of a River Bank, Beauvais, France"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.nga.gov/collection/70367/collection/CG-E",
+      "id": "https://www.philamuseum.org/collection/object/pma1/collection/PDP",
       "type": "Set",
-      "_label": "CG-E",
+      "_label": "PDP",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300025976",
@@ -91,7 +71,7 @@
   ],
   "subject_of": [
     {
-      "id": "http://collection.imamuseum.org/artwork/70367",
+      "id": "http://collection.imamuseum.org/artwork/64-1993-1",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -110,15 +90,15 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.nga.gov/collection/70367/production",
+    "id": "https://www.philamuseum.org/collection/object/pma1/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.nga.gov/collection/70367/production/timespan",
+      "id": "https://www.philamuseum.org/collection/object/pma1/production/timespan",
       "type": "TimeSpan",
-      "_label": "mid-1850s",
-      "begin_of_the_begin": "1845",
-      "end_of_the_end": "1855"
+      "_label": "1846",
+      "begin_of_the_begin": "1846",
+      "end_of_the_end": "1846"
     }
   }
 }
