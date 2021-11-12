@@ -49,6 +49,7 @@ The different types of Jupyter notebooks:
 - Collections Data - transformations using real-world collections data
 - Data Model Parts - transformations for parts of the Linked Art Data Model
 - Transformation Process
+- Visualisation - visualisation using Linked Art JSON-LD
   
 
 |Notebook type | Notebook  | Download | nbviewer | Binder |
@@ -58,8 +59,8 @@ The different types of Jupyter notebooks:
 | Collections Data| Cleveland Museum of Art | [download](./jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_CMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_CMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_Data_to_Linked_Art_CMA.ipynb) |
 | Collections Data| National Gallery of Art | [download](./jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_NGA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_NGA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_Data_to_Linked_Art_NGA.ipynb) |
 | Data Model Parts|Core Properties| [download](./jupyter_notebooks/Core-Properties.ipynb) |||
-| Transformation Process| Transform CSV to Linked Data JSON-LD | [download](./jupyter_notebooks/CSV_to_Linked_Art_JSON-LD.ipynb)|  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FCSV_to_Linked_Art_JSON-LD.ipynb) |
-
+| Transformation Process| Transform CSV to Linked Data JSON-LD | [download](./jupyter_notebooks/CSV_to_Linked_Art_JSON-LD.ipynb) |  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FCSV_to_Linked_Art_JSON-LD.ipynb) |
+| Data Visualisation | John Ruskin Artworks Timeline | [download](./jupyter_notebooks/Linked_Art_Visualisation_John_Ruskin.ipynb)|||
 
 
 ## Availability
