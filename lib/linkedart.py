@@ -103,7 +103,7 @@ def createObjProp(obj,docProp):
     
     return objProp
 
-def objPrimaryname(objProp,mapp,object_uri):
+def objPrimaryname(objProp,object_uri):
     primaryname = None
     title = objProp["title"]
     id = str(objProp["id"])
@@ -111,14 +111,14 @@ def objPrimaryname(objProp,mapp,object_uri):
                                 value=title)
     return primaryname
 
-def objAlternatename(objProp,mapp,object_uri):
+def objAlternatename(objProp,object_uri):
     alternateName = None
     if "alt_title" in objProp:
         alt_title = objProp["alt_title"]
         alternatename = AlternateName(object_uri +  "/alternate-name",value=alt_title)
     return alternateName
 
-def objHomepage(objProp,mapp,object_uri):
+def objHomepage(objProp,object_uri):
 
     homepage = None
     id = str(objProp["id"])
@@ -133,7 +133,7 @@ def objHomepage(objProp,mapp,object_uri):
     return homepage
 
 
-def objProvenance(objProp,mapp,object_uri):
+def objProvenance(objProp,object_uri):
 
     prov = None
     if "created_provenance" in objProp:
@@ -148,21 +148,21 @@ def objProvenance(objProp,mapp,object_uri):
         return prov
 
 
-def objAccession(objProp, mapp,object_uri):
+def objAccession(objProp, object_uri):
     accession = None
     accession_number = objProp["accession_number"]
     if accession_number != "":
         accession = AccessionNumber(accession_number,value=accession_number)
     return accession
 
-def objLocalnumber(objProp,mapp,object_uri):
+def objLocalnumber(objProp,object_uri):
     localnumber = None
     id = str(objProp["id"])
     if id != "":
         localnumber = LocalNumber(id,value=id)
     return localnumber
 
-def objCollection(objProp,mapp,object_uri):
+def objCollection(objProp,object_uri):
     coll = None
     if "collection" in objProp:
         collection = objProp["collection"]
@@ -174,7 +174,7 @@ def objCollection(objProp,mapp,object_uri):
 
 
 
-def objCredit(objProp,mapp,object_uri):
+def objCredit(objProp,object_uri):
     credit = None
     propCredit = "credit_line"
     
@@ -191,7 +191,7 @@ def objCredit(objProp,mapp,object_uri):
 
 
 
-def objProduction(objProp,mapp,object_uri):
+def objProduction(objProp,object_uri):
 
     prod = None
 
@@ -215,7 +215,7 @@ def objProduction(objProp,mapp,object_uri):
     
         prod.timespan = timespan
 
-        propCreator = mapp["creator"] 
+        propCreator = "creator" 
         if propCreator in objProp:
             for creator in objProp[propCreator]:
                 actor = Actor()
@@ -227,7 +227,7 @@ def objProduction(objProp,mapp,object_uri):
             
     return prod
 
-def objCurrentowner(objProp,mapp,object_uri):
+def objCurrentowner(objProp,object_uri):
     current_owner = None
     if  "current_owner" in objProp and objProp["current_owner"]["name"] != "":
         cowner = objProp["current_owner"]["name"]
@@ -286,23 +286,26 @@ def objAcquisitionTimespan(object_uri,accession_date):
     return timespan
     
 
-def objCustody(objProp,mapp,object_uri):
+def objCustody(objProp,object_uri):
     
     custody = None
 
     if "current_status" in objProp and objProp["current_status"] != "" :
-        current_status = objProp[mapp["current_status"]]
-        currentowner = checkCurrentOwner(current_status)
+        current_status = objProp["current_status"]
+        current_owner = checkCurrentOwner(current_status)
     
-        if currentowner == False:
-            custody = Group(label="Indianapolis Museum of Art at Newfields")
-            custody.classified_as = Type("http://vocab.getty.edu/aat/300312281", 
-                                     label="museums (institutions)")
+        if current_owner == False:
+            name = objProp["current_owner"]["name"]
+            type = objProp["current_owner"]["type"]
+            label = objProp["current_owner"]["type_label"]
+            
+            custody = Group(label=name)
+            custody.classified_as = Type(type, 
+                                     label=label)
     return custody
 
 
-
-def createObjDesc(objProp,mapp,objTypes,object_uri):
+def createObjDesc(objProp,objTypes,object_uri):
     objLA = None
     objLA = HumanMadeObject() # linked art object
 
@@ -315,9 +318,9 @@ def createObjDesc(objProp,mapp,objTypes,object_uri):
     objLA._label =  objProp["title"]
     
     # IDENTIFIED_BY 
-    accession = objAccession(objProp,mapp,object_uri)
-    localnumber = objLocalnumber(objProp,mapp,object_uri)
-    primaryname = objPrimaryname(objProp,mapp,object_uri)
+    accession = objAccession(objProp,object_uri)
+    localnumber = objLocalnumber(objProp,object_uri)
+    primaryname = objPrimaryname(objProp,object_uri)
     
     listIds = (accession,localnumber,primaryname)
     identified_by = False
@@ -334,8 +337,8 @@ def createObjDesc(objProp,mapp,objTypes,object_uri):
     
     # REFERRED_TO_BY
     objLA.referred_to_by = None
-    prov = objProvenance(objProp,mapp,object_uri)
-    credit = objCredit(objProp,mapp,object_uri)
+    prov = objProvenance(objProp,object_uri)
+    credit = objCredit(objProp,object_uri)
     referred_to_by = False
     if prov is not None or credit is not None:
         referred_to_by = True
@@ -349,7 +352,7 @@ def createObjDesc(objProp,mapp,objTypes,object_uri):
     # SUBJECT_OF 
     objLA.subject_of = None 
     homepage = None  
-    homepage = objHomepage(objProp,mapp,object_uri)
+    homepage = objHomepage(objProp,object_uri)
     if homepage is not None:
         objLA.subject_of = homepage # home page
         
@@ -357,7 +360,7 @@ def createObjDesc(objProp,mapp,objTypes,object_uri):
     objLA.produced_by = None 
     if "creator" in objProp:
         prod = None
-        prod = objProduction(objProp,mapp,object_uri)
+        prod = objProduction(objProp,object_uri)
       #  objLA.produced_by = None
         if prod is not None:
             objLA.produced_by = prod # production
@@ -366,20 +369,20 @@ def createObjDesc(objProp,mapp,objTypes,object_uri):
     objLA.member_of = None 
     if "collection" in objProp:
         coll = None
-        coll = objCollection(objProp,mapp,object_uri)
+        coll = objCollection(objProp,object_uri)
         if coll is not None:
             objLA.member_of = coll # collection
 
     # CURRENT_KEEPER
     objLA.current_owner = None 
     custody = None
-    custody = objCustody(objProp,mapp,object_uri)
+    custody = objCustody(objProp,object_uri)
     if custody is not None:
         objLA.current_owner = custody
     
     # CURRENT_OWNER
-    if mapp["current_owner"] != "" and mapp["current_owner"] in objProp:
-        current_owner = objCurrentowner(objProp,mapp,object_uri)
+    if "current_owner" in objProp and objProp["current_owner"] != "":
+        current_owner = objCurrentowner(objProp,object_uri)
         if current_owner is not None:
             objLA.current_owner = current_owner
           
