@@ -227,31 +227,30 @@ def objProduction(objProp,mapp,object_uri):
             
     return prod
 
-
 def objCurrentowner(objProp,mapp,object_uri):
-    if objProp["current_owner"] != "" and objProp["current_owner"] in objProp:
-        current_owner = objProp["current_owner"]
-        if current_owner != "":
-            current_owner = Group("http://vocab.getty.edu/ulan/500300517", 
-                          label=current_owner
-                         )
-            current_owner.classified_as = Type("http://vocab.getty.edu/aat/300312281",
-                                      label="museums (institutions)")
-    
-            acquisition = objAcquisition(object_uri,objProp,mapp)
-            if acquisition is not None:
-                current_owner.acquired_title_through = acquisition 
+    current_owner = None
+    if  "current_owner" in objProp and objProp["current_owner"]["name"] != "":
+        cowner = objProp["current_owner"]["name"]
+        current_owner = Group( "http://vocab.getty.edu/ulan/500300517",label=cowner)
+        current_owner.classified_as = Type( "http://vocab.getty.edu/aat/300312281",label="museums (institutions)")
+        
+        
+        acquisition = objAcquisition(objProp,object_uri)
+        if acquisition is not None:
+            current_owner.acquired_title_through = acquisition 
     return current_owner 
 
-
-def objAcquisition(object_uri,objProp,mapp):
+def objAcquisition(objProp,object_uri):
     acquisition = None
-    accession_date = objProp["accession_date"]
-    if accession_date != "": 
+    if "accession_date" in objProp and objProp["accession_date"] != "":
         acquisition = Acquisition(object_uri + "/IMA-acquisition", label = "Acquisition of the Object")
-        acquisition.classified_as = Type("http://vocab.getty.edu/aat/300157782",label="acquisition (collections management)")
-        acquisition.took_place_at = Place("http://vocab.getty.edu/tgn/7012924", label="Indianapolis, Indiana") 
-        acquisition.timespan = objAcquisitionTimespan(object_uri,accession_date)
+        acquisition.classified_as = Type("http://vocab.getty.edu/aat/300157782",
+                                         label="acquisition (collections management)")
+        
+        if "name_location" in objProp["current_owner"]:
+            acquisition.took_place_at = Place("http://vocab.getty.edu/tgn/7012924", 
+                                              label=objProp["current_owner"]["name_location"]) 
+        acquisition.timespan = objAcquisitionTimespan(object_uri,objProp["accession_date"])
     return acquisition
 
 def objAcquisitionTimespan(object_uri,accession_date):
