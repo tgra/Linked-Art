@@ -46,21 +46,18 @@ The following options are available to view the Jupyter notebooks. Installation 
 ---
 ## Documented Interactive Code Jupyter Notebooks
 The different types of Jupyter notebooks:
-- Collections Data - transformations using real-world collections data
-- Data Model Parts - transformations for parts of the Linked Art Data Model
-- Transformation Process
-- Visualisation - visualisation using Linked Art JSON-LD
+- Transform - transformations using real-world collections data
+
+- Visualise - visualisation using Linked Art JSON-LD
   
 
 |Notebook type | Notebook  | Download | nbviewer | Binder |
 | -------- | ------------- | ------------- | ------- | ------ |
-| Collections Data | Indianapolis Museum of Art  |  [download](./jupyter_notebooks/Transforming_Collections_Data_To_Linked_Art_IMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_Data_To_Linked_Art_IMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_Data_To_Linked_Art_IMA.ipynb)|
-| Collections Data| Philadelphia Museum of Art | [download](./jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_PMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_PMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_Data_to_Linked_Art_PMA.ipynb) |
-| Collections Data| Cleveland Museum of Art | [download](./jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_CMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_CMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_Data_to_Linked_Art_CMA.ipynb) |
-| Collections Data| National Gallery of Art | [download](./jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_NGA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/jupyter_notebooks/Transforming_Collections_Data_to_Linked_Art_NGA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FTransforming_Collections_Data_to_Linked_Art_NGA.ipynb) |
-| Data Model Parts|Core Properties| [download](./jupyter_notebooks/Core-Properties.ipynb) ||[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FCore-Properties.ipynb)|
-| Transformation Process| Transform CSV to Linked Data JSON-LD | [download](./jupyter_notebooks/CSV_to_Linked_Art_JSON-LD.ipynb) |  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FCSV_to_Linked_Art_JSON-LD.ipynb) |
-| Data Visualisation | John Ruskin Artworks Timeline | [download](./jupyter_notebooks/Linked_Art_Visualisation_John_Ruskin.ipynb)||[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=jupyter_notebooks%2FLinked_Art_Visualisation_John_Ruskin.ipynb)|
+| Transform | Indianapolis Museum of Art  |  [download](01-01-Tranform-XML-IMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-01-Tranform-XML-IMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-01-Tranform-XML-IMA.ipynb)|
+| Transform| Philadelphia Museum of Art | [download](01-04-Tranform-CSV-PMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-04-Tranform-CSV-PMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-04-Tranform-CSV-PMA.ipynb) |
+| Transform| Cleveland Museum of Art | [download](01-02-Transform-CSV-CMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-02-Transform-CSV-CMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-02-Transform-CSV-CMA.ipynb) |
+| Transoform| National Gallery of Art | [download](01-03-Transform-CSV-NGA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-03-Transform-CSV-NGA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-03-Transform-CSV-NGA.ipynb) |
+| Visualise | John Ruskin Artworks Timeline | [download](02-01-Visualise-John-Ruskin.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/02-01-Visualise-John-Ruskin.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=02-01-Visualise-John-Ruskin.ipynb)|
 
 
 ## Availability
