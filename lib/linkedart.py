@@ -16,6 +16,12 @@ from cromulent.vocab import Production, TimeSpan, Actor
 from cromulent.vocab import LinguisticObject
 
 
+
+"""
+Dictionary of Object Types defined in Linked Art
+"""
+
+
 objTypes = {
 "Painting": Painting(),
 "Sculpture": Sculpture(),
@@ -107,7 +113,7 @@ def objPrimaryname(objProp,mapp,object_uri):
 
 def objAlternatename(objProp,mapp,object_uri):
     alternateName = None
-    if objProp["alt_title"] in objProp:
+    if "alt_title" in objProp:
         alt_title = objProp["alt_title"]
         alternatename = AlternateName(object_uri +  "/alternate-name",value=alt_title)
     return alternateName
