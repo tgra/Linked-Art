@@ -1,0 +1,123 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/8407",
+  "type": "HumanMadeObject",
+  "_label": "fragment",
+  "identified_by": [
+    {
+      "id": "https://data.discovernewfields.org/Identifier/33.1812",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ],
+      "content": "33.1812"
+    },
+    {
+      "id": "https://data.discovernewfields.org/Identifier/14365",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Owner-Assigned Number"
+        }
+      ],
+      "content": "14365"
+    },
+    {
+      "id": "https://data.discovernewfields.org/8407/primary-name",
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "fragment"
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://data.discovernewfields.org/8407/collection/908-Textile and Fashion Arts",
+      "type": "Set",
+      "_label": "908-Textile and Fashion Arts",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025976",
+          "type": "Type",
+          "_label": "collections (object groupings)"
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "http://collection.imamuseum.org/artwork/14365",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ],
+  "produced_by": {
+    "id": "https://data.discovernewfields.org/8407/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "https://data.discovernewfields.org/8407/production/timespan",
+      "type": "TimeSpan",
+      "_label": "about 1400"
+    }
+  },
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500300517",
+      "type": "Group",
+      "_label": "Indianapolis Museum of Art at Newfields",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "museums (institutions)"
+        }
+      ],
+      "acquired_title_through": [
+        {
+          "id": "https://data.discovernewfields.org/8407/IMA-acquisition",
+          "type": "Acquisition",
+          "_label": "Acquisition of the Object",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300157782",
+              "type": "Type",
+              "_label": "acquisition (collections management)"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.discovernewfields.org/8407/IMA-acquisition/timespan",
+            "type": "TimeSpan",
+            "_label": "1933-11-21",
+            "begin_of_the_begin": "1933-11-21T00:00:00.000Z",
+            "end_of_the_end": "1933-11-21T00:00:00.000Z"
+          }
+        }
+      ]
+    }
+  ]
+}

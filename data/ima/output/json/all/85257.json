@@ -1,0 +1,151 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/85257",
+  "type": "HumanMadeObject",
+  "_label": "blouse for evening dress",
+  "identified_by": [
+    {
+      "id": "https://data.discovernewfields.org/Identifier/80.262A",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ],
+      "content": "80.262A"
+    },
+    {
+      "id": "https://data.discovernewfields.org/Identifier/89163",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Owner-Assigned Number"
+        }
+      ],
+      "content": "89163"
+    },
+    {
+      "id": "https://data.discovernewfields.org/85257/primary-name",
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "blouse for evening dress"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://data.discovernewfields.org/85257/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ],
+      "content": "Halston Limited c/o Micheal Lichtenstien, New York, New York ; given to the Indianapolis Museum of Art in 1980."
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://data.discovernewfields.org/85257/collection/908-Textile and Fashion Arts",
+      "type": "Set",
+      "_label": "908-Textile and Fashion Arts",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025976",
+          "type": "Type",
+          "_label": "collections (object groupings)"
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "http://collection.imamuseum.org/artwork/89163",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ],
+  "produced_by": {
+    "id": "https://data.discovernewfields.org/85257/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "https://data.discovernewfields.org/85257/production/timespan",
+      "type": "TimeSpan",
+      "_label": "1980",
+      "begin_of_the_begin": "1980",
+      "end_of_the_end": "1980"
+    },
+    "carried_out_by": [
+      {
+        "id": "11481",
+        "type": "Actor"
+      }
+    ]
+  },
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500300517",
+      "type": "Group",
+      "_label": "Indianapolis Museum of Art at Newfields",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "museums (institutions)"
+        }
+      ],
+      "acquired_title_through": [
+        {
+          "id": "https://data.discovernewfields.org/85257/IMA-acquisition",
+          "type": "Acquisition",
+          "_label": "Acquisition of the Object",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300157782",
+              "type": "Type",
+              "_label": "acquisition (collections management)"
+            }
+          ],
+          "timespan": {
+            "id": "https://data.discovernewfields.org/85257/IMA-acquisition/timespan",
+            "type": "TimeSpan",
+            "_label": "1980-09-18",
+            "begin_of_the_begin": "1980-09-18T00:00:00.000Z",
+            "end_of_the_end": "1980-09-18T00:00:00.000Z"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/25098",
+  "type": "HumanMadeObject",
+  "_label": "Temptation of St. Anthony",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "https://data.discovernewfields.org/Identifier/C10007",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ],
+      "content": "C10007"
+    },
+    {
+      "id": "https://data.discovernewfields.org/Identifier/33886",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Owner-Assigned Number"
+        }
+      ],
+      "content": "33886"
+    },
+    {
+      "id": "https://data.discovernewfields.org/25098/primary-name",
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "Temptation of St. Anthony"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://data.discovernewfields.org/25098/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ],
+      "content": "Provenance research is on-going at the Indianapolis Museum of Art at Newfields. Please contact Annette Schlagenhauff, Curator of European Art, at aschlagenhauff@discovernewfields.org if you have questions, or if you have additional information to share with us."
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://data.discovernewfields.org/25098/collection/902.1-European Painting and Sculpture Before 1800",
+      "type": "Set",
+      "_label": "902.1-European Painting and Sculpture Before 1800",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025976",
+          "type": "Type",
+          "_label": "collections (object groupings)"
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "http://collection.imamuseum.org/artwork/33886",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ],
+  "produced_by": {
+    "id": "https://data.discovernewfields.org/25098/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "https://data.discovernewfields.org/25098/production/timespan",
+      "type": "TimeSpan",
+      "_label": "1575-1600",
+      "begin_of_the_begin": "1575",
+      "end_of_the_end": "1600"
+    },
+    "carried_out_by": [
+      {
+        "id": "600739",
+        "type": "Actor"
+      }
+    ]
+  },
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500300517",
+      "type": "Group",
+      "_label": "Indianapolis Museum of Art at Newfields",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "museums (institutions)"
+        }
+      ]
+    }
+  ]
+}

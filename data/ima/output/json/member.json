@@ -1,0 +1,20 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/object/82696",
+  "type": "HumanMadeObject",
+  "_label": "Five Brushstrokes",
+  "member_of": [
+    {
+      "id": "https://data.discovernewfields.org/collection/907-Contemporary",
+      "type": "Set",
+      "_label": "Collection of IMA at Newfields' Contemporary Department",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025976",
+          "type": "Type",
+          "_label": "collections (object groupings)"
+        }
+      ]
+    }
+  ]
+}

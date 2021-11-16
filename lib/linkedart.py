@@ -218,11 +218,13 @@ def objProduction(objProp,object_uri):
         propCreator = "creator" 
         if propCreator in objProp:
             for creator in objProp[propCreator]:
-                actor = Actor()
+                id = label = ""
                 if "id" in creator:
-                    actor.id = creator["id"]
-                if "label" in creator:
-                    actor.label = creator["name"]
+                    id = creator["id"]
+                if "name" in creator:
+                    label = creator["name"]
+                actor = Actor(id,label)
+
                 prod.carried_out_by = actor
             
     return prod
@@ -256,6 +258,7 @@ def objAcquisition(objProp,object_uri):
 def objAcquisitionTimespan(object_uri,accession_date):
     timespan = None
     end = begin = ""
+    accession_date = str(accession_date)
     if len(accession_date) == 4:
         begin = accession_date + "-01-01T00:00:00.000Z"
         end = accession_date + "-12-31T00:00:00.000Z"
