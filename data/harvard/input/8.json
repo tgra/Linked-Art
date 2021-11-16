@@ -1,0 +1,1644 @@
+{
+  "info": {
+    "totalrecordsperquery": 10,
+    "totalrecords": 108,
+    "pages": 11,
+    "page": 8,
+    "next": "https://api.harvardartmuseums.org/object?person=28419&apikey=8def5994-1631-4345-bed0-f9385bdd67c7&page=9",
+    "prev": "https://api.harvardartmuseums.org/object?person=28419&apikey=8def5994-1631-4345-bed0-f9385bdd67c7&page=7"
+  },
+  "records": [
+    {
+      "copyright": null,
+      "contextualtextcount": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Friends and Former Pupils of Professor C. H. Moore in recognition of his service",
+      "accesslevel": 1,
+      "dateoflastpageview": "2021-11-07",
+      "classificationid": 21,
+      "division": "European and American Art",
+      "markscount": 0,
+      "publicationcount": 6,
+      "totaluniquepageviews": 79,
+      "contact": "am_europeanamerican@harvard.edu",
+      "colorcount": 7,
+      "rank": 50111,
+      "state": null,
+      "id": 299103,
+      "verificationleveldescription": "Good. Object is well described and information is vetted",
+      "period": null,
+      "images": [
+        {
+          "date": "2005-04-11",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 149097,
+          "idsid": 18742782,
+          "format": "image/jpeg",
+          "description": null,
+          "technique": null,
+          "renditionnumber": "INV003789",
+          "displayorder": 1,
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV003789_dynmc",
+          "alttext": null,
+          "width": 1024,
+          "publiccaption": null,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/18742782",
+          "height": 728
+        }
+      ],
+      "worktypes": [
+        {
+          "worktypeid": "128",
+          "worktype": "drawing"
+        }
+      ],
+      "imagecount": 1,
+      "totalpageviews": 99,
+      "accessionyear": 1910,
+      "standardreferencenumber": null,
+      "signed": null,
+      "classification": "Drawings",
+      "relatedcount": 0,
+      "verificationlevel": 3,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV003789_dynmc",
+      "titlescount": 1,
+      "peoplecount": 1,
+      "style": null,
+      "lastupdate": "2021-11-15T04:24:40-0500",
+      "commentary": null,
+      "periodid": null,
+      "technique": null,
+      "edition": null,
+      "description": null,
+      "medium": "Watercolor, white gouache, graphite, and black chalk on gray-beige wove paper, darkened",
+      "lendingpermissionlevel": 0,
+      "title": "Convent and Alpine Pass, Visp, Switzerland",
+      "accessionmethod": "Gift",
+      "colors": [
+        {
+          "color": "#af9664",
+          "spectrum": "#e9715f",
+          "hue": "Yellow",
+          "percent": 0.9055974842767296,
+          "css3": "#bdb76b"
+        },
+        {
+          "color": "#e1e1c8",
+          "spectrum": "#e9715f",
+          "hue": "Green",
+          "percent": 0.024968553459119497,
+          "css3": "#dcdcdc"
+        },
+        {
+          "color": "#c8af96",
+          "spectrum": "#e66c64",
+          "hue": "Brown",
+          "percent": 0.02408805031446541,
+          "css3": "#d2b48c"
+        },
+        {
+          "color": "#e1c8af",
+          "spectrum": "#e9715f",
+          "hue": "Orange",
+          "percent": 0.02088050314465409,
+          "css3": "#f5deb3"
+        },
+        {
+          "color": "#fafae1",
+          "spectrum": "#ed765a",
+          "hue": "Green",
+          "percent": 0.014654088050314465,
+          "css3": "#ffffe0"
+        },
+        {
+          "color": "#7d644b",
+          "spectrum": "#b25593",
+          "hue": "Yellow",
+          "percent": 0.008742138364779875,
+          "css3": "#696969"
+        },
+        {
+          "color": "#644b32",
+          "spectrum": "#59ba4a",
+          "hue": "Brown",
+          "percent": 0.0010691823899371068,
+          "css3": "#556b2f"
+        }
+      ],
+      "provenance": null,
+      "groupcount": 0,
+      "dated": "1844",
+      "department": "Department of Drawings",
+      "dateend": 1844,
+      "people": [
+        {
+          "role": "Artist",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1819 - 1900",
+          "prefix": null,
+          "culture": "British",
+          "displayname": "John Ruskin",
+          "alphasort": "Ruskin, John",
+          "name": "John Ruskin",
+          "personid": 28419,
+          "deathplace": "Brantwood, England",
+          "displayorder": 1
+        }
+      ],
+      "url": "https://www.harvardartmuseums.org/collections/object/299103",
+      "dateoffirstpageview": "2009-05-27",
+      "century": "19th century",
+      "objectnumber": "1910.51",
+      "labeltext": null,
+      "datebegin": 1844,
+      "culture": "British",
+      "exhibitioncount": 2,
+      "imagepermissionlevel": 0,
+      "mediacount": 0,
+      "objectid": 299103,
+      "techniqueid": null,
+      "dimensions": "32.4 x 46.5 cm (12 3/4 x 18 5/16 in.)",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/299103",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright": null,
+      "contextualtextcount": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Transfer from the Fine Arts Department, Harvard University",
+      "accesslevel": 1,
+      "dateoflastpageview": "2020-10-28",
+      "classificationid": 21,
+      "division": "European and American Art",
+      "markscount": 0,
+      "publicationcount": 1,
+      "totaluniquepageviews": 27,
+      "contact": "am_europeanamerican@harvard.edu",
+      "colorcount": 10,
+      "rank": 53717,
+      "state": null,
+      "id": 299180,
+      "verificationleveldescription": "Good. Object is well described and information is vetted",
+      "period": null,
+      "images": [
+        {
+          "date": "1993-01-01",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 18980,
+          "idsid": 20682274,
+          "format": "image/jpeg",
+          "description": null,
+          "technique": "Kodak Ektapan",
+          "renditionnumber": "48791",
+          "displayorder": 1,
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS48791_dynmc",
+          "alttext": null,
+          "width": 815,
+          "publiccaption": null,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20682274",
+          "height": 1024
+        }
+      ],
+      "worktypes": [
+        {
+          "worktypeid": "128",
+          "worktype": "drawing"
+        }
+      ],
+      "imagecount": 1,
+      "totalpageviews": 32,
+      "accessionyear": 1926,
+      "standardreferencenumber": null,
+      "signed": null,
+      "classification": "Drawings",
+      "relatedcount": 0,
+      "verificationlevel": 3,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS48791_dynmc",
+      "titlescount": 1,
+      "peoplecount": 1,
+      "style": null,
+      "lastupdate": "2021-11-15T04:24:40-0500",
+      "commentary": null,
+      "periodid": null,
+      "technique": null,
+      "edition": null,
+      "description": null,
+      "medium": "Brown ink and graphite on buff wove paper",
+      "lendingpermissionlevel": 0,
+      "title": "Architectural Study at Sens: Sketch of Foolish Virgin Relief",
+      "accessionmethod": "Transfer",
+      "colors": [
+        {
+          "color": "#969696",
+          "spectrum": "#8761aa",
+          "hue": "Grey",
+          "percent": 0.3219607843137255,
+          "css3": "#a9a9a9"
+        },
+        {
+          "color": "#7d7d7d",
+          "spectrum": "#8362aa",
+          "hue": "Grey",
+          "percent": 0.31058823529411766,
+          "css3": "#808080"
+        },
+        {
+          "color": "#e1e1e1",
+          "spectrum": "#955ba5",
+          "hue": "Grey",
+          "percent": 0.09803921568627451,
+          "css3": "#dcdcdc"
+        },
+        {
+          "color": "#c8c8c8",
+          "spectrum": "#8c5fa8",
+          "hue": "Grey",
+          "percent": 0.08078431372549019,
+          "css3": "#c0c0c0"
+        },
+        {
+          "color": "#afafaf",
+          "spectrum": "#8c5fa8",
+          "hue": "Grey",
+          "percent": 0.0680672268907563,
+          "css3": "#a9a9a9"
+        },
+        {
+          "color": "#646464",
+          "spectrum": "#7866ad",
+          "hue": "Grey",
+          "percent": 0.06100840336134454,
+          "css3": "#696969"
+        },
+        {
+          "color": "#4b4b4b",
+          "spectrum": "#3db657",
+          "hue": "Grey",
+          "percent": 0.024481792717086833,
+          "css3": "#2f4f4f"
+        },
+        {
+          "color": "#fafafa",
+          "spectrum": "#955ba5",
+          "hue": "White",
+          "percent": 0.020168067226890758,
+          "css3": "#fffafa"
+        },
+        {
+          "color": "#323232",
+          "spectrum": "#2eb45d",
+          "hue": "Grey",
+          "percent": 0.009467787114845938,
+          "css3": "#2f4f4f"
+        },
+        {
+          "color": "#191919",
+          "spectrum": "#1eb264",
+          "hue": "Grey",
+          "percent": 0.004481792717086834,
+          "css3": "#000000"
+        }
+      ],
+      "provenance": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n",
+      "groupcount": 0,
+      "dated": "1849",
+      "department": "Department of Drawings",
+      "dateend": 1849,
+      "people": [
+        {
+          "role": "Artist",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1819 - 1900",
+          "prefix": null,
+          "culture": "British",
+          "displayname": "John Ruskin",
+          "alphasort": "Ruskin, John",
+          "name": "John Ruskin",
+          "personid": 28419,
+          "deathplace": "Brantwood, England",
+          "displayorder": 1
+        }
+      ],
+      "url": "https://www.harvardartmuseums.org/collections/object/299180",
+      "dateoffirstpageview": "2009-05-19",
+      "century": "19th century",
+      "objectnumber": "1926.33.128",
+      "labeltext": null,
+      "datebegin": 1849,
+      "culture": "British",
+      "exhibitioncount": 1,
+      "imagepermissionlevel": 0,
+      "mediacount": 0,
+      "objectid": 299180,
+      "techniqueid": null,
+      "dimensions": "25.4 x 16.5 cm (10 x 6 1/2 in.)",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/299180",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright": null,
+      "contextualtextcount": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Transfer from the Fine Arts Department, Harvard University",
+      "accesslevel": 1,
+      "dateoflastpageview": "2018-11-07",
+      "classificationid": 21,
+      "division": "European and American Art",
+      "markscount": 0,
+      "publicationcount": 1,
+      "totaluniquepageviews": 21,
+      "contact": "am_europeanamerican@harvard.edu",
+      "colorcount": 5,
+      "rank": 53689,
+      "state": null,
+      "id": 306292,
+      "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+      "period": null,
+      "images": [
+        {
+          "date": "2005-03-09",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 109181,
+          "idsid": 18740884,
+          "format": "image/jpeg",
+          "description": null,
+          "technique": null,
+          "renditionnumber": "INV001879",
+          "displayorder": 1,
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV001879_dynmc",
+          "alttext": null,
+          "width": 1024,
+          "publiccaption": null,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/18740884",
+          "height": 690
+        }
+      ],
+      "worktypes": [
+        {
+          "worktypeid": "128",
+          "worktype": "drawing"
+        }
+      ],
+      "imagecount": 1,
+      "totalpageviews": 24,
+      "accessionyear": 1926,
+      "standardreferencenumber": null,
+      "signed": null,
+      "classification": "Drawings",
+      "relatedcount": 0,
+      "verificationlevel": 4,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV001879_dynmc",
+      "titlescount": 1,
+      "peoplecount": 3,
+      "style": null,
+      "lastupdate": "2021-11-15T04:24:48-0500",
+      "commentary": null,
+      "periodid": null,
+      "technique": null,
+      "edition": null,
+      "description": "This is copied from a drawing by John Ruskin; see photocopy in curatorial file.  The drawing is no. 9 in his Rudimentary Series of 1878 at Oxford, and is described as \"Italian engraved writing of the Lombardic School.\"  The inscription is carved into one of the foundation stones of the Duomo of Lucca, which dates to 1060.  It translates as  \"Hoc opus cepit\", or \"[so-and-so] started this work\" and would probably have been used for a work by more than one artisan.",
+      "medium": "Brown ink and wash, white gouache over graphite on off-white wove paper",
+      "lendingpermissionlevel": 0,
+      "title": "Latin Inscription, after Ruskin",
+      "accessionmethod": "Transfer",
+      "colors": [
+        {
+          "color": "#fae1e1",
+          "spectrum": "#e76d63",
+          "hue": "Red",
+          "percent": 0.8202640264026403,
+          "css3": "#ffe4e1"
+        },
+        {
+          "color": "#e1e1c8",
+          "spectrum": "#e9715f",
+          "hue": "Green",
+          "percent": 0.13353135313531353,
+          "css3": "#dcdcdc"
+        },
+        {
+          "color": "#e1c8af",
+          "spectrum": "#e9715f",
+          "hue": "Orange",
+          "percent": 0.03993399339933994,
+          "css3": "#f5deb3"
+        },
+        {
+          "color": "#c8af96",
+          "spectrum": "#e66c64",
+          "hue": "Brown",
+          "percent": 0.0057425742574257425,
+          "css3": "#d2b48c"
+        },
+        {
+          "color": "#af967d",
+          "spectrum": "#c25687",
+          "hue": "Brown",
+          "percent": 0.000528052805280528,
+          "css3": "#bc8f8f"
+        }
+      ],
+      "provenance": "Fine Arts Department, Harvard University, Cambridge, MA; transferred to Fogg Art Museum, 1926.",
+      "groupcount": 0,
+      "dated": "19th-20th century",
+      "department": "Department of Drawings",
+      "dateend": 0,
+      "people": [
+        {
+          "role": "Artist",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1851 - 1942",
+          "prefix": null,
+          "culture": "British",
+          "displayname": "Arthur Mackmurdo",
+          "alphasort": "Mackmurdo, Arthur",
+          "name": "Arthur Mackmurdo",
+          "personid": 27316,
+          "deathplace": "Essex, England",
+          "displayorder": 1
+        },
+        {
+          "role": "Artist after",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1819 - 1900",
+          "prefix": "After",
+          "culture": "British",
+          "displayname": "After John Ruskin",
+          "alphasort": "Ruskin, John",
+          "name": "John Ruskin",
+          "personid": 28419,
+          "deathplace": "Brantwood, England",
+          "displayorder": 2
+        },
+        {
+          "role": "Previous attribution",
+          "birthplace": "New York, NY",
+          "gender": "male",
+          "displaydate": "1840 - 1930",
+          "prefix": "Previously attributed to",
+          "culture": "American",
+          "displayname": "Previously attributed to Charles Herbert Moore",
+          "alphasort": "Moore, Charles Herbert",
+          "name": "Charles Herbert Moore",
+          "personid": 27670,
+          "deathplace": "Harley Witney, Hampshire, England",
+          "displayorder": 3
+        }
+      ],
+      "url": "https://www.harvardartmuseums.org/collections/object/306292",
+      "dateoffirstpageview": "2009-05-19",
+      "century": "19th-20th century",
+      "objectnumber": "1926.33.101",
+      "labeltext": null,
+      "datebegin": 0,
+      "culture": "British",
+      "exhibitioncount": 1,
+      "imagepermissionlevel": 0,
+      "mediacount": 0,
+      "objectid": 306292,
+      "techniqueid": null,
+      "dimensions": "21.6 x 31.9 cm (8 1/2 x 12 9/16 in.)\r\nmount: 24.4 x 31.5 cm (9 5/8 x 12 3/8 in.)\r\nGraphite border drawn around image.: 8.8 x 19.9 cm (3 7/16 x 7 13/16 in.)",
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/306292",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright": null,
+      "contextualtextcount": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Winslow Ames",
+      "accesslevel": 1,
+      "dateoflastpageview": "2021-11-13",
+      "classificationid": 23,
+      "division": "European and American Art",
+      "markscount": 0,
+      "publicationcount": 0,
+      "totaluniquepageviews": 22,
+      "contact": "am_europeanamerican@harvard.edu",
+      "colorcount": 4,
+      "rank": 212951,
+      "state": null,
+      "id": 255472,
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "period": null,
+      "images": [
+        {
+          "date": "2008-06-03",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 310596,
+          "idsid": 20458869,
+          "format": "image/jpeg",
+          "description": null,
+          "technique": null,
+          "renditionnumber": "INV194144",
+          "displayorder": 1,
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV194144_dynmc",
+          "alttext": null,
+          "width": 1024,
+          "publiccaption": null,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20458869",
+          "height": 710
+        }
+      ],
+      "worktypes": [
+        {
+          "worktypeid": "288",
+          "worktype": "print"
+        }
+      ],
+      "imagecount": 1,
+      "totalpageviews": 39,
+      "accessionyear": 1935,
+      "standardreferencenumber": null,
+      "signed": null,
+      "classification": "Prints",
+      "relatedcount": 0,
+      "verificationlevel": 2,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV194144_dynmc",
+      "titlescount": 2,
+      "peoplecount": 1,
+      "style": null,
+      "lastupdate": "2021-11-15T04:23:55-0500",
+      "commentary": null,
+      "periodid": null,
+      "technique": "Etching",
+      "edition": null,
+      "description": null,
+      "medium": null,
+      "lendingpermissionlevel": 0,
+      "title": "Study of Pines at Sestri",
+      "accessionmethod": "Gift",
+      "colors": [
+        {
+          "color": "#e1e1c8",
+          "spectrum": "#e9715f",
+          "hue": "Green",
+          "percent": 0.9342948717948718,
+          "css3": "#dcdcdc"
+        },
+        {
+          "color": "#96967d",
+          "spectrum": "#8e5ea7",
+          "hue": "Green",
+          "percent": 0.028846153846153848,
+          "css3": "#808080"
+        },
+        {
+          "color": "#afaf96",
+          "spectrum": "#8e5ea7",
+          "hue": "Green",
+          "percent": 0.02435897435897436,
+          "css3": "#a9a9a9"
+        },
+        {
+          "color": "#7d7d64",
+          "spectrum": "#6cbd45",
+          "hue": "Yellow",
+          "percent": 0.0125,
+          "css3": "#808080"
+        }
+      ],
+      "provenance": "Winslow Ames, gift; to Fogg Art Museum, 1935",
+      "groupcount": 0,
+      "dated": "19th century",
+      "department": "Department of Prints",
+      "dateend": 0,
+      "people": [
+        {
+          "role": "Artist",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1819 - 1900",
+          "prefix": null,
+          "culture": "British",
+          "displayname": "John Ruskin",
+          "alphasort": "Ruskin, John",
+          "name": "John Ruskin",
+          "personid": 28419,
+          "deathplace": "Brantwood, England",
+          "displayorder": 1
+        }
+      ],
+      "url": "https://www.harvardartmuseums.org/collections/object/255472",
+      "dateoffirstpageview": "2009-05-19",
+      "century": "19th century",
+      "objectnumber": "M8237",
+      "labeltext": null,
+      "datebegin": 0,
+      "culture": "British",
+      "exhibitioncount": 0,
+      "imagepermissionlevel": 0,
+      "mediacount": 0,
+      "objectid": 255472,
+      "techniqueid": 116,
+      "dimensions": null,
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/255472",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright": null,
+      "contextualtextcount": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Transfer from Fine Arts Department",
+      "accesslevel": 1,
+      "dateoflastpageview": "2021-08-14",
+      "classificationid": 23,
+      "division": "European and American Art",
+      "markscount": 0,
+      "publicationcount": 0,
+      "totaluniquepageviews": 6,
+      "contact": "am_europeanamerican@harvard.edu",
+      "colorcount": 7,
+      "rank": 208217,
+      "state": null,
+      "id": 258508,
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "period": null,
+      "images": [
+        {
+          "date": "2008-05-19",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 307569,
+          "idsid": 20456132,
+          "format": "image/jpeg",
+          "description": null,
+          "technique": null,
+          "renditionnumber": "INV191205",
+          "displayorder": 1,
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV191205_dynmc",
+          "alttext": null,
+          "width": 758,
+          "publiccaption": null,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20456132",
+          "height": 1024
+        }
+      ],
+      "worktypes": [
+        {
+          "worktypeid": "288",
+          "worktype": "print"
+        }
+      ],
+      "imagecount": 1,
+      "totalpageviews": 6,
+      "accessionyear": 1928,
+      "standardreferencenumber": null,
+      "signed": null,
+      "classification": "Prints",
+      "relatedcount": 0,
+      "verificationlevel": 2,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV191205_dynmc",
+      "titlescount": 1,
+      "peoplecount": 2,
+      "style": null,
+      "lastupdate": "2021-11-15T04:23:58-0500",
+      "commentary": null,
+      "periodid": null,
+      "technique": "Etching and mezzotint",
+      "edition": null,
+      "description": null,
+      "medium": null,
+      "lendingpermissionlevel": 0,
+      "title": "Acanthoid leaves: Northern Attic type",
+      "accessionmethod": "Transfer",
+      "colors": [
+        {
+          "color": "#e1e1e1",
+          "spectrum": "#955ba5",
+          "hue": "Grey",
+          "percent": 0.9470870870870871,
+          "css3": "#dcdcdc"
+        },
+        {
+          "color": "#c8afaf",
+          "spectrum": "#b55592",
+          "hue": "Red",
+          "percent": 0.029489489489489488,
+          "css3": "#c0c0c0"
+        },
+        {
+          "color": "#af9696",
+          "spectrum": "#ae5596",
+          "hue": "Brown",
+          "percent": 0.011951951951951952,
+          "css3": "#bc8f8f"
+        },
+        {
+          "color": "#967d7d",
+          "spectrum": "#955ba5",
+          "hue": "Brown",
+          "percent": 0.005405405405405406,
+          "css3": "#808080"
+        },
+        {
+          "color": "#7d6464",
+          "spectrum": "#8e5ea7",
+          "hue": "Brown",
+          "percent": 0.0036636636636636637,
+          "css3": "#696969"
+        },
+        {
+          "color": "#644b4b",
+          "spectrum": "#8362aa",
+          "hue": "Brown",
+          "percent": 0.0019219219219219219,
+          "css3": "#696969"
+        },
+        {
+          "color": "#4b3232",
+          "spectrum": "#4ab851",
+          "hue": "Red",
+          "percent": 0.00048048048048048047,
+          "css3": "#2f4f4f"
+        }
+      ],
+      "provenance": null,
+      "groupcount": 0,
+      "dated": "19th-20th century",
+      "department": "Department of Prints",
+      "dateend": 0,
+      "people": [
+        {
+          "role": "Artist",
+          "birthplace": null,
+          "gender": "unidentified",
+          "displaydate": "19th-20th centuries",
+          "prefix": null,
+          "culture": "British",
+          "displayname": "G. Allen",
+          "alphasort": "Allen, G.",
+          "name": "G. Allen",
+          "personid": 30705,
+          "deathplace": null,
+          "displayorder": 1
+        },
+        {
+          "role": "Artist after",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1819 - 1900",
+          "prefix": "After",
+          "culture": "British",
+          "displayname": "After John Ruskin",
+          "alphasort": "Ruskin, John",
+          "name": "John Ruskin",
+          "personid": 28419,
+          "deathplace": "Brantwood, England",
+          "displayorder": 2
+        }
+      ],
+      "url": "https://www.harvardartmuseums.org/collections/object/258508",
+      "dateoffirstpageview": "2020-03-17",
+      "century": "19th-20th century",
+      "objectnumber": "M3443",
+      "labeltext": null,
+      "datebegin": 0,
+      "culture": "British",
+      "exhibitioncount": 0,
+      "imagepermissionlevel": 0,
+      "mediacount": 0,
+      "objectid": 258508,
+      "techniqueid": 312,
+      "dimensions": null,
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/258508",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright": null,
+      "contextualtextcount": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop",
+      "accesslevel": 1,
+      "dateoflastpageview": "2020-02-18",
+      "classificationid": 23,
+      "division": "European and American Art",
+      "markscount": 0,
+      "publicationcount": 0,
+      "totaluniquepageviews": 13,
+      "contact": "am_europeanamerican@harvard.edu",
+      "colorcount": 7,
+      "rank": 215496,
+      "state": null,
+      "id": 262432,
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "period": null,
+      "images": [
+        {
+          "date": "2008-06-03",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 310598,
+          "idsid": 20458871,
+          "format": "image/jpeg",
+          "description": null,
+          "technique": null,
+          "renditionnumber": "INV194146",
+          "displayorder": 1,
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV194146_dynmc",
+          "alttext": null,
+          "width": 1024,
+          "publiccaption": null,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20458871",
+          "height": 700
+        }
+      ],
+      "worktypes": [
+        {
+          "worktypeid": "288",
+          "worktype": "print"
+        }
+      ],
+      "imagecount": 1,
+      "totalpageviews": 20,
+      "accessionyear": 1943,
+      "standardreferencenumber": null,
+      "signed": null,
+      "classification": "Prints",
+      "relatedcount": 0,
+      "verificationlevel": 2,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV194146_dynmc",
+      "titlescount": 1,
+      "peoplecount": 2,
+      "style": null,
+      "lastupdate": "2021-11-15T04:24:02-0500",
+      "commentary": null,
+      "periodid": null,
+      "technique": "Etching",
+      "edition": null,
+      "description": null,
+      "medium": null,
+      "lendingpermissionlevel": 2,
+      "title": "Lake of Zug",
+      "accessionmethod": "Bequest",
+      "colors": [
+        {
+          "color": "#e1e1e1",
+          "spectrum": "#955ba5",
+          "hue": "Grey",
+          "percent": 0.8077777777777778,
+          "css3": "#dcdcdc"
+        },
+        {
+          "color": "#c8c8c8",
+          "spectrum": "#8c5fa8",
+          "hue": "Grey",
+          "percent": 0.13209150326797386,
+          "css3": "#c0c0c0"
+        },
+        {
+          "color": "#afafaf",
+          "spectrum": "#8c5fa8",
+          "hue": "Grey",
+          "percent": 0.03366013071895425,
+          "css3": "#a9a9a9"
+        },
+        {
+          "color": "#969696",
+          "spectrum": "#8761aa",
+          "hue": "Grey",
+          "percent": 0.017254901960784313,
+          "css3": "#a9a9a9"
+        },
+        {
+          "color": "#7d7d7d",
+          "spectrum": "#8362aa",
+          "hue": "Grey",
+          "percent": 0.0067973856209150325,
+          "css3": "#808080"
+        },
+        {
+          "color": "#646464",
+          "spectrum": "#7866ad",
+          "hue": "Grey",
+          "percent": 0.0020261437908496733,
+          "css3": "#696969"
+        },
+        {
+          "color": "#4b4b4b",
+          "spectrum": "#3db657",
+          "hue": "Grey",
+          "percent": 0.000392156862745098,
+          "css3": "#2f4f4f"
+        }
+      ],
+      "provenance": null,
+      "groupcount": 0,
+      "dated": "19th century",
+      "department": "Department of Prints",
+      "dateend": 0,
+      "people": [
+        {
+          "role": "Artist",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1819 - 1900",
+          "prefix": null,
+          "culture": "British",
+          "displayname": "John Ruskin",
+          "alphasort": "Ruskin, John",
+          "name": "John Ruskin",
+          "personid": 28419,
+          "deathplace": "Brantwood, England",
+          "displayorder": 1
+        },
+        {
+          "role": "Artist after",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1775 - 1851",
+          "prefix": "After",
+          "culture": "British",
+          "displayname": "After Joseph Mallord William Turner",
+          "alphasort": "Turner, Joseph Mallord William",
+          "name": "Joseph Mallord William Turner",
+          "personid": 29118,
+          "deathplace": "Chelsea, England",
+          "displayorder": 2
+        }
+      ],
+      "url": "https://www.harvardartmuseums.org/collections/object/262432",
+      "dateoffirstpageview": "2009-05-19",
+      "century": "19th century",
+      "objectnumber": "M10899",
+      "labeltext": null,
+      "datebegin": 0,
+      "culture": "British",
+      "exhibitioncount": 0,
+      "imagepermissionlevel": 0,
+      "mediacount": 0,
+      "objectid": 262432,
+      "techniqueid": 116,
+      "dimensions": null,
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/262432",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright": null,
+      "contextualtextcount": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Miss Ellen Bullard",
+      "accesslevel": 1,
+      "dateoflastpageview": "2021-09-27",
+      "classificationid": 23,
+      "division": "European and American Art",
+      "markscount": 0,
+      "publicationcount": 0,
+      "totaluniquepageviews": 23,
+      "contact": "am_europeanamerican@harvard.edu",
+      "colorcount": 7,
+      "rank": 205863,
+      "state": null,
+      "id": 262489,
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "period": null,
+      "images": [
+        {
+          "date": "2008-06-03",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 310641,
+          "idsid": 20458914,
+          "format": "image/jpeg",
+          "description": null,
+          "technique": null,
+          "renditionnumber": "INV194189",
+          "displayorder": 1,
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV194189_dynmc",
+          "alttext": null,
+          "width": 1024,
+          "publiccaption": null,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20458914",
+          "height": 677
+        }
+      ],
+      "worktypes": [
+        {
+          "worktypeid": "288",
+          "worktype": "print"
+        }
+      ],
+      "imagecount": 1,
+      "totalpageviews": 30,
+      "accessionyear": 1921,
+      "standardreferencenumber": null,
+      "signed": null,
+      "classification": "Prints",
+      "relatedcount": 0,
+      "verificationlevel": 2,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV194189_dynmc",
+      "titlescount": 1,
+      "peoplecount": 2,
+      "style": null,
+      "lastupdate": "2021-11-15T04:24:02-0500",
+      "commentary": null,
+      "periodid": null,
+      "technique": "Etching",
+      "edition": null,
+      "description": null,
+      "medium": null,
+      "lendingpermissionlevel": 0,
+      "title": "Lake of Zug",
+      "accessionmethod": "Gift",
+      "colors": [
+        {
+          "color": "#e1e1e1",
+          "spectrum": "#955ba5",
+          "hue": "Grey",
+          "percent": 0.7935353535353535,
+          "css3": "#dcdcdc"
+        },
+        {
+          "color": "#c8c8c8",
+          "spectrum": "#8c5fa8",
+          "hue": "Grey",
+          "percent": 0.13757575757575757,
+          "css3": "#c0c0c0"
+        },
+        {
+          "color": "#afafaf",
+          "spectrum": "#8c5fa8",
+          "hue": "Grey",
+          "percent": 0.03925925925925926,
+          "css3": "#a9a9a9"
+        },
+        {
+          "color": "#969696",
+          "spectrum": "#8761aa",
+          "hue": "Grey",
+          "percent": 0.01973063973063973,
+          "css3": "#a9a9a9"
+        },
+        {
+          "color": "#7d7d7d",
+          "spectrum": "#8362aa",
+          "hue": "Grey",
+          "percent": 0.007138047138047138,
+          "css3": "#808080"
+        },
+        {
+          "color": "#646464",
+          "spectrum": "#7866ad",
+          "hue": "Grey",
+          "percent": 0.0021548821548821547,
+          "css3": "#696969"
+        },
+        {
+          "color": "#4b4b4b",
+          "spectrum": "#3db657",
+          "hue": "Grey",
+          "percent": 0.0006060606060606061,
+          "css3": "#2f4f4f"
+        }
+      ],
+      "provenance": null,
+      "groupcount": 0,
+      "dated": "19th century",
+      "department": "Department of Prints",
+      "dateend": 0,
+      "people": [
+        {
+          "role": "Artist",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1819 - 1900",
+          "prefix": null,
+          "culture": "British",
+          "displayname": "John Ruskin",
+          "alphasort": "Ruskin, John",
+          "name": "John Ruskin",
+          "personid": 28419,
+          "deathplace": "Brantwood, England",
+          "displayorder": 1
+        },
+        {
+          "role": "Artist after",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1775 - 1851",
+          "prefix": "After",
+          "culture": "British",
+          "displayname": "After Joseph Mallord William Turner",
+          "alphasort": "Turner, Joseph Mallord William",
+          "name": "Joseph Mallord William Turner",
+          "personid": 29118,
+          "deathplace": "Chelsea, England",
+          "displayorder": 2
+        }
+      ],
+      "url": "https://www.harvardartmuseums.org/collections/object/262489",
+      "dateoffirstpageview": "2009-05-19",
+      "century": "19th century",
+      "objectnumber": "M2124",
+      "labeltext": null,
+      "datebegin": 0,
+      "culture": "British",
+      "exhibitioncount": 0,
+      "imagepermissionlevel": 0,
+      "mediacount": 0,
+      "objectid": 262489,
+      "techniqueid": 116,
+      "dimensions": null,
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/262489",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright": null,
+      "contextualtextcount": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Miss Ellen Bullard",
+      "accesslevel": 1,
+      "dateoflastpageview": "2015-12-25",
+      "classificationid": 23,
+      "division": "European and American Art",
+      "markscount": 0,
+      "publicationcount": 0,
+      "totaluniquepageviews": 34,
+      "contact": "am_europeanamerican@harvard.edu",
+      "colorcount": 7,
+      "rank": 205822,
+      "state": null,
+      "id": 262979,
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "period": null,
+      "images": [
+        {
+          "date": "2008-06-03",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 310591,
+          "idsid": 20458865,
+          "format": "image/jpeg",
+          "description": null,
+          "technique": null,
+          "renditionnumber": "INV194139",
+          "displayorder": 1,
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV194139_dynmc",
+          "alttext": null,
+          "width": 766,
+          "publiccaption": null,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20458865",
+          "height": 1024
+        }
+      ],
+      "worktypes": [
+        {
+          "worktypeid": "288",
+          "worktype": "print"
+        }
+      ],
+      "imagecount": 1,
+      "totalpageviews": 47,
+      "accessionyear": 1921,
+      "standardreferencenumber": null,
+      "signed": null,
+      "classification": "Prints",
+      "relatedcount": 0,
+      "verificationlevel": 2,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV194139_dynmc",
+      "titlescount": 1,
+      "peoplecount": 1,
+      "style": null,
+      "lastupdate": "2021-11-15T04:24:03-0500",
+      "commentary": null,
+      "periodid": null,
+      "technique": "Softground etching",
+      "edition": null,
+      "description": null,
+      "medium": null,
+      "lendingpermissionlevel": 0,
+      "title": "Capital from the Lower Arcade of the Doges' Palace, Venice",
+      "accessionmethod": "Gift",
+      "colors": [
+        {
+          "color": "#e1e1c8",
+          "spectrum": "#e9715f",
+          "hue": "Green",
+          "percent": 0.5446428571428571,
+          "css3": "#dcdcdc"
+        },
+        {
+          "color": "#64644b",
+          "spectrum": "#59ba4a",
+          "hue": "Green",
+          "percent": 0.09803571428571428,
+          "css3": "#696969"
+        },
+        {
+          "color": "#c8c8af",
+          "spectrum": "#b55592",
+          "hue": "Green",
+          "percent": 0.09577380952380952,
+          "css3": "#c0c0c0"
+        },
+        {
+          "color": "#7d7d64",
+          "spectrum": "#6cbd45",
+          "hue": "Yellow",
+          "percent": 0.07964285714285714,
+          "css3": "#808080"
+        },
+        {
+          "color": "#4b4b32",
+          "spectrum": "#4ab851",
+          "hue": "Green",
+          "percent": 0.06255952380952381,
+          "css3": "#556b2f"
+        },
+        {
+          "color": "#afaf96",
+          "spectrum": "#8e5ea7",
+          "hue": "Green",
+          "percent": 0.060833333333333336,
+          "css3": "#a9a9a9"
+        },
+        {
+          "color": "#96967d",
+          "spectrum": "#8e5ea7",
+          "hue": "Green",
+          "percent": 0.058511904761904765,
+          "css3": "#808080"
+        }
+      ],
+      "provenance": null,
+      "groupcount": 0,
+      "dated": "19th century",
+      "department": "Department of Prints",
+      "dateend": 0,
+      "people": [
+        {
+          "role": "Artist",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1819 - 1900",
+          "prefix": null,
+          "culture": "British",
+          "displayname": "John Ruskin",
+          "alphasort": "Ruskin, John",
+          "name": "John Ruskin",
+          "personid": 28419,
+          "deathplace": "Brantwood, England",
+          "displayorder": 1
+        }
+      ],
+      "url": "https://www.harvardartmuseums.org/collections/object/262979",
+      "dateoffirstpageview": "2009-05-19",
+      "century": "19th century",
+      "objectnumber": "M2082",
+      "labeltext": null,
+      "datebegin": 0,
+      "culture": "British",
+      "exhibitioncount": 0,
+      "imagepermissionlevel": 0,
+      "mediacount": 0,
+      "objectid": 262979,
+      "techniqueid": 585,
+      "dimensions": null,
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/262979",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright": null,
+      "contextualtextcount": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Miss Ellen Bullard",
+      "accesslevel": 1,
+      "dateoflastpageview": "2015-09-06",
+      "classificationid": 23,
+      "division": "European and American Art",
+      "markscount": 0,
+      "publicationcount": 0,
+      "totaluniquepageviews": 19,
+      "contact": "am_europeanamerican@harvard.edu",
+      "colorcount": 4,
+      "rank": 205862,
+      "state": null,
+      "id": 263017,
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "period": null,
+      "images": [
+        {
+          "date": "2008-06-03",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 310626,
+          "idsid": 20458899,
+          "format": "image/jpeg",
+          "description": null,
+          "technique": null,
+          "renditionnumber": "INV194174",
+          "displayorder": 1,
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV194174_dynmc",
+          "alttext": null,
+          "width": 1024,
+          "publiccaption": null,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20458899",
+          "height": 688
+        }
+      ],
+      "worktypes": [
+        {
+          "worktypeid": "288",
+          "worktype": "print"
+        }
+      ],
+      "imagecount": 1,
+      "totalpageviews": 22,
+      "accessionyear": 1921,
+      "standardreferencenumber": null,
+      "signed": null,
+      "classification": "Prints",
+      "relatedcount": 0,
+      "verificationlevel": 2,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV194174_dynmc",
+      "titlescount": 1,
+      "peoplecount": 2,
+      "style": null,
+      "lastupdate": "2021-11-15T04:24:03-0500",
+      "commentary": null,
+      "periodid": null,
+      "technique": "Etching",
+      "edition": null,
+      "description": null,
+      "medium": null,
+      "lendingpermissionlevel": 0,
+      "title": "Dawn After the Wreck",
+      "accessionmethod": "Gift",
+      "colors": [
+        {
+          "color": "#e1e1e1",
+          "spectrum": "#955ba5",
+          "hue": "Grey",
+          "percent": 0.9799333333333333,
+          "css3": "#dcdcdc"
+        },
+        {
+          "color": "#c8af96",
+          "spectrum": "#e66c64",
+          "hue": "Brown",
+          "percent": 0.010533333333333334,
+          "css3": "#d2b48c"
+        },
+        {
+          "color": "#af967d",
+          "spectrum": "#c25687",
+          "hue": "Brown",
+          "percent": 0.006533333333333334,
+          "css3": "#bc8f8f"
+        },
+        {
+          "color": "#af7d64",
+          "spectrum": "#c85783",
+          "hue": "Brown",
+          "percent": 0.003,
+          "css3": "#cd5c5c"
+        }
+      ],
+      "provenance": null,
+      "groupcount": 0,
+      "dated": "19th century",
+      "department": "Department of Prints",
+      "dateend": 0,
+      "people": [
+        {
+          "role": "Artist",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1819 - 1900",
+          "prefix": null,
+          "culture": "British",
+          "displayname": "John Ruskin",
+          "alphasort": "Ruskin, John",
+          "name": "John Ruskin",
+          "personid": 28419,
+          "deathplace": "Brantwood, England",
+          "displayorder": 1
+        },
+        {
+          "role": "Artist after",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1775 - 1851",
+          "prefix": "After",
+          "culture": "British",
+          "displayname": "After Joseph Mallord William Turner",
+          "alphasort": "Turner, Joseph Mallord William",
+          "name": "Joseph Mallord William Turner",
+          "personid": 29118,
+          "deathplace": "Chelsea, England",
+          "displayorder": 2
+        }
+      ],
+      "url": "https://www.harvardartmuseums.org/collections/object/263017",
+      "dateoffirstpageview": "2009-05-19",
+      "century": "19th century",
+      "objectnumber": "M2123",
+      "labeltext": null,
+      "datebegin": 0,
+      "culture": "British",
+      "exhibitioncount": 0,
+      "imagepermissionlevel": 0,
+      "mediacount": 0,
+      "objectid": 263017,
+      "techniqueid": 116,
+      "dimensions": null,
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/263017",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright": null,
+      "contextualtextcount": 0,
+      "creditline": "Harvard Art Museums/Fogg Museum, Gift of Miss Ellen Bullard",
+      "accesslevel": 1,
+      "dateoflastpageview": "2021-11-07",
+      "classificationid": 23,
+      "division": "European and American Art",
+      "markscount": 0,
+      "publicationcount": 0,
+      "totaluniquepageviews": 22,
+      "contact": "am_europeanamerican@harvard.edu",
+      "colorcount": 6,
+      "rank": 205865,
+      "state": null,
+      "id": 263018,
+      "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+      "period": null,
+      "images": [
+        {
+          "date": "2008-06-03",
+          "copyright": "President and Fellows of Harvard College",
+          "imageid": 310595,
+          "idsid": 20458868,
+          "format": "image/jpeg",
+          "description": null,
+          "technique": null,
+          "renditionnumber": "INV194143",
+          "displayorder": 1,
+          "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV194143_dynmc",
+          "alttext": null,
+          "width": 744,
+          "publiccaption": null,
+          "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20458868",
+          "height": 1024
+        }
+      ],
+      "worktypes": [
+        {
+          "worktypeid": "288",
+          "worktype": "print"
+        }
+      ],
+      "imagecount": 1,
+      "totalpageviews": 34,
+      "accessionyear": 1921,
+      "standardreferencenumber": null,
+      "signed": null,
+      "classification": "Prints",
+      "relatedcount": 0,
+      "verificationlevel": 2,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV194143_dynmc",
+      "titlescount": 1,
+      "peoplecount": 1,
+      "style": null,
+      "lastupdate": "2021-11-15T04:24:03-0500",
+      "commentary": null,
+      "periodid": null,
+      "technique": "Softground etching",
+      "edition": null,
+      "description": null,
+      "medium": null,
+      "lendingpermissionlevel": 0,
+      "title": "Fragments from Abbeville, Lucca, Venice, and Pisa",
+      "accessionmethod": "Gift",
+      "colors": [
+        {
+          "color": "#e1e1c8",
+          "spectrum": "#e9715f",
+          "hue": "Green",
+          "percent": 0.8666049382716049,
+          "css3": "#dcdcdc"
+        },
+        {
+          "color": "#afaf96",
+          "spectrum": "#8e5ea7",
+          "hue": "Green",
+          "percent": 0.052222222222222225,
+          "css3": "#a9a9a9"
+        },
+        {
+          "color": "#96967d",
+          "spectrum": "#8e5ea7",
+          "hue": "Green",
+          "percent": 0.026049382716049382,
+          "css3": "#808080"
+        },
+        {
+          "color": "#7d7d64",
+          "spectrum": "#6cbd45",
+          "hue": "Yellow",
+          "percent": 0.024012345679012347,
+          "css3": "#808080"
+        },
+        {
+          "color": "#64644b",
+          "spectrum": "#59ba4a",
+          "hue": "Green",
+          "percent": 0.019753086419753086,
+          "css3": "#696969"
+        },
+        {
+          "color": "#4b4b32",
+          "spectrum": "#4ab851",
+          "hue": "Green",
+          "percent": 0.011358024691358024,
+          "css3": "#556b2f"
+        }
+      ],
+      "provenance": null,
+      "groupcount": 0,
+      "dated": "19th century",
+      "department": "Department of Prints",
+      "dateend": 0,
+      "people": [
+        {
+          "role": "Artist",
+          "birthplace": "London, England",
+          "gender": "male",
+          "displaydate": "1819 - 1900",
+          "prefix": null,
+          "culture": "British",
+          "displayname": "John Ruskin",
+          "alphasort": "Ruskin, John",
+          "name": "John Ruskin",
+          "personid": 28419,
+          "deathplace": "Brantwood, England",
+          "displayorder": 1
+        }
+      ],
+      "url": "https://www.harvardartmuseums.org/collections/object/263018",
+      "dateoffirstpageview": "2009-05-19",
+      "century": "19th century",
+      "objectnumber": "M2127",
+      "labeltext": null,
+      "datebegin": 0,
+      "culture": "British",
+      "exhibitioncount": 0,
+      "imagepermissionlevel": 0,
+      "mediacount": 0,
+      "objectid": 263018,
+      "techniqueid": 585,
+      "dimensions": null,
+      "seeAlso": [
+        {
+          "id": "https://iiif.harvardartmuseums.org/manifests/object/263018",
+          "type": "IIIF Manifest",
+          "format": "application/json",
+          "profile": "http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    }
+  ]
+}

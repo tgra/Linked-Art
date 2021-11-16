@@ -218,7 +218,6 @@ def objProduction(objProp,object_uri):
         propCreator = "creator" 
         if propCreator in objProp:
             for creator in objProp[propCreator]:
-                print(creator)
                 id = label = ""
                 if "id" in creator:
                     id = creator["id"]
