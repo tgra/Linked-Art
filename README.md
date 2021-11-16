@@ -53,7 +53,7 @@ The different types of Jupyter notebooks:
 
 |Notebook type | Notebook  | Download | nbviewer | Binder |
 | -------- | ------------- | ------------- | ------- | ------ |
-| Transform | Indianapolis Museum of Art  |  [download](01-01-Tranform-XML-IMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-01-Tranform-XML-IMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-01-Tranform-XML-IMA.ipynb)|
+| Transform | Indianapolis Museum of Art  |  [download](01-01-Transform-XML-IMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-01-Transform-XML-IMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-01-Transform-XML-IMA.ipynb)|
 | Transform| Philadelphia Museum of Art | [download](01-04-Tranform-CSV-PMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-04-Tranform-CSV-PMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-04-Tranform-CSV-PMA.ipynb) |
 | Transform| Cleveland Museum of Art | [download](01-02-Transform-CSV-CMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-02-Transform-CSV-CMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-02-Transform-CSV-CMA.ipynb) |
 | Transform| National Gallery of Art | [download](01-03-Transform-CSV-NGA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-03-Transform-CSV-NGA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-03-Transform-CSV-NGA.ipynb) |
