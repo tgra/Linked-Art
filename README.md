@@ -58,7 +58,11 @@ The different types of Jupyter notebooks:
 | Transform| Cleveland Museum of Art | [download](01-02-Transform-CSV-CMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-02-Transform-CSV-CMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-02-Transform-CSV-CMA.ipynb) |
 | Transform| National Gallery of Art | [download](01-03-Transform-CSV-NGA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-03-Transform-CSV-NGA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-03-Transform-CSV-NGA.ipynb) |
 | Transform| Harvard Art Museum | [download](01-05-Transform-JSON-Harvard-API.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-05-Transform-JSON-Harvard-API.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-05-Transform-JSON-Harvard-API.ipynb) |
-| Visualise | John Ruskin Artworks Timeline | [download](02-01-Visualise-John-Ruskin.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/02-01-Visualise-John-Ruskin.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=02-01-Visualise-John-Ruskin.ipynb)|
+| Visualise | John Ruskin Artworks Timeline - Transform Data | [download](02-01-Visualise-John-Ruskin-Transform-Data.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/02-01-Visualise-John-Ruskin-Transform-Data.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=02-01-Visualise-John-Ruskin-Transform-Data.ipynb)|
+| Visualise | John Ruskin Artworks Timeline - Visualise with Google | [download](02-02-Visualise-John-Ruskin-Google-Spreadsheet.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/02-02-Visualise-John-Ruskin-Google-Spreadsheet.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=02-02-Visualise-John-Ruskin-Google-Spreadsheet.ipynb)|
+| Visualise | John Ruskin Artworks Timeline - Visualise locally | [download](02-03-Visualise-John-Ruskin-Local.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/02-03-Visualise-John-Ruskin-Local.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=02-03-Visualise-John-Ruskin-Local.ipynb)|
+
+
 
 
 ## Availability
