@@ -1,0 +1,1339 @@
+{
+  "events": [
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc"
+      },
+      "display_date": "1852(?)",
+      "start_date": {
+        "year": 1852
+      },
+      "end_date": {
+        "year": 1852
+      },
+      "text": {
+        "headline": "Study of a Venetian Capital",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298597'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48818_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48818_dynmc"
+      },
+      "display_date": "1838",
+      "start_date": {
+        "year": 1838
+      },
+      "end_date": {
+        "year": 1838
+      },
+      "text": {
+        "headline": "Tom Tower, Christ Church, Oxford",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298606'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48801_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48801_dynmc"
+      },
+      "display_date": "1852(?)",
+      "start_date": {
+        "year": 1852
+      },
+      "end_date": {
+        "year": 1852
+      },
+      "text": {
+        "headline": "Study of a Venetian Capital",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299187'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100823_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC100823_dynmc"
+      },
+      "display_date": "c. 1854-1856",
+      "start_date": {
+        "year": 1854
+      },
+      "end_date": {
+        "year": 1856
+      },
+      "text": {
+        "headline": "Fragment of the Alps",
+        "text": "The artist, sold; to Charles Eliot Norton c. 1858, by descent; to Sara, Margaret, and Elizabeth Norton (daughters of Charles Eliot Norton), sold; to Fogg Art Museum, 1919 [1].\r\n\r\n[1] Samuel Sachs provided the funds to purchase the drawing, however, it was never in his collection.<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/303730'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:80339_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:80339_dynmc"
+      },
+      "display_date": "1882",
+      "start_date": {
+        "year": 1882
+      },
+      "end_date": {
+        "year": 1882
+      },
+      "text": {
+        "headline": "Looking down from Florence towards Lucca",
+        "text": "Edward Waldo Forbes, Cambridge, gift; to Fogg Art Museum, 1954<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/293768'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:INV121896_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:INV121896_dynmc"
+      },
+      "display_date": "1876",
+      "start_date": {
+        "year": 1876
+      },
+      "end_date": {
+        "year": 1876
+      },
+      "text": {
+        "headline": "Sketch of Verona",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298630'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:INV003787_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:INV003787_dynmc"
+      },
+      "display_date": "1842",
+      "start_date": {
+        "year": 1842
+      },
+      "end_date": {
+        "year": 1842
+      },
+      "text": {
+        "headline": "Falls of Schaffhausen",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298667'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48807_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48807_dynmc"
+      },
+      "display_date": "1863(?)",
+      "start_date": {
+        "year": 1863
+      },
+      "end_date": {
+        "year": 1863
+      },
+      "text": {
+        "headline": "Towers at Baden",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298671'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS38386_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS38386_dynmc"
+      },
+      "display_date": "1868",
+      "start_date": {
+        "year": 1868
+      },
+      "end_date": {
+        "year": 1868
+      },
+      "text": {
+        "headline": "Church of St. Wulfran, Abbeville",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299037'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:INV003786_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:INV003786_dynmc"
+      },
+      "display_date": "1848",
+      "start_date": {
+        "year": 1848
+      },
+      "end_date": {
+        "year": 1848
+      },
+      "text": {
+        "headline": "Detail of St. Sauveur, Caen",
+        "text": "Samuel Sachs, gift; to Fogg Art Museum, 1919<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298627'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc"
+      },
+      "display_date": "1842",
+      "start_date": {
+        "year": 1842
+      },
+      "end_date": {
+        "year": 1842
+      },
+      "text": {
+        "headline": "Falls of Schaffhausen",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298666'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:INV121895_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:INV121895_dynmc"
+      },
+      "display_date": "1858",
+      "start_date": {
+        "year": 1858
+      },
+      "end_date": {
+        "year": 1858
+      },
+      "text": {
+        "headline": "Bellinzona",
+        "text": "Miss Eleanor B. Eaton and Horace A. Eaton, gift; to Fogg Art Museum, 1934<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298373'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:21490_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:21490_dynmc"
+      },
+      "display_date": "c. 1874",
+      "start_date": {
+        "year": 1874
+      },
+      "end_date": {
+        "year": 1874
+      },
+      "text": {
+        "headline": "Twig of Peach Bloom",
+        "text": "The artist; to William Ward II (1829-1908).  Alfred Mansfield Brooks, Swarthmore, PA and Gloucester, MA (1870-1963); to Mrs. Alfred Mansfield Brooks (nee Ruth Steele), at his death, 1963, bequest; to Fogg Art Museum, 1970.<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/296290'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:INV003064_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:INV003064_dynmc"
+      },
+      "display_date": "1849",
+      "start_date": {
+        "year": 1849
+      },
+      "end_date": {
+        "year": 1849
+      },
+      "text": {
+        "headline": "The Matterhorn",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298758'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100833_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC100833_dynmc"
+      },
+      "display_date": "1868",
+      "start_date": {
+        "year": 1868
+      },
+      "end_date": {
+        "year": 1868
+      },
+      "text": {
+        "headline": "Coral Oysters",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/297454'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS38388_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS38388_dynmc"
+      },
+      "display_date": "1842",
+      "start_date": {
+        "year": 1842
+      },
+      "end_date": {
+        "year": 1842
+      },
+      "text": {
+        "headline": "View of Chamonix",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299485'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48798_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48798_dynmc"
+      },
+      "display_date": "1863",
+      "start_date": {
+        "year": 1863
+      },
+      "end_date": {
+        "year": 1863
+      },
+      "text": {
+        "headline": "Bridge at Lauffenbourg",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299186'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100834_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC100834_dynmc"
+      },
+      "display_date": "c. 1845-1850",
+      "start_date": {
+        "year": 1845
+      },
+      "end_date": {
+        "year": 1850
+      },
+      "text": {
+        "headline": "Architectural Study",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/296967'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48797_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48797_dynmc"
+      },
+      "display_date": "1869",
+      "start_date": {
+        "year": 1869
+      },
+      "end_date": {
+        "year": 1869
+      },
+      "text": {
+        "headline": "Old Vevay",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298749'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48783_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48783_dynmc"
+      },
+      "display_date": "1877-1878",
+      "start_date": {
+        "year": 1877
+      },
+      "end_date": {
+        "year": 1878
+      },
+      "text": {
+        "headline": "Early Byzantine Carving",
+        "text": "Fine Arts Department, Harvard University, transferred; to Fogg Art Museum, 1924<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299119'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:INV121898_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:INV121898_dynmc"
+      },
+      "display_date": "1882",
+      "start_date": {
+        "year": 1882
+      },
+      "end_date": {
+        "year": 1882
+      },
+      "text": {
+        "headline": "Ponte Vecchio",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/296901'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:INV003789_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:INV003789_dynmc"
+      },
+      "display_date": "1844",
+      "start_date": {
+        "year": 1844
+      },
+      "end_date": {
+        "year": 1844
+      },
+      "text": {
+        "headline": "Convent and Alpine Pass, Visp, Switzerland",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299103'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:70227_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:70227_dynmc"
+      },
+      "display_date": "1849-1852",
+      "start_date": {
+        "year": 1849
+      },
+      "end_date": {
+        "year": 1852
+      },
+      "text": {
+        "headline": "Studies in St. Mark's",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299181'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100827_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC100827_dynmc"
+      },
+      "display_date": "1849",
+      "start_date": {
+        "year": 1849
+      },
+      "end_date": {
+        "year": 1849
+      },
+      "text": {
+        "headline": "Architectural Studies: Lintels, Abacus Heads, Arches, etc. (House of Dandolo)",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299178'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48789_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48789_dynmc"
+      },
+      "display_date": "1850",
+      "start_date": {
+        "year": 1850
+      },
+      "end_date": {
+        "year": 1850
+      },
+      "text": {
+        "headline": "Architectural Sketch: Section of Door Jamb, Saint Stefano",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299179'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://media.nga.gov/iiif/9310c903-7099-4138-b380-d90af8b06703/full/!384,384/0/default.jpg",
+        "caption": "",
+        "credit": "National Gallery of Art",
+        "thumbnail": "https://media.nga.gov/iiif/9310c903-7099-4138-b380-d90af8b06703/full/!384,384/0/default.jpg"
+      },
+      "display_date": "mid-1850s",
+      "start_date": {
+        "year": 1845
+      },
+      "end_date": {
+        "year": 1855
+      },
+      "text": {
+        "headline": "Tree Study",
+        "text": "Gift of John Nichols Estabrook and Dorothy Coogan Estabrook<br/><br/><a target='_new' href='https://www.nga.gov/collection/art-object-page.70367.html'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#E8A798"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48790_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48790_dynmc"
+      },
+      "display_date": "1849-1852",
+      "start_date": {
+        "year": 1849
+      },
+      "end_date": {
+        "year": 1852
+      },
+      "text": {
+        "headline": "Panel Moldings, Sarcophagi",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299092'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48791_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48791_dynmc"
+      },
+      "display_date": "1849",
+      "start_date": {
+        "year": 1849
+      },
+      "end_date": {
+        "year": 1849
+      },
+      "text": {
+        "headline": "Architectural Study at Sens: Sketch of Foolish Virgin Relief",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299180'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS46315_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS46315_dynmc"
+      },
+      "display_date": "c. 1863-1869",
+      "start_date": {
+        "year": 1863
+      },
+      "end_date": {
+        "year": 1869
+      },
+      "text": {
+        "headline": "Street Scene",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/297464'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:49559_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:49559_dynmc"
+      },
+      "display_date": "1845",
+      "start_date": {
+        "year": 1845
+      },
+      "end_date": {
+        "year": 1845
+      },
+      "text": {
+        "headline": "The Pass of Faido",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299114'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48777_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48777_dynmc"
+      },
+      "display_date": "1866(?)",
+      "start_date": {
+        "year": 1866
+      },
+      "end_date": {
+        "year": 1866
+      },
+      "text": {
+        "headline": "View of the Valley of Lauterbrunnen",
+        "text": "Samuel Sachs, gift; to Fogg Art Museum, 1919<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298601'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS44671_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS44671_dynmc"
+      },
+      "display_date": "1850",
+      "start_date": {
+        "year": 1850
+      },
+      "end_date": {
+        "year": 1850
+      },
+      "text": {
+        "headline": "Architectural Sketch, Venice",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/296900'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48810_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48810_dynmc"
+      },
+      "display_date": "1879",
+      "start_date": {
+        "year": 1879
+      },
+      "end_date": {
+        "year": 1879
+      },
+      "text": {
+        "headline": "Study for Growth of Wild Violet",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298363'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://media.nga.gov/iiif/49a6128c-8d5a-4b00-beb3-36b29b97c0a1/full/!384,384/0/default.jpg",
+        "caption": "",
+        "credit": "National Gallery of Art",
+        "thumbnail": "https://media.nga.gov/iiif/49a6128c-8d5a-4b00-beb3-36b29b97c0a1/full/!384,384/0/default.jpg"
+      },
+      "display_date": "c. 1845",
+      "start_date": {
+        "year": 1845
+      },
+      "end_date": {
+        "year": 1845
+      },
+      "text": {
+        "headline": "Tower of the Cathedral at Sens",
+        "text": "Gift of William B. O'Neal<br/><br/><a target='_new' href='https://www.nga.gov/collection/art-object-page.70238.html'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#E8A798"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS38476_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS38476_dynmc"
+      },
+      "display_date": "1866",
+      "start_date": {
+        "year": 1866
+      },
+      "end_date": {
+        "year": 1866
+      },
+      "text": {
+        "headline": "Dawn at Neuch\u00e2tel",
+        "text": "Samuel Sachs, gift; to Fogg Art Museum, 1919<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298820'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48790_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48790_dynmc"
+      },
+      "display_date": "1849-1852",
+      "start_date": {
+        "year": 1849
+      },
+      "end_date": {
+        "year": 1852
+      },
+      "text": {
+        "headline": "Architectural Detail",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299176'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48769",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48769"
+      },
+      "display_date": "1859",
+      "start_date": {
+        "year": 1859
+      },
+      "end_date": {
+        "year": 1859
+      },
+      "text": {
+        "headline": "H\u00f4tel de Ville, Aix-la-Chapelle",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298819'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48812_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48812_dynmc"
+      },
+      "display_date": "1879",
+      "start_date": {
+        "year": 1879
+      },
+      "end_date": {
+        "year": 1879
+      },
+      "text": {
+        "headline": "Dry Oak Leaves",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298634'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://media.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!384,384/0/default.jpg",
+        "caption": "",
+        "credit": "National Gallery of Art",
+        "thumbnail": "https://media.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!384,384/0/default.jpg"
+      },
+      "display_date": "1849",
+      "start_date": {
+        "year": 1849
+      },
+      "end_date": {
+        "year": 1849
+      },
+      "text": {
+        "headline": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\"",
+        "text": "Gift of William B. O'Neal<br/><br/><a target='_new' href='https://www.nga.gov/collection/art-object-page.76140.html'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#E8A798"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:86324_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:86324_dynmc"
+      },
+      "display_date": "1844",
+      "start_date": {
+        "year": 1844
+      },
+      "end_date": {
+        "year": 1844
+      },
+      "text": {
+        "headline": "View of Amalfi",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/297164'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48787_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48787_dynmc"
+      },
+      "display_date": "1845",
+      "start_date": {
+        "year": 1845
+      },
+      "end_date": {
+        "year": 1845
+      },
+      "text": {
+        "headline": "Boat and Sketches of Two Figures, Venice",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298815'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48800_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48800_dynmc"
+      },
+      "display_date": "1872",
+      "start_date": {
+        "year": 1872
+      },
+      "end_date": {
+        "year": 1872
+      },
+      "text": {
+        "headline": "Geological Sketches, Bird's Skull",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298751'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48803_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48803_dynmc"
+      },
+      "display_date": "1852",
+      "start_date": {
+        "year": 1852
+      },
+      "end_date": {
+        "year": 1852
+      },
+      "text": {
+        "headline": "Studies of Venetian Capitals",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298814'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS46314_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS46314_dynmc"
+      },
+      "display_date": "c. 1863-1869",
+      "start_date": {
+        "year": 1863
+      },
+      "end_date": {
+        "year": 1869
+      },
+      "text": {
+        "headline": "Town of Schaffhausen: Castle and Turrets",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/297450'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:48817_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:48817_dynmc"
+      },
+      "display_date": "1854",
+      "start_date": {
+        "year": 1854
+      },
+      "end_date": {
+        "year": 1854
+      },
+      "text": {
+        "headline": "Tower of Fribourg",
+        "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298635'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48815_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48815_dynmc"
+      },
+      "display_date": "1853",
+      "start_date": {
+        "year": 1853
+      },
+      "end_date": {
+        "year": 1853
+      },
+      "text": {
+        "headline": "Studies of Leaves; verso: Skull of an Animal",
+        "text": "Miss Mabel Sturgis, gift; to Fogg Art Museum, 1928<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298674'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48786_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48786_dynmc"
+      },
+      "display_date": "1849",
+      "start_date": {
+        "year": 1849
+      },
+      "end_date": {
+        "year": 1849
+      },
+      "text": {
+        "headline": "Architectural Study: Palazzo Dandolo",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299177'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100826_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC100826_dynmc"
+      },
+      "display_date": "1876-1877",
+      "start_date": {
+        "year": 1876
+      },
+      "end_date": {
+        "year": 1877
+      },
+      "text": {
+        "headline": "Venetian Renaissance Capital",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298766'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:38491_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:38491_dynmc"
+      },
+      "display_date": "1848",
+      "start_date": {
+        "year": 1848
+      },
+      "end_date": {
+        "year": 1848
+      },
+      "text": {
+        "headline": "Study of Portal and Carved Pinnacles, Cathedral of St. L\u00f4, Normandy",
+        "text": "Charles Eliot Norton, to; his daughters Sara, Margaret, and Elizabeth, sold; to Fogg Art Museum, 1919 [1]\r\n\r\n[1] purchased with funds provided by Samuel Sachs<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298628'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:70226_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:70226_dynmc"
+      },
+      "display_date": "1858",
+      "start_date": {
+        "year": 1858
+      },
+      "end_date": {
+        "year": 1858
+      },
+      "text": {
+        "headline": "Detail of \"Solomon and the Queen of Sheba\" by Veronese",
+        "text": "John Ruskin, gift(?)[1]; to Charles Eliot Norton, gift; to Fogg Art Museum, 1907 \r\n\r\n[1] See Norton's note on the old mat: \"Brought from Brantwood, June 1900\"<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299039'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:70389_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:70389_dynmc"
+      },
+      "display_date": "July 26, 1859",
+      "start_date": {
+        "year": 1859
+      },
+      "end_date": {
+        "year": 1859
+      },
+      "text": {
+        "headline": "Kempten",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299185'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48821_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48821_dynmc"
+      },
+      "display_date": "c. 1856",
+      "start_date": {
+        "year": 1856
+      },
+      "end_date": {
+        "year": 1856
+      },
+      "text": {
+        "headline": "Trunk of a Tree",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298598'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS80695_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS80695_dynmc"
+      },
+      "display_date": "1852",
+      "start_date": {
+        "year": 1852
+      },
+      "end_date": {
+        "year": 1852
+      },
+      "text": {
+        "headline": "Study of an Archivolt in Saint Mark's, Venice",
+        "text": "Edward Waldo Forbes, Cambridge, gift; to Fogg Art Museum, 1953<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/297456'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48809_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48809_dynmc"
+      },
+      "display_date": "1873",
+      "start_date": {
+        "year": 1873
+      },
+      "end_date": {
+        "year": 1873
+      },
+      "text": {
+        "headline": "Withered Rush-blossom (Exercise in Lamp-Black)",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298633'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:79418",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:79418"
+      },
+      "display_date": "August 27, 1879",
+      "start_date": {
+        "year": 1879
+      },
+      "end_date": {
+        "year": 1879
+      },
+      "text": {
+        "headline": "Study of a Magnified Pheasant's Feather",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA; transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298605'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://media.nga.gov/iiif/f6ef48d3-3512-4f46-ac5b-c221b3fa320e/full/!384,384/0/default.jpg",
+        "caption": "",
+        "credit": "National Gallery of Art",
+        "thumbnail": "https://media.nga.gov/iiif/f6ef48d3-3512-4f46-ac5b-c221b3fa320e/full/!384,384/0/default.jpg"
+      },
+      "display_date": "1845",
+      "start_date": {
+        "year": 1845
+      },
+      "end_date": {
+        "year": 1845
+      },
+      "text": {
+        "headline": "The Garden of San Miniato near Florence",
+        "text": "Patrons' Permanent Fund<br/><br/><a target='_new' href='https://www.nga.gov/collection/art-object-page.72870.html'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#E8A798"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100821_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC100821_dynmc"
+      },
+      "display_date": "1879",
+      "start_date": {
+        "year": 1879
+      },
+      "end_date": {
+        "year": 1879
+      },
+      "text": {
+        "headline": "Part of a Sketch of the Northwest Porch of St. Mark's",
+        "text": "Samuel Sachs, gift; to Fogg Art Museum, 1919<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298668'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    }
+  ],
+  "title": {
+    "media": {
+      "url": "//upload.wikimedia.org/wikipedia/commons/0/0a/John_Ruskin_1863.jpg",
+      "caption": "John Ruskin",
+      "credit": "Wikipedia"
+    },
+    "text": {
+      "headline": "John Ruskin",
+      "text": "<p>This timeline visualisation shows artworks created by John Ruskin.</p><p>It demonstrates how the Linked Art data model can be used to transform, reconcile and visualise collections data for artworks.</p> <p>See https://linked.art for more information.</p>"
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": "1819"
+      },
+      "end_date": {
+        "year": "1900"
+      },
+      "text": {
+        "headline": "John Ruskin's lifetime"
+      }
+    }
+  ]
+}

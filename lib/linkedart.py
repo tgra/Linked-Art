@@ -13,7 +13,7 @@ from cromulent.vocab import HumanMadeObject,Tapestry,LocalNumber
 from cromulent.vocab import Type,Set
 from cromulent.vocab import TimeSpan, Actor, Group, Acquisition, Place
 from cromulent.vocab import Production, TimeSpan, Actor
-from cromulent.vocab import LinguisticObject
+from cromulent.vocab import LinguisticObject,DigitalObject, DigitalService
 
 
 
@@ -121,15 +121,12 @@ def objAlternatename(objProp,object_uri):
 def objHomepage(objProp,object_uri):
 
     homepage = None
-    id = str(objProp["id"])
-
-    homepageId = "http://collection.imamuseum.org/artwork/" + id
-
-    homepage = LinguisticObject(homepageId, label="Homepage for the Object")
-    homepage.classified_as = Type("http://vocab/getty.edu/aat/300264578", label="Web pages (documents)")
-    homepage.classified_as = Type("http://vocab.getty.edu/aat/300266277", label="home pages")
-    homepage.format = "text/html"
-    
+    homepageId = objProp["homepage"]
+    if homepageId != "":
+        homepage = LinguisticObject(homepageId, label="Homepage for the Object")
+        homepage.classified_as = Type("http://vocab/getty.edu/aat/300264578", label="Web pages (documents)")
+        homepage.classified_as = Type("http://vocab.getty.edu/aat/300266277", label="home pages")
+        homepage.format = "text/html"
     return homepage
 
 
@@ -308,6 +305,26 @@ def objCustody(objProp,object_uri):
     return custody
 
 
+def objDigitalObject(objProp,object_uri):
+    vi = None
+    url = objProp["image_url"]
+    vi = VisualItem(url, label="Digital image of artwork")
+
+    do = DigitalObject(url,label="Image of artwork")
+    do.classified_as = Type("http://vocab.getty.edu/aat/300215302","Digital Image")
+    do.access_point = DigitalObject(url)
+
+    if "iiif" in url.lower():
+        ds = DigitalService()
+        ds.access_point = DigitalObject(url)
+        ds.conforms_to = InformationObject("http://iiif.io/api/image")
+        do.digitally_available_via = ds
+        
+    vi.digitally_shown_by = do
+
+    return vi
+    
+
 def createObjDesc(objProp,objTypes,object_uri):
     objLA = None
     objLA = HumanMadeObject() # linked art object
@@ -320,6 +337,14 @@ def createObjDesc(objProp,objTypes,object_uri):
     objLA.id = object_uri
     objLA._label =  objProp["title"]
     
+    # DIGITAL OBJECT
+    if "image_url" in objProp and objProp["image_url"] != "":
+        dig = objDigitalObject(objProp,object_uri)
+        if dig is not None:
+            objLA.representation = []
+            objLA.representation.append(dig)
+
+
     # IDENTIFIED_BY 
     accession = objAccession(objProp,object_uri)
     localnumber = objLocalnumber(objProp,object_uri)
