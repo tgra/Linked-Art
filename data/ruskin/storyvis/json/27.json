@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/159",
+    "id": "http://lod.example.org/museum/VisualItem/25",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/319",
+        "id": "http://lod.example.org/museum/Place/51",
         "type": "Place",
         "_label": "View of the Valley of Lauterbrunnen",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/318",
+            "id": "http://lod.example.org/museum/Place/50",
             "type": "Place",
             "_label": "View of the Valley of Lauterbrunnen",
             "defined_by": "POINT(46.595676 7.907654)"

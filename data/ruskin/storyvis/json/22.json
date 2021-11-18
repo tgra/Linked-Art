@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/154",
+    "id": "http://lod.example.org/museum/VisualItem/20",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/309",
+        "id": "http://lod.example.org/museum/Place/41",
         "type": "Place",
         "_label": "Fragments from Abbeville, Lucca, Venice, and Pisa",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/308",
+            "id": "http://lod.example.org/museum/Place/40",
             "type": "Place",
             "_label": "Fragments from Abbeville, Lucca, Venice, and Pisa",
             "defined_by": "POINT(43.838490  10.507736)"

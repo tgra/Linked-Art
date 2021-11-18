@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/169",
+    "id": "http://lod.example.org/museum/VisualItem/35",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/339",
+        "id": "http://lod.example.org/museum/Place/71",
         "type": "Place",
         "_label": "Town of Schaffhausen: Castle and Turrets",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/338",
+            "id": "http://lod.example.org/museum/Place/70",
             "type": "Place",
             "_label": "Town of Schaffhausen: Castle and Turrets",
             "defined_by": "POINT(48.966667 10.566667)"

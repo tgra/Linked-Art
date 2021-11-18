@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/165",
+    "id": "http://lod.example.org/museum/VisualItem/31",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/331",
+        "id": "http://lod.example.org/museum/Place/63",
         "type": "Place",
         "_label": "View of Amalfi",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/330",
+            "id": "http://lod.example.org/museum/Place/62",
             "type": "Place",
             "_label": "View of Amalfi",
             "defined_by": "POINT(40.633333 14.6)"

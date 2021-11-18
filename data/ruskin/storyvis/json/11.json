@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/143",
+    "id": "http://lod.example.org/museum/VisualItem/9",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/287",
+        "id": "http://lod.example.org/museum/Place/19",
         "type": "Place",
         "_label": "Detail of St. Sauveur, Caen",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/286",
+            "id": "http://lod.example.org/museum/Place/18",
             "type": "Place",
             "_label": "Detail of St. Sauveur, Caen",
             "defined_by": "POINT(49.197188 -.326822)"

@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/156",
+    "id": "http://lod.example.org/museum/VisualItem/22",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/313",
+        "id": "http://lod.example.org/museum/Place/45",
         "type": "Place",
         "_label": "Architectural Study at Sens: Sketch of Foolish Virgin Relief",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/312",
+            "id": "http://lod.example.org/museum/Place/44",
             "type": "Place",
             "_label": "Architectural Study at Sens: Sketch of Foolish Virgin Relief",
             "defined_by": "POINT(48.1975 3.2877)"

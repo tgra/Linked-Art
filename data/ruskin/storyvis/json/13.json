@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/145",
+    "id": "http://lod.example.org/museum/VisualItem/11",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/291",
+        "id": "http://lod.example.org/museum/Place/23",
         "type": "Place",
         "_label": "Lombard Apennine",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/290",
+            "id": "http://lod.example.org/museum/Place/22",
             "type": "Place",
             "_label": "Lombard Apennine",
             "defined_by": "POINT(46.785636 5.506793)"

@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/146",
+    "id": "http://lod.example.org/museum/VisualItem/12",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/293",
+        "id": "http://lod.example.org/museum/Place/25",
         "type": "Place",
         "_label": "Blois",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/292",
+            "id": "http://lod.example.org/museum/Place/24",
             "type": "Place",
             "_label": "Blois",
             "defined_by": "POINT(47.594322 1.329122)"

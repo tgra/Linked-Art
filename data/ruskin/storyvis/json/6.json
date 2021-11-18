@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/138",
+    "id": "http://lod.example.org/museum/VisualItem/4",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/277",
+        "id": "http://lod.example.org/museum/Place/9",
         "type": "Place",
         "_label": "Entrance to Feldkirch, the Vorarlberg",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/276",
+            "id": "http://lod.example.org/museum/Place/8",
             "type": "Place",
             "_label": "Entrance to Feldkirch, the Vorarlberg",
             "defined_by": "POINT(47.25 9.6333)"

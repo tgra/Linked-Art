@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/141",
+    "id": "http://lod.example.org/museum/VisualItem/7",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/283",
+        "id": "http://lod.example.org/museum/Place/15",
         "type": "Place",
         "_label": "Towers at Baden",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/282",
+            "id": "http://lod.example.org/museum/Place/14",
             "type": "Place",
             "_label": "Towers at Baden",
             "defined_by": "POINT(47.452702 8.309969)"

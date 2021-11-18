@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/149",
+    "id": "http://lod.example.org/museum/VisualItem/15",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/299",
+        "id": "http://lod.example.org/museum/Place/31",
         "type": "Place",
         "_label": "Ch\u00e2teau Blois",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/298",
+            "id": "http://lod.example.org/museum/Place/30",
             "type": "Place",
             "_label": "Ch\u00e2teau Blois",
             "defined_by": "POINT(47.5939 1.3281)"

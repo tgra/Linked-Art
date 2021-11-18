@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/161",
+    "id": "http://lod.example.org/museum/VisualItem/27",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/323",
+        "id": "http://lod.example.org/museum/Place/55",
         "type": "Place",
         "_label": "Sestri",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/322",
+            "id": "http://lod.example.org/museum/Place/54",
             "type": "Place",
             "_label": "Sestri",
             "defined_by": "POINT(44.4167 8.85)"

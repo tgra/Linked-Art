@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/152",
+    "id": "http://lod.example.org/museum/VisualItem/18",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/305",
+        "id": "http://lod.example.org/museum/Place/37",
         "type": "Place",
         "_label": "Crests of La C\u00f4te and Taconay",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/304",
+            "id": "http://lod.example.org/museum/Place/36",
             "type": "Place",
             "_label": "Crests of La C\u00f4te and Taconay",
             "defined_by": "POINT(46.458729 6.308898)"

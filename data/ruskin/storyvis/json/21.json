@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/153",
+    "id": "http://lod.example.org/museum/VisualItem/19",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/307",
+        "id": "http://lod.example.org/museum/Place/39",
         "type": "Place",
         "_label": "Saint Stefano",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/306",
+            "id": "http://lod.example.org/museum/Place/38",
             "type": "Place",
             "_label": "Saint Stefano",
             "defined_by": "POINT(45.906389 12.015556)"

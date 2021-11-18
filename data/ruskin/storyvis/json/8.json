@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/140",
+    "id": "http://lod.example.org/museum/VisualItem/6",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/281",
+        "id": "http://lod.example.org/museum/Place/13",
         "type": "Place",
         "_label": "Falls of Schaffhausen",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/280",
+            "id": "http://lod.example.org/museum/Place/12",
             "type": "Place",
             "_label": "Falls of Schaffhausen",
             "defined_by": "POINT(49.266667 6.816667)"

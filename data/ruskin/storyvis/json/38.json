@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/170",
+    "id": "http://lod.example.org/museum/VisualItem/36",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/341",
+        "id": "http://lod.example.org/museum/Place/73",
         "type": "Place",
         "_label": "Rhine",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/340",
+            "id": "http://lod.example.org/museum/Place/72",
             "type": "Place",
             "_label": "Rhine",
             "defined_by": "POINT(51.98404 4.08245)"

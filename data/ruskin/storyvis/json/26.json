@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/158",
+    "id": "http://lod.example.org/museum/VisualItem/24",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/317",
+        "id": "http://lod.example.org/museum/Place/49",
         "type": "Place",
         "_label": "Lake of Zug",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/316",
+            "id": "http://lod.example.org/museum/Place/48",
             "type": "Place",
             "_label": "Lake of Zug",
             "defined_by": "POINT(47.131301 8.483347)"

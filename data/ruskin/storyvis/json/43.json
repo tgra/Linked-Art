@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/175",
+    "id": "http://lod.example.org/museum/VisualItem/41",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/351",
+        "id": "http://lod.example.org/museum/Place/83",
         "type": "Place",
         "_label": "Kempten",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/350",
+            "id": "http://lod.example.org/museum/Place/82",
             "type": "Place",
             "_label": "Kempten",
             "defined_by": "POINT(49.966667 7.933333)"

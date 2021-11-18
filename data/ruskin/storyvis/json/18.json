@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/150",
+    "id": "http://lod.example.org/museum/VisualItem/16",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/301",
+        "id": "http://lod.example.org/museum/Place/33",
         "type": "Place",
         "_label": "Convent and Alpine Pass, Visp, Switzerland",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/300",
+            "id": "http://lod.example.org/museum/Place/32",
             "type": "Place",
             "_label": "Convent and Alpine Pass, Visp, Switzerland",
             "defined_by": "POINT(46.301907 7.870004)"

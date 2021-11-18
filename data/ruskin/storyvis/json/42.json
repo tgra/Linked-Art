@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/174",
+    "id": "http://lod.example.org/museum/VisualItem/40",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/349",
+        "id": "http://lod.example.org/museum/Place/81",
         "type": "Place",
         "_label": "Cathedral of St. L\u00f4, Normandy",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/348",
+            "id": "http://lod.example.org/museum/Place/80",
             "type": "Place",
             "_label": "Cathedral of St. L\u00f4, Normandy",
             "defined_by": "POINT(49.113813 -1.081905)"

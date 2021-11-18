@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/137",
+    "id": "http://lod.example.org/museum/VisualItem/3",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/275",
+        "id": "http://lod.example.org/museum/Place/7",
         "type": "Place",
         "_label": "Looking down from Florence towards Lucca",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/274",
+            "id": "http://lod.example.org/museum/Place/6",
             "type": "Place",
             "_label": "Looking down from Florence towards Lucca",
             "defined_by": "POINT(43.838490  10.507736)"

@@ -174,16 +174,16 @@
   },
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/164",
+    "id": "http://lod.example.org/museum/VisualItem/30",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/329",
+        "id": "http://lod.example.org/museum/Place/61",
         "type": "Place",
         "_label": "Venezia",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/328",
+            "id": "http://lod.example.org/museum/Place/60",
             "type": "Place",
             "_label": "Venezia",
             "defined_by": "POINT(45.438611 12.326667)"

@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/142",
+    "id": "http://lod.example.org/museum/VisualItem/8",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/285",
+        "id": "http://lod.example.org/museum/Place/17",
         "type": "Place",
         "_label": "Church of St. Vulfran, Abbeville, France",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/284",
+            "id": "http://lod.example.org/museum/Place/16",
             "type": "Place",
             "_label": "Church of St. Vulfran, Abbeville, France",
             "defined_by": "POINT(49.516427 2.169063)"
