@@ -1,0 +1,196 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.tate.org.uk/art/artworks/13032",
+  "type": "HumanMadeObject",
+  "_label": "The North-West Angle of the Facade of St Mark\u2019s, Venice",
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/N02972",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ],
+      "content": "N02972"
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/13032",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Owner-Assigned Number"
+        }
+      ],
+      "content": "13032"
+    },
+    {
+      "id": "https://www.tate.org.uk/art/artworks/13032/primary-name",
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "The North-West Angle of the Facade of St Mark\u2019s, Venice"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.tate.org.uk/art/artworks/13032/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgements"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ],
+      "content": "Presented by the Art Fund 1914"
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://www.tate.org.uk/art/artworks/13032/collection/",
+      "type": "Set",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025976",
+          "type": "Type",
+          "_label": "collections (object groupings)"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "http://lod.example.org/museum/VisualItem/thumbnailUrl",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "http://lod.example.org/museum/DigitalObject/thumbnailUrl",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "http://lod.example.org/museum/DigitalObject/thumbnailUrl",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/url",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ],
+  "produced_by": {
+    "id": "https://www.tate.org.uk/art/artworks/13032/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "https://www.tate.org.uk/art/artworks/13032/production/timespan",
+      "type": "TimeSpan",
+      "_label": "date not known"
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Actor/465",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
+  },
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500300517",
+      "type": "Group",
+      "_label": "Tate Museum",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "museums (institutions)"
+        }
+      ],
+      "acquired_title_through": [
+        {
+          "id": "https://www.tate.org.uk/art/artworks/13032/IMA-acquisition",
+          "type": "Acquisition",
+          "_label": "Acquisition of the Object",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300157782",
+              "type": "Type",
+              "_label": "acquisition (collections management)"
+            }
+          ],
+          "timespan": {
+            "id": "https://www.tate.org.uk/art/artworks/13032/IMA-acquisition/timespan",
+            "type": "TimeSpan",
+            "_label": "1914",
+            "begin_of_the_begin": "1914-01-01T00:00:00.000Z",
+            "end_of_the_end": "1914-12-31T00:00:00.000Z"
+          }
+        }
+      ]
+    }
+  ],
+  "shows": {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "http://lod.example.org/museum/VisualItem/148",
+    "type": "VisualItem",
+    "represents": [
+      {
+        "id": "http://lod.example.org/museum/Place/297",
+        "type": "Place",
+        "_label": "Venezia",
+        "approximated_by": [
+          {
+            "id": "http://lod.example.org/museum/Place/296",
+            "type": "Place",
+            "_label": "Venezia",
+            "defined_by": "POINT(45.583333 12.566667)"
+          }
+        ]
+      }
+    ]
+  }
+}

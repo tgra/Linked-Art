@@ -1,0 +1,196 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.tate.org.uk/art/artworks/13033",
+  "type": "HumanMadeObject",
+  "_label": "View of Bologna",
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/N03507",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ],
+      "content": "N03507"
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/13033",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Owner-Assigned Number"
+        }
+      ],
+      "content": "13033"
+    },
+    {
+      "id": "https://www.tate.org.uk/art/artworks/13033/primary-name",
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "View of Bologna"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.tate.org.uk/art/artworks/13033/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgements"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ],
+      "content": "Purchased 1920"
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://www.tate.org.uk/art/artworks/13033/collection/",
+      "type": "Set",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025976",
+          "type": "Type",
+          "_label": "collections (object groupings)"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "http://lod.example.org/museum/VisualItem/thumbnailUrl",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "http://lod.example.org/museum/DigitalObject/thumbnailUrl",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "http://lod.example.org/museum/DigitalObject/thumbnailUrl",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "http://lod.example.org/museum/LinguisticObject/url",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ],
+  "produced_by": {
+    "id": "https://www.tate.org.uk/art/artworks/13033/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "https://www.tate.org.uk/art/artworks/13033/production/timespan",
+      "type": "TimeSpan",
+      "_label": "c.1845\u20136"
+    },
+    "carried_out_by": [
+      {
+        "id": "http://lod.example.org/museum/Actor/465",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
+  },
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500300517",
+      "type": "Group",
+      "_label": "Tate Museum",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "museums (institutions)"
+        }
+      ],
+      "acquired_title_through": [
+        {
+          "id": "https://www.tate.org.uk/art/artworks/13033/IMA-acquisition",
+          "type": "Acquisition",
+          "_label": "Acquisition of the Object",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300157782",
+              "type": "Type",
+              "_label": "acquisition (collections management)"
+            }
+          ],
+          "timespan": {
+            "id": "https://www.tate.org.uk/art/artworks/13033/IMA-acquisition/timespan",
+            "type": "TimeSpan",
+            "_label": "1920",
+            "begin_of_the_begin": "1920-01-01T00:00:00.000Z",
+            "end_of_the_end": "1920-12-31T00:00:00.000Z"
+          }
+        }
+      ]
+    }
+  ],
+  "shows": {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "http://lod.example.org/museum/VisualItem/136",
+    "type": "VisualItem",
+    "represents": [
+      {
+        "id": "http://lod.example.org/museum/Place/273",
+        "type": "Place",
+        "_label": "View of Bologna",
+        "approximated_by": [
+          {
+            "id": "http://lod.example.org/museum/Place/272",
+            "type": "Place",
+            "_label": "View of Bologna",
+            "defined_by": "POINT(44.466667 11.433333)"
+          }
+        ]
+      }
+    ]
+  }
+}
