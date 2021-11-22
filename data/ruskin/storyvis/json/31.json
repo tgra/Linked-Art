@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/409",
+    "id": "http://lod.example.org/museum/VisualItem/481",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/819",
+        "id": "http://lod.example.org/museum/Place/963",
         "type": "Place",
         "_label": "Venetian Renaissance Capital",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/818",
+            "id": "http://lod.example.org/museum/Place/962",
             "type": "Place",
             "_label": "Venetian Renaissance Capital",
             "defined_by": "POINT(45.438611 12.326667)"

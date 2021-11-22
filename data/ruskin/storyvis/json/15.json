@@ -175,16 +175,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/393",
+    "id": "http://lod.example.org/museum/VisualItem/465",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/787",
+        "id": "http://lod.example.org/museum/Place/931",
         "type": "Place",
         "_label": "The North-West Angle of the Facade of St Mark\u2019s, Venice",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/786",
+            "id": "http://lod.example.org/museum/Place/930",
             "type": "Place",
             "_label": "The North-West Angle of the Facade of St Mark\u2019s, Venice",
             "defined_by": "POINT(45.438611 12.326667)"

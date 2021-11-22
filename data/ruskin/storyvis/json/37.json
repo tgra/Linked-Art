@@ -137,16 +137,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/415",
+    "id": "http://lod.example.org/museum/VisualItem/487",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/831",
+        "id": "http://lod.example.org/museum/Place/975",
         "type": "Place",
         "_label": "Gezicht op S. Anastasia te Verona, over de Adige",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/830",
+            "id": "http://lod.example.org/museum/Place/974",
             "type": "Place",
             "_label": "Gezicht op S. Anastasia te Verona, over de Adige",
             "defined_by": "POINT(45.45 11)"

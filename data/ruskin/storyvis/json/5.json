@@ -175,16 +175,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/383",
+    "id": "http://lod.example.org/museum/VisualItem/455",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/767",
+        "id": "http://lod.example.org/museum/Place/911",
         "type": "Place",
         "_label": "View of Bologna",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/766",
+            "id": "http://lod.example.org/museum/Place/910",
             "type": "Place",
             "_label": "View of Bologna",
             "defined_by": "POINT(44.466667 11.433333)"

@@ -122,23 +122,69 @@
     },
     "carried_out_by": [
       {
+        "id": "https://www.nga.gov/collection/creatorid/72870",
         "type": "Actor",
         "_label": "John Ruskin"
       }
     ]
   },
+  "representation": [
+    {
+      "id": "https://api.nga.gov/iiif/f6ef48d3-3512-4f46-ac5b-c221b3fa320e/full/!500,500/0/default.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://api.nga.gov/iiif/f6ef48d3-3512-4f46-ac5b-c221b3fa320e/full/!500,500/0/default.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://api.nga.gov/iiif/f6ef48d3-3512-4f46-ac5b-c221b3fa320e/full/!500,500/0/default.jpg",
+              "type": "DigitalObject"
+            }
+          ],
+          "digitally_available_via": [
+            {
+              "id": "http://lod.example.org/museum/DigitalService/10",
+              "type": "DigitalService",
+              "access_point": [
+                {
+                  "id": "https://api.nga.gov/iiif/f6ef48d3-3512-4f46-ac5b-c221b3fa320e/full/!500,500/0/default.jpg",
+                  "type": "DigitalObject"
+                }
+              ],
+              "conforms_to": [
+                {
+                  "id": "http://iiif.io/api/image",
+                  "type": "InformationObject"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/413",
+    "id": "http://lod.example.org/museum/VisualItem/485",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/827",
+        "id": "http://lod.example.org/museum/Place/971",
         "type": "Place",
         "_label": "The Garden of San Miniato near Florence",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/826",
+            "id": "http://lod.example.org/museum/Place/970",
             "type": "Place",
             "_label": "The Garden of San Miniato near Florence",
             "defined_by": "POINT(43.766667 11.25)"

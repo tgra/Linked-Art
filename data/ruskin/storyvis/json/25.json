@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/403",
+    "id": "http://lod.example.org/museum/VisualItem/475",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/807",
+        "id": "http://lod.example.org/museum/Place/951",
         "type": "Place",
         "_label": "Architectural Study: Three Sections of a Venetian Arcade",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/806",
+            "id": "http://lod.example.org/museum/Place/950",
             "type": "Place",
             "_label": "Architectural Study: Three Sections of a Venetian Arcade",
             "defined_by": "POINT(45.438611 12.326667)"

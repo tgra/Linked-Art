@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/381",
+    "id": "http://lod.example.org/museum/VisualItem/453",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/763",
+        "id": "http://lod.example.org/museum/Place/907",
         "type": "Place",
         "_label": "Tom Tower, Christ Church, Oxford",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/762",
+            "id": "http://lod.example.org/museum/Place/906",
             "type": "Place",
             "_label": "Tom Tower, Christ Church, Oxford",
             "defined_by": "POINT(51.75 -1.25)"

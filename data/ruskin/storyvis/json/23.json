@@ -137,16 +137,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/401",
+    "id": "http://lod.example.org/museum/VisualItem/473",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/803",
+        "id": "http://lod.example.org/museum/Place/947",
         "type": "Place",
         "_label": "Bergkam aan het Meer van Gen\u00e8ve",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/802",
+            "id": "http://lod.example.org/museum/Place/946",
             "type": "Place",
             "_label": "Bergkam aan het Meer van Gen\u00e8ve",
             "defined_by": "POINT(46.196732 6.110443)"

@@ -15,8 +15,8 @@
         },
         "media": {
           "caption": "",
-          "credit": "",
-          "url": ""
+          "credit": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/John_Ruskin"
         },
         "text": {
           "headline": "John Ruskin's Travels in Europe",
@@ -237,7 +237,7 @@
         "media": {
           "caption": "1845",
           "credit": "National Gallery of Art",
-          "url": ""
+          "url": "https://api.nga.gov/iiif/f6ef48d3-3512-4f46-ac5b-c221b3fa320e/full/!500,500/0/default.jpg"
         },
         "text": {
           "headline": "The Garden of San Miniato near Florence",
@@ -281,7 +281,7 @@
         "media": {
           "caption": "1849",
           "credit": "National Gallery of Art",
-          "url": ""
+          "url": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg"
         },
         "text": {
           "headline": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\"",

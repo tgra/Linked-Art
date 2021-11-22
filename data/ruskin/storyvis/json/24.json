@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/402",
+    "id": "http://lod.example.org/museum/VisualItem/474",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/805",
+        "id": "http://lod.example.org/museum/Place/949",
         "type": "Place",
         "_label": "Dawn at Neuch\u00e2tel",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/804",
+            "id": "http://lod.example.org/museum/Place/948",
             "type": "Place",
             "_label": "Dawn at Neuch\u00e2tel",
             "defined_by": "POINT(46.990867 6.797675)"

@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/390",
+    "id": "http://lod.example.org/museum/VisualItem/462",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/781",
+        "id": "http://lod.example.org/museum/Place/925",
         "type": "Place",
         "_label": "Church of St. Wulfran, Abbeville",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/780",
+            "id": "http://lod.example.org/museum/Place/924",
             "type": "Place",
             "_label": "Church of St. Wulfran, Abbeville",
             "defined_by": "POINT(50.106602 1.832691)"

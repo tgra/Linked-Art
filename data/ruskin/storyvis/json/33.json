@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/411",
+    "id": "http://lod.example.org/museum/VisualItem/483",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/823",
+        "id": "http://lod.example.org/museum/Place/967",
         "type": "Place",
         "_label": "Study of Portal and Carved Pinnacles, Cathedral of St. L\u00f4, Normandy",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/822",
+            "id": "http://lod.example.org/museum/Place/966",
             "type": "Place",
             "_label": "Study of Portal and Carved Pinnacles, Cathedral of St. L\u00f4, Normandy",
             "defined_by": "POINT(49 0)"

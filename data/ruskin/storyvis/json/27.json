@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/405",
+    "id": "http://lod.example.org/museum/VisualItem/477",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/811",
+        "id": "http://lod.example.org/museum/Place/955",
         "type": "Place",
         "_label": "Boat and Sketches of Two Figures, Venice",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/810",
+            "id": "http://lod.example.org/museum/Place/954",
             "type": "Place",
             "_label": "Boat and Sketches of Two Figures, Venice",
             "defined_by": "POINT(45.438611 12.326667)"

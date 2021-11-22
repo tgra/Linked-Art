@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/382",
+    "id": "http://lod.example.org/museum/VisualItem/454",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/765",
+        "id": "http://lod.example.org/museum/Place/909",
         "type": "Place",
         "_label": "Study of a Venetian Capital",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/764",
+            "id": "http://lod.example.org/museum/Place/908",
             "type": "Place",
             "_label": "Study of a Venetian Capital",
             "defined_by": "POINT(45.438611 12.326667)"

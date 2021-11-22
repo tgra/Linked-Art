@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/414",
+    "id": "http://lod.example.org/museum/VisualItem/486",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/829",
+        "id": "http://lod.example.org/museum/Place/973",
         "type": "Place",
         "_label": "Part of a Sketch of the Northwest Porch of St. Mark's",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/828",
+            "id": "http://lod.example.org/museum/Place/972",
             "type": "Place",
             "_label": "Part of a Sketch of the Northwest Porch of St. Mark's",
             "defined_by": "POINT(45.438611 12.326667)"

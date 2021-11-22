@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/384",
+    "id": "http://lod.example.org/museum/VisualItem/456",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/769",
+        "id": "http://lod.example.org/museum/Place/913",
         "type": "Place",
         "_label": "Fragment of the Alps",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/768",
+            "id": "http://lod.example.org/museum/Place/912",
             "type": "Place",
             "_label": "Fragment of the Alps",
             "defined_by": "POINT(46.416667 10)"

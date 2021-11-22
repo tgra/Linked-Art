@@ -122,23 +122,69 @@
     },
     "carried_out_by": [
       {
+        "id": "https://www.nga.gov/collection/creatorid/76140",
         "type": "Actor",
         "_label": "John Ruskin"
       }
     ]
   },
+  "representation": [
+    {
+      "id": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg",
+              "type": "DigitalObject"
+            }
+          ],
+          "digitally_available_via": [
+            {
+              "id": "http://lod.example.org/museum/DigitalService/11",
+              "type": "DigitalService",
+              "access_point": [
+                {
+                  "id": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg",
+                  "type": "DigitalObject"
+                }
+              ],
+              "conforms_to": [
+                {
+                  "id": "http://iiif.io/api/image",
+                  "type": "InformationObject"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/404",
+    "id": "http://lod.example.org/museum/VisualItem/476",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/809",
+        "id": "http://lod.example.org/museum/Place/953",
         "type": "Place",
         "_label": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\"",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/808",
+            "id": "http://lod.example.org/museum/Place/952",
             "type": "Place",
             "_label": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\"",
             "defined_by": "POINT(45.438611 12.326667)"

@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/400",
+    "id": "http://lod.example.org/museum/VisualItem/472",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/801",
+        "id": "http://lod.example.org/museum/Place/945",
         "type": "Place",
         "_label": "Architectural Sketch, Venice",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/800",
+            "id": "http://lod.example.org/museum/Place/944",
             "type": "Place",
             "_label": "Architectural Sketch, Venice",
             "defined_by": "POINT(45.438611 12.326667)"

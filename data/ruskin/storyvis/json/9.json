@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/387",
+    "id": "http://lod.example.org/museum/VisualItem/459",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/775",
+        "id": "http://lod.example.org/museum/Place/919",
         "type": "Place",
         "_label": "Sketch of Verona",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/774",
+            "id": "http://lod.example.org/museum/Place/918",
             "type": "Place",
             "_label": "Sketch of Verona",
             "defined_by": "POINT(45.45 11)"

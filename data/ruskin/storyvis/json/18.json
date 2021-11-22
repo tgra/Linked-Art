@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/396",
+    "id": "http://lod.example.org/museum/VisualItem/468",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/793",
+        "id": "http://lod.example.org/museum/Place/937",
         "type": "Place",
         "_label": "Pass of Faido",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/792",
+            "id": "http://lod.example.org/museum/Place/936",
             "type": "Place",
             "_label": "Pass of Faido",
             "defined_by": "POINT(46.479417 8.797659)"

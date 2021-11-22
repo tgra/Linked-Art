@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/392",
+    "id": "http://lod.example.org/museum/VisualItem/464",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/785",
+        "id": "http://lod.example.org/museum/Place/929",
         "type": "Place",
         "_label": "View of Chamonix",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/784",
+            "id": "http://lod.example.org/museum/Place/928",
             "type": "Place",
             "_label": "View of Chamonix",
             "defined_by": "POINT(45.924308 6.867316)"

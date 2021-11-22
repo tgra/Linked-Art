@@ -210,16 +210,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/412",
+    "id": "http://lod.example.org/museum/VisualItem/484",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/825",
+        "id": "http://lod.example.org/museum/Place/969",
         "type": "Place",
         "_label": "Study of an Archivolt in Saint Mark's, Venice",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/824",
+            "id": "http://lod.example.org/museum/Place/968",
             "type": "Place",
             "_label": "Study of an Archivolt in Saint Mark's, Venice",
             "defined_by": "POINT(45.438611 12.326667)"

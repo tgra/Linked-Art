@@ -209,16 +209,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/408",
+    "id": "http://lod.example.org/museum/VisualItem/480",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/817",
+        "id": "http://lod.example.org/museum/Place/961",
         "type": "Place",
         "_label": "Tower of Fribourg",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/816",
+            "id": "http://lod.example.org/museum/Place/960",
             "type": "Place",
             "_label": "Tower of Fribourg",
             "defined_by": "POINT(46.79572 7.154748)"
