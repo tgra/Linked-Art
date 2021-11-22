@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/299179",
+  "id": "https://www.harvardartmuseums.org/collections/object/299114",
   "type": "HumanMadeObject",
-  "_label": "Architectural Sketch: Section of Door Jamb, Saint Stefano",
+  "_label": "The Pass of Faido",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300033973",
@@ -19,7 +19,7 @@
   ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1926.33.126",
+      "id": "http://lod.example.org/museum/Identifier/1910.52",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1926.33.126"
+      "content": "1910.52"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/299179",
+      "id": "http://lod.example.org/museum/Identifier/299114",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "299179"
+      "content": "299114"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299179/primary-name",
+      "id": "https://www.harvardartmuseums.org/collections/object/299114/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,12 +52,12 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Architectural Sketch: Section of Door Jamb, Saint Stefano"
+      "content": "The Pass of Faido"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299179/provenance-statement",
+      "id": "https://www.harvardartmuseums.org/collections/object/299114/provenance-statement",
       "type": "LinguisticObject",
       "_label": "Provenance Statement about the Object",
       "classified_as": [
@@ -71,11 +71,10 @@
           "type": "Type",
           "_label": "brief texts"
         }
-      ],
-      "content": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
+      ]
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299179/credit-line",
+      "id": "https://www.harvardartmuseums.org/collections/object/299114/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -90,12 +89,12 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Harvard Art Museums/Fogg Museum, Transfer from the Fine Arts Department, Harvard University"
+      "content": "Harvard Art Museums/Fogg Museum, Gift of Friends and former pupils of Professor C. H. Moore in recognition of his service"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299179/collection/European and American Art",
+      "id": "https://www.harvardartmuseums.org/collections/object/299114/collection/European and American Art",
       "type": "Set",
       "_label": "European and American Art",
       "classified_as": [
@@ -107,36 +106,9 @@
       ]
     }
   ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48789_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48789_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48789_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299179",
+      "id": "https://www.harvardartmuseums.org/collections/object/299114",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -155,15 +127,15 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/299179/production",
+    "id": "https://www.harvardartmuseums.org/collections/object/299114/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/299179/production/timespan",
+      "id": "https://www.harvardartmuseums.org/collections/object/299114/production/timespan",
       "type": "TimeSpan",
-      "_label": "1850",
-      "begin_of_the_begin": "1850",
-      "end_of_the_end": "1850"
+      "_label": "1845",
+      "begin_of_the_begin": "1845",
+      "end_of_the_end": "1845"
     },
     "carried_out_by": [
       {
@@ -187,7 +159,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://www.harvardartmuseums.org/collections/object/299179/IMA-acquisition",
+          "id": "https://www.harvardartmuseums.org/collections/object/299114/IMA-acquisition",
           "type": "Acquisition",
           "_label": "Acquisition of the Object",
           "classified_as": [
@@ -198,31 +170,58 @@
             }
           ],
           "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/299179/IMA-acquisition/timespan",
+            "id": "https://www.harvardartmuseums.org/collections/object/299114/IMA-acquisition/timespan",
             "type": "TimeSpan",
-            "_label": "1926",
-            "begin_of_the_begin": "1926-01-01T00:00:00.000Z",
-            "end_of_the_end": "1926-12-31T00:00:00.000Z"
+            "_label": "1910",
+            "begin_of_the_begin": "1910-01-01T00:00:00.000Z",
+            "end_of_the_end": "1910-12-31T00:00:00.000Z"
           }
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:49559_dynmc",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:49559_dynmc",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:49559_dynmc",
+              "type": "DigitalObject"
+            }
+          ]
         }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/19",
+    "id": "http://lod.example.org/museum/VisualItem/399",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/39",
+        "id": "http://lod.example.org/museum/Place/799",
         "type": "Place",
-        "_label": "Saint Stefano",
+        "_label": "The Pass of Faido",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/38",
+            "id": "http://lod.example.org/museum/Place/798",
             "type": "Place",
-            "_label": "Saint Stefano",
-            "defined_by": "POINT(45.906389 12.015556)"
+            "_label": "The Pass of Faido",
+            "defined_by": "POINT(46.479417 8.797659)"
           }
         ]
       }

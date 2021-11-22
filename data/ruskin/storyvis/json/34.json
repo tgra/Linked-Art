@@ -1,13 +1,13 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/262489",
+  "id": "https://www.harvardartmuseums.org/collections/object/297456",
   "type": "HumanMadeObject",
-  "_label": "Lake of Zug",
+  "_label": "Study of an Archivolt in Saint Mark's, Venice",
   "classified_as": [
     {
-      "id": "http://vocab.getty.edu/aat/300041273",
+      "id": "http://vocab.getty.edu/aat/300033973",
       "type": "Type",
-      "_label": "Print",
+      "_label": "Drawing",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300435443",
@@ -19,7 +19,7 @@
   ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/M2124",
+      "id": "http://lod.example.org/museum/Identifier/1953.206",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "M2124"
+      "content": "1953.206"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/262489",
+      "id": "http://lod.example.org/museum/Identifier/297456",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "262489"
+      "content": "297456"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/262489/primary-name",
+      "id": "https://www.harvardartmuseums.org/collections/object/297456/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,12 +52,12 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Lake of Zug"
+      "content": "Study of an Archivolt in Saint Mark's, Venice"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/262489/provenance-statement",
+      "id": "https://www.harvardartmuseums.org/collections/object/297456/provenance-statement",
       "type": "LinguisticObject",
       "_label": "Provenance Statement about the Object",
       "classified_as": [
@@ -71,10 +71,11 @@
           "type": "Type",
           "_label": "brief texts"
         }
-      ]
+      ],
+      "content": "Edward Waldo Forbes, Cambridge, gift; to Fogg Art Museum, 1953"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/262489/credit-line",
+      "id": "https://www.harvardartmuseums.org/collections/object/297456/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -89,12 +90,12 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Harvard Art Museums/Fogg Museum, Gift of Miss Ellen Bullard"
+      "content": "Harvard Art Museums/Fogg Museum, Gift of Edward W. Forbes"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/262489/collection/European and American Art",
+      "id": "https://www.harvardartmuseums.org/collections/object/297456/collection/European and American Art",
       "type": "Set",
       "_label": "European and American Art",
       "classified_as": [
@@ -106,36 +107,9 @@
       ]
     }
   ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:INV194189_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:INV194189_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:INV194189_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/262489",
+      "id": "https://www.harvardartmuseums.org/collections/object/297456",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -154,15 +128,15 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/262489/production",
+    "id": "https://www.harvardartmuseums.org/collections/object/297456/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/262489/production/timespan",
+      "id": "https://www.harvardartmuseums.org/collections/object/297456/production/timespan",
       "type": "TimeSpan",
-      "_label": "19th century",
-      "begin_of_the_begin": 1819,
-      "end_of_the_end": 1900
+      "_label": "1852",
+      "begin_of_the_begin": "1852",
+      "end_of_the_end": "1852"
     },
     "carried_out_by": [
       {
@@ -186,7 +160,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://www.harvardartmuseums.org/collections/object/262489/IMA-acquisition",
+          "id": "https://www.harvardartmuseums.org/collections/object/297456/IMA-acquisition",
           "type": "Acquisition",
           "_label": "Acquisition of the Object",
           "classified_as": [
@@ -197,31 +171,58 @@
             }
           ],
           "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/262489/IMA-acquisition/timespan",
+            "id": "https://www.harvardartmuseums.org/collections/object/297456/IMA-acquisition/timespan",
             "type": "TimeSpan",
-            "_label": "1921",
-            "begin_of_the_begin": "1921-01-01T00:00:00.000Z",
-            "end_of_the_end": "1921-12-31T00:00:00.000Z"
+            "_label": "1953",
+            "begin_of_the_begin": "1953-01-01T00:00:00.000Z",
+            "end_of_the_end": "1953-12-31T00:00:00.000Z"
           }
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS80695_dynmc",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS80695_dynmc",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS80695_dynmc",
+              "type": "DigitalObject"
+            }
+          ]
         }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/32",
+    "id": "http://lod.example.org/museum/VisualItem/412",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/65",
+        "id": "http://lod.example.org/museum/Place/825",
         "type": "Place",
-        "_label": "Lake of Zug",
+        "_label": "Study of an Archivolt in Saint Mark's, Venice",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/64",
+            "id": "http://lod.example.org/museum/Place/824",
             "type": "Place",
-            "_label": "Lake of Zug",
-            "defined_by": "POINT(47.131301 8.483347)"
+            "_label": "Study of an Archivolt in Saint Mark's, Venice",
+            "defined_by": "POINT(45.438611 12.326667)"
           }
         ]
       }

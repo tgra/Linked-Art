@@ -26,24 +26,68 @@
       },
       {
         "background": {
-          "color": "#00758F",
+          "color": "#8f1a00",
           "opacity": 100
         },
-        "date": "1842",
+        "date": "1829",
         "location": {
-          "lat": 47.677449,
+          "lat": 45.45,
           "line": true,
-          "lon": 8.615268,
+          "lon": 11.0,
           "zoom": 4
         },
         "media": {
-          "caption": "1842",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc?width=500&height=800"
+          "caption": "1829-1900",
+          "credit": "RijksMuseum",
+          "url": "https://lh3.googleusercontent.com/X0Xc5cER3eTrpNyqH4kg3ne-ewai_nBqFdSI-EZPZ4N-lE6rn1OAUBckEHQSFyafcGcFpiX99QU4STEXWbB43KsnAbi3=s0"
         },
         "text": {
-          "headline": "Falls of Schaffhausen",
-          "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298666'>Artwork homepage</a>"
+          "headline": "Gezicht op S. Anastasia te Verona, over de Adige",
+          "text": "<br/><br/><a target='_new' href='http://www.rijksmuseum.nl/nl/collectie/RP-T-1957-335'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#8f1a00",
+          "opacity": 100
+        },
+        "date": "1829",
+        "location": {
+          "lat": 46.196732,
+          "line": true,
+          "lon": 6.110443,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1829-1900",
+          "credit": "RijksMuseum",
+          "url": "https://lh3.ggpht.com/SOPNNYPF1S5Ij-DKCcm7AoweEHz--rJ0VPCh5WZdFbCKEPNnSI9ZAzYQz_nxKVtuurYAnOEvSFfYv5ZNcX-Ma7TwNH0=s0"
+        },
+        "text": {
+          "headline": "Bergkam aan het Meer van Gen\u00e8ve",
+          "text": "<br/><br/><a target='_new' href='http://www.rijksmuseum.nl/nl/collectie/RP-T-1987-19'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
+        "date": "1838",
+        "location": {
+          "lat": 51.75,
+          "line": true,
+          "lon": -1.25,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1838",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48818_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Tom Tower, Christ Church, Oxford",
+          "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298606'>Artwork homepage</a>"
         }
       },
       {
@@ -53,9 +97,9 @@
         },
         "date": "1842",
         "location": {
-          "lat": 49.266667,
+          "lat": 48.766667,
           "line": true,
-          "lon": 6.816667,
+          "lon": 10.633333,
           "zoom": 4
         },
         "media": {
@@ -66,6 +110,28 @@
         "text": {
           "headline": "Falls of Schaffhausen",
           "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298667'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
+        "date": "1842",
+        "location": {
+          "lat": 48.766667,
+          "line": true,
+          "lon": 10.633333,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1842",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Falls of Schaffhausen",
+          "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298666'>Artwork homepage</a>"
         }
       },
       {
@@ -97,31 +163,9 @@
         },
         "date": "1844",
         "location": {
-          "lat": 40.633333,
+          "lat": 46.294803,
           "line": true,
-          "lon": 14.6,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "1844",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:86324_dynmc?width=500&height=800"
-        },
-        "text": {
-          "headline": "View of Amalfi",
-          "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/297164'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#00758F",
-          "opacity": 100
-        },
-        "date": "1844",
-        "location": {
-          "lat": 46.301907,
-          "line": true,
-          "lon": 7.870004,
+          "lon": 7.880048,
           "zoom": 4
         },
         "media": {
@@ -180,24 +224,24 @@
       },
       {
         "background": {
-          "color": "#00758F",
+          "color": "#E8A798",
           "opacity": 100
         },
-        "date": "1848",
+        "date": "1845",
         "location": {
-          "lat": 49.197188,
+          "lat": 43.766667,
           "line": true,
-          "lon": -0.326822,
+          "lon": 11.25,
           "zoom": 4
         },
         "media": {
-          "caption": "1848",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:INV003786_dynmc?width=500&height=800"
+          "caption": "1845",
+          "credit": "National Gallery of Art",
+          "url": ""
         },
         "text": {
-          "headline": "Detail of St. Sauveur, Caen",
-          "text": "Samuel Sachs, gift; to Fogg Art Museum, 1919<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298627'>Artwork homepage</a>"
+          "headline": "The Garden of San Miniato near Florence",
+          "text": "Patrons' Permanent Fund<br/><br/><a target='_new' href='https://www.nga.gov/collection/art-object-page.72870.html'>Artwork homepage</a>"
         }
       },
       {
@@ -207,9 +251,9 @@
         },
         "date": "1848",
         "location": {
-          "lat": 49.113813,
+          "lat": 49.0,
           "line": true,
-          "lon": -1.081905,
+          "lon": 0.0,
           "zoom": 4
         },
         "media": {
@@ -237,7 +281,7 @@
         "media": {
           "caption": "1849",
           "credit": "National Gallery of Art",
-          "url": "https://media.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!384,384/0/default.jpg"
+          "url": ""
         },
         "text": {
           "headline": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\"",
@@ -251,31 +295,9 @@
         },
         "date": "1849",
         "location": {
-          "lat": 48.1975,
+          "lat": 45.438611,
           "line": true,
-          "lon": 3.2877,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "1849",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48791_dynmc?width=500&height=800"
-        },
-        "text": {
-          "headline": "Architectural Study at Sens: Sketch of Foolish Virgin Relief",
-          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299180'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#00758F",
-          "opacity": 100
-        },
-        "date": "1849",
-        "location": {
-          "lat": 45.583333,
-          "line": true,
-          "lon": 12.566667,
+          "lon": 12.326667,
           "zoom": 4
         },
         "media": {
@@ -286,28 +308,6 @@
         "text": {
           "headline": "Studies in St. Mark's",
           "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299181'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#00758F",
-          "opacity": 100
-        },
-        "date": "1850",
-        "location": {
-          "lat": 45.906389,
-          "line": true,
-          "lon": 12.015556,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "1850",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48789_dynmc?width=500&height=800"
-        },
-        "text": {
-          "headline": "Architectural Sketch: Section of Door Jamb, Saint Stefano",
-          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299179'>Artwork homepage</a>"
         }
       },
       {
@@ -345,13 +345,13 @@
           "zoom": 4
         },
         "media": {
-          "caption": "1852",
+          "caption": "1852(?)",
           "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48803_dynmc?width=500&height=800"
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc?width=500&height=800"
         },
         "text": {
-          "headline": "Studies of Venetian Capitals",
-          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298814'>Artwork homepage</a>"
+          "headline": "Study of a Venetian Capital",
+          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298597'>Artwork homepage</a>"
         }
       },
       {
@@ -367,13 +367,13 @@
           "zoom": 4
         },
         "media": {
-          "caption": "1852(?)",
+          "caption": "1852",
           "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc?width=500&height=800"
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48803_dynmc?width=500&height=800"
         },
         "text": {
-          "headline": "Study of a Venetian Capital",
-          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298597'>Artwork homepage</a>"
+          "headline": "Studies of Venetian Capitals",
+          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298814'>Artwork homepage</a>"
         }
       },
       {
@@ -427,9 +427,31 @@
         },
         "date": "1854",
         "location": {
-          "lat": 48.767697,
+          "lat": 46.416667,
           "line": true,
-          "lon": 6.855842,
+          "lon": 10.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "c. 1854-1856",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100823_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Fragment of the Alps",
+          "text": "The artist, sold; to Charles Eliot Norton c. 1858, by descent; to Sara, Margaret, and Elizabeth Norton (daughters of Charles Eliot Norton), sold; to Fogg Art Museum, 1919 [1].\r\n\r\n[1] Samuel Sachs provided the funds to purchase the drawing, however, it was never in his collection.<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/303730'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
+        "date": "1854",
+        "location": {
+          "lat": 46.79572,
+          "line": true,
+          "lon": 7.154748,
           "zoom": 4
         },
         "media": {
@@ -440,50 +462,6 @@
         "text": {
           "headline": "Tower of Fribourg",
           "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298635'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#00758F",
-          "opacity": 100
-        },
-        "date": "1859",
-        "location": {
-          "lat": 49.966667,
-          "line": true,
-          "lon": 7.933333,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "July 26, 1859",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:70389_dynmc?width=500&height=800"
-        },
-        "text": {
-          "headline": "Kempten",
-          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299185'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#00758F",
-          "opacity": 100
-        },
-        "date": "1863",
-        "location": {
-          "lat": 48.966667,
-          "line": true,
-          "lon": 10.566667,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "c. 1863-1869",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS46314_dynmc?width=500&height=800"
-        },
-        "text": {
-          "headline": "Town of Schaffhausen: Castle and Turrets",
-          "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/297450'>Artwork homepage</a>"
         }
       },
       {
@@ -513,6 +491,28 @@
           "color": "#00758F",
           "opacity": 100
         },
+        "date": "1863",
+        "location": {
+          "lat": 48.766667,
+          "line": true,
+          "lon": 10.633333,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "c. 1863-1869",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS46314_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Town of Schaffhausen: Castle and Turrets",
+          "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/297450'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
         "date": "1866",
         "location": {
           "lat": 46.990867,
@@ -535,33 +535,11 @@
           "color": "#00758F",
           "opacity": 100
         },
-        "date": "1866",
-        "location": {
-          "lat": 46.595676,
-          "line": true,
-          "lon": 7.907654,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "1866(?)",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48777_dynmc?width=500&height=800"
-        },
-        "text": {
-          "headline": "View of the Valley of Lauterbrunnen",
-          "text": "Samuel Sachs, gift; to Fogg Art Museum, 1919<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298601'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#00758F",
-          "opacity": 100
-        },
         "date": "1868",
         "location": {
-          "lat": 49.516427,
+          "lat": 50.106602,
           "line": true,
-          "lon": 2.169063,
+          "lon": 1.832691,
           "zoom": 4
         },
         "media": {
@@ -581,31 +559,9 @@
         },
         "date": "1876",
         "location": {
-          "lat": 45.416667,
+          "lat": 45.438611,
           "line": true,
-          "lon": 11.033333,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "1876",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:INV121896_dynmc?width=500&height=800"
-        },
-        "text": {
-          "headline": "Sketch of Verona",
-          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298630'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#00758F",
-          "opacity": 100
-        },
-        "date": "1876",
-        "location": {
-          "lat": 45.583333,
-          "line": true,
-          "lon": 12.566667,
+          "lon": 12.326667,
           "zoom": 4
         },
         "media": {
@@ -623,21 +579,21 @@
           "color": "#00758F",
           "opacity": 100
         },
-        "date": "1879",
+        "date": "1876",
         "location": {
-          "lat": 45.438611,
+          "lat": 45.45,
           "line": true,
-          "lon": 12.326667,
+          "lon": 11.0,
           "zoom": 4
         },
         "media": {
-          "caption": "1879",
+          "caption": "1876",
           "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100821_dynmc?width=500&height=800"
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:INV121896_dynmc?width=500&height=800"
         },
         "text": {
-          "headline": "Part of a Sketch of the Northwest Porch of St. Mark's",
-          "text": "Samuel Sachs, gift; to Fogg Art Museum, 1919<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298668'>Artwork homepage</a>"
+          "headline": "Sketch of Verona",
+          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298630'>Artwork homepage</a>"
         }
       },
       {
@@ -669,9 +625,9 @@
         },
         "date": "1882",
         "location": {
-          "lat": 43.83849,
+          "lat": 44.033333,
           "line": true,
-          "lon": 10.507736,
+          "lon": 10.45,
           "zoom": 4
         },
         "media": {

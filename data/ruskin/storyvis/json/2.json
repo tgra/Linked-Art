@@ -107,33 +107,6 @@
       ]
     }
   ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "subject_of": [
     {
       "id": "https://www.harvardartmuseums.org/collections/object/298597",
@@ -208,20 +181,47 @@
       ]
     }
   ],
+  "representation": [
+    {
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/0",
+    "id": "http://lod.example.org/museum/VisualItem/380",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/1",
+        "id": "http://lod.example.org/museum/Place/761",
         "type": "Place",
-        "_label": "Venice",
+        "_label": "Study of a Venetian Capital",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/0",
+            "id": "http://lod.example.org/museum/Place/760",
             "type": "Place",
-            "_label": "Venice",
+            "_label": "Study of a Venetian Capital",
             "defined_by": "POINT(45.438611 12.326667)"
           }
         ]

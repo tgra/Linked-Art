@@ -1,13 +1,13 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/297450",
+  "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1957-335",
   "type": "HumanMadeObject",
-  "_label": "Town of Schaffhausen: Castle and Turrets",
+  "_label": "Gezicht op S. Anastasia te Verona, over de Adige",
   "classified_as": [
     {
-      "id": "http://vocab.getty.edu/aat/300033973",
+      "id": "http://vocab.getty.edu/aat/300033618",
       "type": "Type",
-      "_label": "Drawing",
+      "_label": "Painting",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300435443",
@@ -19,7 +19,7 @@
   ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1949.30.A",
+      "id": "http://lod.example.org/museum/Identifier/RP-T-1957-335",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1949.30.A"
+      "content": "RP-T-1957-335"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/297450",
+      "id": "http://lod.example.org/museum/Identifier/nl-RP-T-1957-335",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "297450"
+      "content": "nl-RP-T-1957-335"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/297450/primary-name",
+      "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1957-335/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,90 +52,12 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Town of Schaffhausen: Castle and Turrets"
-    }
-  ],
-  "referred_to_by": [
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/297450/provenance-statement",
-      "type": "LinguisticObject",
-      "_label": "Provenance Statement about the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300055863",
-          "type": "Type",
-          "_label": "provenance (history of ownership)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ]
-    },
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/297450/credit-line",
-      "type": "LinguisticObject",
-      "_label": "Credit Line for the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300026687",
-          "type": "Type",
-          "_label": "acknowledgements"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Harvard Art Museums/Fogg Museum, Gift of Meta and Paul J. Sachs"
-    }
-  ],
-  "member_of": [
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/297450/collection/European and American Art",
-      "type": "Set",
-      "_label": "European and American Art",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300025976",
-          "type": "Type",
-          "_label": "collections (object groupings)"
-        }
-      ]
-    }
-  ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS46314_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS46314_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS46314_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
-      ]
+      "content": "Gezicht op S. Anastasia te Verona, over de Adige"
     }
   ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/297450",
+      "id": "http://www.rijksmuseum.nl/nl/collectie/RP-T-1957-335",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -154,19 +76,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/297450/production",
+    "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1957-335/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/297450/production/timespan",
+      "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1957-335/production/timespan",
       "type": "TimeSpan",
-      "_label": "c. 1863-1869",
-      "begin_of_the_begin": "1863",
-      "end_of_the_end": "1869"
+      "_label": "1829-1900",
+      "begin_of_the_begin": "1829",
+      "end_of_the_end": "1900"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "http://www.rijksmuseum.nl/nl/collectie/creator/nl-RP-T-1957-335",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -176,52 +98,58 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Harvard Art Museum",
+      "_label": "Rijksmuseum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "museums (institutions)"
         }
-      ],
-      "acquired_title_through": [
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://lh3.googleusercontent.com/X0Xc5cER3eTrpNyqH4kg3ne-ewai_nBqFdSI-EZPZ4N-lE6rn1OAUBckEHQSFyafcGcFpiX99QU4STEXWbB43KsnAbi3=s0",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
         {
-          "id": "https://www.harvardartmuseums.org/collections/object/297450/IMA-acquisition",
-          "type": "Acquisition",
-          "_label": "Acquisition of the Object",
+          "id": "https://lh3.googleusercontent.com/X0Xc5cER3eTrpNyqH4kg3ne-ewai_nBqFdSI-EZPZ4N-lE6rn1OAUBckEHQSFyafcGcFpiX99QU4STEXWbB43KsnAbi3=s0",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
           "classified_as": [
             {
-              "id": "http://vocab.getty.edu/aat/300157782",
+              "id": "http://vocab.getty.edu/aat/300215302",
               "type": "Type",
-              "_label": "acquisition (collections management)"
+              "_label": "Digital Image"
             }
           ],
-          "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/297450/IMA-acquisition/timespan",
-            "type": "TimeSpan",
-            "_label": "1949",
-            "begin_of_the_begin": "1949-01-01T00:00:00.000Z",
-            "end_of_the_end": "1949-12-31T00:00:00.000Z"
-          }
+          "access_point": [
+            {
+              "id": "https://lh3.googleusercontent.com/X0Xc5cER3eTrpNyqH4kg3ne-ewai_nBqFdSI-EZPZ4N-lE6rn1OAUBckEHQSFyafcGcFpiX99QU4STEXWbB43KsnAbi3=s0",
+              "type": "DigitalObject"
+            }
+          ]
         }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/35",
+    "id": "http://lod.example.org/museum/VisualItem/415",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/71",
+        "id": "http://lod.example.org/museum/Place/831",
         "type": "Place",
-        "_label": "Town of Schaffhausen: Castle and Turrets",
+        "_label": "Gezicht op S. Anastasia te Verona, over de Adige",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/70",
+            "id": "http://lod.example.org/museum/Place/830",
             "type": "Place",
-            "_label": "Town of Schaffhausen: Castle and Turrets",
-            "defined_by": "POINT(48.966667 10.566667)"
+            "_label": "Gezicht op S. Anastasia te Verona, over de Adige",
+            "defined_by": "POINT(45.45 11)"
           }
         ]
       }

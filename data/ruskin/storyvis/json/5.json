@@ -1,25 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/293768",
+  "id": "https://www.tate.org.uk/art/artworks/13033",
   "type": "HumanMadeObject",
-  "_label": "Looking down from Florence towards Lucca",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300033973",
-      "type": "Type",
-      "_label": "Drawing",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300435443",
-          "type": "Type",
-          "_label": "Type of Work"
-        }
-      ]
-    }
-  ],
+  "_label": "View of Bologna",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1954.135",
+      "id": "http://lod.example.org/museum/Identifier/N03507",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1954.135"
+      "content": "N03507"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/293768",
+      "id": "http://lod.example.org/museum/Identifier/13033",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "293768"
+      "content": "13033"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/293768/primary-name",
+      "id": "https://www.tate.org.uk/art/artworks/13033/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,30 +38,12 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Looking down from Florence towards Lucca"
+      "content": "View of Bologna"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/293768/provenance-statement",
-      "type": "LinguisticObject",
-      "_label": "Provenance Statement about the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300055863",
-          "type": "Type",
-          "_label": "provenance (history of ownership)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Edward Waldo Forbes, Cambridge, gift; to Fogg Art Museum, 1954"
-    },
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/293768/credit-line",
+      "id": "https://www.tate.org.uk/art/artworks/13033/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -90,14 +58,13 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Harvard Art Museums/Fogg Museum, Gift of Edward W. Forbes"
+      "content": "Purchased 1920"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/293768/collection/European and American Art",
+      "id": "https://www.tate.org.uk/art/artworks/13033/collection/",
       "type": "Set",
-      "_label": "European and American Art",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300025976",
@@ -109,12 +76,12 @@
   ],
   "representation": [
     {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:80339_dynmc",
+      "id": "http://lod.example.org/museum/VisualItem/thumbnailUrl",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:80339_dynmc",
+          "id": "http://lod.example.org/museum/DigitalObject/thumbnailUrl",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -126,7 +93,7 @@
           ],
           "access_point": [
             {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:80339_dynmc",
+              "id": "http://lod.example.org/museum/DigitalObject/thumbnailUrl",
               "type": "DigitalObject"
             }
           ]
@@ -136,7 +103,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/293768",
+      "id": "http://lod.example.org/museum/LinguisticObject/url",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -155,19 +122,17 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/293768/production",
+    "id": "https://www.tate.org.uk/art/artworks/13033/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/293768/production/timespan",
+      "id": "https://www.tate.org.uk/art/artworks/13033/production/timespan",
       "type": "TimeSpan",
-      "_label": "1882",
-      "begin_of_the_begin": "1882",
-      "end_of_the_end": "1882"
+      "_label": "c.1845\u20136"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "http://lod.example.org/museum/Actor/465",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -177,7 +142,7 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Harvard Art Museum",
+      "_label": "Tate Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
@@ -187,7 +152,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://www.harvardartmuseums.org/collections/object/293768/IMA-acquisition",
+          "id": "https://www.tate.org.uk/art/artworks/13033/IMA-acquisition",
           "type": "Acquisition",
           "_label": "Acquisition of the Object",
           "classified_as": [
@@ -198,11 +163,11 @@
             }
           ],
           "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/293768/IMA-acquisition/timespan",
+            "id": "https://www.tate.org.uk/art/artworks/13033/IMA-acquisition/timespan",
             "type": "TimeSpan",
-            "_label": "1954",
-            "begin_of_the_begin": "1954-01-01T00:00:00.000Z",
-            "end_of_the_end": "1954-12-31T00:00:00.000Z"
+            "_label": "1920",
+            "begin_of_the_begin": "1920-01-01T00:00:00.000Z",
+            "end_of_the_end": "1920-12-31T00:00:00.000Z"
           }
         }
       ]
@@ -210,19 +175,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/3",
+    "id": "http://lod.example.org/museum/VisualItem/383",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/7",
+        "id": "http://lod.example.org/museum/Place/767",
         "type": "Place",
-        "_label": "Looking down from Florence towards Lucca",
+        "_label": "View of Bologna",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/6",
+            "id": "http://lod.example.org/museum/Place/766",
             "type": "Place",
-            "_label": "Looking down from Florence towards Lucca",
-            "defined_by": "POINT(43.838490  10.507736)"
+            "_label": "View of Bologna",
+            "defined_by": "POINT(44.466667 11.433333)"
           }
         ]
       }
