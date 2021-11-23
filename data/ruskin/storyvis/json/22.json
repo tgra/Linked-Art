@@ -1,25 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/296900",
+  "id": "https://www.tate.org.uk/art/artworks/13032",
   "type": "HumanMadeObject",
-  "_label": "Architectural Sketch, Venice",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300033973",
-      "type": "Type",
-      "_label": "Drawing",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300435443",
-          "type": "Type",
-          "_label": "Type of Work"
-        }
-      ]
-    }
-  ],
+  "_label": "The North-West Angle of the Facade of St Mark\u2019s, Venice",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1957.186",
+      "id": "http://lod.example.org/museum/Identifier/N02972",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1957.186"
+      "content": "N02972"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/296900",
+      "id": "http://lod.example.org/museum/Identifier/13032",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "296900"
+      "content": "13032"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/296900/primary-name",
+      "id": "https://www.tate.org.uk/art/artworks/13032/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,29 +38,12 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Architectural Sketch, Venice"
+      "content": "The North-West Angle of the Facade of St Mark\u2019s, Venice"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/296900/provenance-statement",
-      "type": "LinguisticObject",
-      "_label": "Provenance Statement about the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300055863",
-          "type": "Type",
-          "_label": "provenance (history of ownership)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ]
-    },
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/296900/credit-line",
+      "id": "https://www.tate.org.uk/art/artworks/13032/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -89,14 +58,13 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Harvard Art Museums/Fogg Museum, Gift of the Estate of William and Frances White Emerson"
+      "content": "Presented by the Art Fund 1914"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/296900/collection/European and American Art",
+      "id": "https://www.tate.org.uk/art/artworks/13032/collection/",
       "type": "Set",
-      "_label": "European and American Art",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300025976",
@@ -106,9 +74,36 @@
       ]
     }
   ],
+  "representation": [
+    {
+      "id": "http://lod.example.org/museum/VisualItem/thumbnailUrl",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "http://lod.example.org/museum/DigitalObject/thumbnailUrl",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "http://lod.example.org/museum/DigitalObject/thumbnailUrl",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/296900",
+      "id": "http://lod.example.org/museum/LinguisticObject/url",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -127,19 +122,17 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/296900/production",
+    "id": "https://www.tate.org.uk/art/artworks/13032/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/296900/production/timespan",
+      "id": "https://www.tate.org.uk/art/artworks/13032/production/timespan",
       "type": "TimeSpan",
-      "_label": "1850",
-      "begin_of_the_begin": "1850",
-      "end_of_the_end": "1850"
+      "_label": "date not known"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "http://lod.example.org/museum/Actor/465",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -149,7 +142,7 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Harvard Art Museum",
+      "_label": "Tate Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
@@ -159,7 +152,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://www.harvardartmuseums.org/collections/object/296900/IMA-acquisition",
+          "id": "https://www.tate.org.uk/art/artworks/13032/IMA-acquisition",
           "type": "Acquisition",
           "_label": "Acquisition of the Object",
           "classified_as": [
@@ -170,57 +163,30 @@
             }
           ],
           "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/296900/IMA-acquisition/timespan",
+            "id": "https://www.tate.org.uk/art/artworks/13032/IMA-acquisition/timespan",
             "type": "TimeSpan",
-            "_label": "1957",
-            "begin_of_the_begin": "1957-01-01T00:00:00.000Z",
-            "end_of_the_end": "1957-12-31T00:00:00.000Z"
+            "_label": "1914",
+            "begin_of_the_begin": "1914-01-01T00:00:00.000Z",
+            "end_of_the_end": "1914-12-31T00:00:00.000Z"
           }
-        }
-      ]
-    }
-  ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS44671_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS44671_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS44671_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
         }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/472",
+    "id": "http://lod.example.org/museum/VisualItem/1036",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/945",
+        "id": "http://lod.example.org/museum/Place/2073",
         "type": "Place",
-        "_label": "Architectural Sketch, Venice",
+        "_label": "The North-West Angle of the Facade of St Mark\u2019s, Venice",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/944",
+            "id": "http://lod.example.org/museum/Place/2072",
             "type": "Place",
-            "_label": "Architectural Sketch, Venice",
+            "_label": "The North-West Angle of the Facade of St Mark\u2019s, Venice",
             "defined_by": "POINT(45.438611 12.326667)"
           }
         ]

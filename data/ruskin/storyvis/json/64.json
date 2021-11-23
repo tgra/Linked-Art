@@ -1,0 +1,143 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://collections.ashmolean.org/collection/176325",
+  "type": "HumanMadeObject",
+  "_label": "Design for a window in the University Museum, Oxford",
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/WA1931.49",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ],
+      "content": "WA1931.49"
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/176325",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Owner-Assigned Number"
+        }
+      ],
+      "content": "176325"
+    },
+    {
+      "id": "https://collections.ashmolean.org/collection/176325/primary-name",
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "Design for a window in the University Museum, Oxford"
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_49-a-L.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_49-a-L.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_49-a-L.jpg",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176325",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ],
+  "produced_by": {
+    "id": "https://collections.ashmolean.org/collection/176325/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "https://collections.ashmolean.org/collection/176325/production/timespan",
+      "type": "TimeSpan",
+      "_label": "c. 1855",
+      "begin_of_the_begin": "1855",
+      "end_of_the_end": "1855"
+    },
+    "carried_out_by": [
+      {
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
+  },
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500300517",
+      "type": "Group",
+      "_label": "Ashmolean Museum",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "museums (institutions)"
+        }
+      ]
+    }
+  ],
+  "shows": {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "http://lod.example.org/museum/VisualItem/1078",
+    "type": "VisualItem",
+    "represents": [
+      {
+        "id": "http://lod.example.org/museum/Place/2157",
+        "type": "Place",
+        "_label": "Design for a window in the University Museum, Oxford",
+        "approximated_by": [
+          {
+            "id": "http://lod.example.org/museum/Place/2156",
+            "type": "Place",
+            "_label": "Design for a window in the University Museum, Oxford",
+            "defined_by": "POINT(51.75 -1.25)"
+          }
+        ]
+      }
+    ]
+  }
+}

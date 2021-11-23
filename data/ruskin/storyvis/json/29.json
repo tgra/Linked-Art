@@ -1,25 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/297450",
+  "id": "https://collections.ashmolean.org/collection/176331",
   "type": "HumanMadeObject",
-  "_label": "Town of Schaffhausen: Castle and Turrets",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300033973",
-      "type": "Type",
-      "_label": "Drawing",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300435443",
-          "type": "Type",
-          "_label": "Type of Work"
-        }
-      ]
-    }
-  ],
+  "_label": "Design for a window in the University Museum, Oxford",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1949.30.A",
+      "id": "http://lod.example.org/museum/Identifier/WA1931.56",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1949.30.A"
+      "content": "WA1931.56"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/297450",
+      "id": "http://lod.example.org/museum/Identifier/176331",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "297450"
+      "content": "176331"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/297450/primary-name",
+      "id": "https://collections.ashmolean.org/collection/176331/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,63 +38,39 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Town of Schaffhausen: Castle and Turrets"
+      "content": "Design for a window in the University Museum, Oxford"
     }
   ],
-  "referred_to_by": [
+  "representation": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/297450/provenance-statement",
-      "type": "LinguisticObject",
-      "_label": "Provenance Statement about the Object",
-      "classified_as": [
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_56-a-L.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
         {
-          "id": "http://vocab.getty.edu/aat/300055863",
-          "type": "Type",
-          "_label": "provenance (history of ownership)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ]
-    },
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/297450/credit-line",
-      "type": "LinguisticObject",
-      "_label": "Credit Line for the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300026687",
-          "type": "Type",
-          "_label": "acknowledgements"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Harvard Art Museums/Fogg Museum, Gift of Meta and Paul J. Sachs"
-    }
-  ],
-  "member_of": [
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/297450/collection/European and American Art",
-      "type": "Set",
-      "_label": "European and American Art",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300025976",
-          "type": "Type",
-          "_label": "collections (object groupings)"
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_56-a-L.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_56-a-L.jpg",
+              "type": "DigitalObject"
+            }
+          ]
         }
       ]
     }
   ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/297450",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176331",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -127,19 +89,18 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/297450/production",
+    "id": "https://collections.ashmolean.org/collection/176331/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/297450/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/176331/production/timespan",
       "type": "TimeSpan",
-      "_label": "c. 1863-1869",
-      "begin_of_the_begin": "1863",
-      "end_of_the_end": "1869"
+      "_label": "c. 1855",
+      "begin_of_the_begin": "1855",
+      "end_of_the_end": "1855"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -149,79 +110,31 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Harvard Art Museum",
+      "_label": "Ashmolean Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "museums (institutions)"
         }
-      ],
-      "acquired_title_through": [
-        {
-          "id": "https://www.harvardartmuseums.org/collections/object/297450/IMA-acquisition",
-          "type": "Acquisition",
-          "_label": "Acquisition of the Object",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300157782",
-              "type": "Type",
-              "_label": "acquisition (collections management)"
-            }
-          ],
-          "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/297450/IMA-acquisition/timespan",
-            "type": "TimeSpan",
-            "_label": "1949",
-            "begin_of_the_begin": "1949-01-01T00:00:00.000Z",
-            "end_of_the_end": "1949-12-31T00:00:00.000Z"
-          }
-        }
-      ]
-    }
-  ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS46314_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS46314_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS46314_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/479",
+    "id": "http://lod.example.org/museum/VisualItem/1043",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/959",
+        "id": "http://lod.example.org/museum/Place/2087",
         "type": "Place",
-        "_label": "Town of Schaffhausen: Castle and Turrets",
+        "_label": "Design for a window in the University Museum, Oxford",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/958",
+            "id": "http://lod.example.org/museum/Place/2086",
             "type": "Place",
-            "_label": "Town of Schaffhausen: Castle and Turrets",
-            "defined_by": "POINT(48.766667 10.633333)"
+            "_label": "Design for a window in the University Museum, Oxford",
+            "defined_by": "POINT(51.75 -1.25)"
           }
         ]
       }

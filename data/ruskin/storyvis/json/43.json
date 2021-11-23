@@ -1,25 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/299185",
+  "id": "https://collections.ashmolean.org/collection/176330",
   "type": "HumanMadeObject",
-  "_label": "Kempten",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300033973",
-      "type": "Type",
-      "_label": "Drawing",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300435443",
-          "type": "Type",
-          "_label": "Type of Work"
-        }
-      ]
-    }
-  ],
+  "_label": "Design for a window in the University Museum, Oxford",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1926.33.144",
+      "id": "http://lod.example.org/museum/Identifier/WA1931.55",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1926.33.144"
+      "content": "WA1931.55"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/299185",
+      "id": "http://lod.example.org/museum/Identifier/176330",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "299185"
+      "content": "176330"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299185/primary-name",
+      "id": "https://collections.ashmolean.org/collection/176330/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,69 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Kempten"
-    }
-  ],
-  "referred_to_by": [
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/299185/provenance-statement",
-      "type": "LinguisticObject",
-      "_label": "Provenance Statement about the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300055863",
-          "type": "Type",
-          "_label": "provenance (history of ownership)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
-    },
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/299185/credit-line",
-      "type": "LinguisticObject",
-      "_label": "Credit Line for the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300026687",
-          "type": "Type",
-          "_label": "acknowledgements"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Harvard Art Museums/Fogg Museum, Transfer from the Fine Arts Department, Harvard University"
-    }
-  ],
-  "member_of": [
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/299185/collection/European and American Art",
-      "type": "Set",
-      "_label": "European and American Art",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300025976",
-          "type": "Type",
-          "_label": "collections (object groupings)"
-        }
-      ]
+      "content": "Design for a window in the University Museum, Oxford"
     }
   ],
   "representation": [
     {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:70389_dynmc",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_55-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:70389_dynmc",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_55-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -126,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:70389_dynmc",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_55-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -136,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299185",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176330",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -155,19 +89,18 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/299185/production",
+    "id": "https://collections.ashmolean.org/collection/176330/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/299185/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/176330/production/timespan",
       "type": "TimeSpan",
-      "_label": "July 26, 1859",
-      "begin_of_the_begin": "1859",
-      "end_of_the_end": "1859"
+      "_label": "c. 1855",
+      "begin_of_the_begin": "1855",
+      "end_of_the_end": "1855"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -177,52 +110,31 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Harvard Art Museum",
+      "_label": "Ashmolean Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "museums (institutions)"
         }
-      ],
-      "acquired_title_through": [
-        {
-          "id": "https://www.harvardartmuseums.org/collections/object/299185/IMA-acquisition",
-          "type": "Acquisition",
-          "_label": "Acquisition of the Object",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300157782",
-              "type": "Type",
-              "_label": "acquisition (collections management)"
-            }
-          ],
-          "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/299185/IMA-acquisition/timespan",
-            "type": "TimeSpan",
-            "_label": "1926",
-            "begin_of_the_begin": "1926-01-01T00:00:00.000Z",
-            "end_of_the_end": "1926-12-31T00:00:00.000Z"
-          }
-        }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/41",
+    "id": "http://lod.example.org/museum/VisualItem/1057",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/83",
+        "id": "http://lod.example.org/museum/Place/2115",
         "type": "Place",
-        "_label": "Kempten",
+        "_label": "Design for a window in the University Museum, Oxford",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/82",
+            "id": "http://lod.example.org/museum/Place/2114",
             "type": "Place",
-            "_label": "Kempten",
-            "defined_by": "POINT(49.966667 7.933333)"
+            "_label": "Design for a window in the University Museum, Oxford",
+            "defined_by": "POINT(51.75 -1.25)"
           }
         ]
       }

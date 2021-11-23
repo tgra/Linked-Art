@@ -1,13 +1,13 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/262444",
+  "id": "https://www.harvardartmuseums.org/collections/object/298666",
   "type": "HumanMadeObject",
-  "_label": "Pass of Faido",
+  "_label": "Falls of Schaffhausen",
   "classified_as": [
     {
-      "id": "http://vocab.getty.edu/aat/300041273",
+      "id": "http://vocab.getty.edu/aat/300033973",
       "type": "Type",
-      "_label": "Print",
+      "_label": "Drawing",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300435443",
@@ -19,7 +19,7 @@
   ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/M962",
+      "id": "http://lod.example.org/museum/Identifier/1919.47",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "M962"
+      "content": "1919.47"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/262444",
+      "id": "http://lod.example.org/museum/Identifier/298666",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "262444"
+      "content": "298666"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/262444/primary-name",
+      "id": "https://www.harvardartmuseums.org/collections/object/298666/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,12 +52,12 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Pass of Faido"
+      "content": "Falls of Schaffhausen"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/262444/provenance-statement",
+      "id": "https://www.harvardartmuseums.org/collections/object/298666/provenance-statement",
       "type": "LinguisticObject",
       "_label": "Provenance Statement about the Object",
       "classified_as": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/262444/credit-line",
+      "id": "https://www.harvardartmuseums.org/collections/object/298666/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -89,12 +89,12 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Harvard Art Museums/Fogg Museum, Gift of Dr. Denman W. Ross"
+      "content": "Harvard Art Museums/Fogg Museum, Gift of Samuel Sachs"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/262444/collection/European and American Art",
+      "id": "https://www.harvardartmuseums.org/collections/object/298666/collection/European and American Art",
       "type": "Set",
       "_label": "European and American Art",
       "classified_as": [
@@ -106,36 +106,9 @@
       ]
     }
   ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:INV194183_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:INV194183_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:INV194183_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/262444",
+      "id": "https://www.harvardartmuseums.org/collections/object/298666",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -154,15 +127,15 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/262444/production",
+    "id": "https://www.harvardartmuseums.org/collections/object/298666/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/262444/production/timespan",
+      "id": "https://www.harvardartmuseums.org/collections/object/298666/production/timespan",
       "type": "TimeSpan",
-      "_label": "19th century",
-      "begin_of_the_begin": 1819,
-      "end_of_the_end": 1900
+      "_label": "1842",
+      "begin_of_the_begin": "1842",
+      "end_of_the_end": "1842"
     },
     "carried_out_by": [
       {
@@ -186,7 +159,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://www.harvardartmuseums.org/collections/object/262444/IMA-acquisition",
+          "id": "https://www.harvardartmuseums.org/collections/object/298666/IMA-acquisition",
           "type": "Acquisition",
           "_label": "Acquisition of the Object",
           "classified_as": [
@@ -197,7 +170,7 @@
             }
           ],
           "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/262444/IMA-acquisition/timespan",
+            "id": "https://www.harvardartmuseums.org/collections/object/298666/IMA-acquisition/timespan",
             "type": "TimeSpan",
             "_label": "1919",
             "begin_of_the_begin": "1919-01-01T00:00:00.000Z",
@@ -207,21 +180,48 @@
       ]
     }
   ],
+  "representation": [
+    {
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/466",
+    "id": "http://lod.example.org/museum/VisualItem/1030",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/933",
+        "id": "http://lod.example.org/museum/Place/2061",
         "type": "Place",
-        "_label": "Pass of Faido",
+        "_label": "Falls of Schaffhausen",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/932",
+            "id": "http://lod.example.org/museum/Place/2060",
             "type": "Place",
-            "_label": "Pass of Faido",
-            "defined_by": "POINT(46.479417 8.797659)"
+            "_label": "Falls of Schaffhausen",
+            "defined_by": "POINT(48.966667 10.566667)"
           }
         ]
       }

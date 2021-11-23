@@ -1,11 +1,25 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.tate.org.uk/art/artworks/13032",
+  "id": "https://www.harvardartmuseums.org/collections/object/299037",
   "type": "HumanMadeObject",
-  "_label": "The North-West Angle of the Facade of St Mark\u2019s, Venice",
+  "_label": "Church of St. Wulfran, Abbeville",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033973",
+      "type": "Type",
+      "_label": "Drawing",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/N02972",
+      "id": "http://lod.example.org/museum/Identifier/1900.11",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "N02972"
+      "content": "1900.11"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/13032",
+      "id": "http://lod.example.org/museum/Identifier/299037",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "13032"
+      "content": "299037"
     },
     {
-      "id": "https://www.tate.org.uk/art/artworks/13032/primary-name",
+      "id": "https://www.harvardartmuseums.org/collections/object/299037/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,12 +52,29 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "The North-West Angle of the Facade of St Mark\u2019s, Venice"
+      "content": "Church of St. Wulfran, Abbeville"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.tate.org.uk/art/artworks/13032/credit-line",
+      "id": "https://www.harvardartmuseums.org/collections/object/299037/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/299037/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -58,13 +89,14 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Presented by the Art Fund 1914"
+      "content": "Harvard Art Museums/Fogg Museum, Fine Arts Appropriation Fund"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.tate.org.uk/art/artworks/13032/collection/",
+      "id": "https://www.harvardartmuseums.org/collections/object/299037/collection/European and American Art",
       "type": "Set",
+      "_label": "European and American Art",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300025976",
@@ -74,36 +106,9 @@
       ]
     }
   ],
-  "representation": [
-    {
-      "id": "http://lod.example.org/museum/VisualItem/thumbnailUrl",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "http://lod.example.org/museum/DigitalObject/thumbnailUrl",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "http://lod.example.org/museum/DigitalObject/thumbnailUrl",
-              "type": "DigitalObject"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "subject_of": [
     {
-      "id": "http://lod.example.org/museum/LinguisticObject/url",
+      "id": "https://www.harvardartmuseums.org/collections/object/299037",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -122,17 +127,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.tate.org.uk/art/artworks/13032/production",
+    "id": "https://www.harvardartmuseums.org/collections/object/299037/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.tate.org.uk/art/artworks/13032/production/timespan",
+      "id": "https://www.harvardartmuseums.org/collections/object/299037/production/timespan",
       "type": "TimeSpan",
-      "_label": "date not known"
+      "_label": "1868",
+      "begin_of_the_begin": "1868",
+      "end_of_the_end": "1868"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/465",
+        "id": "http://lod.example.org/museum/Actor/28419",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -142,7 +149,7 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Tate Museum",
+      "_label": "Harvard Art Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
@@ -152,7 +159,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://www.tate.org.uk/art/artworks/13032/IMA-acquisition",
+          "id": "https://www.harvardartmuseums.org/collections/object/299037/IMA-acquisition",
           "type": "Acquisition",
           "_label": "Acquisition of the Object",
           "classified_as": [
@@ -163,31 +170,58 @@
             }
           ],
           "timespan": {
-            "id": "https://www.tate.org.uk/art/artworks/13032/IMA-acquisition/timespan",
+            "id": "https://www.harvardartmuseums.org/collections/object/299037/IMA-acquisition/timespan",
             "type": "TimeSpan",
-            "_label": "1914",
-            "begin_of_the_begin": "1914-01-01T00:00:00.000Z",
-            "end_of_the_end": "1914-12-31T00:00:00.000Z"
+            "_label": "1900",
+            "begin_of_the_begin": "1900-01-01T00:00:00.000Z",
+            "end_of_the_end": "1900-12-31T00:00:00.000Z"
           }
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS38386_dynmc",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS38386_dynmc",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS38386_dynmc",
+              "type": "DigitalObject"
+            }
+          ]
         }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/465",
+    "id": "http://lod.example.org/museum/VisualItem/1029",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/931",
+        "id": "http://lod.example.org/museum/Place/2059",
         "type": "Place",
-        "_label": "The North-West Angle of the Facade of St Mark\u2019s, Venice",
+        "_label": "Church of St. Wulfran, Abbeville",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/930",
+            "id": "http://lod.example.org/museum/Place/2058",
             "type": "Place",
-            "_label": "The North-West Angle of the Facade of St Mark\u2019s, Venice",
-            "defined_by": "POINT(45.438611 12.326667)"
+            "_label": "Church of St. Wulfran, Abbeville",
+            "defined_by": "POINT(50.106602 1.832691)"
           }
         ]
       }

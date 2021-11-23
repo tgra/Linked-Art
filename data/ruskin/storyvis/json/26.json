@@ -1,25 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.nga.gov/collection/76140",
+  "id": "https://collections.ashmolean.org/collection/159604",
   "type": "HumanMadeObject",
-  "_label": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\"",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300033973",
-      "type": "Type",
-      "_label": "Drawing",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300435443",
-          "type": "Type",
-          "_label": "Type of Work"
-        }
-      ]
-    }
-  ],
+  "_label": "The Palazzo Contarini-Fasan, Venice",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1995.52.158",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.REF.065",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1995.52.158"
+      "content": "WA.RS.REF.065"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/76140",
+      "id": "http://lod.example.org/museum/Identifier/159604",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "76140"
+      "content": "159604"
     },
     {
-      "id": "https://www.nga.gov/collection/76140/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159604/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,46 +38,39 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\""
+      "content": "The Palazzo Contarini-Fasan, Venice"
     }
   ],
-  "referred_to_by": [
+  "representation": [
     {
-      "id": "https://www.nga.gov/collection/76140/credit-line",
-      "type": "LinguisticObject",
-      "_label": "Credit Line for the Object",
-      "classified_as": [
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_065-a-L.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
         {
-          "id": "http://vocab.getty.edu/aat/300026687",
-          "type": "Type",
-          "_label": "acknowledgements"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Gift of William B. O'Neal"
-    }
-  ],
-  "member_of": [
-    {
-      "id": "https://www.nga.gov/collection/76140/collection/CG-E",
-      "type": "Set",
-      "_label": "CG-E",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300025976",
-          "type": "Type",
-          "_label": "collections (object groupings)"
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_065-a-L.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_065-a-L.jpg",
+              "type": "DigitalObject"
+            }
+          ]
         }
       ]
     }
   ],
   "subject_of": [
     {
-      "id": "https://www.nga.gov/collection/art-object-page.76140.html",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159604",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -110,83 +89,51 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.nga.gov/collection/76140/production",
+    "id": "https://collections.ashmolean.org/collection/159604/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.nga.gov/collection/76140/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159604/production/timespan",
       "type": "TimeSpan",
-      "_label": "1849",
-      "begin_of_the_begin": "1849",
-      "end_of_the_end": "1849"
+      "_label": "6 - 16 May 1841",
+      "begin_of_the_begin": "1841",
+      "end_of_the_end": "1841"
     },
     "carried_out_by": [
       {
-        "id": "https://www.nga.gov/collection/creatorid/76140",
         "type": "Actor",
         "_label": "John Ruskin"
       }
     ]
   },
-  "representation": [
+  "current_owner": [
     {
-      "id": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
+      "id": "http://vocab.getty.edu/ulan/500300517",
+      "type": "Group",
+      "_label": "Ashmolean Museum",
+      "classified_as": [
         {
-          "id": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg",
-              "type": "DigitalObject"
-            }
-          ],
-          "digitally_available_via": [
-            {
-              "id": "http://lod.example.org/museum/DigitalService/11",
-              "type": "DigitalService",
-              "access_point": [
-                {
-                  "id": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg",
-                  "type": "DigitalObject"
-                }
-              ],
-              "conforms_to": [
-                {
-                  "id": "http://iiif.io/api/image",
-                  "type": "InformationObject"
-                }
-              ]
-            }
-          ]
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "museums (institutions)"
         }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/476",
+    "id": "http://lod.example.org/museum/VisualItem/1040",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/953",
+        "id": "http://lod.example.org/museum/Place/2081",
         "type": "Place",
-        "_label": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\"",
+        "_label": "The Palazzo Contarini-Fasan, Venice",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/952",
+            "id": "http://lod.example.org/museum/Place/2080",
             "type": "Place",
-            "_label": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\"",
+            "_label": "The Palazzo Contarini-Fasan, Venice",
             "defined_by": "POINT(45.438611 12.326667)"
           }
         ]

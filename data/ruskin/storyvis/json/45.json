@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/298668",
+  "id": "https://www.harvardartmuseums.org/collections/object/296900",
   "type": "HumanMadeObject",
-  "_label": "Part of a Sketch of the Northwest Porch of St. Mark's",
+  "_label": "Architectural Sketch, Venice",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300033973",
@@ -19,7 +19,7 @@
   ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1919.259",
+      "id": "http://lod.example.org/museum/Identifier/1957.186",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1919.259"
+      "content": "1957.186"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/298668",
+      "id": "http://lod.example.org/museum/Identifier/296900",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "298668"
+      "content": "296900"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298668/primary-name",
+      "id": "https://www.harvardartmuseums.org/collections/object/296900/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,12 +52,12 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Part of a Sketch of the Northwest Porch of St. Mark's"
+      "content": "Architectural Sketch, Venice"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298668/provenance-statement",
+      "id": "https://www.harvardartmuseums.org/collections/object/296900/provenance-statement",
       "type": "LinguisticObject",
       "_label": "Provenance Statement about the Object",
       "classified_as": [
@@ -71,11 +71,10 @@
           "type": "Type",
           "_label": "brief texts"
         }
-      ],
-      "content": "Samuel Sachs, gift; to Fogg Art Museum, 1919"
+      ]
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298668/credit-line",
+      "id": "https://www.harvardartmuseums.org/collections/object/296900/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -90,12 +89,12 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Harvard Art Museums/Fogg Museum, Gift of Samuel Sachs"
+      "content": "Harvard Art Museums/Fogg Museum, Gift of the Estate of William and Frances White Emerson"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298668/collection/European and American Art",
+      "id": "https://www.harvardartmuseums.org/collections/object/296900/collection/European and American Art",
       "type": "Set",
       "_label": "European and American Art",
       "classified_as": [
@@ -107,36 +106,9 @@
       ]
     }
   ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:DDC100821_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:DDC100821_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:DDC100821_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298668",
+      "id": "https://www.harvardartmuseums.org/collections/object/296900",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -155,15 +127,15 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/298668/production",
+    "id": "https://www.harvardartmuseums.org/collections/object/296900/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/298668/production/timespan",
+      "id": "https://www.harvardartmuseums.org/collections/object/296900/production/timespan",
       "type": "TimeSpan",
-      "_label": "1879",
-      "begin_of_the_begin": "1879",
-      "end_of_the_end": "1879"
+      "_label": "1850",
+      "begin_of_the_begin": "1850",
+      "end_of_the_end": "1850"
     },
     "carried_out_by": [
       {
@@ -187,7 +159,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://www.harvardartmuseums.org/collections/object/298668/IMA-acquisition",
+          "id": "https://www.harvardartmuseums.org/collections/object/296900/IMA-acquisition",
           "type": "Acquisition",
           "_label": "Acquisition of the Object",
           "classified_as": [
@@ -198,30 +170,57 @@
             }
           ],
           "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/298668/IMA-acquisition/timespan",
+            "id": "https://www.harvardartmuseums.org/collections/object/296900/IMA-acquisition/timespan",
             "type": "TimeSpan",
-            "_label": "1919",
-            "begin_of_the_begin": "1919-01-01T00:00:00.000Z",
-            "end_of_the_end": "1919-12-31T00:00:00.000Z"
+            "_label": "1957",
+            "begin_of_the_begin": "1957-01-01T00:00:00.000Z",
+            "end_of_the_end": "1957-12-31T00:00:00.000Z"
           }
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS44671_dynmc",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS44671_dynmc",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS44671_dynmc",
+              "type": "DigitalObject"
+            }
+          ]
         }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/43",
+    "id": "http://lod.example.org/museum/VisualItem/1059",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/87",
+        "id": "http://lod.example.org/museum/Place/2119",
         "type": "Place",
-        "_label": "Venezia",
+        "_label": "Architectural Sketch, Venice",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/86",
+            "id": "http://lod.example.org/museum/Place/2118",
             "type": "Place",
-            "_label": "Venezia",
+            "_label": "Architectural Sketch, Venice",
             "defined_by": "POINT(45.438611 12.326667)"
           }
         ]
