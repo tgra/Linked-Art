@@ -1,10 +1,10 @@
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="800" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
         
         <div id="mapdiv" style="width: 1000px; height: 800px;background-color:silver"></div>
 
-<link rel="stylesheet" href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css">
+<link rel="stylesheet" href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css"/>
 <script type="text/javascript" src="https://cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
 
 <script>
@@ -17,6 +17,7 @@ var storymap_options = {};
 var storymap = new KLStoryMap.StoryMap('mapdiv', storymap_data, storymap_options);
 
 </script>
+    </div>
     </div>
 </foreignObject>
 </svg>
