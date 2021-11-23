@@ -18,6 +18,6 @@ var storymap = new KLStoryMap.StoryMap('mapdiv', storymap_data, storymap_options
 
 </script>
     </div>
-    </div>
+    
 </foreignObject>
 </svg>
