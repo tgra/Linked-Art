@@ -63,7 +63,9 @@ The different types of Jupyter notebooks:
 | Visualise | John Ruskin Artworks Timeline - Visualise locally | [download](02-03-Visualise-John-Ruskin-Local.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/02-03-Visualise-John-Ruskin-Local.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=02-03-Visualise-John-Ruskin-Local.ipynb)|
 
 
+## Data Visualisation
 
+![](./docs/media/img/vis.svg)
 
 ## Availability
 
