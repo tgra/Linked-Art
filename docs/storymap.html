@@ -1,0 +1,23 @@
+<html>
+<head/>
+<body>
+        
+        <div id="mapdiv" style="width: 1000px; height: 800px;background-color:silver"></div>
+
+<link rel="stylesheet" href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css"/>
+<script type="text/javascript" src="https://cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
+
+<script>
+// storymap_data can be an URL or a Javascript object
+var storymap_data = 'https://raw.githubusercontent.com/tgra/Linked-Art/main/data/ruskin/storyvis/storymap.json';
+
+// certain settings must be passed within a separate options object
+var storymap_options = {};
+
+var storymap = new KLStoryMap.StoryMap('mapdiv', storymap_data, storymap_options);
+
+</script>
+    </div>
+    </body>
+    </html>
+
