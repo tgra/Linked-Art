@@ -1,0 +1,13 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://data.discovernewfields.org/Identifier/2013.443A-E.4",
+  "type": "Identifier",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300312355",
+      "type": "Type",
+      "_label": "Accession Number"
+    }
+  ],
+  "content": "2013.443A-E.4"
+}
