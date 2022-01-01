@@ -214,14 +214,15 @@ def objProduction(objProp,object_uri):
 
         propCreator = "creator" 
         if propCreator in objProp:
-            for creator in objProp[propCreator]:
-                id = label = ""
-                if "id" in creator:
+            id = label = ""
+            creator = objProp[propCreator]
+            for prop in creator:
+                if "id" == prop:
                     id = creator["id"]
-                if "name" in creator:
+                if "name" == prop:
                     label = creator["name"]
+            if label != "":   
                 actor = Actor(id,label)
-
                 prod.carried_out_by = actor
             
     return prod
