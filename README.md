@@ -47,7 +47,7 @@ The following options are available to view the Jupyter notebooks. Installation 
 ## Documented Interactive Code Jupyter Notebooks
 The different types of Jupyter notebooks:
 - Transform - transformations using real-world collections data
-
+- Reconcile - reconciliation of collections data with authoritative data on geographical place names
 - Visualise - visualisation using Linked Art JSON-LD
   
 
@@ -56,16 +56,16 @@ The different types of Jupyter notebooks:
 | Transform | Indianapolis Museum of Art  |  [download](01-01-Transform-XML-IMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-01-Transform-XML-IMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-01-Transform-XML-IMA.ipynb)|
 | Transform| Philadelphia Museum of Art | [download](01-04-Transform-CSV-PMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-04-Transform-CSV-PMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-04-Transform-CSV-PMA.ipynb) |
 | Transform| Cleveland Museum of Art | [download](01-02-Transform-CSV-CMA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-02-Transform-CSV-CMA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-02-Transform-CSV-CMA.ipynb) |
+| Transform| Cleveland Museum of Art - simplified | [download](01-10-Transform-CSV-CMA-Simplified.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-10-Transform-CSV-CMA-Simplified.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-10-Transform-CSV-CMA-Simplified.ipynb) |
 | Transform| National Gallery of Art | [download](01-03-Transform-CSV-NGA.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-03-Transform-CSV-NGA.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-03-Transform-CSV-NGA.ipynb) |
 | Transform| Harvard Art Museum | [download](01-05-Transform-JSON-Harvard-API.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-05-Transform-JSON-Harvard-API.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-05-Transform-JSON-Harvard-API.ipynb) |
-| Visualise | John Ruskin Artworks Timeline - Transform Data | [download](02-01-Visualise-John-Ruskin-Transform-Data.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/02-01-Visualise-John-Ruskin-Transform-Data.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=02-01-Visualise-John-Ruskin-Transform-Data.ipynb)|
-| Visualise | John Ruskin Artworks Timeline - Visualise with Google | [download](02-02-Visualise-John-Ruskin-Google-Spreadsheet.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/02-02-Visualise-John-Ruskin-Google-Spreadsheet.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=02-02-Visualise-John-Ruskin-Google-Spreadsheet.ipynb)|
-| Visualise | John Ruskin Artworks Timeline - Visualise locally | [download](02-03-Visualise-John-Ruskin-Local.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/02-03-Visualise-John-Ruskin-Local.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=02-03-Visualise-John-Ruskin-Local.ipynb)|
+| Transform | John Ruskin artworks - Timeline - Transform Data | [download](01-06-Transform-John-Ruskin.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/01-06-Transform-John-Ruskin.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=01-06-Transform-John-Ruskin.ipynb)|
+| Reconcile| John Ruskin artworks - reconcile place names | [download](02-01-Reconcile-John-Ruskin-Place-Names.ipynb) | [nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/02-01-Reconcile-John-Ruskin-Place-Names.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=02-01-Reconcile-John-Ruskin-Place-Names.ipynb) |
+| Visualise | John Ruskin artworks - Timeline - Visualise with Google | [download](03-02-Visualise-John-Ruskin-Timeline-Google-Spreadsheet.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/03-02-Visualise-John-Ruskin-Timeline-Google-Spreadsheet.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=03-02-Visualise-John-Ruskin-Timeline-Google-Spreadsheet.ipynb)|
+| Visualise | John Ruskin artworks - Timeline - Visualise locally | [download](03-03-Visualise-John-Ruskin-Timeline-Local-File.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/03-03-Visualise-John-Ruskin-Timeline-Local-File.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=03-03-Visualise-John-Ruskin-Timeline-Local-File.ipynb)|
+| Visualise | John Ruskin artworks - StoryMap | [download](03-04-Visualise-John-Ruskin-Story-Map.ipynb)|[nbviewer](https://nbviewer.org/github/tgra/Linked-Art/blob/main/03-04-Visualise-John-Ruskin-Story-Map.ipynb)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tgra/Linked-Art/HEAD?labpath=03-04-Visualise-John-Ruskin-Story-Map.ipynb)|
 
 
-## Data Visualisation
-
-![](./docs/media/img/vis.svg)
 
 ## Availability
 
