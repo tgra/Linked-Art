@@ -30,7 +30,7 @@ function visjsonld(file, selector){
         
     d3.select(selector).selectAll("svg").remove();
    
-    var svg = d3.select("#vis3").append('svg')
+    var svg = d3.select(selector).append('svg')
             .attr('width', w)
             .attr('height', h)
             .attr('style', 'background-color:#5cdb95')
