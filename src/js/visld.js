@@ -3,7 +3,7 @@ require.config({paths: {
     d3: "http://d3js.org/d3.v3.min"
 }});
 
-require(["d3"], function visjsonld(file, selector){
+function visjsonld(file, selector){
     
     /*
     modified version of https://json-ld.org/playground/jsonld-vis.js
@@ -295,6 +295,6 @@ require(["d3"], function visjsonld(file, selector){
         
         });
         
-        });
+        }
 
         
