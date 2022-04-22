@@ -4,17 +4,15 @@ require.config({paths: {
 }});
 
 function visjsonld(file, selector){
-    
-    /*
-    modified version of https://json-ld.org/playground/jsonld-vis.js
-    */
-    d3.json(file, (err, jsonld) => {
-            
-       
+   
+    require(["d3"], function(d3) {
         
-        var config = {};
+        
+    d3.json(file, (err, jsonld) => {
+        
+    var config = {};
     
-        var h = config.h || 800
+    var h = config.h || 800
           , w = config.w || 3000
           , maxLabelWidth = config.maxLabelWidth || 200
           , transitionDuration = config.transitionDuration || 750
@@ -22,29 +20,27 @@ function visjsonld(file, selector){
           , minRadius = config.minRadius || 5
           , scalingFactor = config.scalingFactor || 2;
     
-        var i = 0;
-    
-        var tree = d3.layout.tree()
+    var i = 0;
+
+    var tree = d3.layout.tree()
           .size([h, w]);
-    
-        var diagonal = d3.svg.diagonal()
-          .projection(function(d) { return [d.y, d.x]; });
-    
-        d3.select(selector).selectAll("svg").remove();
         
-        var svg = d3.select("#visualized").append('svg')
+    var diagonal = d3.svg.diagonal()
+          .projection(function(d) { return [d.y, d.x]; });
+        
+    d3.select(selector).selectAll("svg").remove();
+   
+    var svg = d3.select("#vis3").append('svg')
             .attr('width', w)
             .attr('height', h)
             .attr('style', 'background-color:#5cdb95')
             .append('g')
             .attr('transform', 'translate(' + maxLabelWidth + ',0)');
             
-        console.log(svg);
-        
-        var root = jsonldTree(jsonld);
+     var root = jsonldTree(jsonld);
         root.x0 = h / 2;
         root.y0 = 0;
-       // root.children.forEach(collapse);
+        root.children.forEach(collapse);
     
         function changeSVGWidth(newWidth) {
           if (w !== newWidth) {
@@ -293,8 +289,9 @@ function visjsonld(file, selector){
         update(root);
       
         
-        });
-        
-        }
+    })
 
-        
+
+
+
+})}
