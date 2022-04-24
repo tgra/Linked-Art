@@ -7,7 +7,6 @@ function visjsonld(file, selector){
    
     require(["d3"], function(d3) {
         
-        
     d3.json(file, (err, jsonld) => {
         
     var config = {};
@@ -33,7 +32,7 @@ function visjsonld(file, selector){
     var svg = d3.select(selector).append('svg')
             .attr('width', w)
             .attr('height', h)
-            .attr('style', 'background-color:#5cdb95')
+            .attr('style', 'background-color:#446a7f')
             .append('g')
             .attr('transform', 'translate(' + maxLabelWidth + ',0)');
             
@@ -133,13 +132,13 @@ function visjsonld(file, selector){
               return d.isIdNode ? '2px' : '1px';
             })
             .style('stroke', function(d) {
-              return d.isIdNode ? '#F7CA18' : '#4ECDC4';
+              return d.isIdNode ? 'navy' : '#78BE21';
             })
             .style('fill', function(d) {
               if (d.isIdNode) {
-                return d._children ? '#F5D76E' : 'white';
+                return d._children ? 'white' : 'white';
               } else {
-                return d._children ? '#86E2D5' : 'white';
+                return d._children ? 'white' : 'white';
               }
             })
             
@@ -153,6 +152,7 @@ function visjsonld(file, selector){
             .attr('text-anchor', function(d) { return d.children || d._children ? 'end' : 'start'; })
             .text(function(d) { return d.name + (d.value ? ': ' + d.value : ''); })
             .style('fill-opacity', 0)
+            
 ;
     
           var maxSpan = Math.max.apply(Math, nodes.map(function(d) { return d.y + maxLabelWidth; }));
@@ -172,20 +172,21 @@ function visjsonld(file, selector){
               return d.isIdNode ? '2px' : '1px';
             })
             .style('stroke', function(d) {
-              return d.isIdNode ? '#F7CA18' : '#4ECDC4';
+              return d.isIdNode ? '#78BE21' : '#78BE21';
             })
             .style('fill', function(d) {
               if (d.isIdNode) {
-                return d._children ? '#F5D76E' : 'white';
+                return d._children ? 'navy' : '#78BE21';
               } else {
-                return d._children ? '#86E2D5' : 'navy';
+                return d._children ? 'navy' : '#78BE21';
               }
             });
     
             nodeUpdate.select('text').style('fill-opacity', 1);
             nodeUpdate.select('text').style('font-family', "'Open Sans', 'Helvetica Neue', Helvetica, sans-serif");
-            nodeUpdate.select('text').style('fill', '#333333');
+            nodeUpdate.select('text').style('fill', 'white');
             nodeUpdate.select('text').style('font-size', '12px');
+            
             
             
            

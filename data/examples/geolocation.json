@@ -1,0 +1,25 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "https://linked.art/example/object/34",
+    "type": "HumanMadeObject",
+    "_label": "geographical place name",
+      "shows": [
+      {
+        "type": "VisualItem",
+        "represents": [
+          {
+            "type": "Place",
+            "_label": "Lucca",
+            "approximated_by": [
+                  {
+                    "type": "Place",
+                    "_label": "Lucca - Location Approximation",
+                    "defined_by": "POINT(-0.0032937526703165 51.515107154846)"
+                  }
+                ]
+          }
+        ]
+      }
+    ]}
+  
+  
