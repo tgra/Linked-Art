@@ -1,0 +1,137 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.tate.org.uk/art/artworks/13033",
+  "type": "HumanMadeObject",
+  "_label": "View of Bologna",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/N03507",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ],
+      "content": "N03507"
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/13033",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Owner-Assigned Number"
+        }
+      ],
+      "content": "13033"
+    },
+    {
+      "id": "https://www.tate.org.uk/art/artworks/13033/primary-name",
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "View of Bologna"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.tate.org.uk/art/artworks/13033/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgements"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ],
+      "content": "Purchased 1920"
+    }
+  ],
+  "representation": [
+    {
+      "id": "http://www.tate.org.uk/art/images/work/N/N03/N03507_8.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "http://www.tate.org.uk/art/images/work/N/N03/N03507_8.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "http://www.tate.org.uk/art/images/work/N/N03/N03507_8.jpg",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "http://www.tate.org.uk/art/artworks/ruskin-view-of-bologna-n03507",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ],
+  "produced_by": {
+    "id": "https://www.tate.org.uk/art/artworks/13033/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "https://www.tate.org.uk/art/artworks/13033/production/timespan",
+      "type": "TimeSpan",
+      "_label": "c.1845–6",
+      "begin_of_the_begin": "1845",
+      "end_of_the_end": "1845"
+    }
+  }
+}

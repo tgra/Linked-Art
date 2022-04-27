@@ -1,0 +1,169 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/70367",
+  "type": "HumanMadeObject",
+  "_label": "Tree Study",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033973",
+      "type": "Type",
+      "_label": "Drawing",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/1988.20.38",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ],
+      "content": "1988.20.38"
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/70367",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Owner-Assigned Number"
+        }
+      ],
+      "content": "70367"
+    },
+    {
+      "id": "https://www.nga.gov/collection/70367/primary-name",
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "Tree Study"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/70367/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgements"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ],
+      "content": "Gift of John Nichols Estabrook and Dorothy Coogan Estabrook"
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://www.nga.gov/collection/70367/collection/CG-E",
+      "type": "Set",
+      "_label": "CG-E",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025976",
+          "type": "Type",
+          "_label": "collections (object groupings)"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://api.nga.gov/iiif/9310c903-7099-4138-b380-d90af8b06703/full/!500,500/0/default.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://api.nga.gov/iiif/9310c903-7099-4138-b380-d90af8b06703/full/!500,500/0/default.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://api.nga.gov/iiif/9310c903-7099-4138-b380-d90af8b06703/full/!500,500/0/default.jpg",
+              "type": "DigitalObject"
+            }
+          ],
+          "digitally_available_via": [
+            {
+              "id": "http://lod.example.org/museum/DigitalService/13",
+              "type": "DigitalService",
+              "access_point": [
+                {
+                  "id": "https://api.nga.gov/iiif/9310c903-7099-4138-b380-d90af8b06703/full/!500,500/0/default.jpg",
+                  "type": "DigitalObject"
+                }
+              ],
+              "conforms_to": [
+                {
+                  "id": "http://iiif.io/api/image",
+                  "type": "InformationObject"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "https://www.nga.gov/collection/art-object-page.70367.html",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ],
+  "produced_by": {
+    "id": "https://www.nga.gov/collection/70367/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "https://www.nga.gov/collection/70367/production/timespan",
+      "type": "TimeSpan",
+      "_label": "mid-1850s",
+      "begin_of_the_begin": "1845",
+      "end_of_the_end": "1855"
+    }
+  }
+}
