@@ -114,7 +114,7 @@
           ],
           "digitally_available_via": [
             {
-              "id": "http://lod.example.org/museum/DigitalService/15",
+              "id": "http://lod.example.org/museum/DigitalService/7",
               "type": "DigitalService",
               "access_point": [
                 {
@@ -164,6 +164,13 @@
       "_label": "1849",
       "begin_of_the_begin": "1849",
       "end_of_the_end": "1849"
-    }
+    },
+    "carried_out_by": [
+      {
+        "id": "https://www.nga.gov/collection/creatorid/76140",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
   }
 }

@@ -153,5 +153,24 @@
       ],
       "format": "text/html"
     }
-  ]
+  ],
+  "produced_by": {
+    "id": "https://clevelandart.org/art/154494/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "https://clevelandart.org/art/154494/production/timespan",
+      "type": "TimeSpan",
+      "_label": "c. 1876",
+      "begin_of_the_begin": "1871",
+      "end_of_the_end": "1881"
+    },
+    "carried_out_by": [
+      {
+        "id": "https://clevelandart.org/art/creatorid/JohnRuskin",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
+  }
 }

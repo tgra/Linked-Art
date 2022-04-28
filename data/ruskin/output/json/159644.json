@@ -98,7 +98,14 @@
       "_label": "winter 1871 - 1872",
       "begin_of_the_begin": "1871",
       "end_of_the_end": "1872"
-    }
+    },
+    "carried_out_by": [
+      {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
   },
   "current_owner": [
     {

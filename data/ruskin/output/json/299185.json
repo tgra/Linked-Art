@@ -164,7 +164,14 @@
       "_label": "July 26, 1859",
       "begin_of_the_begin": "1859",
       "end_of_the_end": "1859"
-    }
+    },
+    "carried_out_by": [
+      {
+        "id": "https://harvardartmuseums.org/collections/person/28419",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
   },
   "current_owner": [
     {

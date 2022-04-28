@@ -132,6 +132,13 @@
       "_label": "c.1845–6",
       "begin_of_the_begin": "1845",
       "end_of_the_end": "1845"
-    }
+    },
+    "carried_out_by": [
+      {
+        "id": "https://www.tate.org.uk/art/artworks/creatorid/465",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
   }
 }

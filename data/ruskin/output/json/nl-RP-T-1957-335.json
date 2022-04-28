@@ -1,6 +1,6 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1957-335",
+  "id": "http://www.rijksmuseum.nl/nl/collectie/RP-T-1957-335",
   "type": "HumanMadeObject",
   "_label": "Gezicht op S. Anastasia te Verona, over de Adige",
   "classified_as": [
@@ -43,7 +43,7 @@
       "content": "nl-RP-T-1957-335"
     },
     {
-      "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1957-335/primary-name",
+      "id": "http://www.rijksmuseum.nl/nl/collectie/RP-T-1957-335/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -57,12 +57,12 @@
   ],
   "representation": [
     {
-      "id": "http://www.tate.org.uk/art/images/work/N/N03/N03507_8.jpg",
+      "id": "https://lh3.googleusercontent.com/X0Xc5cER3eTrpNyqH4kg3ne-ewai_nBqFdSI-EZPZ4N-lE6rn1OAUBckEHQSFyafcGcFpiX99QU4STEXWbB43KsnAbi3=s0",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "http://www.tate.org.uk/art/images/work/N/N03/N03507_8.jpg",
+          "id": "https://lh3.googleusercontent.com/X0Xc5cER3eTrpNyqH4kg3ne-ewai_nBqFdSI-EZPZ4N-lE6rn1OAUBckEHQSFyafcGcFpiX99QU4STEXWbB43KsnAbi3=s0",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -74,7 +74,7 @@
           ],
           "access_point": [
             {
-              "id": "http://www.tate.org.uk/art/images/work/N/N03/N03507_8.jpg",
+              "id": "https://lh3.googleusercontent.com/X0Xc5cER3eTrpNyqH4kg3ne-ewai_nBqFdSI-EZPZ4N-lE6rn1OAUBckEHQSFyafcGcFpiX99QU4STEXWbB43KsnAbi3=s0",
               "type": "DigitalObject"
             }
           ]

@@ -98,7 +98,14 @@
       "_label": "1865 - 1869",
       "begin_of_the_begin": "1865",
       "end_of_the_end": "1869"
-    }
+    },
+    "carried_out_by": [
+      {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
   },
   "current_owner": [
     {

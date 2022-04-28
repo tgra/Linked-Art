@@ -98,7 +98,14 @@
       "_label": "November 1876 - May 1877",
       "begin_of_the_begin": "1876",
       "end_of_the_end": "1877"
-    }
+    },
+    "carried_out_by": [
+      {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
   },
   "current_owner": [
     {

@@ -1,6 +1,6 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1987-19",
+  "id": "http://www.rijksmuseum.nl/nl/collectie/RP-T-1987-19",
   "type": "HumanMadeObject",
   "_label": "Bergkam aan het Meer van Genève",
   "classified_as": [
@@ -43,7 +43,7 @@
       "content": "nl-RP-T-1987-19"
     },
     {
-      "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1987-19/primary-name",
+      "id": "http://www.rijksmuseum.nl/nl/collectie/RP-T-1987-19/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -57,12 +57,12 @@
   ],
   "representation": [
     {
-      "id": "http://www.tate.org.uk/art/images/work/N/N03/N03507_8.jpg",
+      "id": "https://lh3.ggpht.com/SOPNNYPF1S5Ij-DKCcm7AoweEHz--rJ0VPCh5WZdFbCKEPNnSI9ZAzYQz_nxKVtuurYAnOEvSFfYv5ZNcX-Ma7TwNH0=s0",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "http://www.tate.org.uk/art/images/work/N/N03/N03507_8.jpg",
+          "id": "https://lh3.ggpht.com/SOPNNYPF1S5Ij-DKCcm7AoweEHz--rJ0VPCh5WZdFbCKEPNnSI9ZAzYQz_nxKVtuurYAnOEvSFfYv5ZNcX-Ma7TwNH0=s0",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -74,7 +74,7 @@
           ],
           "access_point": [
             {
-              "id": "http://www.tate.org.uk/art/images/work/N/N03/N03507_8.jpg",
+              "id": "https://lh3.ggpht.com/SOPNNYPF1S5Ij-DKCcm7AoweEHz--rJ0VPCh5WZdFbCKEPNnSI9ZAzYQz_nxKVtuurYAnOEvSFfYv5ZNcX-Ma7TwNH0=s0",
               "type": "DigitalObject"
             }
           ]

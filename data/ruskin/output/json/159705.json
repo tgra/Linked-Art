@@ -98,7 +98,14 @@
       "_label": "28 December 1871",
       "begin_of_the_begin": "1871",
       "end_of_the_end": "1871"
-    }
+    },
+    "carried_out_by": [
+      {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
   },
   "current_owner": [
     {

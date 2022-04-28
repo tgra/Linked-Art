@@ -98,7 +98,14 @@
       "_label": "July or August - September 1856",
       "begin_of_the_begin": "1856",
       "end_of_the_end": "1856"
-    }
+    },
+    "carried_out_by": [
+      {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
   },
   "current_owner": [
     {

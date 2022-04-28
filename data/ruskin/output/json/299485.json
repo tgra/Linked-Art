@@ -163,7 +163,14 @@
       "_label": "1842",
       "begin_of_the_begin": "1842",
       "end_of_the_end": "1842"
-    }
+    },
+    "carried_out_by": [
+      {
+        "id": "https://harvardartmuseums.org/collections/person/28419",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
   },
   "current_owner": [
     {

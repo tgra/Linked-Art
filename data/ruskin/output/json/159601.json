@@ -98,7 +98,14 @@
       "_label": "19 May 1841",
       "begin_of_the_begin": "1841",
       "end_of_the_end": "1841"
-    }
+    },
+    "carried_out_by": [
+      {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
   },
   "current_owner": [
     {

@@ -114,7 +114,7 @@
           ],
           "digitally_available_via": [
             {
-              "id": "http://lod.example.org/museum/DigitalService/13",
+              "id": "http://lod.example.org/museum/DigitalService/5",
               "type": "DigitalService",
               "access_point": [
                 {
@@ -164,6 +164,13 @@
       "_label": "mid-1850s",
       "begin_of_the_begin": "1845",
       "end_of_the_end": "1855"
-    }
+    },
+    "carried_out_by": [
+      {
+        "id": "https://www.nga.gov/collection/creatorid/70367",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
   }
 }
