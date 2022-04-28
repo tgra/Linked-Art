@@ -213,17 +213,22 @@ def objProduction(objProp,object_uri):
         prod.timespan = timespan
 
         propCreator = "creator" 
+        
         if propCreator in objProp:
-            id = label = ""
-            creator = objProp[propCreator]
-            for prop in creator:
-                if "id" == prop:
-                    id = creator["id"]
-                if "name" == prop:
-                    label = creator["name"]
-            if label != "":   
-                actor = Actor(id,label)
-                prod.carried_out_by = actor
+            
+            
+            creatorList = objProp[propCreator]
+
+            for creator in creatorList:
+                id = label = ""
+                for prop in creator:
+                    if "id" == prop:
+                        id = creator["id"]
+                    if "name" == prop:
+                        label = creator["name"]
+                if label != "":   
+                    actor = Actor(id,label)
+                    prod.carried_out_by = actor
             
     return prod
 
@@ -390,7 +395,6 @@ def createObjDesc(objProp,objTypes,object_uri):
     if "creator" in objProp:
         prod = None
         prod = objProduction(objProp,object_uri)
-      #  objLA.produced_by = None
         if prod is not None:
             objLA.produced_by = prod # production
 
