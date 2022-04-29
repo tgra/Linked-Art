@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/298635",
+  "id": "https://www.nga.gov/collection/76140",
   "type": "HumanMadeObject",
-  "_label": "Tower of Fribourg",
+  "_label": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\"",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300033973",
@@ -19,7 +19,7 @@
   ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1928.12",
+      "id": "http://lod.example.org/museum/Identifier/1995.52.158",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1928.12"
+      "content": "1995.52.158"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/298635",
+      "id": "http://lod.example.org/museum/Identifier/76140",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "298635"
+      "content": "76140"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298635/primary-name",
+      "id": "https://www.nga.gov/collection/76140/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,29 +52,12 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Tower of Fribourg"
+      "content": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\""
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298635/provenance-statement",
-      "type": "LinguisticObject",
-      "_label": "Provenance Statement about the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300055863",
-          "type": "Type",
-          "_label": "provenance (history of ownership)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ]
-    },
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/298635/credit-line",
+      "id": "https://www.nga.gov/collection/76140/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -89,14 +72,14 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Harvard Art Museums/Fogg Museum, Gift of Miss Mabel Sturgis"
+      "content": "Gift of William B. O'Neal"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298635/collection/European and American Art",
+      "id": "https://www.nga.gov/collection/76140/collection/CG-E",
       "type": "Set",
-      "_label": "European and American Art",
+      "_label": "CG-E",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300025976",
@@ -106,9 +89,54 @@
       ]
     }
   ],
+  "representation": [
+    {
+      "id": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg",
+              "type": "DigitalObject"
+            }
+          ],
+          "digitally_available_via": [
+            {
+              "id": "http://lod.example.org/museum/DigitalService/7",
+              "type": "DigitalService",
+              "access_point": [
+                {
+                  "id": "https://api.nga.gov/iiif/bc567179-9c1e-4493-b712-956cc4e6b00a/full/!500,500/0/default.jpg",
+                  "type": "DigitalObject"
+                }
+              ],
+              "conforms_to": [
+                {
+                  "id": "http://iiif.io/api/image",
+                  "type": "InformationObject"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298635",
+      "id": "https://www.nga.gov/collection/art-object-page.76140.html",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -127,101 +155,39 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/298635/production",
+    "id": "https://www.nga.gov/collection/76140/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/298635/production/timespan",
+      "id": "https://www.nga.gov/collection/76140/production/timespan",
       "type": "TimeSpan",
-      "_label": "1854",
-      "begin_of_the_begin": "1854",
-      "end_of_the_end": "1854"
+      "_label": "1849",
+      "begin_of_the_begin": "1849",
+      "end_of_the_end": "1849"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "https://www.nga.gov/collection/creatorid/76140",
         "type": "Actor",
         "_label": "John Ruskin"
       }
     ]
   },
-  "current_owner": [
-    {
-      "id": "http://vocab.getty.edu/ulan/500300517",
-      "type": "Group",
-      "_label": "Harvard Art Museum",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300312281",
-          "type": "Type",
-          "_label": "museums (institutions)"
-        }
-      ],
-      "acquired_title_through": [
-        {
-          "id": "https://www.harvardartmuseums.org/collections/object/298635/IMA-acquisition",
-          "type": "Acquisition",
-          "_label": "Acquisition of the Object",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300157782",
-              "type": "Type",
-              "_label": "acquisition (collections management)"
-            }
-          ],
-          "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/298635/IMA-acquisition/timespan",
-            "type": "TimeSpan",
-            "_label": "1928",
-            "begin_of_the_begin": "1928-01-01T00:00:00.000Z",
-            "end_of_the_end": "1928-12-31T00:00:00.000Z"
-          }
-        }
-      ]
-    }
-  ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:48817_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:48817_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:48817_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1090",
+    "id": "http://lod.example.org/museum/VisualItem/74",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2181",
+        "id": "http://lod.example.org/museum/Place/149",
         "type": "Place",
-        "_label": "Tower of Fribourg",
+        "_label": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\"",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2180",
+            "id": "http://lod.example.org/museum/Place/148",
             "type": "Place",
-            "_label": "Tower of Fribourg",
-            "defined_by": "POINT(46.79572 7.154748)"
+            "_label": "Ornamental Study with Acanthus Motif for \"The Stones of Venice\"",
+            "defined_by": "POINT(45.583333 12.566667)"
           }
         ]
       }

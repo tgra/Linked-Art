@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/176330",
+  "id": "https://collections.ashmolean.org/collection/159599",
   "type": "HumanMadeObject",
-  "_label": "Design for a window in the University Museum, Oxford",
+  "_label": "Study in Colour of one of the Niches surrounding the Tomb of Cansignorio della Scala at Verona, with Remains of the 'Casa di Romeo'",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA1931.55",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.REF.060",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA1931.55"
+      "content": "WA.RS.REF.060"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/176330",
+      "id": "http://lod.example.org/museum/Identifier/159599",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "176330"
+      "content": "159599"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/176330/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159599/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Design for a window in the University Museum, Oxford"
+      "content": "Study in Colour of one of the Niches surrounding the Tomb of Cansignorio della Scala at Verona, with Remains of the 'Casa di Romeo'"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_55-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_060-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_55-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_060-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_55-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_060-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176330",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159599",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/176330/production",
+    "id": "https://collections.ashmolean.org/collection/159599/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/176330/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159599/production/timespan",
       "type": "TimeSpan",
-      "_label": "c. 1855",
-      "begin_of_the_begin": "1855",
-      "end_of_the_end": "1855"
+      "_label": "probably May - June 1869",
+      "begin_of_the_begin": "1869",
+      "end_of_the_end": "1869"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1057",
+    "id": "http://lod.example.org/museum/VisualItem/41",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2115",
+        "id": "http://lod.example.org/museum/Place/83",
         "type": "Place",
-        "_label": "Design for a window in the University Museum, Oxford",
+        "_label": "Study in Colour of one of the Niches surrounding the Tomb of Cansignorio della Scala at Verona, with Remains of the 'Casa di Romeo'",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2114",
+            "id": "http://lod.example.org/museum/Place/82",
             "type": "Place",
-            "_label": "Design for a window in the University Museum, Oxford",
-            "defined_by": "POINT(51.75 -1.25)"
+            "_label": "Study in Colour of one of the Niches surrounding the Tomb of Cansignorio della Scala at Verona, with Remains of the 'Casa di Romeo'",
+            "defined_by": "POINT(45.45 11)"
           }
         ]
       }

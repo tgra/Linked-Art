@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159590",
+  "id": "https://collections.ashmolean.org/collection/176332",
   "type": "HumanMadeObject",
-  "_label": "Afternoon in Spring, with south Wind, at Neuch\u00e2tel",
+  "_label": "Design for a window in the University Museum, Oxford",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.298.a",
+      "id": "http://lod.example.org/museum/Identifier/WA1931.50",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.ED.298.a"
+      "content": "WA1931.50"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159590",
+      "id": "http://lod.example.org/museum/Identifier/176332",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159590"
+      "content": "176332"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159590/primary-name",
+      "id": "https://collections.ashmolean.org/collection/176332/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Afternoon in Spring, with south Wind, at Neuch\u00e2tel"
+      "content": "Design for a window in the University Museum, Oxford"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_298_a-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_50-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_298_a-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_50-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_298_a-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_50-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159590",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176332",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159590/production",
+    "id": "https://collections.ashmolean.org/collection/176332/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159590/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/176332/production/timespan",
       "type": "TimeSpan",
-      "_label": "30 April 1869",
-      "begin_of_the_begin": "1869",
-      "end_of_the_end": "1869"
+      "_label": "c. 1855",
+      "begin_of_the_begin": "1855",
+      "end_of_the_end": "1855"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1100",
+    "id": "http://lod.example.org/museum/VisualItem/84",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2201",
+        "id": "http://lod.example.org/museum/Place/169",
         "type": "Place",
-        "_label": "Afternoon in Spring, with south Wind, at Neuch\u00e2tel",
+        "_label": "Design for a window in the University Museum, Oxford",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2200",
+            "id": "http://lod.example.org/museum/Place/168",
             "type": "Place",
-            "_label": "Afternoon in Spring, with south Wind, at Neuch\u00e2tel",
-            "defined_by": "POINT(46.990867 6.797675)"
+            "_label": "Design for a window in the University Museum, Oxford",
+            "defined_by": "POINT(51.75 -1.25)"
           }
         ]
       }

@@ -1,25 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/298819",
+  "id": "https://collections.ashmolean.org/collection/159432",
   "type": "HumanMadeObject",
-  "_label": "H\u00f4tel de Ville, Aix-la-Chapelle",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300033973",
-      "type": "Type",
-      "_label": "Drawing",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300435443",
-          "type": "Type",
-          "_label": "Type of Work"
-        }
-      ]
-    }
-  ],
+  "_label": "Basle (Basel), with Outline of the Mountains of the Black Forest",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1900.10",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.122",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1900.10"
+      "content": "WA.RS.ED.122"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/298819",
+      "id": "http://lod.example.org/museum/Identifier/159432",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "298819"
+      "content": "159432"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298819/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159432/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,63 +38,39 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "H\u00f4tel de Ville, Aix-la-Chapelle"
+      "content": "Basle (Basel), with Outline of the Mountains of the Black Forest"
     }
   ],
-  "referred_to_by": [
+  "representation": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298819/provenance-statement",
-      "type": "LinguisticObject",
-      "_label": "Provenance Statement about the Object",
-      "classified_as": [
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_122-a-L.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
         {
-          "id": "http://vocab.getty.edu/aat/300055863",
-          "type": "Type",
-          "_label": "provenance (history of ownership)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ]
-    },
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/298819/credit-line",
-      "type": "LinguisticObject",
-      "_label": "Credit Line for the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300026687",
-          "type": "Type",
-          "_label": "acknowledgements"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Harvard Art Museums/Fogg Museum, Fine Arts Appropriation Fund"
-    }
-  ],
-  "member_of": [
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/298819/collection/European and American Art",
-      "type": "Set",
-      "_label": "European and American Art",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300025976",
-          "type": "Type",
-          "_label": "collections (object groupings)"
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_122-a-L.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_122-a-L.jpg",
+              "type": "DigitalObject"
+            }
+          ]
         }
       ]
     }
   ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298819",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159432",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -127,19 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/298819/production",
+    "id": "https://collections.ashmolean.org/collection/159432/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/298819/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159432/production/timespan",
       "type": "TimeSpan",
-      "_label": "1859",
-      "begin_of_the_begin": "1859",
-      "end_of_the_end": "1859"
+      "_label": "16 - 18 May 1858",
+      "begin_of_the_begin": "1858",
+      "end_of_the_end": "1858"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -149,79 +111,31 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Harvard Art Museum",
+      "_label": "Ashmolean Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "museums (institutions)"
         }
-      ],
-      "acquired_title_through": [
-        {
-          "id": "https://www.harvardartmuseums.org/collections/object/298819/IMA-acquisition",
-          "type": "Acquisition",
-          "_label": "Acquisition of the Object",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300157782",
-              "type": "Type",
-              "_label": "acquisition (collections management)"
-            }
-          ],
-          "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/298819/IMA-acquisition/timespan",
-            "type": "TimeSpan",
-            "_label": "1900",
-            "begin_of_the_begin": "1900-01-01T00:00:00.000Z",
-            "end_of_the_end": "1900-12-31T00:00:00.000Z"
-          }
-        }
-      ]
-    }
-  ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48769",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48769",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48769",
-              "type": "DigitalObject"
-            }
-          ]
-        }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1069",
+    "id": "http://lod.example.org/museum/VisualItem/53",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2139",
+        "id": "http://lod.example.org/museum/Place/107",
         "type": "Place",
-        "_label": "H\u00f4tel de Ville, Aix-la-Chapelle",
+        "_label": "Basle (Basel), with Outline of the Mountains of the Black Forest",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2138",
+            "id": "http://lod.example.org/museum/Place/106",
             "type": "Place",
-            "_label": "H\u00f4tel de Ville, Aix-la-Chapelle",
-            "defined_by": "POINT(50.770833 6.105278)"
+            "_label": "Basle (Basel), with Outline of the Mountains of the Black Forest",
+            "defined_by": "POINT(51.75 8.216667)"
           }
         ]
       }

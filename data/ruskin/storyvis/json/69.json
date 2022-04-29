@@ -1,11 +1,25 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/176324",
+  "id": "https://www.harvardartmuseums.org/collections/object/298820",
   "type": "HumanMadeObject",
-  "_label": "Design for a Window in the University Museum, Oxford",
+  "_label": "Dawn at Neuch\u00e2tel",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033973",
+      "type": "Type",
+      "_label": "Drawing",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA1931.47",
+      "id": "http://lod.example.org/museum/Identifier/1919.49",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA1931.47"
+      "content": "1919.49"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/176324",
+      "id": "http://lod.example.org/museum/Identifier/298820",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "176324"
+      "content": "298820"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/176324/primary-name",
+      "id": "https://www.harvardartmuseums.org/collections/object/298820/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +52,69 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Design for a Window in the University Museum, Oxford"
+      "content": "Dawn at Neuch\u00e2tel"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/298820/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ],
+      "content": "Samuel Sachs, gift; to Fogg Art Museum, 1919"
+    },
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/298820/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgements"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ],
+      "content": "Harvard Art Museums/Fogg Museum, Gift of Samuel Sachs"
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/298820/collection/European and American Art",
+      "type": "Set",
+      "_label": "European and American Art",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025976",
+          "type": "Type",
+          "_label": "collections (object groupings)"
+        }
+      ]
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_47-a-L.jpg",
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS38476_dynmc",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_47-a-L.jpg",
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS38476_dynmc",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +126,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_47-a-L.jpg",
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS38476_dynmc",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +136,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176324",
+      "id": "https://www.harvardartmuseums.org/collections/object/298820",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +155,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/176324/production",
+    "id": "https://www.harvardartmuseums.org/collections/object/298820/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/176324/production/timespan",
+      "id": "https://www.harvardartmuseums.org/collections/object/298820/production/timespan",
       "type": "TimeSpan",
-      "_label": "c. 1855",
-      "begin_of_the_begin": "1855",
-      "end_of_the_end": "1855"
+      "_label": "1866",
+      "begin_of_the_begin": "1866",
+      "end_of_the_end": "1866"
     },
     "carried_out_by": [
       {
+        "id": "https://harvardartmuseums.org/collections/person/28419",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -110,31 +177,52 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Ashmolean Museum",
+      "_label": "Harvard Art Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "museums (institutions)"
         }
+      ],
+      "acquired_title_through": [
+        {
+          "id": "https://www.harvardartmuseums.org/collections/object/298820/IMA-acquisition",
+          "type": "Acquisition",
+          "_label": "Acquisition of the Object",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300157782",
+              "type": "Type",
+              "_label": "acquisition (collections management)"
+            }
+          ],
+          "timespan": {
+            "id": "https://www.harvardartmuseums.org/collections/object/298820/IMA-acquisition/timespan",
+            "type": "TimeSpan",
+            "_label": "1919",
+            "begin_of_the_begin": "1919-01-01T00:00:00.000Z",
+            "end_of_the_end": "1919-12-31T00:00:00.000Z"
+          }
+        }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1083",
+    "id": "http://lod.example.org/museum/VisualItem/67",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2167",
+        "id": "http://lod.example.org/museum/Place/135",
         "type": "Place",
-        "_label": "Design for a Window in the University Museum, Oxford",
+        "_label": "Dawn at Neuch\u00e2tel",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2166",
+            "id": "http://lod.example.org/museum/Place/134",
             "type": "Place",
-            "_label": "Design for a Window in the University Museum, Oxford",
-            "defined_by": "POINT(51.75 -1.25)"
+            "_label": "Dawn at Neuch\u00e2tel",
+            "defined_by": "POINT(46.990867 6.797675)"
           }
         ]
       }

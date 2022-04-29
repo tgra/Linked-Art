@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/141096",
+  "id": "https://collections.ashmolean.org/collection/159413",
   "type": "HumanMadeObject",
-  "_label": "Old houses at Abbeville",
+  "_label": "Pilaster on the unfinished Facade of Sant' Anastasia, Verona",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA1953.134",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.093",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA1953.134"
+      "content": "WA.RS.ED.093"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/141096",
+      "id": "http://lod.example.org/museum/Identifier/159413",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "141096"
+      "content": "159413"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/141096/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159413/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Old houses at Abbeville"
+      "content": "Pilaster on the unfinished Facade of Sant' Anastasia, Verona"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_134-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_093-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_134-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_093-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_134-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_093-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/141096",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159413",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/141096/production",
+    "id": "https://collections.ashmolean.org/collection/159413/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/141096/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159413/production/timespan",
       "type": "TimeSpan",
-      "_label": "1834 - 1900",
-      "begin_of_the_begin": "1834",
-      "end_of_the_end": "1900"
+      "_label": "May 1869",
+      "begin_of_the_begin": "1869",
+      "end_of_the_end": "1869"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1050",
+    "id": "http://lod.example.org/museum/VisualItem/34",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2101",
+        "id": "http://lod.example.org/museum/Place/69",
         "type": "Place",
-        "_label": "Old houses at Abbeville",
+        "_label": "Pilaster on the unfinished Facade of Sant' Anastasia, Verona",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2100",
+            "id": "http://lod.example.org/museum/Place/68",
             "type": "Place",
-            "_label": "Old houses at Abbeville",
-            "defined_by": "POINT(50.106602 1.832691)"
+            "_label": "Pilaster on the unfinished Facade of Sant' Anastasia, Verona",
+            "defined_by": "POINT(45.45 11)"
           }
         ]
       }

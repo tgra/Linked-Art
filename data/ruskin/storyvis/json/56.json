@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159411",
+  "id": "https://collections.ashmolean.org/collection/159598",
   "type": "HumanMadeObject",
-  "_label": "A Window of the Palazzo Tolomei, Siena, showing the rude and unsymmetrical Placing of massy Stones",
+  "_label": "Study for Detail of the Sarcophagus and Canopy of the Tomb of Mastino II della Scala at Verona",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.088",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.REF.059",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.ED.088"
+      "content": "WA.RS.REF.059"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159411",
+      "id": "http://lod.example.org/museum/Identifier/159598",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159411"
+      "content": "159598"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159411/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159598/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "A Window of the Palazzo Tolomei, Siena, showing the rude and unsymmetrical Placing of massy Stones"
+      "content": "Study for Detail of the Sarcophagus and Canopy of the Tomb of Mastino II della Scala at Verona"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_088-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_059-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_088-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_059-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_088-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_059-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159411",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159598",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159411/production",
+    "id": "https://collections.ashmolean.org/collection/159598/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159411/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159598/production/timespan",
       "type": "TimeSpan",
-      "_label": "25 - 27 June 1870",
-      "begin_of_the_begin": "1870",
-      "end_of_the_end": "1870"
+      "_label": "1852",
+      "begin_of_the_begin": "1852",
+      "end_of_the_end": "1852"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1070",
+    "id": "http://lod.example.org/museum/VisualItem/54",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2141",
+        "id": "http://lod.example.org/museum/Place/109",
         "type": "Place",
-        "_label": "A Window of the Palazzo Tolomei, Siena, showing the rude and unsymmetrical Placing of massy Stones",
+        "_label": "Study for Detail of the Sarcophagus and Canopy of the Tomb of Mastino II della Scala at Verona",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2140",
+            "id": "http://lod.example.org/museum/Place/108",
             "type": "Place",
-            "_label": "A Window of the Palazzo Tolomei, Siena, showing the rude and unsymmetrical Placing of massy Stones",
-            "defined_by": "POINT(43.216667 11.4)"
+            "_label": "Study for Detail of the Sarcophagus and Canopy of the Tomb of Mastino II della Scala at Verona",
+            "defined_by": "POINT(45.45 11)"
           }
         ]
       }

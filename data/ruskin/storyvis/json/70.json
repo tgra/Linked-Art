@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159365",
+  "id": "https://collections.ashmolean.org/collection/159407",
   "type": "HumanMadeObject",
-  "_label": "Stone Pines at Sestri, Gulf of Genoa",
+  "_label": "Part of the Fa\u00e7ade of the destroyed Church of San Michele in Foro, Lucca, as it appeared in 1845",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.022",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.083",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.ED.022"
+      "content": "WA.RS.ED.083"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159365",
+      "id": "http://lod.example.org/museum/Identifier/159407",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159365"
+      "content": "159407"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159365/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159407/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Stone Pines at Sestri, Gulf of Genoa"
+      "content": "Part of the Fa\u00e7ade of the destroyed Church of San Michele in Foro, Lucca, as it appeared in 1845"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_022-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_083-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_022-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_083-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_022-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_083-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159365",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159407",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159365/production",
+    "id": "https://collections.ashmolean.org/collection/159407/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159365/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159407/production/timespan",
       "type": "TimeSpan",
-      "_label": "30 April 1845",
+      "_label": "May 1845",
       "begin_of_the_begin": "1845",
       "end_of_the_end": "1845"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1084",
+    "id": "http://lod.example.org/museum/VisualItem/68",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2169",
+        "id": "http://lod.example.org/museum/Place/137",
         "type": "Place",
-        "_label": "Stone Pines at Sestri, Gulf of Genoa",
+        "_label": "Part of the Fa\u00e7ade of the destroyed Church of San Michele in Foro, Lucca, as it appeared in 1845",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2168",
+            "id": "http://lod.example.org/museum/Place/136",
             "type": "Place",
-            "_label": "Stone Pines at Sestri, Gulf of Genoa",
-            "defined_by": "POINT(44.269444 9.384722)"
+            "_label": "Part of the Fa\u00e7ade of the destroyed Church of San Michele in Foro, Lucca, as it appeared in 1845",
+            "defined_by": "POINT(44.033333 10.45)"
           }
         ]
       }

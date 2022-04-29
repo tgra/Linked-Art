@@ -1,11 +1,25 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159432",
+  "id": "https://www.harvardartmuseums.org/collections/object/299103",
   "type": "HumanMadeObject",
-  "_label": "Basle (Basel), with Outline of the Mountains of the Black Forest",
+  "_label": "Convent and Alpine Pass, Visp, Switzerland",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033973",
+      "type": "Type",
+      "_label": "Drawing",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.122",
+      "id": "http://lod.example.org/museum/Identifier/1910.51",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.ED.122"
+      "content": "1910.51"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159432",
+      "id": "http://lod.example.org/museum/Identifier/299103",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159432"
+      "content": "299103"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159432/primary-name",
+      "id": "https://www.harvardartmuseums.org/collections/object/299103/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +52,68 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Basle (Basel), with Outline of the Mountains of the Black Forest"
+      "content": "Convent and Alpine Pass, Visp, Switzerland"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/299103/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/299103/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgements"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ],
+      "content": "Harvard Art Museums/Fogg Museum, Gift of Friends and Former Pupils of Professor C. H. Moore in recognition of his service"
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/299103/collection/European and American Art",
+      "type": "Set",
+      "_label": "European and American Art",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025976",
+          "type": "Type",
+          "_label": "collections (object groupings)"
+        }
+      ]
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_122-a-L.jpg",
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:INV003789_dynmc",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_122-a-L.jpg",
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:INV003789_dynmc",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +125,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_122-a-L.jpg",
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:INV003789_dynmc",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +135,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159432",
+      "id": "https://www.harvardartmuseums.org/collections/object/299103",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +154,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159432/production",
+    "id": "https://www.harvardartmuseums.org/collections/object/299103/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159432/production/timespan",
+      "id": "https://www.harvardartmuseums.org/collections/object/299103/production/timespan",
       "type": "TimeSpan",
-      "_label": "16 - 18 May 1858",
-      "begin_of_the_begin": "1858",
-      "end_of_the_end": "1858"
+      "_label": "1844",
+      "begin_of_the_begin": "1844",
+      "end_of_the_end": "1844"
     },
     "carried_out_by": [
       {
+        "id": "https://harvardartmuseums.org/collections/person/28419",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -110,31 +176,52 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Ashmolean Museum",
+      "_label": "Harvard Art Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "museums (institutions)"
         }
+      ],
+      "acquired_title_through": [
+        {
+          "id": "https://www.harvardartmuseums.org/collections/object/299103/IMA-acquisition",
+          "type": "Acquisition",
+          "_label": "Acquisition of the Object",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300157782",
+              "type": "Type",
+              "_label": "acquisition (collections management)"
+            }
+          ],
+          "timespan": {
+            "id": "https://www.harvardartmuseums.org/collections/object/299103/IMA-acquisition/timespan",
+            "type": "TimeSpan",
+            "_label": "1910",
+            "begin_of_the_begin": "1910-01-01T00:00:00.000Z",
+            "end_of_the_end": "1910-12-31T00:00:00.000Z"
+          }
+        }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1055",
+    "id": "http://lod.example.org/museum/VisualItem/39",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2111",
+        "id": "http://lod.example.org/museum/Place/79",
         "type": "Place",
-        "_label": "Basle (Basel), with Outline of the Mountains of the Black Forest",
+        "_label": "Convent and Alpine Pass, Visp, Switzerland",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2110",
+            "id": "http://lod.example.org/museum/Place/78",
             "type": "Place",
-            "_label": "Basle (Basel), with Outline of the Mountains of the Black Forest",
-            "defined_by": "POINT(47.558395 7.573271)"
+            "_label": "Convent and Alpine Pass, Visp, Switzerland",
+            "defined_by": "POINT(46.301907 7.870004)"
           }
         ]
       }

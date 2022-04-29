@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/299485",
+  "id": "https://www.harvardartmuseums.org/collections/object/298666",
   "type": "HumanMadeObject",
-  "_label": "View of Chamonix",
+  "_label": "Falls of Schaffhausen",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300033973",
@@ -19,7 +19,7 @@
   ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1901.23",
+      "id": "http://lod.example.org/museum/Identifier/1919.47",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1901.23"
+      "content": "1919.47"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/299485",
+      "id": "http://lod.example.org/museum/Identifier/298666",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "299485"
+      "content": "298666"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299485/primary-name",
+      "id": "https://www.harvardartmuseums.org/collections/object/298666/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,12 +52,12 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "View of Chamonix"
+      "content": "Falls of Schaffhausen"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299485/provenance-statement",
+      "id": "https://www.harvardartmuseums.org/collections/object/298666/provenance-statement",
       "type": "LinguisticObject",
       "_label": "Provenance Statement about the Object",
       "classified_as": [
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299485/credit-line",
+      "id": "https://www.harvardartmuseums.org/collections/object/298666/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -89,12 +89,12 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Harvard Art Museums/Fogg Museum, Fine Arts Appropriation Fund"
+      "content": "Harvard Art Museums/Fogg Museum, Gift of Samuel Sachs"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299485/collection/European and American Art",
+      "id": "https://www.harvardartmuseums.org/collections/object/298666/collection/European and American Art",
       "type": "Set",
       "_label": "European and American Art",
       "classified_as": [
@@ -106,9 +106,36 @@
       ]
     }
   ],
+  "representation": [
+    {
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299485",
+      "id": "https://www.harvardartmuseums.org/collections/object/298666",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -127,11 +154,11 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/299485/production",
+    "id": "https://www.harvardartmuseums.org/collections/object/298666/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/299485/production/timespan",
+      "id": "https://www.harvardartmuseums.org/collections/object/298666/production/timespan",
       "type": "TimeSpan",
       "_label": "1842",
       "begin_of_the_begin": "1842",
@@ -139,7 +166,7 @@
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "https://harvardartmuseums.org/collections/person/28419",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -159,7 +186,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://www.harvardartmuseums.org/collections/object/299485/IMA-acquisition",
+          "id": "https://www.harvardartmuseums.org/collections/object/298666/IMA-acquisition",
           "type": "Acquisition",
           "_label": "Acquisition of the Object",
           "classified_as": [
@@ -170,58 +197,31 @@
             }
           ],
           "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/299485/IMA-acquisition/timespan",
+            "id": "https://www.harvardartmuseums.org/collections/object/298666/IMA-acquisition/timespan",
             "type": "TimeSpan",
-            "_label": "1901",
-            "begin_of_the_begin": "1901-01-01T00:00:00.000Z",
-            "end_of_the_end": "1901-12-31T00:00:00.000Z"
+            "_label": "1919",
+            "begin_of_the_begin": "1919-01-01T00:00:00.000Z",
+            "end_of_the_end": "1919-12-31T00:00:00.000Z"
           }
-        }
-      ]
-    }
-  ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS38388_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS38388_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS38388_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
         }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1035",
+    "id": "http://lod.example.org/museum/VisualItem/19",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2071",
+        "id": "http://lod.example.org/museum/Place/39",
         "type": "Place",
-        "_label": "View of Chamonix",
+        "_label": "Falls of Schaffhausen",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2070",
+            "id": "http://lod.example.org/museum/Place/38",
             "type": "Place",
-            "_label": "View of Chamonix",
-            "defined_by": "POINT(45.924308 6.867316)"
+            "_label": "Falls of Schaffhausen",
+            "defined_by": "POINT(49.266667 6.816667)"
           }
         ]
       }

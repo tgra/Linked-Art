@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/176327",
+  "id": "https://collections.ashmolean.org/collection/159583",
   "type": "HumanMadeObject",
-  "_label": "Design for a window in the University Museum, Oxford",
+  "_label": "Mont Blanc from Saint-Martin-sur-Arve",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA1931.52",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.288",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA1931.52"
+      "content": "WA.RS.ED.288"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/176327",
+      "id": "http://lod.example.org/museum/Identifier/159583",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "176327"
+      "content": "159583"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/176327/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159583/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Design for a window in the University Museum, Oxford"
+      "content": "Mont Blanc from Saint-Martin-sur-Arve"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_52-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_288-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_52-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_288-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_52-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_288-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176327",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159583",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/176327/production",
+    "id": "https://collections.ashmolean.org/collection/159583/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/176327/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159583/production/timespan",
       "type": "TimeSpan",
-      "_label": "c. 1855",
-      "begin_of_the_begin": "1855",
-      "end_of_the_end": "1855"
+      "_label": "October 1874",
+      "begin_of_the_begin": "1874",
+      "end_of_the_end": "1874"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1046",
+    "id": "http://lod.example.org/museum/VisualItem/30",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2093",
+        "id": "http://lod.example.org/museum/Place/61",
         "type": "Place",
-        "_label": "Design for a window in the University Museum, Oxford",
+        "_label": "Mont Blanc from Saint-Martin-sur-Arve",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2092",
+            "id": "http://lod.example.org/museum/Place/60",
             "type": "Place",
-            "_label": "Design for a window in the University Museum, Oxford",
-            "defined_by": "POINT(51.75 -1.25)"
+            "_label": "Mont Blanc from Saint-Martin-sur-Arve",
+            "defined_by": "POINT(45.938883 6.643866)"
           }
         ]
       }

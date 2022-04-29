@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/299037",
+  "id": "https://www.harvardartmuseums.org/collections/object/298630",
   "type": "HumanMadeObject",
-  "_label": "Church of St. Wulfran, Abbeville",
+  "_label": "Sketch of Verona",
   "classified_as": [
     {
       "id": "http://vocab.getty.edu/aat/300033973",
@@ -19,7 +19,7 @@
   ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1900.11",
+      "id": "http://lod.example.org/museum/Identifier/1926.33.156",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1900.11"
+      "content": "1926.33.156"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/299037",
+      "id": "http://lod.example.org/museum/Identifier/298630",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "299037"
+      "content": "298630"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299037/primary-name",
+      "id": "https://www.harvardartmuseums.org/collections/object/298630/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,12 +52,12 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Church of St. Wulfran, Abbeville"
+      "content": "Sketch of Verona"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299037/provenance-statement",
+      "id": "https://www.harvardartmuseums.org/collections/object/298630/provenance-statement",
       "type": "LinguisticObject",
       "_label": "Provenance Statement about the Object",
       "classified_as": [
@@ -71,10 +71,11 @@
           "type": "Type",
           "_label": "brief texts"
         }
-      ]
+      ],
+      "content": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299037/credit-line",
+      "id": "https://www.harvardartmuseums.org/collections/object/298630/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -89,12 +90,12 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Harvard Art Museums/Fogg Museum, Fine Arts Appropriation Fund"
+      "content": "Harvard Art Museums/Fogg Museum, Transfer from the Fine Arts Department, Harvard University"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299037/collection/European and American Art",
+      "id": "https://www.harvardartmuseums.org/collections/object/298630/collection/European and American Art",
       "type": "Set",
       "_label": "European and American Art",
       "classified_as": [
@@ -106,9 +107,36 @@
       ]
     }
   ],
+  "representation": [
+    {
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:INV121896_dynmc",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:INV121896_dynmc",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:INV121896_dynmc",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299037",
+      "id": "https://www.harvardartmuseums.org/collections/object/298630",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -127,19 +155,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/299037/production",
+    "id": "https://www.harvardartmuseums.org/collections/object/298630/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/299037/production/timespan",
+      "id": "https://www.harvardartmuseums.org/collections/object/298630/production/timespan",
       "type": "TimeSpan",
-      "_label": "1868",
-      "begin_of_the_begin": "1868",
-      "end_of_the_end": "1868"
+      "_label": "1876",
+      "begin_of_the_begin": "1876",
+      "end_of_the_end": "1876"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "https://harvardartmuseums.org/collections/person/28419",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -159,7 +187,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://www.harvardartmuseums.org/collections/object/299037/IMA-acquisition",
+          "id": "https://www.harvardartmuseums.org/collections/object/298630/IMA-acquisition",
           "type": "Acquisition",
           "_label": "Acquisition of the Object",
           "classified_as": [
@@ -170,58 +198,31 @@
             }
           ],
           "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/299037/IMA-acquisition/timespan",
+            "id": "https://www.harvardartmuseums.org/collections/object/298630/IMA-acquisition/timespan",
             "type": "TimeSpan",
-            "_label": "1900",
-            "begin_of_the_begin": "1900-01-01T00:00:00.000Z",
-            "end_of_the_end": "1900-12-31T00:00:00.000Z"
+            "_label": "1926",
+            "begin_of_the_begin": "1926-01-01T00:00:00.000Z",
+            "end_of_the_end": "1926-12-31T00:00:00.000Z"
           }
-        }
-      ]
-    }
-  ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS38386_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS38386_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS38386_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
         }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1029",
+    "id": "http://lod.example.org/museum/VisualItem/13",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2059",
+        "id": "http://lod.example.org/museum/Place/27",
         "type": "Place",
-        "_label": "Church of St. Wulfran, Abbeville",
+        "_label": "Sketch of Verona",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2058",
+            "id": "http://lod.example.org/museum/Place/26",
             "type": "Place",
-            "_label": "Church of St. Wulfran, Abbeville",
-            "defined_by": "POINT(50.106602 1.832691)"
+            "_label": "Sketch of Verona",
+            "defined_by": "POINT(45.45 11)"
           }
         ]
       }

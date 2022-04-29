@@ -1,25 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1987-19",
+  "id": "https://collections.ashmolean.org/collection/141096",
   "type": "HumanMadeObject",
-  "_label": "Bergkam aan het Meer van Gen\u00e8ve",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300033618",
-      "type": "Type",
-      "_label": "Painting",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300435443",
-          "type": "Type",
-          "_label": "Type of Work"
-        }
-      ]
-    }
-  ],
+  "_label": "Old houses at Abbeville",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/RP-T-1987-19",
+      "id": "http://lod.example.org/museum/Identifier/WA1953.134",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "RP-T-1987-19"
+      "content": "WA1953.134"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/nl-RP-T-1987-19",
+      "id": "http://lod.example.org/museum/Identifier/141096",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "nl-RP-T-1987-19"
+      "content": "141096"
     },
     {
-      "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1987-19/primary-name",
+      "id": "https://collections.ashmolean.org/collection/141096/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,12 +38,39 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Bergkam aan het Meer van Gen\u00e8ve"
+      "content": "Old houses at Abbeville"
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_134-a-L.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_134-a-L.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_134-a-L.jpg",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
     }
   ],
   "subject_of": [
     {
-      "id": "http://www.rijksmuseum.nl/nl/collectie/RP-T-1987-19",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/141096",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -76,19 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1987-19/production",
+    "id": "https://collections.ashmolean.org/collection/141096/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1987-19/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/141096/production/timespan",
       "type": "TimeSpan",
-      "_label": "1829-1900",
-      "begin_of_the_begin": "1829",
+      "_label": "1834 - 1900",
+      "begin_of_the_begin": "1834",
       "end_of_the_end": "1900"
     },
     "carried_out_by": [
       {
-        "id": "http://www.rijksmuseum.nl/nl/collectie/creator/nl-RP-T-1987-19",
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -98,7 +111,7 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Rijksmuseum",
+      "_label": "Ashmolean Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
@@ -108,48 +121,21 @@
       ]
     }
   ],
-  "representation": [
-    {
-      "id": "https://lh3.ggpht.com/SOPNNYPF1S5Ij-DKCcm7AoweEHz--rJ0VPCh5WZdFbCKEPNnSI9ZAzYQz_nxKVtuurYAnOEvSFfYv5ZNcX-Ma7TwNH0=s0",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://lh3.ggpht.com/SOPNNYPF1S5Ij-DKCcm7AoweEHz--rJ0VPCh5WZdFbCKEPNnSI9ZAzYQz_nxKVtuurYAnOEvSFfYv5ZNcX-Ma7TwNH0=s0",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://lh3.ggpht.com/SOPNNYPF1S5Ij-DKCcm7AoweEHz--rJ0VPCh5WZdFbCKEPNnSI9ZAzYQz_nxKVtuurYAnOEvSFfYv5ZNcX-Ma7TwNH0=s0",
-              "type": "DigitalObject"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1064",
+    "id": "http://lod.example.org/museum/VisualItem/48",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2129",
+        "id": "http://lod.example.org/museum/Place/97",
         "type": "Place",
-        "_label": "Bergkam aan het Meer van Gen\u00e8ve",
+        "_label": "Old houses at Abbeville",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2128",
+            "id": "http://lod.example.org/museum/Place/96",
             "type": "Place",
-            "_label": "Bergkam aan het Meer van Gen\u00e8ve",
-            "defined_by": "POINT(46.196732 6.110443)"
+            "_label": "Old houses at Abbeville",
+            "defined_by": "POINT(50.166667 1.75)"
           }
         ]
       }

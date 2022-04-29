@@ -1,11 +1,25 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/176331",
+  "id": "https://www.tate.org.uk/art/artworks/13032",
   "type": "HumanMadeObject",
-  "_label": "Design for a window in the University Museum, Oxford",
+  "_label": "The North-West Angle of the Facade of St Mark\u2019s, Venice",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA1931.56",
+      "id": "http://lod.example.org/museum/Identifier/N02972",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA1931.56"
+      "content": "N02972"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/176331",
+      "id": "http://lod.example.org/museum/Identifier/13032",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "176331"
+      "content": "13032"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/176331/primary-name",
+      "id": "https://www.tate.org.uk/art/artworks/13032/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +52,37 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Design for a window in the University Museum, Oxford"
+      "content": "The North-West Angle of the Facade of St Mark\u2019s, Venice"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.tate.org.uk/art/artworks/13032/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgements"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ],
+      "content": "Presented by the Art Fund 1914"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_56-a-L.jpg",
+      "id": "http://www.tate.org.uk/art/images/work/N/N02/N02972_8.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_56-a-L.jpg",
+          "id": "http://www.tate.org.uk/art/images/work/N/N02/N02972_8.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +94,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_56-a-L.jpg",
+              "id": "http://www.tate.org.uk/art/images/work/N/N02/N02972_8.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +104,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176331",
+      "id": "http://www.tate.org.uk/art/artworks/ruskin-the-north-west-angle-of-the-facade-of-st-marks-venice-n02972",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,52 +123,37 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/176331/production",
+    "id": "https://www.tate.org.uk/art/artworks/13032/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/176331/production/timespan",
+      "id": "https://www.tate.org.uk/art/artworks/13032/production/timespan",
       "type": "TimeSpan",
-      "_label": "c. 1855",
-      "begin_of_the_begin": "1855",
-      "end_of_the_end": "1855"
+      "_label": "date not known"
     },
     "carried_out_by": [
       {
+        "id": "https://www.tate.org.uk/art/artworks/creatorid/465",
         "type": "Actor",
         "_label": "John Ruskin"
       }
     ]
   },
-  "current_owner": [
-    {
-      "id": "http://vocab.getty.edu/ulan/500300517",
-      "type": "Group",
-      "_label": "Ashmolean Museum",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300312281",
-          "type": "Type",
-          "_label": "museums (institutions)"
-        }
-      ]
-    }
-  ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1043",
+    "id": "http://lod.example.org/museum/VisualItem/27",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2087",
+        "id": "http://lod.example.org/museum/Place/55",
         "type": "Place",
-        "_label": "Design for a window in the University Museum, Oxford",
+        "_label": "The North-West Angle of the Facade of St Mark\u2019s, Venice",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2086",
+            "id": "http://lod.example.org/museum/Place/54",
             "type": "Place",
-            "_label": "Design for a window in the University Museum, Oxford",
-            "defined_by": "POINT(51.75 -1.25)"
+            "_label": "The North-West Angle of the Facade of St Mark\u2019s, Venice",
+            "defined_by": "POINT(45.583333 12.566667)"
           }
         ]
       }

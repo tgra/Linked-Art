@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/176325",
+  "id": "https://collections.ashmolean.org/collection/159469",
   "type": "HumanMadeObject",
-  "_label": "Design for a window in the University Museum, Oxford",
+  "_label": "The Brezon and Alps of the Reposoir, seen from Mornex: finished pencil sketch from nature",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA1931.49",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.RUD.132",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA1931.49"
+      "content": "WA.RS.RUD.132"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/176325",
+      "id": "http://lod.example.org/museum/Identifier/159469",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "176325"
+      "content": "159469"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/176325/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159469/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Design for a window in the University Museum, Oxford"
+      "content": "The Brezon and Alps of the Reposoir, seen from Mornex: finished pencil sketch from nature"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_49-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_132-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_49-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_132-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_49-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_132-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176325",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159469",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/176325/production",
+    "id": "https://collections.ashmolean.org/collection/159469/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/176325/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159469/production/timespan",
       "type": "TimeSpan",
-      "_label": "c. 1855",
-      "begin_of_the_begin": "1855",
-      "end_of_the_end": "1855"
+      "_label": "March 1863",
+      "begin_of_the_begin": "1863",
+      "end_of_the_end": "1863"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1078",
+    "id": "http://lod.example.org/museum/VisualItem/62",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2157",
+        "id": "http://lod.example.org/museum/Place/125",
         "type": "Place",
-        "_label": "Design for a window in the University Museum, Oxford",
+        "_label": "The Brezon and Alps of the Reposoir, seen from Mornex: finished pencil sketch from nature",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2156",
+            "id": "http://lod.example.org/museum/Place/124",
             "type": "Place",
-            "_label": "Design for a window in the University Museum, Oxford",
-            "defined_by": "POINT(51.75 -1.25)"
+            "_label": "The Brezon and Alps of the Reposoir, seen from Mornex: finished pencil sketch from nature",
+            "defined_by": "POINT(46.416667 10)"
           }
         ]
       }

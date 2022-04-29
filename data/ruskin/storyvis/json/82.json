@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159362",
+  "id": "https://collections.ashmolean.org/collection/141095",
   "type": "HumanMadeObject",
-  "_label": "Ivy-Leaved Toadflax ('Oxford Ivy')",
+  "_label": "Swiss tower at Fribourg",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.019",
+      "id": "http://lod.example.org/museum/Identifier/WA1953.133",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.ED.019"
+      "content": "WA1953.133"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159362",
+      "id": "http://lod.example.org/museum/Identifier/141095",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159362"
+      "content": "141095"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159362/primary-name",
+      "id": "https://collections.ashmolean.org/collection/141095/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Ivy-Leaved Toadflax ('Oxford Ivy')"
+      "content": "Swiss tower at Fribourg"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_019-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_133-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_019-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_133-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_019-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_133-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159362",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/141095",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159362/production",
+    "id": "https://collections.ashmolean.org/collection/141095/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159362/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/141095/production/timespan",
       "type": "TimeSpan",
-      "_label": "1852",
-      "begin_of_the_begin": "1852",
-      "end_of_the_end": "1852"
+      "_label": "1834 - 1900",
+      "begin_of_the_begin": "1834",
+      "end_of_the_end": "1900"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1096",
+    "id": "http://lod.example.org/museum/VisualItem/80",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2193",
+        "id": "http://lod.example.org/museum/Place/161",
         "type": "Place",
-        "_label": "Ivy-Leaved Toadflax ('Oxford Ivy')",
+        "_label": "Swiss tower at Fribourg",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2192",
+            "id": "http://lod.example.org/museum/Place/160",
             "type": "Place",
-            "_label": "Ivy-Leaved Toadflax ('Oxford Ivy')",
-            "defined_by": "POINT(51.75 -1.25)"
+            "_label": "Swiss tower at Fribourg",
+            "defined_by": "POINT(48.767697 6.855842)"
           }
         ]
       }

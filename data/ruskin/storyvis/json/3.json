@@ -1,25 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/298606",
+  "id": "https://collections.ashmolean.org/collection/159589",
   "type": "HumanMadeObject",
-  "_label": "Tom Tower, Christ Church, Oxford",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300033973",
-      "type": "Type",
-      "_label": "Drawing",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300435443",
-          "type": "Type",
-          "_label": "Type of Work"
-        }
-      ]
-    }
-  ],
+  "_label": "Autumnal Cloud filling the Valley of Geneva, the Jura rising out of it, seen from the Brezon above Bonneville",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1932.8",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.297",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1932.8"
+      "content": "WA.RS.ED.297"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/298606",
+      "id": "http://lod.example.org/museum/Identifier/159589",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "298606"
+      "content": "159589"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298606/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159589/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,63 +38,39 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Tom Tower, Christ Church, Oxford"
+      "content": "Autumnal Cloud filling the Valley of Geneva, the Jura rising out of it, seen from the Brezon above Bonneville"
     }
   ],
-  "referred_to_by": [
+  "representation": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298606/provenance-statement",
-      "type": "LinguisticObject",
-      "_label": "Provenance Statement about the Object",
-      "classified_as": [
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_297-a-L.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
         {
-          "id": "http://vocab.getty.edu/aat/300055863",
-          "type": "Type",
-          "_label": "provenance (history of ownership)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ]
-    },
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/298606/credit-line",
-      "type": "LinguisticObject",
-      "_label": "Credit Line for the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300026687",
-          "type": "Type",
-          "_label": "acknowledgements"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Harvard Art Museums/Fogg Museum, Gift of Denman W. Ross"
-    }
-  ],
-  "member_of": [
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/298606/collection/European and American Art",
-      "type": "Set",
-      "_label": "European and American Art",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300025976",
-          "type": "Type",
-          "_label": "collections (object groupings)"
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_297-a-L.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_297-a-L.jpg",
+              "type": "DigitalObject"
+            }
+          ]
         }
       ]
     }
   ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298606",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159589",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -127,19 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/298606/production",
+    "id": "https://collections.ashmolean.org/collection/159589/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/298606/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159589/production/timespan",
       "type": "TimeSpan",
-      "_label": "1838",
-      "begin_of_the_begin": "1838",
-      "end_of_the_end": "1838"
+      "_label": "probably autumn 1862",
+      "begin_of_the_begin": "1862",
+      "end_of_the_end": "1862"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -149,79 +111,31 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Harvard Art Museum",
+      "_label": "Ashmolean Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "museums (institutions)"
         }
-      ],
-      "acquired_title_through": [
-        {
-          "id": "https://www.harvardartmuseums.org/collections/object/298606/IMA-acquisition",
-          "type": "Acquisition",
-          "_label": "Acquisition of the Object",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300157782",
-              "type": "Type",
-              "_label": "acquisition (collections management)"
-            }
-          ],
-          "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/298606/IMA-acquisition/timespan",
-            "type": "TimeSpan",
-            "_label": "1932",
-            "begin_of_the_begin": "1932-01-01T00:00:00.000Z",
-            "end_of_the_end": "1932-12-31T00:00:00.000Z"
-          }
-        }
-      ]
-    }
-  ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48818_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48818_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48818_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1017",
+    "id": "http://lod.example.org/museum/VisualItem/1",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2035",
+        "id": "http://lod.example.org/museum/Place/3",
         "type": "Place",
-        "_label": "Tom Tower, Christ Church, Oxford",
+        "_label": "Autumnal Cloud filling the Valley of Geneva, the Jura rising out of it, seen from the Brezon above Bonneville",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2034",
+            "id": "http://lod.example.org/museum/Place/2",
             "type": "Place",
-            "_label": "Tom Tower, Christ Church, Oxford",
-            "defined_by": "POINT(51.75 -1.25)"
+            "_label": "Autumnal Cloud filling the Valley of Geneva, the Jura rising out of it, seen from the Brezon above Bonneville",
+            "defined_by": "POINT(46.196732 6.110443)"
           }
         ]
       }

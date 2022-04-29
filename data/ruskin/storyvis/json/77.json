@@ -1,25 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/298766",
+  "id": "https://collections.ashmolean.org/collection/159606",
   "type": "HumanMadeObject",
-  "_label": "Venetian Renaissance Capital",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300033973",
-      "type": "Type",
-      "_label": "Drawing",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300435443",
-          "type": "Type",
-          "_label": "Type of Work"
-        }
-      ]
-    }
-  ],
+  "_label": "The Exterior of the Ducal Palace, Venice",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1926.33.116",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.REF.067",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1926.33.116"
+      "content": "WA.RS.REF.067"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/298766",
+      "id": "http://lod.example.org/museum/Identifier/159606",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "298766"
+      "content": "159606"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298766/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159606/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,64 +38,39 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Venetian Renaissance Capital"
+      "content": "The Exterior of the Ducal Palace, Venice"
     }
   ],
-  "referred_to_by": [
+  "representation": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298766/provenance-statement",
-      "type": "LinguisticObject",
-      "_label": "Provenance Statement about the Object",
-      "classified_as": [
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_067-a-L.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
         {
-          "id": "http://vocab.getty.edu/aat/300055863",
-          "type": "Type",
-          "_label": "provenance (history of ownership)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
-    },
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/298766/credit-line",
-      "type": "LinguisticObject",
-      "_label": "Credit Line for the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300026687",
-          "type": "Type",
-          "_label": "acknowledgements"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Harvard Art Museums/Fogg Museum, Transfer from the Fine Arts Department, Harvard University"
-    }
-  ],
-  "member_of": [
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/298766/collection/European and American Art",
-      "type": "Set",
-      "_label": "European and American Art",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300025976",
-          "type": "Type",
-          "_label": "collections (object groupings)"
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_067-a-L.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_067-a-L.jpg",
+              "type": "DigitalObject"
+            }
+          ]
         }
       ]
     }
   ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/298766",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159606",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -128,19 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/298766/production",
+    "id": "https://collections.ashmolean.org/collection/159606/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/298766/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159606/production/timespan",
       "type": "TimeSpan",
-      "_label": "1876-1877",
-      "begin_of_the_begin": "1876",
-      "end_of_the_end": "1877"
+      "_label": "1852",
+      "begin_of_the_begin": "1852",
+      "end_of_the_end": "1852"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -150,79 +111,31 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Harvard Art Museum",
+      "_label": "Ashmolean Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "museums (institutions)"
         }
-      ],
-      "acquired_title_through": [
-        {
-          "id": "https://www.harvardartmuseums.org/collections/object/298766/IMA-acquisition",
-          "type": "Acquisition",
-          "_label": "Acquisition of the Object",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300157782",
-              "type": "Type",
-              "_label": "acquisition (collections management)"
-            }
-          ],
-          "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/298766/IMA-acquisition/timespan",
-            "type": "TimeSpan",
-            "_label": "1926",
-            "begin_of_the_begin": "1926-01-01T00:00:00.000Z",
-            "end_of_the_end": "1926-12-31T00:00:00.000Z"
-          }
-        }
-      ]
-    }
-  ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:DDC100826_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:DDC100826_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:DDC100826_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1091",
+    "id": "http://lod.example.org/museum/VisualItem/75",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2183",
+        "id": "http://lod.example.org/museum/Place/151",
         "type": "Place",
-        "_label": "Venetian Renaissance Capital",
+        "_label": "The Exterior of the Ducal Palace, Venice",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2182",
+            "id": "http://lod.example.org/museum/Place/150",
             "type": "Place",
-            "_label": "Venetian Renaissance Capital",
-            "defined_by": "POINT(45.438611 12.326667)"
+            "_label": "The Exterior of the Ducal Palace, Venice",
+            "defined_by": "POINT(45.583333 12.566667)"
           }
         ]
       }

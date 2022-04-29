@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159591",
+  "id": "https://collections.ashmolean.org/collection/176325",
   "type": "HumanMadeObject",
-  "_label": "Evening in Autumn under the Castle of Habsburg",
+  "_label": "Design for a window in the University Museum, Oxford",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.299",
+      "id": "http://lod.example.org/museum/Identifier/WA1931.49",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.ED.299"
+      "content": "WA1931.49"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159591",
+      "id": "http://lod.example.org/museum/Identifier/176325",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159591"
+      "content": "176325"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159591/primary-name",
+      "id": "https://collections.ashmolean.org/collection/176325/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Evening in Autumn under the Castle of Habsburg"
+      "content": "Design for a window in the University Museum, Oxford"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_299-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_49-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_299-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_49-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_299-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_49-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159591",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176325",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159591/production",
+    "id": "https://collections.ashmolean.org/collection/176325/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159591/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/176325/production/timespan",
       "type": "TimeSpan",
-      "_label": "1858 or 1863",
-      "begin_of_the_begin": "1858",
-      "end_of_the_end": "1863"
+      "_label": "c. 1855",
+      "begin_of_the_begin": "1855",
+      "end_of_the_end": "1855"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1098",
+    "id": "http://lod.example.org/museum/VisualItem/82",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2197",
+        "id": "http://lod.example.org/museum/Place/165",
         "type": "Place",
-        "_label": "Evening in Autumn under the Castle of Habsburg",
+        "_label": "Design for a window in the University Museum, Oxford",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2196",
+            "id": "http://lod.example.org/museum/Place/164",
             "type": "Place",
-            "_label": "Evening in Autumn under the Castle of Habsburg",
-            "defined_by": "POINT(47.462441 8.185123)"
+            "_label": "Design for a window in the University Museum, Oxford",
+            "defined_by": "POINT(51.75 -1.25)"
           }
         ]
       }

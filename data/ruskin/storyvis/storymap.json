@@ -7,6 +7,14 @@
     "map_as_image": false,
     "map_subdomains": "",
     "map_type": "osm:standard",
+    "line_follows_path": true,
+    "line_color": "#c34528",
+    "line_color_inactive": "#CCC",
+    "line_join": "miter",
+    "line_weight": 3,
+    "line_opacity": 0.8,
+    "line_dash": "5,5",
+    "show_history_line": true,
     "slides": [
       {
         "date": "",
@@ -48,20 +56,104 @@
           "color": "#3f83e8",
           "opacity": 100
         },
+        "date": "1834",
+        "location": {
+          "lat": 48.767697,
+          "lon": 6.855842,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1834 - 1900",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_133-a-L.jpg"
+        },
+        "text": {
+          "headline": "Swiss tower at Fribourg",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/141095'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1834",
+        "location": {
+          "lat": 45.924308,
+          "lon": 6.867316,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1834 - 1900",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1945/WA_1945_0000/WA_1945_90-a-L.jpg"
+        },
+        "text": {
+          "headline": "Mountain study: view of the Alps (Aiguilles near Chamonix)",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/141094'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1834",
+        "location": {
+          "lat": 50.166667,
+          "lon": 1.75,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1834 - 1900",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_134-a-L.jpg"
+        },
+        "text": {
+          "headline": "Old houses at Abbeville",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/141096'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1834",
+        "location": {
+          "lat": 46.416667,
+          "lon": 10.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1834 - 1900",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1945/WA_1945_0000/WA_1945_89-a-L.jpg"
+        },
+        "text": {
+          "headline": "Mountain study: view of the Alps",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/141093'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
         "date": "1835",
         "location": {
-          "lat": 45.916667,
-          "lon": 9.316667,
+          "lat": 46.0,
+          "lon": 9.283333,
           "zoom": 4
         },
         "media": {
           "caption": "1835",
           "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_254-a-L.jpg"
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_255-a-L.jpg"
         },
         "text": {
-          "headline": "End of the Lake of Lecco",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object//48684'>Artwork homepage</a>"
+          "headline": "Bellagio, Lago di Como",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object//48685'>Artwork homepage</a>"
         }
       },
       {
@@ -92,18 +184,18 @@
         },
         "date": "1835",
         "location": {
-          "lat": 46.0,
-          "lon": 9.283333,
+          "lat": 47.0,
+          "lon": 11.5,
           "zoom": 4
         },
         "media": {
           "caption": "1835",
           "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_255-a-L.jpg"
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_253-a-L.jpg"
         },
         "text": {
-          "headline": "Bellagio, Lago di Como",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object//48685'>Artwork homepage</a>"
+          "headline": "Near Bassano, Brenner",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object//48683'>Artwork homepage</a>"
         }
       },
       {
@@ -132,10 +224,52 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1841",
+        "date": "1839",
         "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
+          "lat": 50.716667,
+          "lon": -3.05,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "c. 1839",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Multimedia_B/wa/WA_2000_86-a-r-L.jpg"
+        },
+        "text": {
+          "headline": "Axmouth Landslip from Dolands Farm",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/125702'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1841-05",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "19 May 1841",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_062-a-L.jpg"
+        },
+        "text": {
+          "headline": "Study for Detail of the Piazza delle Erbe, Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159601'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1841-05",
+        "location": {
+          "lat": 45.583333,
+          "lon": 12.566667,
           "zoom": 4
         },
         "media": {
@@ -155,8 +289,29 @@
         },
         "date": "1842",
         "location": {
-          "lat": 48.966667,
-          "lon": 10.566667,
+          "lat": 49.266667,
+          "lon": 6.816667,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1842",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:779019?width=500&height=800"
+        },
+        "text": {
+          "headline": "Falls of Schaffhausen",
+          "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298667'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
+        "date": "1842",
+        "location": {
+          "lat": 49.266667,
+          "lon": 6.816667,
           "zoom": 4
         },
         "media": {
@@ -195,27 +350,6 @@
           "color": "#00758F",
           "opacity": 100
         },
-        "date": "1842",
-        "location": {
-          "lat": 48.966667,
-          "lon": 10.566667,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "1842",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:INV003787_dynmc?width=500&height=800"
-        },
-        "text": {
-          "headline": "Falls of Schaffhausen",
-          "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298667'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#00758F",
-          "opacity": 100
-        },
         "date": "1844",
         "location": {
           "lat": 46.301907,
@@ -234,65 +368,23 @@
       },
       {
         "background": {
-          "color": "#3f83e8",
+          "color": "#A09998",
           "opacity": 100
         },
         "date": "1845",
         "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
+          "lat": 44.466667,
+          "lon": 11.433333,
           "zoom": 4
         },
         "media": {
-          "caption": "September - October 1845",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_022-a-L.jpg"
+          "caption": "c.1845\u20136",
+          "credit": "Tate Museum",
+          "url": "http://www.tate.org.uk/art/images/work/N/N03/N03507_8.jpg"
         },
         "text": {
-          "headline": "Study of the Marble Inlaying on the Front of the Casa Loredan, Venice",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159660'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1845",
-        "location": {
-          "lat": 44.269444,
-          "lon": 9.384722,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "30 April 1845",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_022-a-L.jpg"
-        },
-        "text": {
-          "headline": "Stone Pines at Sestri, Gulf of Genoa",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159365'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1845",
-        "location": {
-          "lat": 44.033333,
-          "lon": 10.45,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "May 1845",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_083-a-L.jpg"
-        },
-        "text": {
-          "headline": "Part of the Fa\u00e7ade of the destroyed Church of San Michele in Foro, Lucca, as it appeared in 1845",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159407'>Artwork homepage</a>"
+          "headline": "View of Bologna",
+          "text": "Purchased 1920<br/><br/><a target='_new' href='http://www.tate.org.uk/art/artworks/ruskin-view-of-bologna-n03507'>Artwork homepage</a>"
         }
       },
       {
@@ -309,11 +401,32 @@
         "media": {
           "caption": "1845",
           "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:49559_dynmc?width=500&height=800"
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:779018?width=500&height=800"
         },
         "text": {
           "headline": "The Pass of Faido",
           "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299114'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#E8A798",
+          "opacity": 100
+        },
+        "date": "1845",
+        "location": {
+          "lat": 43.766667,
+          "lon": 11.25,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1845",
+          "credit": "National Gallery of Art",
+          "url": "https://api.nga.gov/iiif/f6ef48d3-3512-4f46-ac5b-c221b3fa320e/full/!500,500/0/default.jpg"
+        },
+        "text": {
+          "headline": "The Garden of San Miniato near Florence",
+          "text": "Patrons' Permanent Fund<br/><br/><a target='_new' href='https://www.nga.gov/collection/art-object-page.72870.html'>Artwork homepage</a>"
         }
       },
       {
@@ -323,8 +436,8 @@
         },
         "date": "1845",
         "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
+          "lat": 45.583333,
+          "lon": 12.566667,
           "zoom": 4
         },
         "media": {
@@ -342,7 +455,112 @@
           "color": "#3f83e8",
           "opacity": 100
         },
+        "date": "1845-04",
+        "location": {
+          "lat": 44.266667,
+          "lon": 9.4,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "30 April 1845",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_022-a-L.jpg"
+        },
+        "text": {
+          "headline": "Stone Pines at Sestri, Gulf of Genoa",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159365'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1845-05",
+        "location": {
+          "lat": 44.033333,
+          "lon": 10.45,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "May 1845",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_083-a-L.jpg"
+        },
+        "text": {
+          "headline": "Part of the Fa\u00e7ade of the destroyed Church of San Michele in Foro, Lucca, as it appeared in 1845",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159407'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1845-09",
+        "location": {
+          "lat": 45.583333,
+          "lon": 12.566667,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "September - October 1845",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_022-a-L.jpg"
+        },
+        "text": {
+          "headline": "Study of the Marble Inlaying on the Front of the Casa Loredan, Venice",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159660'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
         "date": "1846",
+        "location": {
+          "lat": 46.479417,
+          "lon": 8.797659,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1846 - 1865",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_287-a-L.jpg"
+        },
+        "text": {
+          "headline": "Study in Neutral Tint of Turner's 'The Pass of Faido'",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159582'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1846-05",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "11 May 1846",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_081-L.jpg"
+        },
+        "text": {
+          "headline": "The Gryphon bearing the south Shaft of the west Entrance of the Duomo, Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159405'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1846-06",
         "location": {
           "lat": 44.033333,
           "lon": 10.45,
@@ -363,7 +581,7 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1846",
+        "date": "1846-06",
         "location": {
           "lat": 44.033333,
           "lon": 10.45,
@@ -386,8 +604,8 @@
         },
         "date": "1848",
         "location": {
-          "lat": 49.133333,
-          "lon": 0.216667,
+          "lat": 49.0,
+          "lon": 0.0,
           "zoom": 4
         },
         "media": {
@@ -402,6 +620,27 @@
       },
       {
         "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1848-10",
+        "location": {
+          "lat": 49.5,
+          "lon": 1.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "October 1848",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_042_a-a-L.jpg"
+        },
+        "text": {
+          "headline": "The Sculpture of a Dragon filling a Quatrefoil on the North Entrance of Rouen Cathedral",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159671'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
           "color": "#00758F",
           "opacity": 100
         },
@@ -412,13 +651,13 @@
           "zoom": 4
         },
         "media": {
-          "caption": "1849-1852",
+          "caption": "1849",
           "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:70227_dynmc?width=500&height=800"
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:779020?width=500&height=800"
         },
         "text": {
-          "headline": "Studies in St. Mark's",
-          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299181'>Artwork homepage</a>"
+          "headline": "Architectural Study: Palazzo Dandolo",
+          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299177'>Artwork homepage</a>"
         }
       },
       {
@@ -428,8 +667,8 @@
         },
         "date": "1849",
         "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
+          "lat": 45.583333,
+          "lon": 12.566667,
           "zoom": 4
         },
         "media": {
@@ -447,10 +686,31 @@
           "color": "#00758F",
           "opacity": 100
         },
+        "date": "1849",
+        "location": {
+          "lat": 45.583333,
+          "lon": 12.566667,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1849-1852",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:70227_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Studies in St. Mark's",
+          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299181'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
         "date": "1850",
         "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
+          "lat": 45.583333,
+          "lon": 12.566667,
           "zoom": 4
         },
         "media": {
@@ -461,6 +721,132 @@
         "text": {
           "headline": "Architectural Sketch, Venice",
           "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/296900'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
+        "date": "1850",
+        "location": {
+          "lat": 45.906389,
+          "lon": 12.015556,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1850",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48789_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Architectural Sketch: Section of Door Jamb, Saint Stefano",
+          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299179'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1852",
+        "location": {
+          "lat": 45.583333,
+          "lon": 12.566667,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1852",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_067-a-L.jpg"
+        },
+        "text": {
+          "headline": "The Exterior of the Ducal Palace, Venice",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159606'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
+        "date": "1852",
+        "location": {
+          "lat": 45.583333,
+          "lon": 12.566667,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1852(?)",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48801_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Study of a Venetian Capital",
+          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299187'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1852",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1852",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_059-a-L.jpg"
+        },
+        "text": {
+          "headline": "Study for Detail of the Sarcophagus and Canopy of the Tomb of Mastino II della Scala at Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159598'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1852",
+        "location": {
+          "lat": 45.583333,
+          "lon": 12.566667,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "probably 1852",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_210-a-L.jpg"
+        },
+        "text": {
+          "headline": "Part of the Palazzo Priuli, Venice",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159536'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
+        "date": "1852",
+        "location": {
+          "lat": 45.583333,
+          "lon": 12.566667,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1852",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS80695_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Study of an Archivolt in Saint Mark's, Venice",
+          "text": "Edward Waldo Forbes, Cambridge, gift; to Fogg Art Museum, 1953<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/297456'>Artwork homepage</a>"
         }
       },
       {
@@ -486,76 +872,13 @@
       },
       {
         "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1852",
-        "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "1852",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_067-a-L.jpg"
-        },
-        "text": {
-          "headline": "The Exterior of the Ducal Palace, Venice",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159606'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
           "color": "#00758F",
           "opacity": 100
         },
         "date": "1852",
         "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "1852",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48803_dynmc?width=500&height=800"
-        },
-        "text": {
-          "headline": "Studies of Venetian Capitals",
-          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298814'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#00758F",
-          "opacity": 100
-        },
-        "date": "1852",
-        "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "1852",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS80695_dynmc?width=500&height=800"
-        },
-        "text": {
-          "headline": "Study of an Archivolt in Saint Mark's, Venice",
-          "text": "Edward Waldo Forbes, Cambridge, gift; to Fogg Art Museum, 1953<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/297456'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#00758F",
-          "opacity": 100
-        },
-        "date": "1852",
-        "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
+          "lat": 45.583333,
+          "lon": 12.566667,
           "zoom": 4
         },
         "media": {
@@ -570,23 +893,86 @@
       },
       {
         "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
+        "date": "1852",
+        "location": {
+          "lat": 45.583333,
+          "lon": 12.566667,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1852",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48803_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Studies of Venetian Capitals",
+          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298814'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
           "color": "#3f83e8",
           "opacity": 100
         },
         "date": "1852",
         "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
+          "lat": 45.45,
+          "lon": 11.0,
           "zoom": 4
         },
         "media": {
-          "caption": "probably 1852",
+          "caption": "probably January 1852",
           "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_210-a-L.jpg"
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_097_a-a-L.jpg"
         },
         "text": {
-          "headline": "Part of the Palazzo Priuli, Venice",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159536'>Artwork homepage</a>"
+          "headline": "Study of one of the Pinnacles of the Tomb of Mastino II della Scala, Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159714'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1852-06",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "probably June 1852",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_095-a-L.jpg"
+        },
+        "text": {
+          "headline": "Study of the North Gable of the Tomb of Mastino II della Scala, Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159712'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1853",
+        "location": {
+          "lat": 51.484344,
+          "lon": -0.174869,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1853",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_2006/WA_2006_0000/WA_2006_175-a-L.jpg"
+        },
+        "text": {
+          "headline": "Old Cedar in the Botanic Garden, Chelsea",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/203077'>Artwork homepage</a>"
         }
       },
       {
@@ -594,20 +980,41 @@
           "color": "#00758F",
           "opacity": 100
         },
-        "date": "1852",
+        "date": "1854",
         "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
+          "lat": 48.767697,
+          "lon": 6.855842,
           "zoom": 4
         },
         "media": {
-          "caption": "1852(?)",
+          "caption": "1854",
           "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48801_dynmc?width=500&height=800"
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:48817_dynmc?width=500&height=800"
         },
         "text": {
-          "headline": "Study of a Venetian Capital",
-          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299187'>Artwork homepage</a>"
+          "headline": "Tower of Fribourg",
+          "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298635'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1854",
+        "location": {
+          "lat": 45.259578,
+          "lon": 6.900329,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1854 - 1856",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_275-a-L.jpg"
+        },
+        "text": {
+          "headline": "Pine Forest on Mont Cenis",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159576'>Artwork homepage</a>"
         }
       },
       {
@@ -629,132 +1036,6 @@
         "text": {
           "headline": "Fragment of the Alps",
           "text": "The artist, sold; to Charles Eliot Norton c. 1858, by descent; to Sara, Margaret, and Elizabeth Norton (daughters of Charles Eliot Norton), sold; to Fogg Art Museum, 1919 [1].\r\n\r\n[1] Samuel Sachs provided the funds to purchase the drawing, however, it was never in his collection.<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/303730'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#00758F",
-          "opacity": 100
-        },
-        "date": "1854",
-        "location": {
-          "lat": 46.79572,
-          "lon": 7.154748,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "1854",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:48817_dynmc?width=500&height=800"
-        },
-        "text": {
-          "headline": "Tower of Fribourg",
-          "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298635'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1855",
-        "location": {
-          "lat": 51.75,
-          "lon": -1.25,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "c. 1855",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_51-a-L.jpg"
-        },
-        "text": {
-          "headline": "Design for a window in the University Museum, Oxford",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176326'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1855",
-        "location": {
-          "lat": 51.75,
-          "lon": -1.25,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "c. 1855",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_50-a-L.jpg"
-        },
-        "text": {
-          "headline": "Design for a window in the University Museum, Oxford",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176332'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1855",
-        "location": {
-          "lat": 51.75,
-          "lon": -1.25,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "c. 1855",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_47-a-L.jpg"
-        },
-        "text": {
-          "headline": "Design for a Window in the University Museum, Oxford",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176324'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1855",
-        "location": {
-          "lat": 51.75,
-          "lon": -1.25,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "c. 1855",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_52-a-L.jpg"
-        },
-        "text": {
-          "headline": "Design for a window in the University Museum, Oxford",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176327'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1855",
-        "location": {
-          "lat": 51.75,
-          "lon": -1.25,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "c. 1855",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_49-a-L.jpg"
-        },
-        "text": {
-          "headline": "Design for a window in the University Museum, Oxford",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176325'>Artwork homepage</a>"
         }
       },
       {
@@ -792,11 +1073,95 @@
         "media": {
           "caption": "c. 1855",
           "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_53-a-L.jpg"
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_49-a-L.jpg"
         },
         "text": {
           "headline": "Design for a window in the University Museum, Oxford",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176328'>Artwork homepage</a>"
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176325'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1855",
+        "location": {
+          "lat": 51.75,
+          "lon": -1.25,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "c. 1855",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_47-a-L.jpg"
+        },
+        "text": {
+          "headline": "Design for a Window in the University Museum, Oxford",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176324'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1855",
+        "location": {
+          "lat": 51.75,
+          "lon": -1.25,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "c. 1855",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_50-a-L.jpg"
+        },
+        "text": {
+          "headline": "Design for a window in the University Museum, Oxford",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176332'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1855",
+        "location": {
+          "lat": 51.75,
+          "lon": -1.25,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "c. 1855",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_52-a-L.jpg"
+        },
+        "text": {
+          "headline": "Design for a window in the University Museum, Oxford",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176327'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1855",
+        "location": {
+          "lat": 51.75,
+          "lon": -1.25,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "c. 1855",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_54-a-L.jpg"
+        },
+        "text": {
+          "headline": "Design for a window in the University Museum, Oxford",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176329'>Artwork homepage</a>"
         }
       },
       {
@@ -834,11 +1199,11 @@
         "media": {
           "caption": "c. 1855",
           "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_54-a-L.jpg"
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_51-a-L.jpg"
         },
         "text": {
           "headline": "Design for a window in the University Museum, Oxford",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176329'>Artwork homepage</a>"
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176326'>Artwork homepage</a>"
         }
       },
       {
@@ -846,10 +1211,31 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1856",
+        "date": "1855",
         "location": {
-          "lat": 46.79572,
-          "lon": 7.154748,
+          "lat": 51.75,
+          "lon": -1.25,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "c. 1855",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_53-a-L.jpg"
+        },
+        "text": {
+          "headline": "Design for a window in the University Museum, Oxford",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/176328'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1856-07",
+        "location": {
+          "lat": 48.767697,
+          "lon": 6.855842,
           "zoom": 4
         },
         "media": {
@@ -869,18 +1255,39 @@
         },
         "date": "1858",
         "location": {
-          "lat": 47.558395,
-          "lon": 7.573271,
+          "lat": 47.4667,
+          "lon": 8.1833,
           "zoom": 4
         },
         "media": {
-          "caption": "16 - 18 May 1858",
+          "caption": "1858 or 1863",
           "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_122-a-L.jpg"
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_299-a-L.jpg"
         },
         "text": {
-          "headline": "Basle (Basel), with Outline of the Mountains of the Black Forest",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159432'>Artwork homepage</a>"
+          "headline": "Evening in Autumn under the Castle of Habsburg",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159591'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1858",
+        "location": {
+          "lat": 50.166667,
+          "lon": 1.75,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1858",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED/WA_RS_ED_062-a-L.jpg"
+        },
+        "text": {
+          "headline": "The Courtyard of a Late Gothic Wooden House at Abbeville",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159340'>Artwork homepage</a>"
         }
       },
       {
@@ -909,41 +1316,20 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1858",
+        "date": "1858-05",
         "location": {
-          "lat": 47.462441,
-          "lon": 8.185123,
+          "lat": 51.75,
+          "lon": 8.216667,
           "zoom": 4
         },
         "media": {
-          "caption": "1858 or 1863",
+          "caption": "16 - 18 May 1858",
           "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_299-a-L.jpg"
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_122-a-L.jpg"
         },
         "text": {
-          "headline": "Evening in Autumn under the Castle of Habsburg",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159591'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1858",
-        "location": {
-          "lat": 50.106602,
-          "lon": 1.832691,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "1858",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED/WA_RS_ED_062-a-L.jpg"
-        },
-        "text": {
-          "headline": "The Courtyard of a Late Gothic Wooden House at Abbeville",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159340'>Artwork homepage</a>"
+          "headline": "Basle (Basel), with Outline of the Mountains of the Black Forest",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159432'>Artwork homepage</a>"
         }
       },
       {
@@ -969,10 +1355,73 @@
       },
       {
         "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
+        "date": "1859-07",
+        "location": {
+          "lat": 49.966667,
+          "lon": 7.933333,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "July 26, 1859",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:70389_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Kempten",
+          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/299185'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1860",
+        "location": {
+          "lat": 47.285,
+          "lon": 11.03,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "before 1860",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_101-a-L.jpg"
+        },
+        "text": {
+          "headline": "Etching of Turner's Drawing of 'Rietz, near Saumur'",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159417'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
           "color": "#3f83e8",
           "opacity": 100
         },
         "date": "1861",
+        "location": {
+          "lat": 54.033333,
+          "lon": -2.9,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "probably 1861 - 1863",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_290-a-L.jpg"
+        },
+        "text": {
+          "headline": "Tracing of Turner's 'Heysham and Cumberland Mountains'",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159584'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1861-10",
         "location": {
           "lat": 47.083333,
           "lon": 8.266667,
@@ -993,7 +1442,7 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1861",
+        "date": "1861-10",
         "location": {
           "lat": 47.083333,
           "lon": 8.266667,
@@ -1011,13 +1460,55 @@
       },
       {
         "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1862",
+        "location": {
+          "lat": 46.196732,
+          "lon": 6.110443,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "probably autumn 1862",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_297-a-L.jpg"
+        },
+        "text": {
+          "headline": "Autumnal Cloud filling the Valley of Geneva, the Jura rising out of it, seen from the Brezon above Bonneville",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159589'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
           "color": "#00758F",
           "opacity": 100
         },
         "date": "1863",
         "location": {
-          "lat": 48.966667,
-          "lon": 10.566667,
+          "lat": 48.75,
+          "lon": 8.25,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1863(?)",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48807_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Towers at Baden",
+          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298671'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
+        "date": "1863",
+        "location": {
+          "lat": 49.266667,
+          "lon": 6.816667,
           "zoom": 4
         },
         "media": {
@@ -1035,7 +1526,7 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1863",
+        "date": "1863-03",
         "location": {
           "lat": 46.416667,
           "lon": 10.0,
@@ -1049,27 +1540,6 @@
         "text": {
           "headline": "The Brezon and Alps of the Reposoir, seen from Mornex: finished pencil sketch from nature",
           "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159469'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#00758F",
-          "opacity": 100
-        },
-        "date": "1863",
-        "location": {
-          "lat": 47.452702,
-          "lon": 8.309969,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "1863(?)",
-          "credit": "Harvard Art Museum",
-          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48807_dynmc?width=500&height=800"
-        },
-        "text": {
-          "headline": "Towers at Baden",
-          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298671'>Artwork homepage</a>"
         }
       },
       {
@@ -1095,44 +1565,23 @@
       },
       {
         "background": {
-          "color": "#3f83e8",
+          "color": "#00758F",
           "opacity": 100
         },
-        "date": "1868",
+        "date": "1866",
         "location": {
-          "lat": 50.106602,
-          "lon": 1.832691,
+          "lat": 46.595676,
+          "lon": 7.907654,
           "zoom": 4
         },
         "media": {
-          "caption": "September - October 1868",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_061-a-L.jpg"
+          "caption": "1866(?)",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48777_dynmc?width=500&height=800"
         },
         "text": {
-          "headline": "Study for Detail of the Market Place, Abbeville",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159600'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1868",
-        "location": {
-          "lat": 50.106602,
-          "lon": 1.832691,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "21 September 1868",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_134_a-a-L.jpg"
-        },
-        "text": {
-          "headline": "Sketch of 'Modes au Premier', Abbeville",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159471'>Artwork homepage</a>"
+          "headline": "View of the Valley of Lauterbrunnen",
+          "text": "Samuel Sachs, gift; to Fogg Art Museum, 1919<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298601'>Artwork homepage</a>"
         }
       },
       {
@@ -1142,8 +1591,8 @@
         },
         "date": "1868",
         "location": {
-          "lat": 50.106602,
-          "lon": 1.832691,
+          "lat": 50.166667,
+          "lon": 1.75,
           "zoom": 4
         },
         "media": {
@@ -1161,7 +1610,91 @@
           "color": "#3f83e8",
           "opacity": 100
         },
+        "date": "1868-09",
+        "location": {
+          "lat": 50.166667,
+          "lon": 1.75,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "September - October 1868",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_061-a-L.jpg"
+        },
+        "text": {
+          "headline": "Study for Detail of the Market Place, Abbeville",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159600'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1868-09",
+        "location": {
+          "lat": 50.166667,
+          "lon": 1.75,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "21 September 1868",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_134_a-a-L.jpg"
+        },
+        "text": {
+          "headline": "Sketch of 'Modes au Premier', Abbeville",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159471'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
         "date": "1869",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "probably 1869",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_063_a-a-L.jpg"
+        },
+        "text": {
+          "headline": "Detail of the Equestrian Statue on the Summit of the Tomb of Cangrande I della Scala, Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159602'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1869",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "c. 1869",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_058-a-L.jpg"
+        },
+        "text": {
+          "headline": "Study for General Chiaroscuro of the Sarcophagus and Canopy of the Tomb of Mastino II della Scala at Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159597'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1869-04",
         "location": {
           "lat": 46.990867,
           "lon": 6.797675,
@@ -1182,7 +1715,175 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1869",
+        "date": "1869-05",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "28 May - 29 June 1869",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_076-a-L.jpg"
+        },
+        "text": {
+          "headline": "The Tomb of Cangrande I della Scala, Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159402'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1869-05",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "May 1869",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_093-a-L.jpg"
+        },
+        "text": {
+          "headline": "Pilaster on the unfinished Facade of Sant' Anastasia, Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159413'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1869-05",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "May - August 1869",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_057-a-L.jpg"
+        },
+        "text": {
+          "headline": "Study of the Tomb of Can Grande della Scala at Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159596'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1869-05",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "probably May - June 1869",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_060-a-L.jpg"
+        },
+        "text": {
+          "headline": "Study in Colour of one of the Niches surrounding the Tomb of Cansignorio della Scala at Verona, with Remains of the 'Casa di Romeo'",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159599'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1869-05",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "21 May - 1 July 1869",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_077-a-L.jpg"
+        },
+        "text": {
+          "headline": "The Sarcophagus and Effigy of the Tomb of Cangrande I della Scala, Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159403'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1869-06",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "18 - 28 June 1869",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_082-a-L.jpg"
+        },
+        "text": {
+          "headline": "The Gryphon bearing the north Shaft of the west Entrance of the Duomo, Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159406'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1869-06",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "14 - 17 June 1869",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_295_a-L.jpg"
+        },
+        "text": {
+          "headline": "The Ponte della Pietra, Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159588'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1869-07",
+        "location": {
+          "lat": 45.583333,
+          "lon": 12.566667,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "July 1869",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_094-a-L.jpg"
+        },
+        "text": {
+          "headline": "Part of the Base of a Pilaster in Santa Maria dei Miracoli, Venice",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159414'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1869-11",
         "location": {
           "lat": 45.416667,
           "lon": 11.883333,
@@ -1203,20 +1904,20 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1869",
+        "date": "1870",
         "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
+          "lat": 47.25,
+          "lon": 2.416667,
           "zoom": 4
         },
         "media": {
-          "caption": "July 1869",
+          "caption": "probably 1870",
           "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_094-a-L.jpg"
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_081-a-L.jpg"
         },
         "text": {
-          "headline": "Part of the Base of a Pilaster in Santa Maria dei Miracoli, Venice",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159414'>Artwork homepage</a>"
+          "headline": "Sketch of a Spandril in the western Porch of Bourges Cathedral",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159707'>Artwork homepage</a>"
         }
       },
       {
@@ -1224,7 +1925,28 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1870",
+        "date": "1870-05",
+        "location": {
+          "lat": 45.583333,
+          "lon": 12.566667,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "May - June 1870",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_066-a-L.jpg"
+        },
+        "text": {
+          "headline": "View from the Palazzo Bembo to the Palazzo Grimani, Venice",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159605'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1870-06",
         "location": {
           "lat": 43.216667,
           "lon": 11.4,
@@ -1245,7 +1967,7 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1870",
+        "date": "1870-06",
         "location": {
           "lat": 43.216667,
           "lon": 11.4,
@@ -1266,7 +1988,7 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1870",
+        "date": "1870-06",
         "location": {
           "lat": 43.216667,
           "lon": 11.4,
@@ -1287,28 +2009,7 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1870",
-        "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "May - June 1870",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_066-a-L.jpg"
-        },
-        "text": {
-          "headline": "View from the Palazzo Bembo to the Palazzo Grimani, Venice",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159605'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1870",
+        "date": "1870-07",
         "location": {
           "lat": 43.216667,
           "lon": 11.4,
@@ -1322,6 +2023,48 @@
         "text": {
           "headline": "Study of a Lion Cub from Nicola Pisano's Siena Pulpit",
           "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159497'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1871",
+        "location": {
+          "lat": 50.166667,
+          "lon": 1.75,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "probably 1871",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD/WA_RS_RUD_290-a-L.jpg"
+        },
+        "text": {
+          "headline": "First Process of Sepia Sketch of Leafage: Study from Ruskin's Photograph of the Courtyard of a late Gothic wooden House at Abbeville",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159810'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1871",
+        "location": {
+          "lat": 50.166667,
+          "lon": 1.75,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "probably 1871",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_291-a-L.jpg"
+        },
+        "text": {
+          "headline": "Sepia Sketch of Leafage, further carried: Study from Ruskin's Photograph of the Courtyard of a late Gothic wooden House at Abbeville",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159472'>Artwork homepage</a>"
         }
       },
       {
@@ -1350,52 +2093,10 @@
           "color": "#3f83e8",
           "opacity": 100
         },
-        "date": "1871",
+        "date": "1874-10",
         "location": {
-          "lat": 51.75,
-          "lon": -1.25,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "probably 1871",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_291-a-L.jpg"
-        },
-        "text": {
-          "headline": "Sepia Sketch of Leafage, further carried: Study from Ruskin's Photograph of the Courtyard of a late Gothic wooden House at Abbeville",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159472'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1871",
-        "location": {
-          "lat": 50.106602,
-          "lon": 1.832691,
-          "zoom": 4
-        },
-        "media": {
-          "caption": "probably 1871",
-          "credit": "Ashmolean Museum",
-          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD/WA_RS_RUD_290-a-L.jpg"
-        },
-        "text": {
-          "headline": "First Process of Sepia Sketch of Leafage: Study from Ruskin's Photograph of the Courtyard of a late Gothic wooden House at Abbeville",
-          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159810'>Artwork homepage</a>"
-        }
-      },
-      {
-        "background": {
-          "color": "#3f83e8",
-          "opacity": 100
-        },
-        "date": "1874",
-        "location": {
-          "lat": 45.356009,
-          "lon": 6.685511,
+          "lat": 45.938883,
+          "lon": 6.643866,
           "zoom": 4
         },
         "media": {
@@ -1415,8 +2116,29 @@
         },
         "date": "1876",
         "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1876",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:INV121896_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Sketch of Verona",
+          "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298630'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
+        "date": "1876",
+        "location": {
+          "lat": 45.583333,
+          "lon": 12.566667,
           "zoom": 4
         },
         "media": {
@@ -1436,8 +2158,8 @@
         },
         "date": "1879",
         "location": {
-          "lat": 45.438611,
-          "lon": 12.326667,
+          "lat": 45.583333,
+          "lon": 12.566667,
           "zoom": 4
         },
         "media": {
@@ -1448,6 +2170,48 @@
         "text": {
           "headline": "Part of a Sketch of the Northwest Porch of St. Mark's",
           "text": "Samuel Sachs, gift; to Fogg Art Museum, 1919<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/298668'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#3f83e8",
+          "opacity": 100
+        },
+        "date": "1879-05",
+        "location": {
+          "lat": 45.45,
+          "lon": 11.0,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "May - August 1879",
+          "credit": "Ashmolean Museum",
+          "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_098-a-L.jpg"
+        },
+        "text": {
+          "headline": "Study of a Capital of one of the Upper Pinnacles of the Tomb of Cansignorio della Scala, Verona",
+          "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object/159715'>Artwork homepage</a>"
+        }
+      },
+      {
+        "background": {
+          "color": "#00758F",
+          "opacity": 100
+        },
+        "date": "1882",
+        "location": {
+          "lat": 43.766667,
+          "lon": 11.25,
+          "zoom": 4
+        },
+        "media": {
+          "caption": "1882",
+          "credit": "Harvard Art Museum",
+          "url": "https://nrs.harvard.edu/urn-3:HUAM:INV121898_dynmc?width=500&height=800"
+        },
+        "text": {
+          "headline": "Ponte Vecchio",
+          "text": "<br/><br/><a target='_new' href='https://www.harvardartmuseums.org/collections/object/296901'>Artwork homepage</a>"
         }
       },
       {

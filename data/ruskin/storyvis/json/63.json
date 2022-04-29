@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/141095",
+  "id": "https://collections.ashmolean.org/collection/159412",
   "type": "HumanMadeObject",
-  "_label": "Swiss tower at Fribourg",
+  "_label": "A Spandrel at Siena",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA1953.133",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.089.a",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA1953.133"
+      "content": "WA.RS.ED.089.a"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/141095",
+      "id": "http://lod.example.org/museum/Identifier/159412",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "141095"
+      "content": "159412"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/141095/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159412/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Swiss tower at Fribourg"
+      "content": "A Spandrel at Siena"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_133-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_089_a-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_133-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_089_a-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1953/WA_1953_0000/WA_1953_133-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_089_a-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/141095",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159412",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/141095/production",
+    "id": "https://collections.ashmolean.org/collection/159412/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/141095/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159412/production/timespan",
       "type": "TimeSpan",
-      "_label": "1834 - 1900",
-      "begin_of_the_begin": "1834",
-      "end_of_the_end": "1900"
+      "_label": "25 - 27 June 1870",
+      "begin_of_the_begin": "1870",
+      "end_of_the_end": "1870"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1077",
+    "id": "http://lod.example.org/museum/VisualItem/61",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2155",
+        "id": "http://lod.example.org/museum/Place/123",
         "type": "Place",
-        "_label": "Swiss tower at Fribourg",
+        "_label": "A Spandrel at Siena",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2154",
+            "id": "http://lod.example.org/museum/Place/122",
             "type": "Place",
-            "_label": "Swiss tower at Fribourg",
-            "defined_by": "POINT(46.79572 7.154748)"
+            "_label": "A Spandrel at Siena",
+            "defined_by": "POINT(43.216667 11.4)"
           }
         ]
       }

@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159430",
+  "id": "https://collections.ashmolean.org/collection//48683",
   "type": "HumanMadeObject",
-  "_label": "View of Luzern from above",
+  "_label": "Near Bassano, Brenner",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.117.a",
+      "id": "http://lod.example.org/museum/Identifier/WA1949.253",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.ED.117.a"
+      "content": "WA1949.253"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159430",
+      "id": "http://lod.example.org/museum/Identifier//48683",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159430"
+      "content": "/48683"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159430/primary-name",
+      "id": "https://collections.ashmolean.org/collection//48683/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "View of Luzern from above"
+      "content": "Near Bassano, Brenner"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_117_a-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_253-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_117_a-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_253-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_117_a-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_253-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159430",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object//48683",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159430/production",
+    "id": "https://collections.ashmolean.org/collection//48683/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159430/production/timespan",
+      "id": "https://collections.ashmolean.org/collection//48683/production/timespan",
       "type": "TimeSpan",
-      "_label": "October - December 1861",
-      "begin_of_the_begin": "1861",
-      "end_of_the_end": "1861"
+      "_label": "1835",
+      "begin_of_the_begin": "1835",
+      "end_of_the_end": "1835"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1082",
+    "id": "http://lod.example.org/museum/VisualItem/66",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2165",
+        "id": "http://lod.example.org/museum/Place/133",
         "type": "Place",
-        "_label": "View of Luzern from above",
+        "_label": "Near Bassano, Brenner",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2164",
+            "id": "http://lod.example.org/museum/Place/132",
             "type": "Place",
-            "_label": "View of Luzern from above",
-            "defined_by": "POINT(47.083333 8.266667)"
+            "_label": "Near Bassano, Brenner",
+            "defined_by": "POINT(47 11.5)"
           }
         ]
       }

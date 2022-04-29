@@ -1,11 +1,25 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/141094",
+  "id": "https://www.harvardartmuseums.org/collections/object/298819",
   "type": "HumanMadeObject",
-  "_label": "Mountain study: view of the Alps (Aiguilles near Chamonix)",
+  "_label": "H\u00f4tel de Ville, Aix-la-Chapelle",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033973",
+      "type": "Type",
+      "_label": "Drawing",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA1945.90",
+      "id": "http://lod.example.org/museum/Identifier/1900.10",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA1945.90"
+      "content": "1900.10"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/141094",
+      "id": "http://lod.example.org/museum/Identifier/298819",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "141094"
+      "content": "298819"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/141094/primary-name",
+      "id": "https://www.harvardartmuseums.org/collections/object/298819/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +52,68 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Mountain study: view of the Alps (Aiguilles near Chamonix)"
+      "content": "H\u00f4tel de Ville, Aix-la-Chapelle"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/298819/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/298819/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgements"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ],
+      "content": "Harvard Art Museums/Fogg Museum, Fine Arts Appropriation Fund"
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/298819/collection/European and American Art",
+      "type": "Set",
+      "_label": "European and American Art",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025976",
+          "type": "Type",
+          "_label": "collections (object groupings)"
+        }
+      ]
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1945/WA_1945_0000/WA_1945_90-a-L.jpg",
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48769",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1945/WA_1945_0000/WA_1945_90-a-L.jpg",
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48769",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +125,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1945/WA_1945_0000/WA_1945_90-a-L.jpg",
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48769",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +135,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/141094",
+      "id": "https://www.harvardartmuseums.org/collections/object/298819",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +154,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/141094/production",
+    "id": "https://www.harvardartmuseums.org/collections/object/298819/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/141094/production/timespan",
+      "id": "https://www.harvardartmuseums.org/collections/object/298819/production/timespan",
       "type": "TimeSpan",
-      "_label": "1834 - 1900",
-      "begin_of_the_begin": "1834",
-      "end_of_the_end": "1900"
+      "_label": "1859",
+      "begin_of_the_begin": "1859",
+      "end_of_the_end": "1859"
     },
     "carried_out_by": [
       {
+        "id": "https://harvardartmuseums.org/collections/person/28419",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -110,31 +176,52 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Ashmolean Museum",
+      "_label": "Harvard Art Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "museums (institutions)"
         }
+      ],
+      "acquired_title_through": [
+        {
+          "id": "https://www.harvardartmuseums.org/collections/object/298819/IMA-acquisition",
+          "type": "Acquisition",
+          "_label": "Acquisition of the Object",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300157782",
+              "type": "Type",
+              "_label": "acquisition (collections management)"
+            }
+          ],
+          "timespan": {
+            "id": "https://www.harvardartmuseums.org/collections/object/298819/IMA-acquisition/timespan",
+            "type": "TimeSpan",
+            "_label": "1900",
+            "begin_of_the_begin": "1900-01-01T00:00:00.000Z",
+            "end_of_the_end": "1900-12-31T00:00:00.000Z"
+          }
+        }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1086",
+    "id": "http://lod.example.org/museum/VisualItem/70",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2173",
+        "id": "http://lod.example.org/museum/Place/141",
         "type": "Place",
-        "_label": "Mountain study: view of the Alps (Aiguilles near Chamonix)",
+        "_label": "H\u00f4tel de Ville, Aix-la-Chapelle",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2172",
+            "id": "http://lod.example.org/museum/Place/140",
             "type": "Place",
-            "_label": "Mountain study: view of the Alps (Aiguilles near Chamonix)",
-            "defined_by": "POINT(44.781489 6.869433)"
+            "_label": "H\u00f4tel de Ville, Aix-la-Chapelle",
+            "defined_by": "POINT(50.770833 6.105278)"
           }
         ]
       }

@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159604",
+  "id": "https://collections.ashmolean.org/collection/159707",
   "type": "HumanMadeObject",
-  "_label": "The Palazzo Contarini-Fasan, Venice",
+  "_label": "Sketch of a Spandril in the western Porch of Bourges Cathedral",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.REF.065",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.RUD.081",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.REF.065"
+      "content": "WA.RS.RUD.081"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159604",
+      "id": "http://lod.example.org/museum/Identifier/159707",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159604"
+      "content": "159707"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159604/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159707/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "The Palazzo Contarini-Fasan, Venice"
+      "content": "Sketch of a Spandril in the western Porch of Bourges Cathedral"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_065-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_081-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_065-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_081-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_065-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_081-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159604",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159707",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159604/production",
+    "id": "https://collections.ashmolean.org/collection/159707/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159604/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159707/production/timespan",
       "type": "TimeSpan",
-      "_label": "6 - 16 May 1841",
-      "begin_of_the_begin": "1841",
-      "end_of_the_end": "1841"
+      "_label": "probably 1870",
+      "begin_of_the_begin": "1870",
+      "end_of_the_end": "1870"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1040",
+    "id": "http://lod.example.org/museum/VisualItem/24",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2081",
+        "id": "http://lod.example.org/museum/Place/49",
         "type": "Place",
-        "_label": "The Palazzo Contarini-Fasan, Venice",
+        "_label": "Sketch of a Spandril in the western Porch of Bourges Cathedral",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2080",
+            "id": "http://lod.example.org/museum/Place/48",
             "type": "Place",
-            "_label": "The Palazzo Contarini-Fasan, Venice",
-            "defined_by": "POINT(45.438611 12.326667)"
+            "_label": "Sketch of a Spandril in the western Porch of Bourges Cathedral",
+            "defined_by": "POINT(47.25 2.416667)"
           }
         ]
       }

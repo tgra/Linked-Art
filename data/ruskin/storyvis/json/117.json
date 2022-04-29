@@ -1,0 +1,196 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.nga.gov/collection/72870",
+  "type": "HumanMadeObject",
+  "_label": "The Garden of San Miniato near Florence",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033973",
+      "type": "Type",
+      "_label": "Drawing",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/1991.88.1",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ],
+      "content": "1991.88.1"
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/72870",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Owner-Assigned Number"
+        }
+      ],
+      "content": "72870"
+    },
+    {
+      "id": "https://www.nga.gov/collection/72870/primary-name",
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "The Garden of San Miniato near Florence"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.nga.gov/collection/72870/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "acknowledgements"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ],
+      "content": "Patrons' Permanent Fund"
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://www.nga.gov/collection/72870/collection/CG-E",
+      "type": "Set",
+      "_label": "CG-E",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300025976",
+          "type": "Type",
+          "_label": "collections (object groupings)"
+        }
+      ]
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://api.nga.gov/iiif/f6ef48d3-3512-4f46-ac5b-c221b3fa320e/full/!500,500/0/default.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://api.nga.gov/iiif/f6ef48d3-3512-4f46-ac5b-c221b3fa320e/full/!500,500/0/default.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://api.nga.gov/iiif/f6ef48d3-3512-4f46-ac5b-c221b3fa320e/full/!500,500/0/default.jpg",
+              "type": "DigitalObject"
+            }
+          ],
+          "digitally_available_via": [
+            {
+              "id": "http://lod.example.org/museum/DigitalService/6",
+              "type": "DigitalService",
+              "access_point": [
+                {
+                  "id": "https://api.nga.gov/iiif/f6ef48d3-3512-4f46-ac5b-c221b3fa320e/full/!500,500/0/default.jpg",
+                  "type": "DigitalObject"
+                }
+              ],
+              "conforms_to": [
+                {
+                  "id": "http://iiif.io/api/image",
+                  "type": "InformationObject"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "https://www.nga.gov/collection/art-object-page.72870.html",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ],
+  "produced_by": {
+    "id": "https://www.nga.gov/collection/72870/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "https://www.nga.gov/collection/72870/production/timespan",
+      "type": "TimeSpan",
+      "_label": "1845",
+      "begin_of_the_begin": "1845",
+      "end_of_the_end": "1845"
+    },
+    "carried_out_by": [
+      {
+        "id": "https://www.nga.gov/collection/creatorid/72870",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
+  },
+  "shows": {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "http://lod.example.org/museum/VisualItem/115",
+    "type": "VisualItem",
+    "represents": [
+      {
+        "id": "http://lod.example.org/museum/Place/231",
+        "type": "Place",
+        "_label": "The Garden of San Miniato near Florence",
+        "approximated_by": [
+          {
+            "id": "http://lod.example.org/museum/Place/230",
+            "type": "Place",
+            "_label": "The Garden of San Miniato near Florence",
+            "defined_by": "POINT(43.766667 11.25)"
+          }
+        ]
+      }
+    ]
+  }
+}

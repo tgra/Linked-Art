@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection//48685",
+  "id": "https://collections.ashmolean.org/collection/159403",
   "type": "HumanMadeObject",
-  "_label": "Bellagio, Lago di Como",
+  "_label": "The Sarcophagus and Effigy of the Tomb of Cangrande I della Scala, Verona",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA1949.255",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.077",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA1949.255"
+      "content": "WA.RS.ED.077"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier//48685",
+      "id": "http://lod.example.org/museum/Identifier/159403",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "/48685"
+      "content": "159403"
     },
     {
-      "id": "https://collections.ashmolean.org/collection//48685/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159403/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Bellagio, Lago di Como"
+      "content": "The Sarcophagus and Effigy of the Tomb of Cangrande I della Scala, Verona"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_255-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_077-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_255-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_077-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_255-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_077-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object//48685",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159403",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection//48685/production",
+    "id": "https://collections.ashmolean.org/collection/159403/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection//48685/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159403/production/timespan",
       "type": "TimeSpan",
-      "_label": "1835",
-      "begin_of_the_begin": "1835",
-      "end_of_the_end": "1835"
+      "_label": "21 May - 1 July 1869",
+      "begin_of_the_begin": "1869",
+      "end_of_the_end": "1869"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1033",
+    "id": "http://lod.example.org/museum/VisualItem/17",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2067",
+        "id": "http://lod.example.org/museum/Place/35",
         "type": "Place",
-        "_label": "Bellagio, Lago di Como",
+        "_label": "The Sarcophagus and Effigy of the Tomb of Cangrande I della Scala, Verona",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2066",
+            "id": "http://lod.example.org/museum/Place/34",
             "type": "Place",
-            "_label": "Bellagio, Lago di Como",
-            "defined_by": "POINT(46 9.283333)"
+            "_label": "The Sarcophagus and Effigy of the Tomb of Cangrande I della Scala, Verona",
+            "defined_by": "POINT(45.45 11)"
           }
         ]
       }

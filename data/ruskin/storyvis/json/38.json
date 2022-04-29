@@ -1,25 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/262432",
+  "id": "https://collections.ashmolean.org/collection/159405",
   "type": "HumanMadeObject",
-  "_label": "Lake of Zug",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300041273",
-      "type": "Type",
-      "_label": "Print",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300435443",
-          "type": "Type",
-          "_label": "Type of Work"
-        }
-      ]
-    }
-  ],
+  "_label": "The Gryphon bearing the south Shaft of the west Entrance of the Duomo, Verona",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/M10899",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.081",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "M10899"
+      "content": "WA.RS.ED.081"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/262432",
+      "id": "http://lod.example.org/museum/Identifier/159405",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "262432"
+      "content": "159405"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/262432/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159405/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,68 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Lake of Zug"
-    }
-  ],
-  "referred_to_by": [
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/262432/provenance-statement",
-      "type": "LinguisticObject",
-      "_label": "Provenance Statement about the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300055863",
-          "type": "Type",
-          "_label": "provenance (history of ownership)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ]
-    },
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/262432/credit-line",
-      "type": "LinguisticObject",
-      "_label": "Credit Line for the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300026687",
-          "type": "Type",
-          "_label": "acknowledgements"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Harvard Art Museums/Fogg Museum, Bequest of Grenville L. Winthrop"
-    }
-  ],
-  "member_of": [
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/262432/collection/European and American Art",
-      "type": "Set",
-      "_label": "European and American Art",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300025976",
-          "type": "Type",
-          "_label": "collections (object groupings)"
-        }
-      ]
+      "content": "The Gryphon bearing the south Shaft of the west Entrance of the Duomo, Verona"
     }
   ],
   "representation": [
     {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:INV194146_dynmc",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_081-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:INV194146_dynmc",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_081-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -125,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:INV194146_dynmc",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_081-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -135,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/262432",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159405",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -154,19 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/262432/production",
+    "id": "https://collections.ashmolean.org/collection/159405/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/262432/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159405/production/timespan",
       "type": "TimeSpan",
-      "_label": "19th century",
-      "begin_of_the_begin": 1819,
-      "end_of_the_end": 1900
+      "_label": "11 May 1846",
+      "begin_of_the_begin": "1846",
+      "end_of_the_end": "1846"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -176,52 +111,31 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Harvard Art Museum",
+      "_label": "Ashmolean Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "museums (institutions)"
         }
-      ],
-      "acquired_title_through": [
-        {
-          "id": "https://www.harvardartmuseums.org/collections/object/262432/IMA-acquisition",
-          "type": "Acquisition",
-          "_label": "Acquisition of the Object",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300157782",
-              "type": "Type",
-              "_label": "acquisition (collections management)"
-            }
-          ],
-          "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/262432/IMA-acquisition/timespan",
-            "type": "TimeSpan",
-            "_label": "1943",
-            "begin_of_the_begin": "1943-01-01T00:00:00.000Z",
-            "end_of_the_end": "1943-12-31T00:00:00.000Z"
-          }
-        }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1052",
+    "id": "http://lod.example.org/museum/VisualItem/36",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2105",
+        "id": "http://lod.example.org/museum/Place/73",
         "type": "Place",
-        "_label": "Lake of Zug",
+        "_label": "The Gryphon bearing the south Shaft of the west Entrance of the Duomo, Verona",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2104",
+            "id": "http://lod.example.org/museum/Place/72",
             "type": "Place",
-            "_label": "Lake of Zug",
-            "defined_by": "POINT(47.131301 8.483347)"
+            "_label": "The Gryphon bearing the south Shaft of the west Entrance of the Duomo, Verona",
+            "defined_by": "POINT(45.45 11)"
           }
         ]
       }

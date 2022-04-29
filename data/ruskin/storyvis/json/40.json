@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/176326",
+  "id": "https://collections.ashmolean.org/collection/176331",
   "type": "HumanMadeObject",
   "_label": "Design for a window in the University Museum, Oxford",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA1931.51",
+      "id": "http://lod.example.org/museum/Identifier/WA1931.56",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA1931.51"
+      "content": "WA1931.56"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/176326",
+      "id": "http://lod.example.org/museum/Identifier/176331",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "176326"
+      "content": "176331"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/176326/primary-name",
+      "id": "https://collections.ashmolean.org/collection/176331/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -43,12 +43,12 @@
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_51-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_56-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_51-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_56-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_51-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_56-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176326",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176331",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,11 +89,11 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/176326/production",
+    "id": "https://collections.ashmolean.org/collection/176331/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/176326/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/176331/production/timespan",
       "type": "TimeSpan",
       "_label": "c. 1855",
       "begin_of_the_begin": "1855",
@@ -101,6 +101,7 @@
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,16 +123,16 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1054",
+    "id": "http://lod.example.org/museum/VisualItem/38",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2109",
+        "id": "http://lod.example.org/museum/Place/77",
         "type": "Place",
         "_label": "Design for a window in the University Museum, Oxford",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2108",
+            "id": "http://lod.example.org/museum/Place/76",
             "type": "Place",
             "_label": "Design for a window in the University Museum, Oxford",
             "defined_by": "POINT(51.75 -1.25)"

@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159600",
+  "id": "https://collections.ashmolean.org/collection/159671",
   "type": "HumanMadeObject",
-  "_label": "Study for Detail of the Market Place, Abbeville",
+  "_label": "The Sculpture of a Dragon filling a Quatrefoil on the North Entrance of Rouen Cathedral",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.REF.061",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.RUD.042.a",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.REF.061"
+      "content": "WA.RS.RUD.042.a"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159600",
+      "id": "http://lod.example.org/museum/Identifier/159671",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159600"
+      "content": "159671"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159600/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159671/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Study for Detail of the Market Place, Abbeville"
+      "content": "The Sculpture of a Dragon filling a Quatrefoil on the North Entrance of Rouen Cathedral"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_061-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_042_a-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_061-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_042_a-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_061-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_042_a-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159600",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159671",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159600/production",
+    "id": "https://collections.ashmolean.org/collection/159671/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159600/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159671/production/timespan",
       "type": "TimeSpan",
-      "_label": "September - October 1868",
-      "begin_of_the_begin": "1868",
-      "end_of_the_end": "1868"
+      "_label": "October 1848",
+      "begin_of_the_begin": "1848",
+      "end_of_the_end": "1848"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1097",
+    "id": "http://lod.example.org/museum/VisualItem/81",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2195",
+        "id": "http://lod.example.org/museum/Place/163",
         "type": "Place",
-        "_label": "Study for Detail of the Market Place, Abbeville",
+        "_label": "The Sculpture of a Dragon filling a Quatrefoil on the North Entrance of Rouen Cathedral",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2194",
+            "id": "http://lod.example.org/museum/Place/162",
             "type": "Place",
-            "_label": "Study for Detail of the Market Place, Abbeville",
-            "defined_by": "POINT(50.106602 1.832691)"
+            "_label": "The Sculpture of a Dragon filling a Quatrefoil on the North Entrance of Rouen Cathedral",
+            "defined_by": "POINT(49.5 1)"
           }
         ]
       }

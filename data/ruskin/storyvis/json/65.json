@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159427",
+  "id": "https://collections.ashmolean.org/collection/159605",
   "type": "HumanMadeObject",
-  "_label": "Fribourg, Switzerland: Pen sketch",
+  "_label": "View from the Palazzo Bembo to the Palazzo Grimani, Venice",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.114.a",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.REF.066",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.ED.114.a"
+      "content": "WA.RS.REF.066"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159427",
+      "id": "http://lod.example.org/museum/Identifier/159605",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159427"
+      "content": "159605"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159427/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159605/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Fribourg, Switzerland: Pen sketch"
+      "content": "View from the Palazzo Bembo to the Palazzo Grimani, Venice"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_114_a-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_066-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_114_a-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_066-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_114_a-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_066-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159427",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159605",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159427/production",
+    "id": "https://collections.ashmolean.org/collection/159605/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159427/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159605/production/timespan",
       "type": "TimeSpan",
-      "_label": "July or August - September 1856",
-      "begin_of_the_begin": "1856",
-      "end_of_the_end": "1856"
+      "_label": "May - June 1870",
+      "begin_of_the_begin": "1870",
+      "end_of_the_end": "1870"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1079",
+    "id": "http://lod.example.org/museum/VisualItem/63",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2159",
+        "id": "http://lod.example.org/museum/Place/127",
         "type": "Place",
-        "_label": "Fribourg, Switzerland: Pen sketch",
+        "_label": "View from the Palazzo Bembo to the Palazzo Grimani, Venice",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2158",
+            "id": "http://lod.example.org/museum/Place/126",
             "type": "Place",
-            "_label": "Fribourg, Switzerland: Pen sketch",
-            "defined_by": "POINT(46.79572 7.154748)"
+            "_label": "View from the Palazzo Bembo to the Palazzo Grimani, Venice",
+            "defined_by": "POINT(45.583333 12.566667)"
           }
         ]
       }

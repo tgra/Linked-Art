@@ -1,25 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/299187",
+  "id": "https://collections.ashmolean.org/collection/125702",
   "type": "HumanMadeObject",
-  "_label": "Study of a Venetian Capital",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300033973",
-      "type": "Type",
-      "_label": "Drawing",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300435443",
-          "type": "Type",
-          "_label": "Type of Work"
-        }
-      ]
-    }
-  ],
+  "_label": "Axmouth Landslip from Dolands Farm",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1926.33.151",
+      "id": "http://lod.example.org/museum/Identifier/WA2000.86",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1926.33.151"
+      "content": "WA2000.86"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/299187",
+      "id": "http://lod.example.org/museum/Identifier/125702",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "299187"
+      "content": "125702"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299187/primary-name",
+      "id": "https://collections.ashmolean.org/collection/125702/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,64 +38,39 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Study of a Venetian Capital"
+      "content": "Axmouth Landslip from Dolands Farm"
     }
   ],
-  "referred_to_by": [
+  "representation": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299187/provenance-statement",
-      "type": "LinguisticObject",
-      "_label": "Provenance Statement about the Object",
-      "classified_as": [
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Multimedia_B/wa/WA_2000_86-a-r-L.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
         {
-          "id": "http://vocab.getty.edu/aat/300055863",
-          "type": "Type",
-          "_label": "provenance (history of ownership)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
-    },
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/299187/credit-line",
-      "type": "LinguisticObject",
-      "_label": "Credit Line for the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300026687",
-          "type": "Type",
-          "_label": "acknowledgements"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Harvard Art Museums/Fogg Museum, Transfer from the Fine Arts Department, Harvard University"
-    }
-  ],
-  "member_of": [
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/299187/collection/European and American Art",
-      "type": "Set",
-      "_label": "European and American Art",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300025976",
-          "type": "Type",
-          "_label": "collections (object groupings)"
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Multimedia_B/wa/WA_2000_86-a-r-L.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Multimedia_B/wa/WA_2000_86-a-r-L.jpg",
+              "type": "DigitalObject"
+            }
+          ]
         }
       ]
     }
   ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299187",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/125702",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -128,19 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/299187/production",
+    "id": "https://collections.ashmolean.org/collection/125702/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/299187/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/125702/production/timespan",
       "type": "TimeSpan",
-      "_label": "1852(?)",
-      "begin_of_the_begin": "1852",
-      "end_of_the_end": "1852"
+      "_label": "c. 1839",
+      "begin_of_the_begin": "1839",
+      "end_of_the_end": "1839"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -150,79 +111,31 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Harvard Art Museum",
+      "_label": "Ashmolean Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "museums (institutions)"
         }
-      ],
-      "acquired_title_through": [
-        {
-          "id": "https://www.harvardartmuseums.org/collections/object/299187/IMA-acquisition",
-          "type": "Acquisition",
-          "_label": "Acquisition of the Object",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300157782",
-              "type": "Type",
-              "_label": "acquisition (collections management)"
-            }
-          ],
-          "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/299187/IMA-acquisition/timespan",
-            "type": "TimeSpan",
-            "_label": "1926",
-            "begin_of_the_begin": "1926-01-01T00:00:00.000Z",
-            "end_of_the_end": "1926-12-31T00:00:00.000Z"
-          }
-        }
-      ]
-    }
-  ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48801_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48801_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48801_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1018",
+    "id": "http://lod.example.org/museum/VisualItem/2",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2037",
+        "id": "http://lod.example.org/museum/Place/5",
         "type": "Place",
-        "_label": "Study of a Venetian Capital",
+        "_label": "Axmouth Landslip from Dolands Farm",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2036",
+            "id": "http://lod.example.org/museum/Place/4",
             "type": "Place",
-            "_label": "Study of a Venetian Capital",
-            "defined_by": "POINT(45.438611 12.326667)"
+            "_label": "Axmouth Landslip from Dolands Farm",
+            "defined_by": "POINT(50.716667 -3.05)"
           }
         ]
       }

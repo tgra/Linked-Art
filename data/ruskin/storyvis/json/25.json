@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection//48682",
+  "id": "https://collections.ashmolean.org/collection//48685",
   "type": "HumanMadeObject",
-  "_label": "Bergamo and the Alps, from the road to Brescia",
+  "_label": "Bellagio, Lago di Como",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA1949.252",
+      "id": "http://lod.example.org/museum/Identifier/WA1949.255",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA1949.252"
+      "content": "WA1949.255"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier//48682",
+      "id": "http://lod.example.org/museum/Identifier//48685",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "/48682"
+      "content": "/48685"
     },
     {
-      "id": "https://collections.ashmolean.org/collection//48682/primary-name",
+      "id": "https://collections.ashmolean.org/collection//48685/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Bergamo and the Alps, from the road to Brescia"
+      "content": "Bellagio, Lago di Como"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_252-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_255-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_252-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_255-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_252-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_255-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object//48682",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object//48685",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,11 +89,11 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection//48682/production",
+    "id": "https://collections.ashmolean.org/collection//48685/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection//48682/production/timespan",
+      "id": "https://collections.ashmolean.org/collection//48685/production/timespan",
       "type": "TimeSpan",
       "_label": "1835",
       "begin_of_the_begin": "1835",
@@ -101,6 +101,7 @@
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1039",
+    "id": "http://lod.example.org/museum/VisualItem/23",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2079",
+        "id": "http://lod.example.org/museum/Place/47",
         "type": "Place",
-        "_label": "Bergamo and the Alps, from the road to Brescia",
+        "_label": "Bellagio, Lago di Como",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2078",
+            "id": "http://lod.example.org/museum/Place/46",
             "type": "Place",
-            "_label": "Bergamo and the Alps, from the road to Brescia",
-            "defined_by": "POINT(46.416667 10)"
+            "_label": "Bellagio, Lago di Como",
+            "defined_by": "POINT(46 9.283333)"
           }
         ]
       }

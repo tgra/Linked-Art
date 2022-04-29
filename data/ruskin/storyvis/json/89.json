@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159660",
+  "id": "https://collections.ashmolean.org/collection/176324",
   "type": "HumanMadeObject",
-  "_label": "Study of the Marble Inlaying on the Front of the Casa Loredan, Venice",
+  "_label": "Design for a Window in the University Museum, Oxford",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.RUD.022",
+      "id": "http://lod.example.org/museum/Identifier/WA1931.47",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.RUD.022"
+      "content": "WA1931.47"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159660",
+      "id": "http://lod.example.org/museum/Identifier/176324",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159660"
+      "content": "176324"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159660/primary-name",
+      "id": "https://collections.ashmolean.org/collection/176324/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Study of the Marble Inlaying on the Front of the Casa Loredan, Venice"
+      "content": "Design for a Window in the University Museum, Oxford"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_022-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_47-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_022-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_47-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_022-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1931/WA_1931_0000/WA_1931_47-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159660",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/176324",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159660/production",
+    "id": "https://collections.ashmolean.org/collection/176324/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159660/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/176324/production/timespan",
       "type": "TimeSpan",
-      "_label": "September - October 1845",
-      "begin_of_the_begin": "1845",
-      "end_of_the_end": "1845"
+      "_label": "c. 1855",
+      "begin_of_the_begin": "1855",
+      "end_of_the_end": "1855"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1103",
+    "id": "http://lod.example.org/museum/VisualItem/87",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2207",
+        "id": "http://lod.example.org/museum/Place/175",
         "type": "Place",
-        "_label": "Study of the Marble Inlaying on the Front of the Casa Loredan, Venice",
+        "_label": "Design for a Window in the University Museum, Oxford",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2206",
+            "id": "http://lod.example.org/museum/Place/174",
             "type": "Place",
-            "_label": "Study of the Marble Inlaying on the Front of the Casa Loredan, Venice",
-            "defined_by": "POINT(45.438611 12.326667)"
+            "_label": "Design for a Window in the University Museum, Oxford",
+            "defined_by": "POINT(51.75 -1.25)"
           }
         ]
       }

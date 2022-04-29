@@ -1,0 +1,139 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "http://www.rijksmuseum.nl/nl/collectie/RP-T-1957-335",
+  "type": "HumanMadeObject",
+  "_label": "Gezicht op S. Anastasia te Verona, over de Adige",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ],
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/RP-T-1957-335",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ],
+      "content": "RP-T-1957-335"
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/nl-RP-T-1957-335",
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404621",
+          "type": "Type",
+          "_label": "Owner-Assigned Number"
+        }
+      ],
+      "content": "nl-RP-T-1957-335"
+    },
+    {
+      "id": "http://www.rijksmuseum.nl/nl/collectie/RP-T-1957-335/primary-name",
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "Gezicht op S. Anastasia te Verona, over de Adige"
+    }
+  ],
+  "representation": [
+    {
+      "id": "https://lh3.googleusercontent.com/X0Xc5cER3eTrpNyqH4kg3ne-ewai_nBqFdSI-EZPZ4N-lE6rn1OAUBckEHQSFyafcGcFpiX99QU4STEXWbB43KsnAbi3=s0",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://lh3.googleusercontent.com/X0Xc5cER3eTrpNyqH4kg3ne-ewai_nBqFdSI-EZPZ4N-lE6rn1OAUBckEHQSFyafcGcFpiX99QU4STEXWbB43KsnAbi3=s0",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://lh3.googleusercontent.com/X0Xc5cER3eTrpNyqH4kg3ne-ewai_nBqFdSI-EZPZ4N-lE6rn1OAUBckEHQSFyafcGcFpiX99QU4STEXWbB43KsnAbi3=s0",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "id": "http://www.rijksmuseum.nl/nl/collectie/RP-T-1957-335",
+      "type": "LinguisticObject",
+      "_label": "Homepage for the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab/getty.edu/aat/300264578",
+          "type": "Type",
+          "_label": "Web pages (documents)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300266277",
+          "type": "Type",
+          "_label": "home pages"
+        }
+      ],
+      "format": "text/html"
+    }
+  ],
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500300517",
+      "type": "Group",
+      "_label": "Rijksmuseum",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312281",
+          "type": "Type",
+          "_label": "museums (institutions)"
+        }
+      ]
+    }
+  ],
+  "shows": {
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "http://lod.example.org/museum/VisualItem/117",
+    "type": "VisualItem",
+    "represents": [
+      {
+        "id": "http://lod.example.org/museum/Place/235",
+        "type": "Place",
+        "_label": "Gezicht op S. Anastasia te Verona, over de Adige",
+        "approximated_by": [
+          {
+            "id": "http://lod.example.org/museum/Place/234",
+            "type": "Place",
+            "_label": "Gezicht op S. Anastasia te Verona, over de Adige",
+            "defined_by": "POINT(45.45 11)"
+          }
+        ]
+      }
+    ]
+  }
+}

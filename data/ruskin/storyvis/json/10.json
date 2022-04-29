@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection//48684",
+  "id": "https://collections.ashmolean.org/collection/159497",
   "type": "HumanMadeObject",
-  "_label": "End of the Lake of Lecco",
+  "_label": "Study of a Lion Cub from Nicola Pisano's Siena Pulpit",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA1949.254",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.154.a",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA1949.254"
+      "content": "WA.RS.ED.154.a"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier//48684",
+      "id": "http://lod.example.org/museum/Identifier/159497",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "/48684"
+      "content": "159497"
     },
     {
-      "id": "https://collections.ashmolean.org/collection//48684/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159497/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "End of the Lake of Lecco"
+      "content": "Study of a Lion Cub from Nicola Pisano's Siena Pulpit"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_254-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_154_a-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_254-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_154_a-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_254-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_154_a-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object//48684",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159497",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection//48684/production",
+    "id": "https://collections.ashmolean.org/collection/159497/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection//48684/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159497/production/timespan",
       "type": "TimeSpan",
-      "_label": "1835",
-      "begin_of_the_begin": "1835",
-      "end_of_the_end": "1835"
+      "_label": "July 1870",
+      "begin_of_the_begin": "1870",
+      "end_of_the_end": "1870"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1024",
+    "id": "http://lod.example.org/museum/VisualItem/8",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2049",
+        "id": "http://lod.example.org/museum/Place/17",
         "type": "Place",
-        "_label": "End of the Lake of Lecco",
+        "_label": "Study of a Lion Cub from Nicola Pisano's Siena Pulpit",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2048",
+            "id": "http://lod.example.org/museum/Place/16",
             "type": "Place",
-            "_label": "End of the Lake of Lecco",
-            "defined_by": "POINT(45.916667 9.316667)"
+            "_label": "Study of a Lion Cub from Nicola Pisano's Siena Pulpit",
+            "defined_by": "POINT(43.216667 11.4)"
           }
         ]
       }

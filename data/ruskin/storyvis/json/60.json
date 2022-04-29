@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159606",
+  "id": "https://collections.ashmolean.org/collection/159536",
   "type": "HumanMadeObject",
-  "_label": "The Exterior of the Ducal Palace, Venice",
+  "_label": "Part of the Palazzo Priuli, Venice",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.REF.067",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.210",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.REF.067"
+      "content": "WA.RS.ED.210"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159606",
+      "id": "http://lod.example.org/museum/Identifier/159536",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159606"
+      "content": "159536"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159606/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159536/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "The Exterior of the Ducal Palace, Venice"
+      "content": "Part of the Palazzo Priuli, Venice"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_067-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_210-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_067-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_210-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_REF_067-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_210-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159606",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159536",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159606/production",
+    "id": "https://collections.ashmolean.org/collection/159536/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159606/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159536/production/timespan",
       "type": "TimeSpan",
-      "_label": "1852",
+      "_label": "probably 1852",
       "begin_of_the_begin": "1852",
       "end_of_the_end": "1852"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1074",
+    "id": "http://lod.example.org/museum/VisualItem/58",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2149",
+        "id": "http://lod.example.org/museum/Place/117",
         "type": "Place",
-        "_label": "The Exterior of the Ducal Palace, Venice",
+        "_label": "Part of the Palazzo Priuli, Venice",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2148",
+            "id": "http://lod.example.org/museum/Place/116",
             "type": "Place",
-            "_label": "The Exterior of the Ducal Palace, Venice",
-            "defined_by": "POINT(45.438611 12.326667)"
+            "_label": "Part of the Palazzo Priuli, Venice",
+            "defined_by": "POINT(45.583333 12.566667)"
           }
         ]
       }

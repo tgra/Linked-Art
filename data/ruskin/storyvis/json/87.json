@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159477",
+  "id": "https://collections.ashmolean.org/collection/159471",
   "type": "HumanMadeObject",
-  "_label": "Sketch of the Oak Spray in Mantegna's Fresco of 'The Martyrdom of Saint James' in the Church of the Eremitani, Padua",
+  "_label": "Sketch of 'Modes au Premier', Abbeville",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.RUD.298",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.RUD.134.a",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.RUD.298"
+      "content": "WA.RS.RUD.134.a"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159477",
+      "id": "http://lod.example.org/museum/Identifier/159471",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159477"
+      "content": "159471"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159477/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159471/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Sketch of the Oak Spray in Mantegna's Fresco of 'The Martyrdom of Saint James' in the Church of the Eremitani, Padua"
+      "content": "Sketch of 'Modes au Premier', Abbeville"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_298-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_134_a-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_298-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_134_a-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_298-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_134_a-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159477",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159471",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159477/production",
+    "id": "https://collections.ashmolean.org/collection/159471/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159477/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159471/production/timespan",
       "type": "TimeSpan",
-      "_label": "probably November 1869",
-      "begin_of_the_begin": "1869",
-      "end_of_the_end": "1869"
+      "_label": "21 September 1868",
+      "begin_of_the_begin": "1868",
+      "end_of_the_end": "1868"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1101",
+    "id": "http://lod.example.org/museum/VisualItem/85",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2203",
+        "id": "http://lod.example.org/museum/Place/171",
         "type": "Place",
-        "_label": "Sketch of the Oak Spray in Mantegna's Fresco of 'The Martyrdom of Saint James' in the Church of the Eremitani, Padua",
+        "_label": "Sketch of 'Modes au Premier', Abbeville",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2202",
+            "id": "http://lod.example.org/museum/Place/170",
             "type": "Place",
-            "_label": "Sketch of the Oak Spray in Mantegna's Fresco of 'The Martyrdom of Saint James' in the Church of the Eremitani, Padua",
-            "defined_by": "POINT(45.416667 11.883333)"
+            "_label": "Sketch of 'Modes au Premier', Abbeville",
+            "defined_by": "POINT(50.166667 1.75)"
           }
         ]
       }

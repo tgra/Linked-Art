@@ -1,11 +1,25 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.tate.org.uk/art/artworks/13033",
+  "id": "https://www.harvardartmuseums.org/collections/object/298606",
   "type": "HumanMadeObject",
-  "_label": "View of Bologna",
+  "_label": "Tom Tower, Christ Church, Oxford",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033973",
+      "type": "Type",
+      "_label": "Drawing",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/N03507",
+      "id": "http://lod.example.org/museum/Identifier/1932.8",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "N03507"
+      "content": "1932.8"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/13033",
+      "id": "http://lod.example.org/museum/Identifier/298606",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "13033"
+      "content": "298606"
     },
     {
-      "id": "https://www.tate.org.uk/art/artworks/13033/primary-name",
+      "id": "https://www.harvardartmuseums.org/collections/object/298606/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,12 +52,29 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "View of Bologna"
+      "content": "Tom Tower, Christ Church, Oxford"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.tate.org.uk/art/artworks/13033/credit-line",
+      "id": "https://www.harvardartmuseums.org/collections/object/298606/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "provenance (history of ownership)"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300418049",
+          "type": "Type",
+          "_label": "brief texts"
+        }
+      ]
+    },
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/298606/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -58,13 +89,14 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Purchased 1920"
+      "content": "Harvard Art Museums/Fogg Museum, Gift of Denman W. Ross"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.tate.org.uk/art/artworks/13033/collection/",
+      "id": "https://www.harvardartmuseums.org/collections/object/298606/collection/European and American Art",
       "type": "Set",
+      "_label": "European and American Art",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300025976",
@@ -76,12 +108,12 @@
   ],
   "representation": [
     {
-      "id": "http://lod.example.org/museum/VisualItem/thumbnailUrl",
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48818_dynmc",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "http://lod.example.org/museum/DigitalObject/thumbnailUrl",
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48818_dynmc",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -93,7 +125,7 @@
           ],
           "access_point": [
             {
-              "id": "http://lod.example.org/museum/DigitalObject/thumbnailUrl",
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48818_dynmc",
               "type": "DigitalObject"
             }
           ]
@@ -103,7 +135,7 @@
   ],
   "subject_of": [
     {
-      "id": "http://lod.example.org/museum/LinguisticObject/url",
+      "id": "https://www.harvardartmuseums.org/collections/object/298606",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -122,17 +154,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.tate.org.uk/art/artworks/13033/production",
+    "id": "https://www.harvardartmuseums.org/collections/object/298606/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.tate.org.uk/art/artworks/13033/production/timespan",
+      "id": "https://www.harvardartmuseums.org/collections/object/298606/production/timespan",
       "type": "TimeSpan",
-      "_label": "c.1845\u20136"
+      "_label": "1838",
+      "begin_of_the_begin": "1838",
+      "end_of_the_end": "1838"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/465",
+        "id": "https://harvardartmuseums.org/collections/person/28419",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -142,7 +176,7 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Tate Museum",
+      "_label": "Harvard Art Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
@@ -152,7 +186,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://www.tate.org.uk/art/artworks/13033/IMA-acquisition",
+          "id": "https://www.harvardartmuseums.org/collections/object/298606/IMA-acquisition",
           "type": "Acquisition",
           "_label": "Acquisition of the Object",
           "classified_as": [
@@ -163,11 +197,11 @@
             }
           ],
           "timespan": {
-            "id": "https://www.tate.org.uk/art/artworks/13033/IMA-acquisition/timespan",
+            "id": "https://www.harvardartmuseums.org/collections/object/298606/IMA-acquisition/timespan",
             "type": "TimeSpan",
-            "_label": "1920",
-            "begin_of_the_begin": "1920-01-01T00:00:00.000Z",
-            "end_of_the_end": "1920-12-31T00:00:00.000Z"
+            "_label": "1932",
+            "begin_of_the_begin": "1932-01-01T00:00:00.000Z",
+            "end_of_the_end": "1932-12-31T00:00:00.000Z"
           }
         }
       ]
@@ -175,19 +209,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1019",
+    "id": "http://lod.example.org/museum/VisualItem/3",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2039",
+        "id": "http://lod.example.org/museum/Place/7",
         "type": "Place",
-        "_label": "View of Bologna",
+        "_label": "Tom Tower, Christ Church, Oxford",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2038",
+            "id": "http://lod.example.org/museum/Place/6",
             "type": "Place",
-            "_label": "View of Bologna",
-            "defined_by": "POINT(44.466667 11.433333)"
+            "_label": "Tom Tower, Christ Church, Oxford",
+            "defined_by": "POINT(51.75 -1.25)"
           }
         ]
       }

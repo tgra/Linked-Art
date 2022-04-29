@@ -1,25 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/299103",
+  "id": "https://collections.ashmolean.org/collection/159588",
   "type": "HumanMadeObject",
-  "_label": "Convent and Alpine Pass, Visp, Switzerland",
-  "classified_as": [
-    {
-      "id": "http://vocab.getty.edu/aat/300033973",
-      "type": "Type",
-      "_label": "Drawing",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300435443",
-          "type": "Type",
-          "_label": "Type of Work"
-        }
-      ]
-    }
-  ],
+  "_label": "The Ponte della Pietra, Verona",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/1910.51",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.ED.295.a",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "1910.51"
+      "content": "WA.RS.ED.295.a"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/299103",
+      "id": "http://lod.example.org/museum/Identifier/159588",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "299103"
+      "content": "159588"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299103/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159588/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,63 +38,39 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Convent and Alpine Pass, Visp, Switzerland"
+      "content": "The Ponte della Pietra, Verona"
     }
   ],
-  "referred_to_by": [
+  "representation": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299103/provenance-statement",
-      "type": "LinguisticObject",
-      "_label": "Provenance Statement about the Object",
-      "classified_as": [
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_295_a-L.jpg",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
         {
-          "id": "http://vocab.getty.edu/aat/300055863",
-          "type": "Type",
-          "_label": "provenance (history of ownership)"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ]
-    },
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/299103/credit-line",
-      "type": "LinguisticObject",
-      "_label": "Credit Line for the Object",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300026687",
-          "type": "Type",
-          "_label": "acknowledgements"
-        },
-        {
-          "id": "http://vocab.getty.edu/aat/300418049",
-          "type": "Type",
-          "_label": "brief texts"
-        }
-      ],
-      "content": "Harvard Art Museums/Fogg Museum, Gift of Friends and Former Pupils of Professor C. H. Moore in recognition of his service"
-    }
-  ],
-  "member_of": [
-    {
-      "id": "https://www.harvardartmuseums.org/collections/object/299103/collection/European and American Art",
-      "type": "Set",
-      "_label": "European and American Art",
-      "classified_as": [
-        {
-          "id": "http://vocab.getty.edu/aat/300025976",
-          "type": "Type",
-          "_label": "collections (object groupings)"
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_295_a-L.jpg",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_ED_295_a-L.jpg",
+              "type": "DigitalObject"
+            }
+          ]
         }
       ]
     }
   ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/299103",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159588",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -127,19 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/299103/production",
+    "id": "https://collections.ashmolean.org/collection/159588/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/299103/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159588/production/timespan",
       "type": "TimeSpan",
-      "_label": "1844",
-      "begin_of_the_begin": "1844",
-      "end_of_the_end": "1844"
+      "_label": "14 - 17 June 1869",
+      "begin_of_the_begin": "1869",
+      "end_of_the_end": "1869"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -149,79 +111,31 @@
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
       "type": "Group",
-      "_label": "Harvard Art Museum",
+      "_label": "Ashmolean Museum",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312281",
           "type": "Type",
           "_label": "museums (institutions)"
         }
-      ],
-      "acquired_title_through": [
-        {
-          "id": "https://www.harvardartmuseums.org/collections/object/299103/IMA-acquisition",
-          "type": "Acquisition",
-          "_label": "Acquisition of the Object",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300157782",
-              "type": "Type",
-              "_label": "acquisition (collections management)"
-            }
-          ],
-          "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/299103/IMA-acquisition/timespan",
-            "type": "TimeSpan",
-            "_label": "1910",
-            "begin_of_the_begin": "1910-01-01T00:00:00.000Z",
-            "end_of_the_end": "1910-12-31T00:00:00.000Z"
-          }
-        }
-      ]
-    }
-  ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:INV003789_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:INV003789_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:INV003789_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
       ]
     }
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1044",
+    "id": "http://lod.example.org/museum/VisualItem/28",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2089",
+        "id": "http://lod.example.org/museum/Place/57",
         "type": "Place",
-        "_label": "Convent and Alpine Pass, Visp, Switzerland",
+        "_label": "The Ponte della Pietra, Verona",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2088",
+            "id": "http://lod.example.org/museum/Place/56",
             "type": "Place",
-            "_label": "Convent and Alpine Pass, Visp, Switzerland",
-            "defined_by": "POINT(46.301907 7.870004)"
+            "_label": "The Ponte della Pietra, Verona",
+            "defined_by": "POINT(45.45 11)"
           }
         ]
       }

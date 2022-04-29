@@ -1,13 +1,13 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://www.harvardartmuseums.org/collections/object/255472",
+  "id": "https://www.harvardartmuseums.org/collections/object/299181",
   "type": "HumanMadeObject",
-  "_label": "Study of Pines at Sestri",
+  "_label": "Studies in St. Mark's",
   "classified_as": [
     {
-      "id": "http://vocab.getty.edu/aat/300041273",
+      "id": "http://vocab.getty.edu/aat/300033973",
       "type": "Type",
-      "_label": "Print",
+      "_label": "Drawing",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300435443",
@@ -19,7 +19,7 @@
   ],
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/M8237",
+      "id": "http://lod.example.org/museum/Identifier/1926.33.129",
       "type": "Identifier",
       "classified_as": [
         {
@@ -28,10 +28,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "M8237"
+      "content": "1926.33.129"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/255472",
+      "id": "http://lod.example.org/museum/Identifier/299181",
       "type": "Identifier",
       "classified_as": [
         {
@@ -40,10 +40,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "255472"
+      "content": "299181"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/255472/primary-name",
+      "id": "https://www.harvardartmuseums.org/collections/object/299181/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -52,12 +52,12 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "Study of Pines at Sestri"
+      "content": "Studies in St. Mark's"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/255472/provenance-statement",
+      "id": "https://www.harvardartmuseums.org/collections/object/299181/provenance-statement",
       "type": "LinguisticObject",
       "_label": "Provenance Statement about the Object",
       "classified_as": [
@@ -72,10 +72,10 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Winslow Ames, gift; to Fogg Art Museum, 1935"
+      "content": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
     },
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/255472/credit-line",
+      "id": "https://www.harvardartmuseums.org/collections/object/299181/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": [
@@ -90,12 +90,12 @@
           "_label": "brief texts"
         }
       ],
-      "content": "Harvard Art Museums/Fogg Museum, Gift of Winslow Ames"
+      "content": "Harvard Art Museums/Fogg Museum, Transfer from the Fine Arts Department, Harvard University"
     }
   ],
   "member_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/255472/collection/European and American Art",
+      "id": "https://www.harvardartmuseums.org/collections/object/299181/collection/European and American Art",
       "type": "Set",
       "_label": "European and American Art",
       "classified_as": [
@@ -109,12 +109,12 @@
   ],
   "representation": [
     {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:INV194144_dynmc",
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:70227_dynmc",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:INV194144_dynmc",
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:70227_dynmc",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -126,7 +126,7 @@
           ],
           "access_point": [
             {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:INV194144_dynmc",
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:70227_dynmc",
               "type": "DigitalObject"
             }
           ]
@@ -136,7 +136,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://www.harvardartmuseums.org/collections/object/255472",
+      "id": "https://www.harvardartmuseums.org/collections/object/299181",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -155,19 +155,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://www.harvardartmuseums.org/collections/object/255472/production",
+    "id": "https://www.harvardartmuseums.org/collections/object/299181/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://www.harvardartmuseums.org/collections/object/255472/production/timespan",
+      "id": "https://www.harvardartmuseums.org/collections/object/299181/production/timespan",
       "type": "TimeSpan",
-      "_label": "19th century",
-      "begin_of_the_begin": 1819,
-      "end_of_the_end": 1900
+      "_label": "1849-1852",
+      "begin_of_the_begin": "1849",
+      "end_of_the_end": "1852"
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "https://harvardartmuseums.org/collections/person/28419",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -187,7 +187,7 @@
       ],
       "acquired_title_through": [
         {
-          "id": "https://www.harvardartmuseums.org/collections/object/255472/IMA-acquisition",
+          "id": "https://www.harvardartmuseums.org/collections/object/299181/IMA-acquisition",
           "type": "Acquisition",
           "_label": "Acquisition of the Object",
           "classified_as": [
@@ -198,11 +198,11 @@
             }
           ],
           "timespan": {
-            "id": "https://www.harvardartmuseums.org/collections/object/255472/IMA-acquisition/timespan",
+            "id": "https://www.harvardartmuseums.org/collections/object/299181/IMA-acquisition/timespan",
             "type": "TimeSpan",
-            "_label": "1935",
-            "begin_of_the_begin": "1935-01-01T00:00:00.000Z",
-            "end_of_the_end": "1935-12-31T00:00:00.000Z"
+            "_label": "1926",
+            "begin_of_the_begin": "1926-01-01T00:00:00.000Z",
+            "end_of_the_end": "1926-12-31T00:00:00.000Z"
           }
         }
       ]
@@ -210,19 +210,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1060",
+    "id": "http://lod.example.org/museum/VisualItem/44",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2121",
+        "id": "http://lod.example.org/museum/Place/89",
         "type": "Place",
-        "_label": "Study of Pines at Sestri",
+        "_label": "Studies in St. Mark's",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2120",
+            "id": "http://lod.example.org/museum/Place/88",
             "type": "Place",
-            "_label": "Study of Pines at Sestri",
-            "defined_by": "POINT(44.269444 9.384722)"
+            "_label": "Studies in St. Mark's",
+            "defined_by": "POINT(45.583333 12.566667)"
           }
         ]
       }

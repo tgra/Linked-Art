@@ -107,6 +107,33 @@
       ]
     }
   ],
+  "representation": [
+    {
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": [
+        {
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
+          "type": "DigitalObject",
+          "_label": "Image of artwork",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300215302",
+              "type": "Type",
+              "_label": "Digital Image"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "subject_of": [
     {
       "id": "https://www.harvardartmuseums.org/collections/object/298597",
@@ -140,7 +167,7 @@
     },
     "carried_out_by": [
       {
-        "id": "http://lod.example.org/museum/Actor/28419",
+        "id": "https://harvardartmuseums.org/collections/person/28419",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -181,48 +208,21 @@
       ]
     }
   ],
-  "representation": [
-    {
-      "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
-      "type": "VisualItem",
-      "_label": "Digital image of artwork",
-      "digitally_shown_by": [
-        {
-          "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
-          "type": "DigitalObject",
-          "_label": "Image of artwork",
-          "classified_as": [
-            {
-              "id": "http://vocab.getty.edu/aat/300215302",
-              "type": "Type",
-              "_label": "Digital Image"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://nrs.harvard.edu/urn-3:HUAM:VRS48802_dynmc",
-              "type": "DigitalObject"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1016",
+    "id": "http://lod.example.org/museum/VisualItem/0",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2033",
+        "id": "http://lod.example.org/museum/Place/1",
         "type": "Place",
         "_label": "Study of a Venetian Capital",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2032",
+            "id": "http://lod.example.org/museum/Place/0",
             "type": "Place",
             "_label": "Study of a Venetian Capital",
-            "defined_by": "POINT(45.438611 12.326667)"
+            "defined_by": "POINT(45.583333 12.566667)"
           }
         ]
       }

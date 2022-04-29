@@ -1,11 +1,11 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://collections.ashmolean.org/collection/159810",
+  "id": "https://collections.ashmolean.org/collection/159714",
   "type": "HumanMadeObject",
-  "_label": "First Process of Sepia Sketch of Leafage: Study from Ruskin's Photograph of the Courtyard of a late Gothic wooden House at Abbeville",
+  "_label": "Study of one of the Pinnacles of the Tomb of Mastino II della Scala, Verona",
   "identified_by": [
     {
-      "id": "http://lod.example.org/museum/Identifier/WA.RS.RUD.290",
+      "id": "http://lod.example.org/museum/Identifier/WA.RS.RUD.097.a",
       "type": "Identifier",
       "classified_as": [
         {
@@ -14,10 +14,10 @@
           "_label": "Accession Number"
         }
       ],
-      "content": "WA.RS.RUD.290"
+      "content": "WA.RS.RUD.097.a"
     },
     {
-      "id": "http://lod.example.org/museum/Identifier/159810",
+      "id": "http://lod.example.org/museum/Identifier/159714",
       "type": "Identifier",
       "classified_as": [
         {
@@ -26,10 +26,10 @@
           "_label": "Owner-Assigned Number"
         }
       ],
-      "content": "159810"
+      "content": "159714"
     },
     {
-      "id": "https://collections.ashmolean.org/collection/159810/primary-name",
+      "id": "https://collections.ashmolean.org/collection/159714/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -38,17 +38,17 @@
           "_label": "Primary Name"
         }
       ],
-      "content": "First Process of Sepia Sketch of Leafage: Study from Ruskin's Photograph of the Courtyard of a late Gothic wooden House at Abbeville"
+      "content": "Study of one of the Pinnacles of the Tomb of Mastino II della Scala, Verona"
     }
   ],
   "representation": [
     {
-      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD/WA_RS_RUD_290-a-L.jpg",
+      "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_097_a-a-L.jpg",
       "type": "VisualItem",
       "_label": "Digital image of artwork",
       "digitally_shown_by": [
         {
-          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD/WA_RS_RUD_290-a-L.jpg",
+          "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_097_a-a-L.jpg",
           "type": "DigitalObject",
           "_label": "Image of artwork",
           "classified_as": [
@@ -60,7 +60,7 @@
           ],
           "access_point": [
             {
-              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD/WA_RS_RUD_290-a-L.jpg",
+              "id": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_RS/WA_RS_RUD_097_a-a-L.jpg",
               "type": "DigitalObject"
             }
           ]
@@ -70,7 +70,7 @@
   ],
   "subject_of": [
     {
-      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159810",
+      "id": "https://collections.ashmolean.org/collection/browse-9148/object/159714",
       "type": "LinguisticObject",
       "_label": "Homepage for the Object",
       "classified_as": [
@@ -89,18 +89,19 @@
     }
   ],
   "produced_by": {
-    "id": "https://collections.ashmolean.org/collection/159810/production",
+    "id": "https://collections.ashmolean.org/collection/159714/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://collections.ashmolean.org/collection/159810/production/timespan",
+      "id": "https://collections.ashmolean.org/collection/159714/production/timespan",
       "type": "TimeSpan",
-      "_label": "probably 1871",
-      "begin_of_the_begin": "1871",
-      "end_of_the_end": "1871"
+      "_label": "probably January 1852",
+      "begin_of_the_begin": "1852",
+      "end_of_the_end": "1852"
     },
     "carried_out_by": [
       {
+        "id": "https://collections.ashmolean.org/collection/search/trigger/person_id/value/7800",
         "type": "Actor",
         "_label": "John Ruskin"
       }
@@ -122,19 +123,19 @@
   ],
   "shows": {
     "@context": "https://linked.art/ns/v1/linked-art.json",
-    "id": "http://lod.example.org/museum/VisualItem/1093",
+    "id": "http://lod.example.org/museum/VisualItem/77",
     "type": "VisualItem",
     "represents": [
       {
-        "id": "http://lod.example.org/museum/Place/2187",
+        "id": "http://lod.example.org/museum/Place/155",
         "type": "Place",
-        "_label": "First Process of Sepia Sketch of Leafage: Study from Ruskin's Photograph of the Courtyard of a late Gothic wooden House at Abbeville",
+        "_label": "Study of one of the Pinnacles of the Tomb of Mastino II della Scala, Verona",
         "approximated_by": [
           {
-            "id": "http://lod.example.org/museum/Place/2186",
+            "id": "http://lod.example.org/museum/Place/154",
             "type": "Place",
-            "_label": "First Process of Sepia Sketch of Leafage: Study from Ruskin's Photograph of the Courtyard of a late Gothic wooden House at Abbeville",
-            "defined_by": "POINT(50.106602 1.832691)"
+            "_label": "Study of one of the Pinnacles of the Tomb of Mastino II della Scala, Verona",
+            "defined_by": "POINT(45.45 11)"
           }
         ]
       }
