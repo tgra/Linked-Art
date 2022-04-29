@@ -5,3 +5,7 @@ h3{color:#78BE21; background-color:#446a7f; padding:10px}
 h4{color:white; background-color:#78BE21;padding:5px}
 .info{background-color:}
 img {border: 3px solid #446a7f;}
+pre {
+    background-color:#446a7f;
+    color:bisque;
+}
