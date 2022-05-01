@@ -119,7 +119,6 @@ def objAlternatename(objProp,object_uri):
     return alternateName
 
 def objHomepage(objProp,object_uri):
-
     homepage = None
     homepageId = objProp["homepage"]
     if homepageId != "":

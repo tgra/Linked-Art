@@ -1,0 +1,69 @@
+{
+    "storymap": {
+    "attribution": "",
+    "call_to_action": true,
+    "call_to_action_text": "",
+    "map_as_image": false,
+    "map_subdomains": "",
+    "map_type": "stamen:watercolor",
+    "slides": [
+    {
+    "date": "",
+    "location": {
+    "line": true
+    },
+    "media": {
+    "caption": "",
+    "credit": "",
+    "url": ""
+    },
+    "text": {
+    "headline": "JohN rUSKIN'S TRAVELS",
+    "text": ""
+    },
+    "type": "overview"
+    },
+    {
+    "background": {
+    "color": "#a1d4a6",
+    "opacity": 100
+    },
+    "date": "",
+    "location": {
+    "lat": 47.452702,
+    "line": true,
+    "lon": 8.309969,
+    "zoom": 4
+    },
+    "media": {
+    "caption": "",
+    "credit": "",
+    "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48807_dynmc?width=500&height=800"
+    },
+    "text": {
+    "headline": "Towers at Baden",
+    "text": "1854"
+    }
+    },
+    {
+    "date": "",
+    "location": {
+    "lat": 49.266667,
+    "line": true,
+    "lon": 6.816667,
+    "zoom": 4
+    },
+    "media": {
+    "caption": "",
+    "credit": "",
+    "url": "https://nrs.harvard.edu/urn-3:HUAM:INV003787_dynmc?width=500&height=800"
+    },
+    "text": {
+    "headline": "Falls of Schaffhausen",
+    "text": "<pre> 1854</pre>"
+    }
+    }
+    ],
+    "zoomify": false
+    }
+    }

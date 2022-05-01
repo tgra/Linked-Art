@@ -4,6 +4,7 @@ require.config({paths: {
 }});
 
 
+
 function visjsonld(jsonld, selector){
    
     require(["d3"], function(d3) {
@@ -31,7 +32,7 @@ function visjsonld(jsonld, selector){
     var svg = d3.select(selector).append('svg')
             .attr('width', w)
             .attr('height', h)
-            .attr('style', 'background-color:#5cdb95')
+            .attr('style', 'background-color:#80CBC4 ')
             .append('g')
             .attr('transform', 'translate(' + maxLabelWidth + ',0)');
             
@@ -287,5 +288,5 @@ function visjsonld(jsonld, selector){
         update(root);
       
         
-    )}
-    )}
+    })
+    }

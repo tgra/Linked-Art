@@ -1,6 +1,6 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "http://www.rijksmuseum.nl/nl/collectie/RP-T-1957-335",
+  "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1957-335",
   "type": "HumanMadeObject",
   "_label": "Gezicht op S. Anastasia te Verona, over de Adige",
   "classified_as": [
@@ -43,7 +43,7 @@
       "content": "nl-RP-T-1957-335"
     },
     {
-      "id": "http://www.rijksmuseum.nl/nl/collectie/RP-T-1957-335/primary-name",
+      "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1957-335/primary-name",
       "type": "Name",
       "classified_as": [
         {
@@ -102,6 +102,25 @@
       "format": "text/html"
     }
   ],
+  "produced_by": {
+    "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1957-335/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "http://www.rijksmuseum.nl/nl/collectie/nl-RP-T-1957-335/production/timespan",
+      "type": "TimeSpan",
+      "_label": "1829-1900",
+      "begin_of_the_begin": "1829",
+      "end_of_the_end": "1900"
+    },
+    "carried_out_by": [
+      {
+        "id": "http://www.rijksmuseum.nl/nl/collectie/creator/nl-RP-T-1957-335",
+        "type": "Actor",
+        "_label": "John Ruskin"
+      }
+    ]
+  },
   "current_owner": [
     {
       "id": "http://vocab.getty.edu/ulan/500300517",
