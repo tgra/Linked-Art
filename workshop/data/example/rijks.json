@@ -1,0 +1,31 @@
+{
+  "links": {
+    "self": "http://www.rijksmuseum.nl/api/nl/collection/RP-T-1957-335",
+    "web": "http://www.rijksmuseum.nl/nl/collectie/RP-T-1957-335"
+  },
+  "id": "nl-RP-T-1957-335",
+  "objectNumber": "RP-T-1957-335",
+  "title": "Gezicht op S. Anastasia te Verona, over de Adige",
+  "hasImage": true,
+  "principalOrFirstMaker": "John Ruskin",
+  "longTitle": "Gezicht op S. Anastasia te Verona, over de Adige, John Ruskin, 1829 - 1900",
+  "showImage": true,
+  "permitDownload": true,
+  "webImage": {
+    "guid": "c366d216-9aa1-4cb5-bbe5-fefa51f8e641",
+    "offsetPercentageX": 0,
+    "offsetPercentageY": 0,
+    "width": 2500,
+    "height": 1695,
+    "url": "https://lh3.googleusercontent.com/X0Xc5cER3eTrpNyqH4kg3ne-ewai_nBqFdSI-EZPZ4N-lE6rn1OAUBckEHQSFyafcGcFpiX99QU4STEXWbB43KsnAbi3=s0"
+  },
+  "headerImage": {
+    "guid": "84416aa1-5880-4751-ab94-72000580cd03",
+    "offsetPercentageX": 0,
+    "offsetPercentageY": 0,
+    "width": 1920,
+    "height": 460,
+    "url": "https://lh3.googleusercontent.com/LEfvA4m-B8Y6ty0tj8iC4epKOv1-VTT14KIY4NuLVnhsVHlpk4c3FHBJ6pkFpKN4dVmHQOpizc5JP3koX0okT34BwQ8=s0"
+  },
+  "productionPlaces": []
+}
