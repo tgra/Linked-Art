@@ -1,0 +1,143 @@
+{
+  "events": [
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:779019",
+        "caption": "",
+        "credit": "LABEL_ARTWORK_SOURCE",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:779019"
+      },
+      "display_date": "1842",
+      "start_date": {
+        "year": "1842"
+      },
+      "end_date": {
+        "year": "1842"
+      },
+      "text": {
+        "headline": "",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "GREEN"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48807_dynmc",
+        "caption": "",
+        "credit": "LABEL_ARTWORK_SOURCE",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48807_dynmc"
+      },
+      "display_date": "1863",
+      "start_date": {
+        "year": "1863"
+      },
+      "end_date": {
+        "year": "1863"
+      },
+      "text": {
+        "headline": "",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
+      },
+      "type": "title",
+      "background": {
+        "color": "GREEN"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc",
+        "caption": "",
+        "credit": "LABEL_ARTWORK_SOURCE",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc"
+      },
+      "display_date": "1842",
+      "start_date": {
+        "year": "1842"
+      },
+      "end_date": {
+        "year": "1842"
+      },
+      "text": {
+        "headline": "",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "GREEN"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:48817_dynmc",
+        "caption": "",
+        "credit": "LABEL_ARTWORK_SOURCE",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:48817_dynmc"
+      },
+      "display_date": "1854",
+      "start_date": {
+        "year": "1854"
+      },
+      "end_date": {
+        "year": "1854"
+      },
+      "text": {
+        "headline": "",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "GREEN"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100821_dynmc",
+        "caption": "",
+        "credit": "LABEL_ARTWORK_SOURCE",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC100821_dynmc"
+      },
+      "display_date": "1879",
+      "start_date": {
+        "year": "1879"
+      },
+      "end_date": {
+        "year": "1879"
+      },
+      "text": {
+        "headline": "",
+        "text": "Samuel Sachs, gift; to Fogg Art Museum, 1919"
+      },
+      "type": "title",
+      "background": {
+        "color": "GREEN"
+      }
+    }
+  ],
+  "title": {
+    "media": {
+      "url": "https://title_page_image.jpg",
+      "caption": "TITLE PAGE IMAGE CAPTION",
+      "credit": "TITLE PAGE IMAGE CREDIT"
+    },
+    "text": {
+      "headline": "TITLE PAGE HEADLINE",
+      "text": " "
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": "1900"
+      },
+      "end_date": {
+        "year": "2022"
+      },
+      "text": {
+        "headline": "Timeline"
+      }
+    }
+  ]
+}
