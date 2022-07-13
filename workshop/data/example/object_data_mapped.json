@@ -1,29 +1,6 @@
 {
   "records": [
     {
-      "id": "https://philamuseum.org/collection/object/64-1993-1",
-      "accession_number": "64-1993-1",
-      "collection": "PDP",
-      "classification": "Drawings",
-      "created_period": "",
-      "creator": [
-        {
-          "id": "https://philamuseum.org/collection/object/creatorid/64-1993-1",
-          "name": "John Ruskin",
-          "role": "Artist"
-        }
-      ],
-      "title": "Study of a River Bank, Beauvais, France",
-      "date_created": "1846",
-      "physical_medium": "Watercolor",
-      "physical_dimensions": "H: 125mm  W: 175mm",
-      "notes": "",
-      "created_notes": "",
-      "created_provenance": "John Ruskin",
-      "credit_line": "",
-      "homepage": ""
-    },
-    {
       "id": "https://philamuseum.org/collection/object/01/07/1995",
       "accession_number": "01/07/1995",
       "collection": "PDP",

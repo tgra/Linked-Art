@@ -1,8 +1,8 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/64-1993-1",
+  "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/01/07/1995",
   "type": "HumanMadeObject",
-  "_label": "Study of a River Bank, Beauvais, France",
+  "_label": "Beanstalk",
   "classified_as": {
     "id": "http://vocab.getty.edu/aat/300033973",
     "type": "Type",
@@ -15,29 +15,29 @@
   },
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/Identifier/64-1993-1",
+      "id": "https://data.discovernewfields.org/Identifier/01/07/1995",
       "type": "Identifier",
       "classified_as": {
         "id": "http://vocab.getty.edu/aat/300312355",
         "type": "Type",
         "_label": "Accession Number"
       },
-      "content": "64-1993-1"
+      "content": "01/07/1995"
     },
     {
-      "id": "https://philamuseum.org/collection/object/64-1993-1",
+      "id": "https://philamuseum.org/collection/object/01/07/1995",
       "type": "Identifier",
       "classified_as": {
         "id": "http://vocab.getty.edu/aat/300404621",
         "type": "Type",
         "_label": "Owner-Assigned Number"
       },
-      "content": "https://philamuseum.org/collection/object/64-1993-1"
+      "content": "https://philamuseum.org/collection/object/01/07/1995"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/64-1993-1/provenance-statement",
+      "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/01/07/1995/provenance-statement",
       "type": "LinguisticObject",
       "_label": "Provenance Statement about the Object",
       "classified_as": {
@@ -46,10 +46,21 @@
         "_label": "brief texts"
       },
       "content": "John Ruskin"
+    },
+    {
+      "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/01/07/1995/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300418049",
+        "type": "Type",
+        "_label": "brief texts"
+      },
+      "content": "Purchased with The Herbert & Nannette Rothschild Memorial Fund in memory of Judith Rothschild, 1995"
     }
   ],
   "member_of": {
-    "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/64-1993-1/collection/PDP",
+    "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/01/07/1995/collection/PDP",
     "type": "Set",
     "_label": "PDP",
     "classified_as": {
@@ -59,7 +70,7 @@
     }
   },
   "subject_of": {
-    "id": "http://collection.imamuseum.org/artwork/https://philamuseum.org/collection/object/64-1993-1",
+    "id": "http://collection.imamuseum.org/artwork/https://philamuseum.org/collection/object/01/07/1995",
     "type": "LinguisticObject",
     "_label": "Homepage for the Object",
     "classified_as": {
@@ -70,16 +81,16 @@
     "format": "text/html"
   },
   "produced_by": {
-    "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/64-1993-1/production",
+    "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/01/07/1995/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/64-1993-1/production/timespan",
+      "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/01/07/1995/production/timespan",
       "type": "TimeSpan",
-      "_label": "1846"
+      "_label": "Date unknown"
     },
     "carried_out_by": {
-      "id": "https://philamuseum.org/collection/object/creatorid/64-1993-1",
+      "id": "https://philamuseum.org/collection/object/creatorid/01/07/1995",
       "type": "Actor",
       "_label": "John Ruskin"
     }
