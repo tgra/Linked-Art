@@ -1,0 +1,158 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://www.harvardartmuseums.org/collections/object/299039",
+  "type": "HumanMadeObject",
+  "_label": "Detail of \"Solomon and the Queen of Sheba\" by Veronese",
+  "classified_as": {
+    "id": "http://vocab.getty.edu/aat/300033973",
+    "type": "Type",
+    "_label": "Drawing",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300435443",
+      "type": "Type",
+      "_label": "Type of Work"
+    }
+  },
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/1907.2",
+      "type": "Identifier",
+      "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300312355",
+        "type": "Type",
+        "_label": "Accession Number"
+      },
+      "content": "1907.2"
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/299039",
+      "type": "Identifier",
+      "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300404621",
+        "type": "Type",
+        "_label": "Owner-Assigned Number"
+      },
+      "content": "299039"
+    },
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/299039/primary-name",
+      "type": "Name",
+      "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300404670",
+        "type": "Type",
+        "_label": "Primary Name"
+      },
+      "content": "Detail of \"Solomon and the Queen of Sheba\" by Veronese"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/299039/provenance-statement",
+      "type": "LinguisticObject",
+      "_label": "Provenance Statement about the Object",
+      "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300418049",
+        "type": "Type",
+        "_label": "brief texts"
+      },
+      "content": "John Ruskin, gift(?)[1]; to Charles Eliot Norton, gift; to Fogg Art Museum, 1907 \r\n\r\n[1] See Norton's note on the old mat: \"Brought from Brantwood, June 1900\""
+    },
+    {
+      "id": "https://www.harvardartmuseums.org/collections/object/299039/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300418049",
+        "type": "Type",
+        "_label": "brief texts"
+      },
+      "content": "Harvard Art Museums/Fogg Museum, Gift of Professor Charles Eliot Norton"
+    }
+  ],
+  "member_of": {
+    "id": "https://www.harvardartmuseums.org/collections/object/299039/collection/European and American Art",
+    "type": "Set",
+    "_label": "European and American Art",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300025976",
+      "type": "Type",
+      "_label": "collections (object groupings)"
+    }
+  },
+  "representation": [
+    {
+      "id": "https://nrs.harvard.edu/urn-3:HUAM:70226_dynmc",
+      "type": "VisualItem",
+      "_label": "Digital image of artwork",
+      "digitally_shown_by": {
+        "id": "https://nrs.harvard.edu/urn-3:HUAM:70226_dynmc",
+        "type": "DigitalObject",
+        "_label": "Image of artwork",
+        "classified_as": {
+          "id": "http://vocab.getty.edu/aat/300215302",
+          "type": "Type",
+          "_label": "Digital Image"
+        },
+        "access_point": {
+          "id": "https://nrs.harvard.edu/urn-3:HUAM:70226_dynmc",
+          "type": "DigitalObject"
+        }
+      }
+    }
+  ],
+  "subject_of": {
+    "id": "https://www.harvardartmuseums.org/collections/object/299039",
+    "type": "LinguisticObject",
+    "_label": "Homepage for the Object",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300266277",
+      "type": "Type",
+      "_label": "home pages"
+    },
+    "format": "text/html"
+  },
+  "produced_by": {
+    "id": "https://www.harvardartmuseums.org/collections/object/299039/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "https://www.harvardartmuseums.org/collections/object/299039/production/timespan",
+      "type": "TimeSpan",
+      "_label": "1858",
+      "begin_of_the_begin": "1858",
+      "end_of_the_end": "1858"
+    },
+    "carried_out_by": {
+      "id": "https://harvardartmuseums.org/collections/person/28419",
+      "type": "Actor",
+      "_label": "John Ruskin"
+    }
+  },
+  "current_owner": {
+    "id": "http://vocab.getty.edu/ulan/500300517",
+    "type": "Group",
+    "_label": "Harvard Art Museum",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300312281",
+      "type": "Type",
+      "_label": "museums (institutions)"
+    },
+    "acquired_title_through": {
+      "id": "https://www.harvardartmuseums.org/collections/object/299039/IMA-acquisition",
+      "type": "Acquisition",
+      "_label": "Acquisition of the Object",
+      "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300157782",
+        "type": "Type",
+        "_label": "acquisition (collections management)"
+      },
+      "timespan": {
+        "id": "https://www.harvardartmuseums.org/collections/object/299039/IMA-acquisition/timespan",
+        "type": "TimeSpan",
+        "_label": "1907",
+        "begin_of_the_begin": "1907-01-01T00:00:00.000Z",
+        "end_of_the_end": "1907-12-31T00:00:00.000Z"
+      }
+    }
+  }
+}
