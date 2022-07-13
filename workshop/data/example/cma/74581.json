@@ -1,0 +1,104 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://clevelandart.org/art/74581",
+  "type": "HumanMadeObject",
+  "_label": "Nude Study of an Old Man",
+  "classified_as": {
+    "id": "http://vocab.getty.edu/aat/300033973",
+    "type": "Type",
+    "_label": "Drawing",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300435443",
+      "type": "Type",
+      "_label": "Type of Work"
+    }
+  },
+  "identified_by": [
+    {
+      "id": "http://lod.example.org/museum/Identifier/2018.44",
+      "type": "Identifier",
+      "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300312355",
+        "type": "Type",
+        "_label": "Accession Number"
+      },
+      "content": "2018.44"
+    },
+    {
+      "id": "http://lod.example.org/museum/Identifier/74581",
+      "type": "Identifier",
+      "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300404621",
+        "type": "Type",
+        "_label": "Owner-Assigned Number"
+      },
+      "content": "74581"
+    },
+    {
+      "id": "https://clevelandart.org/art/74581/primary-name",
+      "type": "Name",
+      "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300404670",
+        "type": "Type",
+        "_label": "Primary Name"
+      },
+      "content": "Nude Study of an Old Man"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "id": "https://clevelandart.org/art/74581/credit-line",
+      "type": "LinguisticObject",
+      "_label": "Credit Line for the Object",
+      "classified_as": {
+        "id": "http://vocab.getty.edu/aat/300418049",
+        "type": "Type",
+        "_label": "brief texts"
+      },
+      "content": "Bequest of Muriel Butkin"
+    }
+  ],
+  "member_of": {
+    "id": "https://clevelandart.org/art/74581/collection/Drawings",
+    "type": "Set",
+    "_label": "Drawings",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300025976",
+      "type": "Type",
+      "_label": "collections (object groupings)"
+    }
+  },
+  "subject_of": {
+    "id": "https://clevelandart.org/art/2018.44",
+    "type": "LinguisticObject",
+    "_label": "Homepage for the Object",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300266277",
+      "type": "Type",
+      "_label": "home pages"
+    },
+    "format": "text/html"
+  },
+  "produced_by": {
+    "id": "https://clevelandart.org/art/74581/production",
+    "type": "Production",
+    "_label": "Production of the Object",
+    "timespan": {
+      "id": "https://clevelandart.org/art/74581/production/timespan",
+      "type": "TimeSpan",
+      "_label": "before 1852",
+      "begin_of_the_begin": "1858",
+      "end_of_the_end": "1858"
+    }
+  },
+  "current_owner": {
+    "id": "http://vocab.getty.edu/ulan/500300517",
+    "type": "Group",
+    "_label": "Cleveland Museum of Art",
+    "classified_as": {
+      "id": "http://vocab.getty.edu/aat/300312281",
+      "type": "Type",
+      "_label": "museums (institutions)"
+    }
+  }
+}
