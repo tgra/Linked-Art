@@ -1,0 +1,626 @@
+{
+  "events": [
+    {
+      "media": {
+        "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_254-a-L.jpg",
+        "caption": "",
+        "credit": "Ashmolean Museum",
+        "thumbnail": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_254-a-L.jpg"
+      },
+      "display_date": "1835",
+      "start_date": {
+        "year": 1835
+      },
+      "end_date": {
+        "year": 1835
+      },
+      "text": {
+        "headline": "End of the Lake of Lecco",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "#3f83e8"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:779019",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:779019"
+      },
+      "display_date": "1842",
+      "start_date": {
+        "year": 1842
+      },
+      "end_date": {
+        "year": 1842
+      },
+      "text": {
+        "headline": "Falls of Schaffhausen",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48807_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48807_dynmc"
+      },
+      "display_date": "1863(?)",
+      "start_date": {
+        "year": 1863
+      },
+      "end_date": {
+        "year": 1863
+      },
+      "text": {
+        "headline": "Towers at Baden",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS38386_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS38386_dynmc"
+      },
+      "display_date": "1868",
+      "start_date": {
+        "year": 1868
+      },
+      "end_date": {
+        "year": 1868
+      },
+      "text": {
+        "headline": "Church of St. Wulfran, Abbeville",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC100822_dynmc"
+      },
+      "display_date": "1842",
+      "start_date": {
+        "year": 1842
+      },
+      "end_date": {
+        "year": 1842
+      },
+      "text": {
+        "headline": "Falls of Schaffhausen",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:INV003064_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:INV003064_dynmc"
+      },
+      "display_date": "1849",
+      "start_date": {
+        "year": 1849
+      },
+      "end_date": {
+        "year": 1849
+      },
+      "text": {
+        "headline": "The Matterhorn",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_255-a-L.jpg",
+        "caption": "",
+        "credit": "Ashmolean Museum",
+        "thumbnail": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_255-a-L.jpg"
+      },
+      "display_date": "1835",
+      "start_date": {
+        "year": 1835
+      },
+      "end_date": {
+        "year": 1835
+      },
+      "text": {
+        "headline": "Bellagio, Lago di Como",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "#3f83e8"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48797_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48797_dynmc"
+      },
+      "display_date": "1869",
+      "start_date": {
+        "year": 1869
+      },
+      "end_date": {
+        "year": 1869
+      },
+      "text": {
+        "headline": "Old Vevay",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_252-a-L.jpg",
+        "caption": "",
+        "credit": "Ashmolean Museum",
+        "thumbnail": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_252-a-L.jpg"
+      },
+      "display_date": "1835",
+      "start_date": {
+        "year": 1835
+      },
+      "end_date": {
+        "year": 1835
+      },
+      "text": {
+        "headline": "Bergamo and the Alps, from the road to Brescia",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "#3f83e8"
+      }
+    },
+    {
+      "media": {
+        "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1951/WA_1951_0000/WA_1951_135-a-L.jpg",
+        "caption": "",
+        "credit": "Ashmolean Museum",
+        "thumbnail": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1951/WA_1951_0000/WA_1951_135-a-L.jpg"
+      },
+      "display_date": "1881",
+      "start_date": {
+        "year": 1881
+      },
+      "end_date": {
+        "year": 1881
+      },
+      "text": {
+        "headline": "Study of a capital",
+        "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object//48944'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#3f83e8"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:INV003789_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:INV003789_dynmc"
+      },
+      "display_date": "1844",
+      "start_date": {
+        "year": 1844
+      },
+      "end_date": {
+        "year": 1844
+      },
+      "text": {
+        "headline": "Convent and Alpine Pass, Visp, Switzerland",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48790_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48790_dynmc"
+      },
+      "display_date": "1849-1852",
+      "start_date": {
+        "year": 1849
+      },
+      "end_date": {
+        "year": 1852
+      },
+      "text": {
+        "headline": "Panel Moldings, Sarcophagi",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://api.nga.gov/iiif/49a6128c-8d5a-4b00-beb3-36b29b97c0a1/full/!500,500/0/default.jpg",
+        "caption": "",
+        "credit": "National Gallery of Art",
+        "thumbnail": "https://api.nga.gov/iiif/49a6128c-8d5a-4b00-beb3-36b29b97c0a1/full/!500,500/0/default.jpg"
+      },
+      "display_date": "c. 1845",
+      "start_date": {
+        "year": 1845
+      },
+      "end_date": {
+        "year": 1845
+      },
+      "text": {
+        "headline": "Tower of the Cathedral at Sens",
+        "text": "Gift of William B. O'Neal"
+      },
+      "type": "title",
+      "background": {
+        "color": "#E8A798"
+      }
+    },
+    {
+      "media": {
+        "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1951/WA_1951_0000/WA_1951_136-a-L.jpg",
+        "caption": "",
+        "credit": "Ashmolean Museum",
+        "thumbnail": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1951/WA_1951_0000/WA_1951_136-a-L.jpg"
+      },
+      "display_date": "1880",
+      "start_date": {
+        "year": 1880
+      },
+      "end_date": {
+        "year": 1880
+      },
+      "text": {
+        "headline": "Study of ivy stalk",
+        "text": "<br/><br/><a target='_new' href='https://collections.ashmolean.org/collection/browse-9148/object//48945'>Artwork homepage</a>"
+      },
+      "type": "title",
+      "background": {
+        "color": "#3f83e8"
+      }
+    },
+    {
+      "media": {
+        "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_253-a-L.jpg",
+        "caption": "",
+        "credit": "Ashmolean Museum",
+        "thumbnail": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/WA/WA_1949/WA_1949_0000/WA_1949_253-a-L.jpg"
+      },
+      "display_date": "1835",
+      "start_date": {
+        "year": 1835
+      },
+      "end_date": {
+        "year": 1835
+      },
+      "text": {
+        "headline": "Near Bassano, Brenner",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "#3f83e8"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS38476_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS38476_dynmc"
+      },
+      "display_date": "1866",
+      "start_date": {
+        "year": 1866
+      },
+      "end_date": {
+        "year": 1866
+      },
+      "text": {
+        "headline": "Dawn at Neuch\u00e2tel",
+        "text": "Samuel Sachs, gift; to Fogg Art Museum, 1919"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48769",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48769"
+      },
+      "display_date": "1859",
+      "start_date": {
+        "year": 1859
+      },
+      "end_date": {
+        "year": 1859
+      },
+      "text": {
+        "headline": "H\u00f4tel de Ville, Aix-la-Chapelle",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48787_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48787_dynmc"
+      },
+      "display_date": "1845",
+      "start_date": {
+        "year": 1845
+      },
+      "end_date": {
+        "year": 1845
+      },
+      "text": {
+        "headline": "Boat and Sketches of Two Figures, Venice",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48800_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48800_dynmc"
+      },
+      "display_date": "1872",
+      "start_date": {
+        "year": 1872
+      },
+      "end_date": {
+        "year": 1872
+      },
+      "text": {
+        "headline": "Geological Sketches, Bird's Skull",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/LI/LI_1000/LI_1429_1-z-L.jpg",
+        "caption": "",
+        "credit": "Ashmolean Museum",
+        "thumbnail": "https://collections.ashmolean.org/media/ashmole6_collection/w800/Collections/Single_Objects/LI/LI_1000/LI_1429_1-z-L.jpg"
+      },
+      "display_date": "1853 - 1854",
+      "start_date": {
+        "year": 1853
+      },
+      "end_date": {
+        "year": 1854
+      },
+      "text": {
+        "headline": "John Ruskin",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "#3f83e8"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48803_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48803_dynmc"
+      },
+      "display_date": "1852",
+      "start_date": {
+        "year": 1852
+      },
+      "end_date": {
+        "year": 1852
+      },
+      "text": {
+        "headline": "Studies of Venetian Capitals",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:48817_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:48817_dynmc"
+      },
+      "display_date": "1854",
+      "start_date": {
+        "year": 1854
+      },
+      "end_date": {
+        "year": 1854
+      },
+      "text": {
+        "headline": "Tower of Fribourg",
+        "text": ""
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:VRS48815_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:VRS48815_dynmc"
+      },
+      "display_date": "1853",
+      "start_date": {
+        "year": 1853
+      },
+      "end_date": {
+        "year": 1853
+      },
+      "text": {
+        "headline": "Studies of Leaves; verso: Skull of an Animal",
+        "text": "Miss Mabel Sturgis, gift; to Fogg Art Museum, 1928"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100826_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC100826_dynmc"
+      },
+      "display_date": "1876-1877",
+      "start_date": {
+        "year": 1876
+      },
+      "end_date": {
+        "year": 1877
+      },
+      "text": {
+        "headline": "Venetian Renaissance Capital",
+        "text": "Fine Arts Department, Harvard University, Cambridge, MA, Transferred to the Fogg Art Museum, 1926.\r\n"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:70226_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:70226_dynmc"
+      },
+      "display_date": "1858",
+      "start_date": {
+        "year": 1858
+      },
+      "end_date": {
+        "year": 1858
+      },
+      "text": {
+        "headline": "Detail of \"Solomon and the Queen of Sheba\" by Veronese",
+        "text": "John Ruskin, gift(?)[1]; to Charles Eliot Norton, gift; to Fogg Art Museum, 1907 \r\n\r\n[1] See Norton's note on the old mat: \"Brought from Brantwood, June 1900\""
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    },
+    {
+      "media": {
+        "url": "https://nrs.harvard.edu/urn-3:HUAM:DDC100821_dynmc",
+        "caption": "",
+        "credit": "Harvard Art Museum",
+        "thumbnail": "https://nrs.harvard.edu/urn-3:HUAM:DDC100821_dynmc"
+      },
+      "display_date": "1879",
+      "start_date": {
+        "year": 1879
+      },
+      "end_date": {
+        "year": 1879
+      },
+      "text": {
+        "headline": "Part of a Sketch of the Northwest Porch of St. Mark's",
+        "text": "Samuel Sachs, gift; to Fogg Art Museum, 1919"
+      },
+      "type": "title",
+      "background": {
+        "color": "#00758F"
+      }
+    }
+  ],
+  "title": {
+    "media": {
+      "url": "//api.nga.gov/iiif/49a6128c-8d5a-4b00-beb3-36b29b97c0a1/full/!500,500/0/default.jpg",
+      "caption": "John Ruskin",
+      "credit": "Wikipedia"
+    },
+    "text": {
+      "headline": "John Ruskin",
+      "text": "<p>This timeline visualisation shows artworks created by John Ruskin.</p><p>It demonstrates how the Linked Art data model can be used to transform, reconcile and visualise collections data for artworks.</p> <p>See https://linked.art for more information.</p>"
+    }
+  },
+  "eras": [
+    {
+      "start_date": {
+        "year": "1819"
+      },
+      "end_date": {
+        "year": "1900"
+      },
+      "text": {
+        "headline": "John Ruskin's lifetime"
+      }
+    }
+  ]
+}

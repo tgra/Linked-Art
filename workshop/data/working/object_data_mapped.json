@@ -1,3 +1,27 @@
 {
-  "records": []
+  "records": [
+    {
+      "id": "01/07/1995",
+      "accession_number": "01/07/1995",
+      "collection": "PDP",
+      "classification": "Drawings",
+      "created_period": "",
+      "creator": [
+        {
+          "id": "https://example.org/collection/object/creatorid/01/07/1995",
+          "name": "John Ruskin",
+          "role": "Artist"
+        }
+      ],
+      "title": "Beanstalk",
+      "date_created": "Date unknown",
+      "physical_medium": "Pen and yellow-brown ink and wash, graphite pencil, and touches of white opaque watercolor on wove paper",
+      "physical_dimensions": "Sheet: 7 3/4 x 11 1/8inches (19.7 x 28.3cm)",
+      "notes": "",
+      "created_notes": "",
+      "created_provenance": "John Ruskin",
+      "credit_line": "Purchased with The Herbert & Nannette Rothschild Memorial Fund in memory of Judith Rothschild, 1995",
+      "homepage": ""
+    }
+  ]
 }

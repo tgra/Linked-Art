@@ -1,6 +1,6 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/01/07/1995",
+  "id": "https://data.example.org/01/07/1995",
   "type": "HumanMadeObject",
   "_label": "Beanstalk",
   "classified_as": {
@@ -15,7 +15,7 @@
   },
   "identified_by": [
     {
-      "id": "https://data.discovernewfields.org/Identifier/01/07/1995",
+      "id": "https://data.example.org/Identifier/01/07/1995",
       "type": "Identifier",
       "classified_as": {
         "id": "http://vocab.getty.edu/aat/300312355",
@@ -25,19 +25,19 @@
       "content": "01/07/1995"
     },
     {
-      "id": "https://philamuseum.org/collection/object/01/07/1995",
+      "id": "https://data.example.org/Identifier/01/07/1995",
       "type": "Identifier",
       "classified_as": {
         "id": "http://vocab.getty.edu/aat/300404621",
         "type": "Type",
         "_label": "Owner-Assigned Number"
       },
-      "content": "https://philamuseum.org/collection/object/01/07/1995"
+      "content": "01/07/1995"
     }
   ],
   "referred_to_by": [
     {
-      "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/01/07/1995/provenance-statement",
+      "id": "https://data.example.org/01/07/1995/provenance-statement",
       "type": "LinguisticObject",
       "_label": "Provenance Statement about the Object",
       "classified_as": {
@@ -48,7 +48,7 @@
       "content": "John Ruskin"
     },
     {
-      "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/01/07/1995/credit-line",
+      "id": "https://data.example.org/01/07/1995/credit-line",
       "type": "LinguisticObject",
       "_label": "Credit Line for the Object",
       "classified_as": {
@@ -60,7 +60,7 @@
     }
   ],
   "member_of": {
-    "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/01/07/1995/collection/PDP",
+    "id": "https://data.example.org/01/07/1995/collection/PDP",
     "type": "Set",
     "_label": "PDP",
     "classified_as": {
@@ -70,7 +70,7 @@
     }
   },
   "subject_of": {
-    "id": "http://collection.imamuseum.org/artwork/https://philamuseum.org/collection/object/01/07/1995",
+    "id": "http://collection.imamuseum.org/artwork/01/07/1995",
     "type": "LinguisticObject",
     "_label": "Homepage for the Object",
     "classified_as": {
@@ -81,16 +81,16 @@
     "format": "text/html"
   },
   "produced_by": {
-    "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/01/07/1995/production",
+    "id": "https://data.example.org/01/07/1995/production",
     "type": "Production",
     "_label": "Production of the Object",
     "timespan": {
-      "id": "https://data.discovernewfields.org/https://philamuseum.org/collection/object/01/07/1995/production/timespan",
+      "id": "https://data.example.org/01/07/1995/production/timespan",
       "type": "TimeSpan",
       "_label": "Date unknown"
     },
     "carried_out_by": {
-      "id": "https://philamuseum.org/collection/object/creatorid/01/07/1995",
+      "id": "https://example.org/collection/object/creatorid/01/07/1995",
       "type": "Actor",
       "_label": "John Ruskin"
     }
